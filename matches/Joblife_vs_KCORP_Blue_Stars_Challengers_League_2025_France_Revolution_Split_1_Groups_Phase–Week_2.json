@@ -1,0 +1,22 @@
+{
+    "id": "433482",
+    "teams": [
+        {
+            "name": "Joblife",
+            "score": "2",
+            "country": "eu",
+            "won": true
+        },
+        {
+            "name": "KCORP Blue Stars",
+            "score": "0",
+            "country": "fr",
+            "won": false
+        }
+    ],
+    "status": "Completed",
+    "ago": "1w 3d",
+    "event": "Groups Phase\u2013Week 2",
+    "tournament": "Challengers League 2025 France: Revolution Split 1",
+    "img": "https://owcdn.net/img/63a1b6db0a21a.png"
+}

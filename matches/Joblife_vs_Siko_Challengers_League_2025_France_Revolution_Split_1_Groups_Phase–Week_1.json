@@ -1,0 +1,22 @@
+{
+    "id": "432664",
+    "teams": [
+        {
+            "name": "Joblife",
+            "score": "2",
+            "country": "eu",
+            "won": true
+        },
+        {
+            "name": "Siko",
+            "score": "0",
+            "country": "nl",
+            "won": false
+        }
+    ],
+    "status": "Completed",
+    "ago": "2w 2d",
+    "event": "Groups Phase\u2013Week 1",
+    "tournament": "Challengers League 2025 France: Revolution Split 1",
+    "img": "https://owcdn.net/img/63a1b6db0a21a.png"
+}

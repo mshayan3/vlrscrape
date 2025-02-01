@@ -1,0 +1,22 @@
+{
+    "id": "436314",
+    "teams": [
+        {
+            "name": "Team Liquid Brazil",
+            "score": "0",
+            "country": "br",
+            "won": false
+        },
+        {
+            "name": "F4TALITY",
+            "score": "2",
+            "country": "br",
+            "won": true
+        }
+    ],
+    "status": "Completed",
+    "ago": "5d 17h",
+    "event": "Closed Qualifier\u2013Lower Round 4",
+    "tournament": "Gamers Club Challengers League 2025 Brazil: Split 1",
+    "img": "https://owcdn.net/img/66203e302897c.png"
+}

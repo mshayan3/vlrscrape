@@ -1,0 +1,22 @@
+{
+    "id": "434167",
+    "teams": [
+        {
+            "name": "Papara SuperMassive",
+            "score": "13",
+            "country": "tr",
+            "won": true
+        },
+        {
+            "name": "Digital Athletics",
+            "score": "4",
+            "country": "tr",
+            "won": false
+        }
+    ],
+    "status": "Completed",
+    "ago": "2d 1h",
+    "event": "League Phase\u2013Week 2",
+    "tournament": "Challengers League 2025 T\u00fcrkiye Birlik: Kickoff",
+    "img": "https://owcdn.net/img/63a1b2d391745.png"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "433616",
+    "teams": [
+        {
+            "name": "Bitfix Gaming",
+            "score": "8",
+            "country": "no",
+            "won": false
+        },
+        {
+            "name": "SweetNsour",
+            "score": "13",
+            "country": "eu",
+            "won": true
+        }
+    ],
+    "status": "Completed",
+    "ago": "1w 3d",
+    "event": "Lower Swiss Phase\u2013Round 2 (1-0)",
+    "tournament": "Challengers League 2025 NORTH//EAST: Split 1",
+    "img": "https://owcdn.net/img/678fd5e60056e.png"
+}

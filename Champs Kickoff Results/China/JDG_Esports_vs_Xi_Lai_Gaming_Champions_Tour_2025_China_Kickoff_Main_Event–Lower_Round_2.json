@@ -1,0 +1,22 @@
+{
+    "id": "430855",
+    "teams": [
+        {
+            "name": "JDG Esports",
+            "score": "1",
+            "country": "cn",
+            "won": false
+        },
+        {
+            "name": "Xi Lai Gaming",
+            "score": "2",
+            "country": "cn",
+            "won": true
+        }
+    ],
+    "status": "Completed",
+    "ago": "1w 0d",
+    "event": "Main Event\u2013Lower Round 2",
+    "tournament": "Champions Tour 2025: China Kickoff",
+    "img": "https://owcdn.net/img/65dd97cea9a25.png"
+}

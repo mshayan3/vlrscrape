@@ -1,0 +1,22 @@
+{
+    "id": "431403",
+    "teams": [
+        {
+            "name": "Xipto Esports",
+            "score": "2",
+            "country": "sg",
+            "won": true
+        },
+        {
+            "name": "IHC Esports",
+            "score": "0",
+            "country": "mn",
+            "won": false
+        }
+    ],
+    "status": "Completed",
+    "ago": "2w 1d",
+    "event": "Promotion/Relegation\u2013Round 1",
+    "tournament": "Challengers League 2025 Southeast Asia: Split 1",
+    "img": "https://owcdn.net/img/6009f963577f4.png"
+}

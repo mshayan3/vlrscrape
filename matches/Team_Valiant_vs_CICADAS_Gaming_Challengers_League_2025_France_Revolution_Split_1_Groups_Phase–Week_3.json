@@ -1,0 +1,22 @@
+{
+    "id": "433487",
+    "teams": [
+        {
+            "name": "Team Valiant",
+            "score": "1",
+            "country": "fr",
+            "won": false
+        },
+        {
+            "name": "CICADAS Gaming",
+            "score": "2",
+            "country": "fr",
+            "won": true
+        }
+    ],
+    "status": "Completed",
+    "ago": "2d 23h",
+    "event": "Groups Phase\u2013Week 3",
+    "tournament": "Challengers League 2025 France: Revolution Split 1",
+    "img": "https://owcdn.net/img/63a1b6db0a21a.png"
+}

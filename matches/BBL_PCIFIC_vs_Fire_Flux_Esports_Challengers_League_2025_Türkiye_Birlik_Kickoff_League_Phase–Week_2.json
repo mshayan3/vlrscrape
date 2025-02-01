@@ -1,0 +1,22 @@
+{
+    "id": "434165",
+    "teams": [
+        {
+            "name": "BBL PCIFIC",
+            "score": "13",
+            "country": "tr",
+            "won": true
+        },
+        {
+            "name": "Fire Flux Esports",
+            "score": "5",
+            "country": "tr",
+            "won": false
+        }
+    ],
+    "status": "Completed",
+    "ago": "2d 3h",
+    "event": "League Phase\u2013Week 2",
+    "tournament": "Challengers League 2025 T\u00fcrkiye Birlik: Kickoff",
+    "img": "https://owcdn.net/img/63a1b2d391745.png"
+}

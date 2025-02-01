@@ -1,0 +1,22 @@
+{
+    "id": "430528",
+    "teams": [
+        {
+            "name": "Global Esports",
+            "score": "0",
+            "country": "in",
+            "won": false
+        },
+        {
+            "name": "DetonatioN FocusMe",
+            "score": "2",
+            "country": "jp",
+            "won": true
+        }
+    ],
+    "status": "Completed",
+    "ago": "1d 6h",
+    "event": "Main Event\u2013Lower Round 1",
+    "tournament": "Champions Tour 2025: Pacific Kickoff",
+    "img": "https://owcdn.net/img/640f5ae002674.png"
+}

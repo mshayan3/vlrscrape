@@ -1,0 +1,22 @@
+{
+    "id": "433500",
+    "teams": [
+        {
+            "name": "Eintracht Frankfurt",
+            "score": "2",
+            "country": "de",
+            "won": true
+        },
+        {
+            "name": "ALTERNATE aTTaX",
+            "score": "0",
+            "country": "de",
+            "won": false
+        }
+    ],
+    "status": "Completed",
+    "ago": "1w 3d",
+    "event": "Swiss Stage\u2013Round 1",
+    "tournament": "Challengers League 2025 DACH: Evolution Split 1",
+    "img": "https://owcdn.net/img/63a1c7a4e584e.png"
+}

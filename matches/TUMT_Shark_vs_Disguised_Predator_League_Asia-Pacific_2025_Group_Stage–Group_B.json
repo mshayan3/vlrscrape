@@ -1,0 +1,22 @@
+{
+    "id": "430820",
+    "teams": [
+        {
+            "name": "TUMT Shark",
+            "score": "5",
+            "country": "tw",
+            "won": false
+        },
+        {
+            "name": "Disguised",
+            "score": "13",
+            "country": "sg",
+            "won": true
+        }
+    ],
+    "status": "Completed",
+    "ago": "2w 5d",
+    "event": "Group Stage\u2013Group B",
+    "tournament": "Predator League Asia-Pacific 2025",
+    "img": "https://owcdn.net/img/6700aa169acc8.png"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "433613",
+    "teams": [
+        {
+            "name": "Lilmix",
+            "score": "8",
+            "country": "se",
+            "won": false
+        },
+        {
+            "name": "Bitfix Gaming",
+            "score": "13",
+            "country": "no",
+            "won": true
+        }
+    ],
+    "status": "Completed",
+    "ago": "1w 4d",
+    "event": "Lower Swiss Phase\u2013Round 1",
+    "tournament": "Challengers League 2025 NORTH//EAST: Split 1",
+    "img": "https://owcdn.net/img/678fd5e60056e.png"
+}

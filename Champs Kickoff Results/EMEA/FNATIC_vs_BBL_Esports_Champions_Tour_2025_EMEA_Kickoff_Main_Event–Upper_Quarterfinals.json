@@ -1,0 +1,22 @@
+{
+    "id": "429385",
+    "teams": [
+        {
+            "name": "FNATIC",
+            "score": "1",
+            "country": "eu",
+            "won": false
+        },
+        {
+            "name": "BBL Esports",
+            "score": "2",
+            "country": "eu",
+            "won": true
+        }
+    ],
+    "status": "Completed",
+    "ago": "1w 4d",
+    "event": "Main Event\u2013Upper Quarterfinals",
+    "tournament": "Champions Tour 2025: EMEA Kickoff",
+    "img": "https://owcdn.net/img/65ab59620a233.png"
+}

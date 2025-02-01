@@ -1,0 +1,22 @@
+{
+    "id": "440362",
+    "teams": [
+        {
+            "name": "Landor",
+            "score": "2",
+            "country": "us",
+            "won": true
+        },
+        {
+            "name": "Winthrop University",
+            "score": "1",
+            "country": "us",
+            "won": false
+        }
+    ],
+    "status": "Completed",
+    "ago": "1d 16h",
+    "event": "Playoffs\u2013Grand Final",
+    "tournament": "FunhaverGG x HyperX Momentum Series: Qualifier 2",
+    "img": "https://owcdn.net/img/678195bb54fb7.png"
+}

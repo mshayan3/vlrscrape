@@ -1,0 +1,22 @@
+{
+    "id": "436102",
+    "teams": [
+        {
+            "name": "Szach Mat",
+            "score": "12",
+            "country": "pl",
+            "won": false
+        },
+        {
+            "name": "unsigned",
+            "score": "14",
+            "country": "eu",
+            "won": true
+        }
+    ],
+    "status": "Completed",
+    "ago": "1w 3d",
+    "event": "Lower Swiss Phase\u2013Round 4 (1-1)",
+    "tournament": "Challengers League 2025 NORTH//EAST: Split 1",
+    "img": "https://owcdn.net/img/678fd5e60056e.png"
+}

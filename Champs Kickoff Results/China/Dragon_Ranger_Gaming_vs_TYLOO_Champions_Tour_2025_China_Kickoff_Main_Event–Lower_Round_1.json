@@ -1,0 +1,22 @@
+{
+    "id": "430850",
+    "teams": [
+        {
+            "name": "Dragon Ranger Gaming",
+            "score": "2",
+            "country": "cn",
+            "won": true
+        },
+        {
+            "name": "TYLOO",
+            "score": "0",
+            "country": "cn",
+            "won": false
+        }
+    ],
+    "status": "Completed",
+    "ago": "1w 2d",
+    "event": "Main Event\u2013Lower Round 1",
+    "tournament": "Champions Tour 2025: China Kickoff",
+    "img": "https://owcdn.net/img/65dd97cea9a25.png"
+}

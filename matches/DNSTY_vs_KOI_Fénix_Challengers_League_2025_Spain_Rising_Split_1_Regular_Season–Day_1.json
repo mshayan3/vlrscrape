@@ -1,0 +1,22 @@
+{
+    "id": "432851",
+    "teams": [
+        {
+            "name": "DNSTY",
+            "score": "2",
+            "country": "it",
+            "won": true
+        },
+        {
+            "name": "KOI F\u00e9nix",
+            "score": "0",
+            "country": "eu",
+            "won": false
+        }
+    ],
+    "status": "Completed",
+    "ago": "2w 1d",
+    "event": "Regular Season\u2013Day 1",
+    "tournament": "Challengers League 2025 Spain Rising: Split 1",
+    "img": "https://owcdn.net/img/63a1b03f5f599.png"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "431416",
+    "teams": [
+        {
+            "name": "FULL SENSE",
+            "score": "2",
+            "country": "th",
+            "won": true
+        },
+        {
+            "name": "NAOS",
+            "score": "0",
+            "country": "ph",
+            "won": false
+        }
+    ],
+    "status": "Completed",
+    "ago": "6d 6h",
+    "event": "Group Stage\u2013Week 2",
+    "tournament": "Challengers League 2025 Southeast Asia: Split 1",
+    "img": "https://owcdn.net/img/6009f963577f4.png"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "431420",
+    "teams": [
+        {
+            "name": "Z11",
+            "score": "2",
+            "country": "th",
+            "won": true
+        },
+        {
+            "name": "Alter Ego",
+            "score": "1",
+            "country": "id",
+            "won": false
+        }
+    ],
+    "status": "Completed",
+    "ago": "4d 6h",
+    "event": "Group Stage\u2013Week 2",
+    "tournament": "Challengers League 2025 Southeast Asia: Split 1",
+    "img": "https://owcdn.net/img/6009f963577f4.png"
+}

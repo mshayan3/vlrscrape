@@ -1,0 +1,22 @@
+{
+    "id": "431595",
+    "teams": [
+        {
+            "name": "Himothys",
+            "score": "13",
+            "country": "sg",
+            "won": true
+        },
+        {
+            "name": "IGNITE",
+            "score": "8",
+            "country": "sg",
+            "won": false
+        }
+    ],
+    "status": "Completed",
+    "ago": "3w 3d",
+    "event": "Main Event\u2013Group B",
+    "tournament": "BREAKPOINT 2025: Split 1",
+    "img": "https://owcdn.net/img/676a875158d0d.png"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "429386",
+    "teams": [
+        {
+            "name": "Team Heretics",
+            "score": "2",
+            "country": "eu",
+            "won": true
+        },
+        {
+            "name": "Gentle Mates",
+            "score": "1",
+            "country": "eu",
+            "won": false
+        }
+    ],
+    "status": "Completed",
+    "ago": "5d 22h",
+    "event": "Main Event\u2013Upper Quarterfinals",
+    "tournament": "Champions Tour 2025: EMEA Kickoff",
+    "img": "https://owcdn.net/img/65ab59620a233.png"
+}

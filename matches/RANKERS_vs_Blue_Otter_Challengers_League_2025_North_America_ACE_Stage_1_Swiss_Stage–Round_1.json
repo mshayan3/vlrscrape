@@ -1,0 +1,22 @@
+{
+    "id": "439199",
+    "teams": [
+        {
+            "name": "RANKERS",
+            "score": "2",
+            "country": "us",
+            "won": true
+        },
+        {
+            "name": "Blue Otter",
+            "score": "1",
+            "country": "us",
+            "won": false
+        }
+    ],
+    "status": "Completed",
+    "ago": "17h 19m",
+    "event": "Swiss Stage\u2013Round 1",
+    "tournament": "Challengers League 2025 North America ACE: Stage 1",
+    "img": "https://owcdn.net/img/63cbac52cf906.png"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "431405",
+    "teams": [
+        {
+            "name": "Z11",
+            "score": "2",
+            "country": "th",
+            "won": true
+        },
+        {
+            "name": "The MongolZ",
+            "score": "0",
+            "country": "mn",
+            "won": false
+        }
+    ],
+    "status": "Completed",
+    "ago": "2w 1d",
+    "event": "Promotion/Relegation\u2013Semifinals",
+    "tournament": "Challengers League 2025 Southeast Asia: Split 1",
+    "img": "https://owcdn.net/img/6009f963577f4.png"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "434174",
+    "teams": [
+        {
+            "name": "Galatasaray Esports",
+            "score": "13",
+            "country": "tr",
+            "won": true
+        },
+        {
+            "name": "Papara SuperMassive",
+            "score": "11",
+            "country": "tr",
+            "won": false
+        }
+    ],
+    "status": "Completed",
+    "ago": "23h 14m",
+    "event": "League Phase\u2013Week 2",
+    "tournament": "Challengers League 2025 T\u00fcrkiye Birlik: Kickoff",
+    "img": "https://owcdn.net/img/63a1b2d391745.png"
+}

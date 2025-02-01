@@ -1,0 +1,22 @@
+{
+    "id": "434157",
+    "teams": [
+        {
+            "name": "Eternal Fire",
+            "score": "0",
+            "country": "tr",
+            "won": false
+        },
+        {
+            "name": "Papara SuperMassive",
+            "score": "13",
+            "country": "tr",
+            "won": true
+        }
+    ],
+    "status": "Completed",
+    "ago": "1w 0d",
+    "event": "League Phase\u2013Week 1",
+    "tournament": "Challengers League 2025 T\u00fcrkiye Birlik: Kickoff",
+    "img": "https://owcdn.net/img/63a1b2d391745.png"
+}

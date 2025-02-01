@@ -1,0 +1,22 @@
+{
+    "id": "427997",
+    "teams": [
+        {
+            "name": "G2 Esports",
+            "score": "2",
+            "country": "us",
+            "won": true
+        },
+        {
+            "name": "Cloud9",
+            "score": "0",
+            "country": "us",
+            "won": false
+        }
+    ],
+    "status": "Completed",
+    "ago": "1w 1d",
+    "event": "Main Event\u2013Upper Quarterfinals",
+    "tournament": "Champions Tour 2025: Americas Kickoff",
+    "img": "https://owcdn.net/img/640f5ab71dfbb.png"
+}

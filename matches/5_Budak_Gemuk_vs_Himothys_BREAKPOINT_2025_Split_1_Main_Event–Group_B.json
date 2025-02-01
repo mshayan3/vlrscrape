@@ -1,0 +1,22 @@
+{
+    "id": "431597",
+    "teams": [
+        {
+            "name": "5 Budak Gemuk",
+            "score": "6",
+            "country": "my",
+            "won": false
+        },
+        {
+            "name": "Himothys",
+            "score": "13",
+            "country": "sg",
+            "won": true
+        }
+    ],
+    "status": "Completed",
+    "ago": "3w 3d",
+    "event": "Main Event\u2013Group B",
+    "tournament": "BREAKPOINT 2025: Split 1",
+    "img": "https://owcdn.net/img/676a875158d0d.png"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "430839",
+    "teams": [
+        {
+            "name": "JDG Esports",
+            "score": "1",
+            "country": "cn",
+            "won": false
+        },
+        {
+            "name": "Dragon Ranger Gaming",
+            "score": "2",
+            "country": "cn",
+            "won": true
+        }
+    ],
+    "status": "Completed",
+    "ago": "2w 2d",
+    "event": "Main Event\u2013Upper Round 1",
+    "tournament": "Champions Tour 2025: China Kickoff",
+    "img": "https://owcdn.net/img/65dd97cea9a25.png"
+}

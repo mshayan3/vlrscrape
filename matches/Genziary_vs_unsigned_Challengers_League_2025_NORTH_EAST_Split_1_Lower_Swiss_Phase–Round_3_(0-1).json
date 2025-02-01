@@ -1,0 +1,22 @@
+{
+    "id": "433620",
+    "teams": [
+        {
+            "name": "Genziary",
+            "score": "1",
+            "country": "eu",
+            "won": false
+        },
+        {
+            "name": "unsigned",
+            "score": "13",
+            "country": "eu",
+            "won": true
+        }
+    ],
+    "status": "Completed",
+    "ago": "1w 3d",
+    "event": "Lower Swiss Phase\u2013Round 3 (0-1)",
+    "tournament": "Challengers League 2025 NORTH//EAST: Split 1",
+    "img": "https://owcdn.net/img/678fd5e60056e.png"
+}

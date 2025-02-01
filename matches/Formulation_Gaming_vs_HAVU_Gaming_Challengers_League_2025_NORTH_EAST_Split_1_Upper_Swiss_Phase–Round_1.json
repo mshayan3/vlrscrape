@@ -1,0 +1,22 @@
+{
+    "id": "437314",
+    "teams": [
+        {
+            "name": "Formulation Gaming",
+            "score": "15",
+            "country": "eu",
+            "won": true
+        },
+        {
+            "name": "HAVU Gaming",
+            "score": "13",
+            "country": "fi",
+            "won": false
+        }
+    ],
+    "status": "Completed",
+    "ago": "2d 2h",
+    "event": "Upper Swiss Phase\u2013Round 1",
+    "tournament": "Challengers League 2025 NORTH//EAST: Split 1",
+    "img": "https://owcdn.net/img/678fd5e60056e.png"
+}

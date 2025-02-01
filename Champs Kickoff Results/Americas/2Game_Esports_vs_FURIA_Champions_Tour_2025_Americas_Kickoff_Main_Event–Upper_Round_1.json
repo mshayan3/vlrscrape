@@ -1,0 +1,22 @@
+{
+    "id": "427994",
+    "teams": [
+        {
+            "name": "2Game Esports",
+            "score": "0",
+            "country": "br",
+            "won": false
+        },
+        {
+            "name": "FURIA",
+            "score": "2",
+            "country": "br",
+            "won": true
+        }
+    ],
+    "status": "Completed",
+    "ago": "1w 3d",
+    "event": "Main Event\u2013Upper Round 1",
+    "tournament": "Champions Tour 2025: Americas Kickoff",
+    "img": "https://owcdn.net/img/640f5ab71dfbb.png"
+}

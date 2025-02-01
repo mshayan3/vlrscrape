@@ -1,0 +1,22 @@
+{
+    "id": "435487",
+    "teams": [
+        {
+            "name": "NOVO Esports",
+            "score": "1",
+            "country": "it",
+            "won": true
+        },
+        {
+            "name": "Bar\u00e7a eSports",
+            "score": "1",
+            "country": "es",
+            "won": true
+        }
+    ],
+    "status": "Completed",
+    "ago": "2d 1h",
+    "event": "Regular Season\u2013Day 4",
+    "tournament": "Challengers League 2025 Spain Rising: Split 1",
+    "img": "https://owcdn.net/img/63a1b03f5f599.png"
+}

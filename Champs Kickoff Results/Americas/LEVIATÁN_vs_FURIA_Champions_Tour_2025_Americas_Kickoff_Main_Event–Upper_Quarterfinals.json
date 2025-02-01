@@ -1,0 +1,22 @@
+{
+    "id": "427998",
+    "teams": [
+        {
+            "name": "LEVIAT\u00c1N",
+            "score": "2",
+            "country": "cl",
+            "won": true
+        },
+        {
+            "name": "FURIA",
+            "score": "0",
+            "country": "br",
+            "won": false
+        }
+    ],
+    "status": "Completed",
+    "ago": "1w 1d",
+    "event": "Main Event\u2013Upper Quarterfinals",
+    "tournament": "Champions Tour 2025: Americas Kickoff",
+    "img": "https://owcdn.net/img/640f5ab71dfbb.png"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "435479",
+    "teams": [
+        {
+            "name": "Bar\u00e7a eSports",
+            "score": "1",
+            "country": "es",
+            "won": true
+        },
+        {
+            "name": "ZETA Gaming",
+            "score": "1",
+            "country": "es",
+            "won": true
+        }
+    ],
+    "status": "Completed",
+    "ago": "1w 1d",
+    "event": "Regular Season\u2013Day 3",
+    "tournament": "Challengers League 2025 Spain Rising: Split 1",
+    "img": "https://owcdn.net/img/63a1b03f5f599.png"
+}

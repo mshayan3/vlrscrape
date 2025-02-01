@@ -1,0 +1,22 @@
+{
+    "id": "434168",
+    "teams": [
+        {
+            "name": "Galakticos",
+            "score": "6",
+            "country": "tr",
+            "won": false
+        },
+        {
+            "name": "S2G Esports",
+            "score": "13",
+            "country": "tr",
+            "won": true
+        }
+    ],
+    "status": "Completed",
+    "ago": "2d 0h",
+    "event": "League Phase\u2013Week 2",
+    "tournament": "Challengers League 2025 T\u00fcrkiye Birlik: Kickoff",
+    "img": "https://owcdn.net/img/63a1b2d391745.png"
+}

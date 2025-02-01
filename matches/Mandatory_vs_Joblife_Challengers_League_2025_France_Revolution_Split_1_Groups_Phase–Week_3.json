@@ -1,0 +1,22 @@
+{
+    "id": "433489",
+    "teams": [
+        {
+            "name": "Mandatory",
+            "score": "2",
+            "country": "fr",
+            "won": true
+        },
+        {
+            "name": "Joblife",
+            "score": "1",
+            "country": "eu",
+            "won": false
+        }
+    ],
+    "status": "Completed",
+    "ago": "1d 23h",
+    "event": "Groups Phase\u2013Week 3",
+    "tournament": "Challengers League 2025 France: Revolution Split 1",
+    "img": "https://owcdn.net/img/63a1b6db0a21a.png"
+}

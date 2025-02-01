@@ -1,0 +1,22 @@
+{
+    "id": "430845",
+    "teams": [
+        {
+            "name": "Bilibili Gaming",
+            "score": "2",
+            "country": "cn",
+            "won": true
+        },
+        {
+            "name": "FunPlus Phoenix",
+            "score": "0",
+            "country": "cn",
+            "won": false
+        }
+    ],
+    "status": "Completed",
+    "ago": "1w 1d",
+    "event": "Main Event\u2013Upper Semifinals",
+    "tournament": "Champions Tour 2025: China Kickoff",
+    "img": "https://owcdn.net/img/65dd97cea9a25.png"
+}

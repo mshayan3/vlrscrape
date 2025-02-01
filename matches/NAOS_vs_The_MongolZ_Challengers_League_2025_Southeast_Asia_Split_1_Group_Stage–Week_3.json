@@ -1,0 +1,22 @@
+{
+    "id": "431423",
+    "teams": [
+        {
+            "name": "NAOS",
+            "score": "2",
+            "country": "ph",
+            "won": true
+        },
+        {
+            "name": "The MongolZ",
+            "score": "0",
+            "country": "mn",
+            "won": false
+        }
+    ],
+    "status": "Completed",
+    "ago": "3h 34m",
+    "event": "Group Stage\u2013Week 3",
+    "tournament": "Challengers League 2025 Southeast Asia: Split 1",
+    "img": "https://owcdn.net/img/6009f963577f4.png"
+}

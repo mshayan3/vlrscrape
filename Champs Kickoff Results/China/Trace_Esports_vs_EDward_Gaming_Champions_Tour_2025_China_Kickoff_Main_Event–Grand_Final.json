@@ -1,0 +1,22 @@
+{
+    "id": "430848",
+    "teams": [
+        {
+            "name": "Trace Esports",
+            "score": "1",
+            "country": "cn",
+            "won": false
+        },
+        {
+            "name": "EDward Gaming",
+            "score": "3",
+            "country": "cn",
+            "won": true
+        }
+    ],
+    "status": "Completed",
+    "ago": "3d 8h",
+    "event": "Main Event\u2013Grand Final",
+    "tournament": "Champions Tour 2025: China Kickoff",
+    "img": "https://owcdn.net/img/65dd97cea9a25.png"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "429381",
+    "teams": [
+        {
+            "name": "BBL Esports",
+            "score": "2",
+            "country": "eu",
+            "won": true
+        },
+        {
+            "name": "GIANTX",
+            "score": "1",
+            "country": "eu",
+            "won": false
+        }
+    ],
+    "status": "Completed",
+    "ago": "1w 6d",
+    "event": "Main Event\u2013Upper Round 1",
+    "tournament": "Champions Tour 2025: EMEA Kickoff",
+    "img": "https://owcdn.net/img/65ab59620a233.png"
+}

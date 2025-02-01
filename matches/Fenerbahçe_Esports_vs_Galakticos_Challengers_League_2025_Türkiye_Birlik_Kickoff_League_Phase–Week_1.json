@@ -1,0 +1,22 @@
+{
+    "id": "434144",
+    "teams": [
+        {
+            "name": "Fenerbah\u00e7e Esports",
+            "score": "13",
+            "country": "tr",
+            "won": true
+        },
+        {
+            "name": "Galakticos",
+            "score": "10",
+            "country": "tr",
+            "won": false
+        }
+    ],
+    "status": "Completed",
+    "ago": "1w 3d",
+    "event": "League Phase\u2013Week 1",
+    "tournament": "Challengers League 2025 T\u00fcrkiye Birlik: Kickoff",
+    "img": "https://owcdn.net/img/63a1b2d391745.png"
+}

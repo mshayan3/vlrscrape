@@ -1,0 +1,22 @@
+{
+    "id": "431418",
+    "teams": [
+        {
+            "name": "Xipto Esports",
+            "score": "2",
+            "country": "sg",
+            "won": true
+        },
+        {
+            "name": "The MongolZ",
+            "score": "1",
+            "country": "mn",
+            "won": false
+        }
+    ],
+    "status": "Completed",
+    "ago": "5d 6h",
+    "event": "Group Stage\u2013Week 2",
+    "tournament": "Challengers League 2025 Southeast Asia: Split 1",
+    "img": "https://owcdn.net/img/6009f963577f4.png"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "431410",
+    "teams": [
+        {
+            "name": "Xipto Esports",
+            "score": "0",
+            "country": "sg",
+            "won": false
+        },
+        {
+            "name": "NAOS",
+            "score": "2",
+            "country": "ph",
+            "won": true
+        }
+    ],
+    "status": "Completed",
+    "ago": "1w 5d",
+    "event": "Group Stage\u2013Week 1",
+    "tournament": "Challengers League 2025 Southeast Asia: Split 1",
+    "img": "https://owcdn.net/img/6009f963577f4.png"
+}

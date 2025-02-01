@@ -1,0 +1,22 @@
+{
+    "id": "431406",
+    "teams": [
+        {
+            "name": "Xipto Esports",
+            "score": "2",
+            "country": "sg",
+            "won": true
+        },
+        {
+            "name": "Unicorn Cyber Da Nang",
+            "score": "0",
+            "country": "vn",
+            "won": false
+        }
+    ],
+    "status": "Completed",
+    "ago": "2w 0d",
+    "event": "Promotion/Relegation\u2013Semifinals",
+    "tournament": "Challengers League 2025 Southeast Asia: Split 1",
+    "img": "https://owcdn.net/img/6009f963577f4.png"
+}

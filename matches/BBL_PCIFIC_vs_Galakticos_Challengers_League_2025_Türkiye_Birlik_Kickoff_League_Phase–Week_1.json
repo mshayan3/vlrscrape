@@ -1,0 +1,22 @@
+{
+    "id": "434155",
+    "teams": [
+        {
+            "name": "BBL PCIFIC",
+            "score": "14",
+            "country": "tr",
+            "won": false
+        },
+        {
+            "name": "Galakticos",
+            "score": "16",
+            "country": "tr",
+            "won": true
+        }
+    ],
+    "status": "Completed",
+    "ago": "1w 1d",
+    "event": "League Phase\u2013Week 1",
+    "tournament": "Challengers League 2025 T\u00fcrkiye Birlik: Kickoff",
+    "img": "https://owcdn.net/img/63a1b2d391745.png"
+}

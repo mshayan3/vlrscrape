@@ -1,0 +1,22 @@
+{
+    "id": "434170",
+    "teams": [
+        {
+            "name": "Digital Athletics",
+            "score": "7",
+            "country": "tr",
+            "won": false
+        },
+        {
+            "name": "Eternal Fire",
+            "score": "13",
+            "country": "tr",
+            "won": true
+        }
+    ],
+    "status": "Completed",
+    "ago": "1d 3h",
+    "event": "League Phase\u2013Week 2",
+    "tournament": "Challengers League 2025 T\u00fcrkiye Birlik: Kickoff",
+    "img": "https://owcdn.net/img/63a1b2d391745.png"
+}

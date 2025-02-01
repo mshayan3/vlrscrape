@@ -1,0 +1,22 @@
+{
+    "id": "433501",
+    "teams": [
+        {
+            "name": "FOKUS",
+            "score": "2",
+            "country": "de",
+            "won": true
+        },
+        {
+            "name": "Permitta Unicorns",
+            "score": "0",
+            "country": "de",
+            "won": false
+        }
+    ],
+    "status": "Completed",
+    "ago": "1w 2d",
+    "event": "Swiss Stage\u2013Round 1",
+    "tournament": "Challengers League 2025 DACH: Evolution Split 1",
+    "img": "https://owcdn.net/img/63a1c7a4e584e.png"
+}

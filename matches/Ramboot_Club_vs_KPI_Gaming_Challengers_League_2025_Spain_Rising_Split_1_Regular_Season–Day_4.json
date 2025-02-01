@@ -1,0 +1,22 @@
+{
+    "id": "435485",
+    "teams": [
+        {
+            "name": "Ramboot Club",
+            "score": "2",
+            "country": "es",
+            "won": true
+        },
+        {
+            "name": "KPI Gaming",
+            "score": "0",
+            "country": "eu",
+            "won": false
+        }
+    ],
+    "status": "Completed",
+    "ago": "1d 23h",
+    "event": "Regular Season\u2013Day 4",
+    "tournament": "Challengers League 2025 Spain Rising: Split 1",
+    "img": "https://owcdn.net/img/63a1b03f5f599.png"
+}

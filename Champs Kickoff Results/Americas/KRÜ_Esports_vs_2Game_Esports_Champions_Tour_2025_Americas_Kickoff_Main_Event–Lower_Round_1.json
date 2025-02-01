@@ -1,0 +1,22 @@
+{
+    "id": "428006",
+    "teams": [
+        {
+            "name": "KR\u00dc Esports",
+            "score": "2",
+            "country": "ar",
+            "won": true
+        },
+        {
+            "name": "2Game Esports",
+            "score": "0",
+            "country": "br",
+            "won": false
+        }
+    ],
+    "status": "Completed",
+    "ago": "3d 19h",
+    "event": "Main Event\u2013Lower Round 1",
+    "tournament": "Champions Tour 2025: Americas Kickoff",
+    "img": "https://owcdn.net/img/640f5ab71dfbb.png"
+}

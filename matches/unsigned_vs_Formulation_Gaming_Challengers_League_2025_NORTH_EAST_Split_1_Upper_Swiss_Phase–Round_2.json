@@ -1,0 +1,22 @@
+{
+    "id": "440584",
+    "teams": [
+        {
+            "name": "unsigned",
+            "score": "13",
+            "country": "eu",
+            "won": true
+        },
+        {
+            "name": "Formulation Gaming",
+            "score": "6",
+            "country": "eu",
+            "won": false
+        }
+    ],
+    "status": "Completed",
+    "ago": "1d 1h",
+    "event": "Upper Swiss Phase\u2013Round 2",
+    "tournament": "Challengers League 2025 NORTH//EAST: Split 1",
+    "img": "https://owcdn.net/img/678fd5e60056e.png"
+}

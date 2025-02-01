@@ -1,0 +1,22 @@
+{
+    "id": "430684",
+    "teams": [
+        {
+            "name": "GOOD BOY",
+            "score": "2",
+            "country": "tw",
+            "won": false
+        },
+        {
+            "name": "S2 Esports",
+            "score": "3",
+            "country": "tw",
+            "won": true
+        }
+    ],
+    "status": "Completed",
+    "ago": "4w 1d",
+    "event": "Main Event\u2013Grand Final",
+    "tournament": "SOOP Elite Cup 2024",
+    "img": "https://owcdn.net/img/67613bd17589d.png"
+}

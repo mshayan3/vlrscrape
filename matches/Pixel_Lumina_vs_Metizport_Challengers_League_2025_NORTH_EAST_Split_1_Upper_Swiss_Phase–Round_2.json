@@ -1,0 +1,22 @@
+{
+    "id": "440582",
+    "teams": [
+        {
+            "name": "Pixel Lumina",
+            "score": "11",
+            "country": "pl",
+            "won": false
+        },
+        {
+            "name": "Metizport",
+            "score": "13",
+            "country": "eu",
+            "won": true
+        }
+    ],
+    "status": "Completed",
+    "ago": "1d 1h",
+    "event": "Upper Swiss Phase\u2013Round 2",
+    "tournament": "Challengers League 2025 NORTH//EAST: Split 1",
+    "img": "https://owcdn.net/img/678fd5e60056e.png"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "429383",
+    "teams": [
+        {
+            "name": "FUT Esports",
+            "score": "2",
+            "country": "tr",
+            "won": true
+        },
+        {
+            "name": "Team Liquid",
+            "score": "0",
+            "country": "eu",
+            "won": false
+        }
+    ],
+    "status": "Completed",
+    "ago": "6d 0h",
+    "event": "Main Event\u2013Upper Quarterfinals",
+    "tournament": "Champions Tour 2025: EMEA Kickoff",
+    "img": "https://owcdn.net/img/65ab59620a233.png"
+}

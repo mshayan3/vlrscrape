@@ -1,0 +1,22 @@
+{
+    "id": "435483",
+    "teams": [
+        {
+            "name": "KOI F\u00e9nix",
+            "score": "0",
+            "country": "eu",
+            "won": false
+        },
+        {
+            "name": "UCAM Esports Club",
+            "score": "2",
+            "country": "eu",
+            "won": true
+        }
+    ],
+    "status": "Completed",
+    "ago": "1w 0d",
+    "event": "Regular Season\u2013Day 3",
+    "tournament": "Challengers League 2025 Spain Rising: Split 1",
+    "img": "https://owcdn.net/img/63a1b03f5f599.png"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "430847",
+    "teams": [
+        {
+            "name": "Bilibili Gaming",
+            "score": "1",
+            "country": "cn",
+            "won": false
+        },
+        {
+            "name": "Trace Esports",
+            "score": "2",
+            "country": "cn",
+            "won": true
+        }
+    ],
+    "status": "Completed",
+    "ago": "5d 8h",
+    "event": "Main Event\u2013Upper Final",
+    "tournament": "Champions Tour 2025: China Kickoff",
+    "img": "https://owcdn.net/img/65dd97cea9a25.png"
+}

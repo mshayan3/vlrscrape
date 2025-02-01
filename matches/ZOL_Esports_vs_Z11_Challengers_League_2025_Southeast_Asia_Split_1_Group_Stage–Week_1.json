@@ -1,0 +1,22 @@
+{
+    "id": "431412",
+    "teams": [
+        {
+            "name": "ZOL Esports",
+            "score": "0",
+            "country": "ph",
+            "won": false
+        },
+        {
+            "name": "Z11",
+            "score": "2",
+            "country": "th",
+            "won": true
+        }
+    ],
+    "status": "Completed",
+    "ago": "1w 4d",
+    "event": "Group Stage\u2013Week 1",
+    "tournament": "Challengers League 2025 Southeast Asia: Split 1",
+    "img": "https://owcdn.net/img/6009f963577f4.png"
+}

@@ -1,0 +1,22 @@
+{
+    "id": "433651",
+    "teams": [
+        {
+            "name": "CINTANEGRA Esports",
+            "score": "3",
+            "country": "mx",
+            "won": true
+        },
+        {
+            "name": "Antares Esports",
+            "score": "2",
+            "country": "co",
+            "won": false
+        }
+    ],
+    "status": "Completed",
+    "ago": "5d 18h",
+    "event": "Closed Qualifier\u2013Lower Final",
+    "tournament": "Challengers League 2025 LATAM North ACE: Stage 1",
+    "img": "https://owcdn.net/img/63cbac52cf906.png"
+}

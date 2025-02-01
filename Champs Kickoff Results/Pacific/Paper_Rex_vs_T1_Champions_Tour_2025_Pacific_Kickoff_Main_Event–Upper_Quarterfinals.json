@@ -1,0 +1,22 @@
+{
+    "id": "430518",
+    "teams": [
+        {
+            "name": "Paper Rex",
+            "score": "1",
+            "country": "sg",
+            "won": false
+        },
+        {
+            "name": "T1",
+            "score": "2",
+            "country": "kr",
+            "won": true
+        }
+    ],
+    "status": "Completed",
+    "ago": "1w 1d",
+    "event": "Main Event\u2013Upper Quarterfinals",
+    "tournament": "Champions Tour 2025: Pacific Kickoff",
+    "img": "https://owcdn.net/img/640f5ae002674.png"
+}

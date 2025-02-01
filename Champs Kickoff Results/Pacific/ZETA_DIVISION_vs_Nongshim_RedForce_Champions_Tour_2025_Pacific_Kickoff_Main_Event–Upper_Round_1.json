@@ -1,0 +1,22 @@
+{
+    "id": "430515",
+    "teams": [
+        {
+            "name": "ZETA DIVISION",
+            "score": "0",
+            "country": "jp",
+            "won": false
+        },
+        {
+            "name": "Nongshim RedForce",
+            "score": "2",
+            "country": "kr",
+            "won": true
+        }
+    ],
+    "status": "Completed",
+    "ago": "1w 3d",
+    "event": "Main Event\u2013Upper Round 1",
+    "tournament": "Champions Tour 2025: Pacific Kickoff",
+    "img": "https://owcdn.net/img/640f5ae002674.png"
+}

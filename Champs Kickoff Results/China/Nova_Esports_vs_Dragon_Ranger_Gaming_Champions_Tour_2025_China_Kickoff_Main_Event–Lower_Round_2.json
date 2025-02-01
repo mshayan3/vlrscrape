@@ -1,0 +1,22 @@
+{
+    "id": "430854",
+    "teams": [
+        {
+            "name": "Nova Esports",
+            "score": "0",
+            "country": "cn",
+            "won": false
+        },
+        {
+            "name": "Dragon Ranger Gaming",
+            "score": "2",
+            "country": "cn",
+            "won": true
+        }
+    ],
+    "status": "Completed",
+    "ago": "1w 0d",
+    "event": "Main Event\u2013Lower Round 2",
+    "tournament": "Champions Tour 2025: China Kickoff",
+    "img": "https://owcdn.net/img/65dd97cea9a25.png"
+}

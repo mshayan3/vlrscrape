@@ -1,0 +1,22 @@
+{
+    "id": "438056",
+    "teams": [
+        {
+            "name": "Permitta Unicorns",
+            "score": "1",
+            "country": "de",
+            "won": false
+        },
+        {
+            "name": "XPERION NXT",
+            "score": "2",
+            "country": "de",
+            "won": true
+        }
+    ],
+    "status": "Completed",
+    "ago": "3d 1h",
+    "event": "Swiss Stage\u2013Round 2",
+    "tournament": "Challengers League 2025 DACH: Evolution Split 1",
+    "img": "https://owcdn.net/img/63a1c7a4e584e.png"
+}

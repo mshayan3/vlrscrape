@@ -1,0 +1,22 @@
+{
+    "id": "429392",
+    "teams": [
+        {
+            "name": "FNATIC",
+            "score": "2",
+            "country": "eu",
+            "won": true
+        },
+        {
+            "name": "Natus Vincere",
+            "score": "1",
+            "country": "eu",
+            "won": false
+        }
+    ],
+    "status": "Completed",
+    "ago": "4d 21h",
+    "event": "Main Event\u2013Lower Round 1",
+    "tournament": "Champions Tour 2025: EMEA Kickoff",
+    "img": "https://owcdn.net/img/65ab59620a233.png"
+}

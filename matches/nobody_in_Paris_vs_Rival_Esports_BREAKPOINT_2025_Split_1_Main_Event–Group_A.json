@@ -1,0 +1,22 @@
+{
+    "id": "431586",
+    "teams": [
+        {
+            "name": "nobody in Paris",
+            "score": "13",
+            "country": "sg",
+            "won": true
+        },
+        {
+            "name": "Rival Esports",
+            "score": "9",
+            "country": "sg",
+            "won": false
+        }
+    ],
+    "status": "Completed",
+    "ago": "3w 4d",
+    "event": "Main Event\u2013Group A",
+    "tournament": "BREAKPOINT 2025: Split 1",
+    "img": "https://owcdn.net/img/676a875158d0d.png"
+}

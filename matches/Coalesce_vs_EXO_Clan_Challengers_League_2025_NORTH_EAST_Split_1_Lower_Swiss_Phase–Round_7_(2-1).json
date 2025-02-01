@@ -1,0 +1,22 @@
+{
+    "id": "433630",
+    "teams": [
+        {
+            "name": "Coalesce",
+            "score": "0",
+            "country": "gb",
+            "won": false
+        },
+        {
+            "name": "EXO Clan",
+            "score": "2",
+            "country": "gb",
+            "won": true
+        }
+    ],
+    "status": "Completed",
+    "ago": "1w 2d",
+    "event": "Lower Swiss Phase\u2013Round 7 (2-1)",
+    "tournament": "Challengers League 2025 NORTH//EAST: Split 1",
+    "img": "https://owcdn.net/img/678fd5e60056e.png"
+}

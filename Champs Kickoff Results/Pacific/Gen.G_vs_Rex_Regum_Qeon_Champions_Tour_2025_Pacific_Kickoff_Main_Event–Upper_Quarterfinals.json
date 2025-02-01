@@ -1,0 +1,22 @@
+{
+    "id": "430520",
+    "teams": [
+        {
+            "name": "Gen.G",
+            "score": "2",
+            "country": "kr",
+            "won": true
+        },
+        {
+            "name": "Rex Regum Qeon",
+            "score": "1",
+            "country": "id",
+            "won": false
+        }
+    ],
+    "status": "Completed",
+    "ago": "3d 6h",
+    "event": "Main Event\u2013Upper Quarterfinals",
+    "tournament": "Champions Tour 2025: Pacific Kickoff",
+    "img": "https://owcdn.net/img/640f5ae002674.png"
+}

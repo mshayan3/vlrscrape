@@ -1,0 +1,22 @@
+{
+    "id": "432663",
+    "teams": [
+        {
+            "name": "DVM Esport",
+            "score": "2",
+            "country": "fr",
+            "won": true
+        },
+        {
+            "name": "Team Valiant",
+            "score": "0",
+            "country": "fr",
+            "won": false
+        }
+    ],
+    "status": "Completed",
+    "ago": "2w 3d",
+    "event": "Groups Phase\u2013Week 1",
+    "tournament": "Challengers League 2025 France: Revolution Split 1",
+    "img": "https://owcdn.net/img/63a1b6db0a21a.png"
+}
