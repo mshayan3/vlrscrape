@@ -1,0 +1,101 @@
+Player,Team,Map,Agents,R2.0,ACS,K,D,A,+/–,KAST,ADR,HS%,FK,FD,+/–,,,R2.0,ACS,K,D,A,+/–,KAST,ADR,HS%,FK,FD,+/–,,,R2.0,ACS,K,D,A,+/–,KAST,ADR,HS%,FK,FD,+/–,,,R2.0,ACS,K,D,A,+/–,KAST,ADR,HS%,FK,FD,+/–,,,R2.0,ACS,K,D,A,+/–,KAST,ADR,HS%,FK,FD,+/–,,,R2.0,ACS,K,D,A,+/–,KAST,ADR,HS%,FK,FD,+/–,,,R2.0,ACS,K,D,A,+/–,KAST,ADR,HS%,FK,FD,+/–,,,R2.0,ACS,K,D,A,+/–,KAST,ADR,HS%,FK,FD,+/–
+eeiu,100T,All Maps,Fade,1.11,204,57,44,15,+13,81%,125,39%,5,3,+2
+Asuna,100T,All Maps,"Neon, Kayo, Raze",0.93,196,44,49,23,-5,66%,136,25%,10,12,-2
+zander,100T,All Maps,"Omen, Astra, Viper",0.90,193,47,51,21,-4,71%,117,30%,10,9,+1
+Cryocells,100T,All Maps,"Clove, Jett, Brimstone",0.89,194,47,51,14,-4,79%,127,29%,7,4,+3
+Boostio,100T,All Maps,"Breach, Vyse, Gekko",0.49,104,23,53,22,-30,64%,63,20%,4,6,-2
+mada,NRG,All Maps,"Raze, Jett",1.46,300,73,47,14,+26,81%,184,17%,17,15,+2
+Verno,NRG,All Maps,"Vyse, Fade",1.13,208,56,43,18,+13,81%,134,35%,4,3,+1
+s0m,NRG,All Maps,"Omen, Astra, Brimstone",1.12,196,47,43,34,+4,83%,117,20%,7,5,+2
+FiNESSE,NRG,All Maps,"Breach, Viper",1.10,169,39,38,31,+1,77%,112,14%,4,4,0
+Ethan,NRG,All Maps,"Tejo, Kayo",0.77,145,33,47,24,-14,69%,100,26%,2,9,-7
+eeiu,100T,"Map 1 - 1
+								
+																					Lotus",Fade,1.51,232,26,12,7,+14,96%,143,31%,2,0,+2
+zander,100T,"Map 1 - 1
+								
+																					Lotus",Omen,1.03,193,17,16,8,+1,69%,112,22%,4,3,+1
+Asuna,100T,"Map 1 - 1
+								
+																					Lotus",Neon,1.03,230,20,18,6,+2,69%,162,33%,3,7,-4
+Cryocells,100T,"Map 1 - 1
+								
+																					Lotus",Clove,0.99,229,19,20,9,-1,85%,156,28%,4,2,+2
+Boostio,100T,"Map 1 - 1
+								
+																					Lotus",Breach,0.46,60,4,17,11,-13,69%,38,9%,0,1,-1
+mada,NRG,"Map 1 - 1
+								
+																					Lotus",Raze,1.23,253,20,18,9,+2,77%,169,11%,7,7,0
+Verno,NRG,"Map 1 - 1
+								
+																					Lotus",Vyse,1.22,244,24,15,2,+9,85%,154,40%,2,1,+1
+FiNESSE,NRG,"Map 1 - 1
+								
+																					Lotus",Breach,1.11,194,15,17,10,-2,77%,129,17%,2,1,+1
+s0m,NRG,"Map 1 - 1
+								
+																					Lotus",Omen,0.87,156,15,19,10,-4,69%,93,29%,1,1,0
+Ethan,NRG,"Map 1 - 1
+								
+																					Lotus",Tejo,0.59,105,9,17,4,-8,46%,82,24%,1,3,-2
+eeiu,100T,"Map 2 - 2
+								
+																					Pearl",Fade,0.99,198,16,15,5,+1,73%,122,51%,1,2,-1
+Asuna,100T,"Map 2 - 2
+								
+																					Pearl",Kayo,0.88,156,12,14,10,-2,64%,102,29%,2,2,0
+Cryocells,100T,"Map 2 - 2
+								
+																					Pearl",Jett,0.77,185,15,15,1,0,68%,112,16%,1,2,-1
+Boostio,100T,"Map 2 - 2
+								
+																					Pearl",Vyse,0.66,162,12,18,5,-6,68%,101,20%,3,2,+1
+zander,100T,"Map 2 - 2
+								
+																					Pearl",Astra,0.44,147,11,20,8,-9,64%,91,32%,1,6,-5
+mada,NRG,"Map 2 - 2
+								
+																					Pearl",Jett,1.66,326,26,15,4,+11,86%,211,26%,6,2,+4
+s0m,NRG,"Map 2 - 2
+								
+																					Pearl",Astra,1.47,258,19,12,8,+7,91%,160,19%,6,1,+5
+FiNESSE,NRG,"Map 2 - 2
+								
+																					Pearl",Breach,1.17,158,13,10,13,+3,77%,99,20%,0,1,-1
+Ethan,NRG,"Map 2 - 2
+								
+																					Pearl",Tejo,0.85,172,13,15,5,-2,91%,111,29%,1,4,-3
+Verno,NRG,"Map 2 - 2
+								
+																					Pearl",Vyse,0.84,123,11,14,6,-3,82%,85,23%,1,0,+1
+zander,100T,"Map 3 - 3
+								
+																					Bind",Viper,1.20,240,19,15,5,+4,82%,148,39%,5,0,+5
+Cryocells,100T,"Map 3 - 3
+								
+																					Bind",Brimstone,0.89,167,13,16,4,-3,82%,107,50%,2,0,+2
+Asuna,100T,"Map 3 - 3
+								
+																					Bind",Raze,0.85,202,12,17,7,-5,64%,138,15%,5,3,+2
+eeiu,100T,"Map 3 - 3
+								
+																					Bind",Fade,0.75,183,15,17,3,-2,73%,107,42%,2,1,+1
+Boostio,100T,"Map 3 - 3
+								
+																					Bind",Gekko,0.35,90,7,18,6,-11,55%,53,38%,1,3,-2
+mada,NRG,"Map 3 - 3
+								
+																					Bind",Raze,1.54,321,27,14,1,+13,82%,175,14%,4,6,-2
+Verno,NRG,"Map 3 - 3
+								
+																					Bind",Fade,1.32,258,21,14,10,+7,77%,161,39%,1,2,-1
+s0m,NRG,"Map 3 - 3
+								
+																					Bind",Brimstone,1.08,174,13,12,16,+1,91%,103,15%,0,3,-3
+FiNESSE,NRG,"Map 3 - 3
+								
+																					Bind",Viper,1.03,155,11,11,8,0,77%,103,8%,2,2,0
+Ethan,NRG,"Map 3 - 3
+								
+																					Bind",Kayo,0.91,158,11,15,15,-4,73%,109,24%,0,2,-2

@@ -59,9 +59,9 @@ for map_id, map_name in maps.items():
         rows.append(row_data)
 
 # Save to CSV
-with open('table_data.csv', 'w', newline='', encoding='utf-8') as file:
+with open('player_stats.csv', 'w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
     writer.writerow(['Player', 'Team', 'Map', 'Agents'] + headers[2:])  # Write headers
     writer.writerows(rows)  # Write rows
 
-print("Data saved to table_data.csv")
+print("Data saved to player_stats.csv")

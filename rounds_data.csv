@@ -1,0 +1,75 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+Map 1 - 1 Lotus,1,"""1-0""",100T,Defenders,Elimination
+Map 1 - 1 Lotus,2,"""2-0""",100T,Defenders,Time Expired
+Map 1 - 1 Lotus,3,"""2-1""",NRG,Attackers,Elimination
+Map 1 - 1 Lotus,4,"""2-2""",NRG,Attackers,Spike Detonation
+Map 1 - 1 Lotus,5,"""2-3""",NRG,Attackers,Elimination
+Map 1 - 1 Lotus,6,"""2-4""",NRG,Attackers,Elimination
+Map 1 - 1 Lotus,7,"""3-4""",100T,Defenders,Elimination
+Map 1 - 1 Lotus,8,"""3-5""",NRG,Attackers,Elimination
+Map 1 - 1 Lotus,9,"""4-5""",100T,Defenders,Elimination
+Map 1 - 1 Lotus,10,"""5-5""",100T,Defenders,Defuse
+Map 1 - 1 Lotus,11,"""5-6""",NRG,Attackers,Elimination
+Map 1 - 1 Lotus,12,"""6-6""",100T,Defenders,Elimination
+Map 1 - 1 Lotus,13,"""7-6""",NRG,Attackers,Elimination
+Map 1 - 1 Lotus,14,"""8-6""",NRG,Attackers,Spike Detonation
+Map 1 - 1 Lotus,15,"""9-6""",NRG,Attackers,Spike Detonation
+Map 1 - 1 Lotus,16,"""9-7""",100T,Defenders,Defuse
+Map 1 - 1 Lotus,17,"""10-7""",NRG,Attackers,Elimination
+Map 1 - 1 Lotus,18,"""11-7""",NRG,Attackers,Elimination
+Map 1 - 1 Lotus,19,"""11-8""",100T,Defenders,Time Expired
+Map 1 - 1 Lotus,20,"""11-9""",100T,Defenders,Elimination
+Map 1 - 1 Lotus,21,"""12-9""",NRG,Attackers,Elimination
+Map 1 - 1 Lotus,22,"""12-10""",100T,Defenders,Defuse
+Map 1 - 1 Lotus,23,"""12-11""",100T,Defenders,Elimination
+Map 1 - 1 Lotus,24,"""12-12""",100T,Defenders,Elimination
+Map 1 - 1 Lotus,25,"""13-12""",100T,Defenders,Defuse
+Map 1 - 1 Lotus,26,"""14-12""",NRG,Attackers,Elimination
+Map 2 - 2 Pearl,1,"""0-1""",NRG,Attackers,Elimination
+Map 2 - 2 Pearl,2,"""0-2""",NRG,Attackers,Spike Detonation
+Map 2 - 2 Pearl,3,"""1-2""",100T,Defenders,Elimination
+Map 2 - 2 Pearl,4,"""2-2""",100T,Defenders,Time Expired
+Map 2 - 2 Pearl,5,"""3-2""",100T,Defenders,Elimination
+Map 2 - 2 Pearl,6,"""3-3""",NRG,Attackers,Elimination
+Map 2 - 2 Pearl,7,"""4-3""",100T,Defenders,Time Expired
+Map 2 - 2 Pearl,8,"""4-4""",NRG,Attackers,Spike Detonation
+Map 2 - 2 Pearl,9,"""5-4""",100T,Defenders,Defuse
+Map 2 - 2 Pearl,10,"""5-5""",NRG,Attackers,Elimination
+Map 2 - 2 Pearl,11,"""5-6""",NRG,Attackers,Elimination
+Map 2 - 2 Pearl,12,"""5-7""",NRG,Attackers,Elimination
+Map 2 - 2 Pearl,13,"""5-8""",100T,Defenders,Elimination
+Map 2 - 2 Pearl,14,"""5-9""",100T,Defenders,Elimination
+Map 2 - 2 Pearl,15,"""6-9""",NRG,Attackers,Spike Detonation
+Map 2 - 2 Pearl,16,"""7-9""",NRG,Attackers,Elimination
+Map 2 - 2 Pearl,17,"""7-10""",100T,Defenders,Defuse
+Map 2 - 2 Pearl,18,"""7-11""",100T,Defenders,Defuse
+Map 2 - 2 Pearl,19,"""8-11""",NRG,Attackers,Elimination
+Map 2 - 2 Pearl,20,"""8-12""",100T,Defenders,Elimination
+Map 2 - 2 Pearl,21,"""9-12""",NRG,Attackers,Elimination
+Map 2 - 2 Pearl,22,"""9-13""",100T,Defenders,Elimination
+Map 2 - 2 Pearl,23,"""""",,,
+Map 2 - 2 Pearl,24,"""""",,,
+Map 3 - 3 Bind,1,"""0-1""",100T,Defenders,Elimination
+Map 3 - 3 Bind,2,"""0-2""",100T,Defenders,Elimination
+Map 3 - 3 Bind,3,"""0-3""",100T,Defenders,Time Expired
+Map 3 - 3 Bind,4,"""0-4""",100T,Defenders,Defuse
+Map 3 - 3 Bind,5,"""1-4""",NRG,Attackers,Spike Detonation
+Map 3 - 3 Bind,6,"""2-4""",NRG,Attackers,Spike Detonation
+Map 3 - 3 Bind,7,"""3-4""",NRG,Attackers,Spike Detonation
+Map 3 - 3 Bind,8,"""3-5""",100T,Defenders,Time Expired
+Map 3 - 3 Bind,9,"""4-5""",NRG,Attackers,Elimination
+Map 3 - 3 Bind,10,"""4-6""",100T,Defenders,Elimination
+Map 3 - 3 Bind,11,"""5-6""",NRG,Attackers,Elimination
+Map 3 - 3 Bind,12,"""6-6""",NRG,Attackers,Spike Detonation
+Map 3 - 3 Bind,13,"""6-7""",NRG,Attackers,Elimination
+Map 3 - 3 Bind,14,"""6-8""",NRG,Attackers,Elimination
+Map 3 - 3 Bind,15,"""6-9""",NRG,Attackers,Spike Detonation
+Map 3 - 3 Bind,16,"""6-10""",NRG,Attackers,Elimination
+Map 3 - 3 Bind,17,"""7-10""",100T,Defenders,Elimination
+Map 3 - 3 Bind,18,"""7-11""",NRG,Attackers,Elimination
+Map 3 - 3 Bind,19,"""8-11""",100T,Defenders,Defuse
+Map 3 - 3 Bind,20,"""9-11""",100T,Defenders,Time Expired
+Map 3 - 3 Bind,21,"""9-12""",NRG,Attackers,Elimination
+Map 3 - 3 Bind,22,"""9-13""",NRG,Attackers,Elimination
+Map 3 - 3 Bind,23,"""""",,,
+Map 3 - 3 Bind,24,"""""",,,
