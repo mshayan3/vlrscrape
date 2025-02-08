@@ -59,26 +59,71 @@ for map_name, map_id in map_ids.items():
         filename = f"{map_name.replace(' ', '_').lower()}_economy.csv"
         df.to_csv(filename, index=False, header=False)
         print(f"Economy data saved for {map_name}.")
+    team_names = [team.get_text(strip=True) for team in soup.find_all("div", class_="team")]
+    if len(team_names) < 2:
+        print("Could not fetch team names.")
+        exit()
 
+    team_ct, team_t = team_names[0], team_names[1] 
+    name_team_ct, name_team_t = team_names[0], team_names[1] 
     # Ensure a second table exists for round-by-round data
     if len(tables) > 1:
         round_table = tables[1]  # Second table is the round-by-round table
         rows = []
+        round_counter = 1  # Track round number
+        
         for tr in round_table.find_all("tr"):
             cells = tr.find_all(["td", "th"])
-            row = []
             for cell in cells:
-                # Extract text content, ignoring images
-                cell_text = " ".join(cell.stripped_strings)
-                row.append(cell_text)
-            if row:
-                rows.append(row)
+                # Extract data points
+                round_num = cell.find("div", class_="ge-text-light round-num")
+                bank_values = cell.find_all("div", class_="bank")
+                winning_team = cell.find("div", class_="rnd-sq mod-win mod-ct") or cell.find("div", class_="rnd-sq mod-win mod-t")
+                losing_team = cell.find("div", class_="rnd-sq")
+
+                # Get text values safely
+                round_num = round_num.get_text(strip=True) if round_num else ""
+                bank_1 = bank_values[0].get_text(strip=True) if len(bank_values) > 0 else ""
+                bank_2 = bank_values[1].get_text(strip=True) if len(bank_values) > 1 else ""
+                win_side = "CT" if "mod-ct" in str(winning_team) else "T" 
+                lose_side = "CT" if "mod-ct" in str(losing_team) else "T"
+
+                # Determine actual winning and losing teams
+                # Append (CT) or (T) to team names
+                if winning_team:
+                    win_team = f"{team_ct} (CT)" if win_side == "CT" else f"{team_t} (T)"
+                    lose_team = f"{team_t} (T)" if win_side == "CT" else f"{team_ct} (CT)"
+                else:
+                    win_team, lose_team = "", ""
+
+                # Mark round 13 as a swap
+                if round_num == "13":
+                    round_num = "13 (Swap)"
+                if round_num == "25":
+                    round_num = "25 (OverTime)"
+
+
+                # Handle side switching after 12 rounds
+                if round_counter == 13:
+                    team_ct, team_t = team_t, team_ct  # Swap sides
+                elif round_counter > 24:  # Overtime: Switch every round
+                    team_ct, team_t = team_t, team_ct  
+
+                rows.append([round_num, bank_1, win_team, lose_team, bank_2])
+                round_counter += 1  # Increment round count
 
         # Save round-by-round data
-        df = pd.DataFrame(rows)
+        # Convert to DataFrame and drop empty rows
+        df = pd.DataFrame(rows, columns=["Round Number", f"Bank {name_team_ct}", "Winning Team", "Losing Team", f"Bank {name_team_t}"])
+
+        # Drop empty rows (all values in a row must not be empty)
+        df = df.dropna(how="all").replace("", pd.NA).dropna()
+
+        # Save the cleaned file
         filename = f"{map_name.replace(' ', '_').lower()}_rounds.csv"
-        df.to_csv(filename, index=False, header=False)
-        print(f"Round-by-round data saved for {map_name}.")
+        df.to_csv(filename, index=False)
+        print(f"Round-by-round data saved for {map_name}, empty rows removed.")
+
     else:
         print(f"No round-by-round table found for {map_name}.")
 
