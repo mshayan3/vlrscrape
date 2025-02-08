@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-MATCH_URL = "https://www.vlr.gg/428005/100-thieves-vs-nrg-esports-champions-tour-2025-americas-kickoff-lr1"
+MATCH_URL = "https://preview.valobox.space/?VCyqZx"
 
 # Headers to mimic a real browser request
 HEADERS = {

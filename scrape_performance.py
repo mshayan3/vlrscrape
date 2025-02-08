@@ -2,8 +2,9 @@ import requests
 import pandas as pd
 from bs4 import BeautifulSoup
 
+extension = "?game=all&tab=performance"
 # Define the URL with the performance tab extension
-url = "https://www.vlr.gg/428005/100-thieves-vs-nrg-esports-champions-tour-2025-americas-kickoff-lr1/?game=all&tab=performance"
+url = "https://www.vlr.gg/428005/100-thieves-vs-nrg-esports-champions-tour-2025-americas-kickoff-lr1/" + extension
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36'
 }
