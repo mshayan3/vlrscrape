@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Zellsis,SEN,All_Maps,All,"Vyse, Kayo, Viper",1.21,252,85,69,43,+16,71%,162,28%,10,4,+6
+N4RRATE,SEN,All_Maps,All,"Fade, Omen, Breach",1.13,212,67,61,38,+6,78%,123,21%,3,6,-3
+zekken,SEN,All_Maps,All,"Raze, Jett, Yoru",1.11,239,82,70,26,+12,70%,158,25%,22,21,+1
+johnqt,SEN,All_Maps,All,"Viper, Sova, Tejo",1.07,169,59,59,34,0,78%,117,23%,8,7,+1
+bang,SEN,All_Maps,All,"Omen, Astra",1.06,191,61,65,54,-4,80%,126,37%,9,8,+1
+xenom,MIBR,All_Maps,All,"Omen, Astra",1.11,205,72,63,35,+9,76%,138,31%,8,4,+4
+aspas,MIBR,All_Maps,All,Jett,0.94,202,74,69,9,+5,69%,139,31%,19,15,+4
+nzr,MIBR,All_Maps,All,"Breach, Sova, Skye",0.89,195,65,73,24,-8,70%,130,31%,5,3,+2
+cortezia,MIBR,All_Maps,All,"Cypher, Killjoy, Viper",0.78,169,60,73,14,-13,59%,123,28%,2,6,-4
+artzin,MIBR,All_Maps,All,"Raze, Kayo",0.65,152,51,76,24,-25,61%,109,22%,12,24,-12
+Zellsis,SEN,All_Maps,Attack,"Vyse, Kayo, Viper",1.08,231,43,37,25,+6,75%,152,26%,1,1,0
+N4RRATE,SEN,All_Maps,Attack,"Fade, Omen, Breach",1.12,210,35,32,25,+3,75%,131,23%,2,4,-2
+zekken,SEN,All_Maps,Attack,"Raze, Jett, Yoru",1.07,237,45,38,13,+7,67%,152,29%,13,14,-1
+johnqt,SEN,All_Maps,Attack,"Viper, Sova, Tejo",0.92,162,29,34,15,-5,73%,112,20%,5,4,+1
+bang,SEN,All_Maps,Attack,"Omen, Astra",1.01,176,29,34,31,-5,79%,116,35%,5,3,+2
+xenom,MIBR,All_Maps,Attack,"Omen, Astra",1.14,210,36,30,14,+6,76%,144,35%,2,1,+1
+aspas,MIBR,All_Maps,Attack,Jett,0.73,182,28,35,6,-7,65%,115,32%,9,8,+1
+nzr,MIBR,All_Maps,Attack,"Breach, Sova, Skye",1.01,210,36,34,9,+2,74%,145,35%,3,1,+2
+cortezia,MIBR,All_Maps,Attack,"Cypher, Killjoy, Viper",0.56,129,19,35,5,-16,50%,91,24%,0,2,-2
+artzin,MIBR,All_Maps,Attack,"Raze, Kayo",0.63,186,28,39,11,-11,54%,117,20%,6,14,-8
+Zellsis,SEN,All_Maps,Defend,"Vyse, Kayo, Viper",1.35,263,42,32,18,+10,67%,174,31%,9,3,+6
+N4RRATE,SEN,All_Maps,Defend,"Fade, Omen, Breach",1.15,186,32,29,13,+3,80%,114,19%,1,2,-1
+zekken,SEN,All_Maps,Defend,"Raze, Jett, Yoru",1.15,239,37,32,13,+5,74%,164,22%,9,7,+2
+johnqt,SEN,All_Maps,Defend,"Viper, Sova, Tejo",1.24,184,30,25,19,+5,83%,123,27%,3,3,0
+bang,SEN,All_Maps,Defend,"Omen, Astra",1.11,211,32,31,23,+1,80%,136,39%,4,5,-1
+xenom,MIBR,All_Maps,Defend,"Omen, Astra",1.09,208,36,33,21,+3,75%,132,27%,6,3,+3
+aspas,MIBR,All_Maps,Defend,Jett,1.14,238,46,34,3,+12,73%,159,30%,10,7,+3
+nzr,MIBR,All_Maps,Defend,"Breach, Sova, Skye",0.78,172,29,39,15,-10,67%,116,28%,2,2,0
+cortezia,MIBR,All_Maps,Defend,"Cypher, Killjoy, Viper",0.97,221,41,38,9,+3,67%,152,32%,2,4,-2
+artzin,MIBR,All_Maps,Defend,"Raze, Kayo",0.68,147,23,37,13,-14,67%,101,23%,6,10,-4

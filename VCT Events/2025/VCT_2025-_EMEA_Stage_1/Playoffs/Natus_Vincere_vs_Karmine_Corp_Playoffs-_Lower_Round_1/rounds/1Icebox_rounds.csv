@@ -1,0 +1,27 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+1Icebox,1,"""0-1""",KC,Attackers,Elimination
+1Icebox,2,"""0-2""",KC,Attackers,Elimination
+1Icebox,3,"""0-3""",KC,Attackers,Elimination
+1Icebox,4,"""0-4""",KC,Attackers,Elimination
+1Icebox,5,"""1-4""",NAVI,Defenders,Defuse
+1Icebox,6,"""1-5""",KC,Attackers,Elimination
+1Icebox,7,"""1-6""",KC,Attackers,Elimination
+1Icebox,8,"""1-7""",KC,Attackers,Spike Detonation
+1Icebox,9,"""2-7""",NAVI,Defenders,Defuse
+1Icebox,10,"""3-7""",NAVI,Defenders,Defuse
+1Icebox,11,"""4-7""",NAVI,Defenders,Elimination
+1Icebox,12,"""4-8""",KC,Attackers,Elimination
+1Icebox,13,"""5-8""",KC,Attackers,Elimination
+1Icebox,14,"""6-8""",KC,Attackers,Spike Detonation
+1Icebox,15,"""6-9""",NAVI,Defenders,Defuse
+1Icebox,16,"""7-9""",KC,Attackers,Elimination
+1Icebox,17,"""7-10""",NAVI,Defenders,Defuse
+1Icebox,18,"""8-10""",KC,Attackers,Elimination
+1Icebox,19,"""9-10""",KC,Attackers,Elimination
+1Icebox,20,"""10-10""",KC,Attackers,Spike Detonation
+1Icebox,21,"""11-10""",KC,Attackers,Spike Detonation
+1Icebox,22,"""11-11""",NAVI,Defenders,Defuse
+1Icebox,23,"""11-12""",NAVI,Defenders,Elimination
+1Icebox,24,"""12-12""",KC,Attackers,Elimination
+1Icebox,25,"""12-13""",KC,Attackers,Elimination
+1Icebox,26,"""12-14""",NAVI,Defenders,Elimination

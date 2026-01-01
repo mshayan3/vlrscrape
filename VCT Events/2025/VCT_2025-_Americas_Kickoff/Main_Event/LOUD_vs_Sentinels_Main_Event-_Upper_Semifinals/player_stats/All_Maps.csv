@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+dgzin,LOUD,All_Maps,All,"Raze, Jett",1.27,253,61,44,10,+17,74%,161,28%,14,5,+9
+pANcada,LOUD,All_Maps,All,"Omen, Astra",1.08,204,53,46,28,+7,70%,132,37%,7,4,+3
+cauanzin,LOUD,All_Maps,All,"Fade, Sova, Skye",0.93,215,49,53,22,-4,66%,138,23%,13,10,+3
+tuyz,LOUD,All_Maps,All,Cypher,0.82,133,35,42,7,-7,73%,85,34%,4,5,-1
+v1nny,LOUD,All_Maps,All,"Breach, Kayo",0.68,126,31,50,19,-19,67%,91,41%,2,6,-4
+zekken,SEN,All_Maps,All,Yoru,1.21,253,61,47,21,+14,81%,161,24%,15,12,+3
+johnqt,SEN,All_Maps,All,Tejo,1.04,183,45,43,16,+2,73%,127,26%,4,4,0
+Zellsis,SEN,All_Maps,All,"Vyse, Viper",1.02,191,45,46,21,-1,70%,118,17%,5,11,-6
+bang,SEN,All_Maps,All,"Omen, Astra",1.00,186,48,46,17,+2,74%,117,30%,5,7,-2
+N4RRATE,SEN,All_Maps,All,"Breach, Fade",0.89,150,36,47,29,-11,71%,102,14%,1,6,-5
+dgzin,LOUD,All_Maps,Attack,"Raze, Jett",1.13,262,30,25,4,+5,59%,168,32%,8,5,+3
+pANcada,LOUD,All_Maps,Attack,"Omen, Astra",1.00,156,20,22,18,-2,71%,107,31%,2,1,+1
+cauanzin,LOUD,All_Maps,Attack,"Fade, Sova, Skye",0.58,168,18,30,9,-12,53%,113,16%,4,7,-3
+tuyz,LOUD,All_Maps,Attack,Cypher,0.85,147,20,22,3,-2,71%,87,33%,2,2,0
+v1nny,LOUD,All_Maps,Attack,"Breach, Kayo",0.77,158,18,27,13,-9,65%,104,40%,2,1,+1
+zekken,SEN,All_Maps,Attack,Yoru,1.12,250,30,25,9,+5,78%,164,22%,8,8,0
+johnqt,SEN,All_Maps,Attack,Tejo,0.94,178,23,25,7,-2,75%,119,23%,2,2,0
+Zellsis,SEN,All_Maps,Attack,"Vyse, Viper",1.21,202,25,22,11,+3,67%,122,22%,3,4,-1
+bang,SEN,All_Maps,Attack,"Omen, Astra",0.59,105,13,24,9,-11,64%,66,26%,0,6,-6
+N4RRATE,SEN,All_Maps,Attack,"Breach, Fade",0.84,151,18,27,17,-9,72%,103,13%,1,2,-1
+dgzin,LOUD,All_Maps,Defend,"Raze, Jett",1.39,243,31,19,6,+12,89%,154,23%,6,0,+6
+pANcada,LOUD,All_Maps,Defend,"Omen, Astra",1.15,251,33,24,10,+9,69%,156,40%,5,3,+2
+cauanzin,LOUD,All_Maps,Defend,"Fade, Sova, Skye",1.29,262,31,23,13,+8,78%,162,29%,9,3,+6
+tuyz,LOUD,All_Maps,Defend,Cypher,0.79,122,15,20,4,-5,75%,82,35%,2,3,-1
+v1nny,LOUD,All_Maps,Defend,"Breach, Kayo",0.60,99,13,23,6,-10,69%,78,43%,0,5,-5
+zekken,SEN,All_Maps,Defend,Yoru,1.30,258,31,22,12,+9,85%,157,26%,7,4,+3
+johnqt,SEN,All_Maps,Defend,Tejo,1.15,187,22,18,9,+4,71%,135,29%,2,2,0
+Zellsis,SEN,All_Maps,Defend,"Vyse, Viper",0.83,178,20,24,10,-4,74%,113,13%,2,7,-5
+bang,SEN,All_Maps,Defend,"Omen, Astra",1.44,271,35,22,8,+13,85%,172,32%,5,1,+4
+N4RRATE,SEN,All_Maps,Defend,"Breach, Fade",0.95,152,18,20,12,-2,71%,100,15%,0,4,-4

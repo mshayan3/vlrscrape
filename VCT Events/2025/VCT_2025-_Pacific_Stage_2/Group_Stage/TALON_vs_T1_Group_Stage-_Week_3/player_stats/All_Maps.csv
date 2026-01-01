@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+thyy,TLN,All_Maps,All,"Yoru, Raze",1.29,278,42,30,8,+12,79%,166,29%,12,5,+7
+primmie,TLN,All_Maps,All,"Deadlock, Yoru",1.27,223,34,25,8,+9,79%,151,45%,5,3,+2
+Killua,TLN,All_Maps,All,"Sova, Fade",1.18,237,40,29,6,+11,88%,144,42%,3,2,+1
+JitBoyS,TLN,All_Maps,All,"Cypher, Vyse",0.86,173,26,30,11,-4,79%,119,33%,2,5,-3
+Crws,TLN,All_Maps,All,Omen,0.82,150,20,28,22,-8,76%,103,24%,3,2,+1
+DH,T1,All_Maps,All,Omen,1.24,231,35,31,17,+4,86%,137,37%,3,4,-1
+Meteor,T1,All_Maps,All,"Astra, Viper",1.02,249,36,34,17,+2,74%,144,33%,5,3,+2
+BuZz,T1,All_Maps,All,"Chamber, Yoru",0.88,189,26,31,8,-5,67%,121,10%,7,8,-1
+iZu,T1,All_Maps,All,"Yoru, Neon",0.71,177,28,33,7,-5,62%,102,30%,1,8,-7
+stax,T1,All_Maps,All,Fade,0.60,127,17,33,12,-16,71%,89,28%,1,2,-1
+thyy,TLN,All_Maps,Attack,"Yoru, Raze",1.04,247,21,19,3,+2,74%,150,34%,5,4,+1
+primmie,TLN,All_Maps,Attack,"Deadlock, Yoru",1.38,262,21,16,5,+5,74%,179,48%,2,1,+1
+Killua,TLN,All_Maps,Attack,"Sova, Fade",1.06,213,19,17,3,+2,83%,125,45%,2,1,+1
+JitBoyS,TLN,All_Maps,Attack,"Cypher, Vyse",0.64,147,11,19,7,-8,83%,98,29%,1,5,-4
+Crws,TLN,All_Maps,Attack,Omen,0.68,129,10,18,12,-8,74%,85,30%,1,1,0
+DH,T1,All_Maps,Attack,Omen,1.15,198,13,16,13,-3,79%,110,34%,1,2,-1
+Meteor,T1,All_Maps,Attack,"Astra, Viper",0.98,232,15,15,6,0,63%,130,33%,3,3,0
+BuZz,T1,All_Maps,Attack,"Chamber, Yoru",0.79,185,11,16,4,-5,53%,122,13%,1,4,-3
+iZu,T1,All_Maps,Attack,"Yoru, Neon",0.47,109,8,15,2,-7,42%,61,23%,0,3,-3
+stax,T1,All_Maps,Attack,Fade,0.34,108,6,18,3,-12,68%,80,47%,0,2,-2
+thyy,TLN,All_Maps,Defend,"Yoru, Raze",1.61,306,21,11,5,+10,84%,185,20%,7,1,+6
+primmie,TLN,All_Maps,Defend,"Deadlock, Yoru",1.13,168,13,9,3,+4,84%,117,39%,3,2,+1
+Killua,TLN,All_Maps,Defend,"Sova, Fade",1.32,274,21,12,3,+9,95%,166,39%,1,1,0
+JitBoyS,TLN,All_Maps,Defend,"Cypher, Vyse",1.13,205,15,11,4,+4,74%,144,37%,1,0,+1
+Crws,TLN,All_Maps,Defend,Omen,1.00,173,10,10,10,0,79%,126,21%,2,1,+1
+DH,T1,All_Maps,Defend,Omen,1.31,257,22,15,4,+7,91%,159,38%,2,2,0
+Meteor,T1,All_Maps,Defend,"Astra, Viper",1.06,265,21,19,11,+2,83%,156,32%,2,0,+2
+BuZz,T1,All_Maps,Defend,"Chamber, Yoru",0.96,191,15,15,4,0,78%,120,6%,6,4,+2
+iZu,T1,All_Maps,Defend,"Yoru, Neon",0.92,228,20,18,5,+2,78%,135,33%,1,5,-4
+stax,T1,All_Maps,Defend,Fade,0.80,143,11,15,9,-4,74%,97,20%,1,0,+1

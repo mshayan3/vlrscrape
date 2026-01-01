@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Autumn,FPX,All_Maps,All,"Kayo, Cypher",,202,28,34,14,-6,,130,29%,4,3,+1
+BerLIN,FPX,All_Maps,All,"Astra, Kayo",,178,24,29,14,-5,,129,22%,0,2,-2
+AAAAY,FPX,All_Maps,All,"Sova, Breach",,169,26,31,12,-5,,108,40%,4,1,+3
+Life,FPX,All_Maps,All,Jett,,162,19,37,5,-18,,105,27%,10,13,-3
+Lysoar,FPX,All_Maps,All,Omen,,155,22,32,25,-10,,103,47%,1,2,-1
+LuoK1ng,TE,All_Maps,All,Omen,,270,41,21,15,+20,,172,35%,3,3,0
+Kai,TE,All_Maps,All,Jett,,250,39,25,7,+14,,154,21%,11,6,+5
+Biank,TE,All_Maps,All,Sova,,247,29,25,16,+4,,140,15%,1,5,-4
+FengF,TE,All_Maps,All,Killjoy,,230,37,21,8,+16,,157,22%,3,2,+1
+heybay,TE,All_Maps,All,"Kayo, Breach",,117,17,27,22,-10,,80,27%,3,3,0
+Autumn,FPX,All_Maps,Attack,"Kayo, Cypher",,,,,,,
+BerLIN,FPX,All_Maps,Attack,"Astra, Kayo",,,,,,,
+AAAAY,FPX,All_Maps,Attack,"Sova, Breach",,,,,,,
+Life,FPX,All_Maps,Attack,Jett,,,,,,,
+Lysoar,FPX,All_Maps,Attack,Omen,,,,,,,
+LuoK1ng,TE,All_Maps,Attack,Omen,,,,,,,
+Kai,TE,All_Maps,Attack,Jett,,,,,,,
+Biank,TE,All_Maps,Attack,Sova,,,,,,,
+FengF,TE,All_Maps,Attack,Killjoy,,,,,,,
+heybay,TE,All_Maps,Attack,"Kayo, Breach",,,,,,,
+Autumn,FPX,All_Maps,Defend,"Kayo, Cypher",,,,,,,
+BerLIN,FPX,All_Maps,Defend,"Astra, Kayo",,,,,,,
+AAAAY,FPX,All_Maps,Defend,"Sova, Breach",,,,,,,
+Life,FPX,All_Maps,Defend,Jett,,,,,,,
+Lysoar,FPX,All_Maps,Defend,Omen,,,,,,,
+LuoK1ng,TE,All_Maps,Defend,Omen,,,,,,,
+Kai,TE,All_Maps,Defend,Jett,,,,,,,
+Biank,TE,All_Maps,Defend,Sova,,,,,,,
+FengF,TE,All_Maps,Defend,Killjoy,,,,,,,
+heybay,TE,All_Maps,Defend,"Kayo, Breach",,,,,,,

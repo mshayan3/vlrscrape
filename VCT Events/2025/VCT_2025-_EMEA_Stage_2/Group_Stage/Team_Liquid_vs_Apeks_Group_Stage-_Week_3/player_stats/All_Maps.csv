@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+nAts,TL,All_Maps,All,"Cypher, Viper, Vyse",1.18,231,57,43,17,+14,77%,151,25%,10,1,+9
+trexx,TL,All_Maps,All,"Sova, Fade",1.16,214,49,41,24,+8,74%,135,15%,3,5,-2
+keiko,TL,All_Maps,All,"Omen, Raze",1.08,200,50,41,18,+9,71%,120,30%,8,3,+5
+kamo,TL,All_Maps,All,"Jett, Yoru",0.97,213,50,50,18,0,74%,140,25%,14,13,+1
+paTiTek,TL,All_Maps,All,"Kayo, Gekko, Omen",0.95,174,43,46,30,-3,77%,112,28%,5,7,-2
+OLIZERA,APK,All_Maps,All,Cypher,0.99,191,50,47,17,+3,72%,121,28%,4,8,-4
+penny,APK,All_Maps,All,"Jett, Neon, Raze",0.96,206,53,50,9,+3,65%,132,28%,10,17,-7
+AvovA,APK,All_Maps,All,Omen,0.91,173,41,51,22,-10,68%,115,33%,5,3,+2
+MOLSI,APK,All_Maps,All,"Sova, Fade, Kayo",0.88,161,36,46,31,-10,67%,108,38%,3,2,+1
+batujnax,APK,All_Maps,All,"Yoru, Deadlock",0.84,192,41,55,20,-14,72%,127,26%,7,10,-3
+nAts,TL,All_Maps,Attack,"Cypher, Viper, Vyse",1.20,221,25,19,8,+6,81%,148,20%,5,0,+5
+trexx,TL,All_Maps,Attack,"Sova, Fade",0.92,174,17,19,12,-2,81%,123,18%,0,2,-2
+keiko,TL,All_Maps,Attack,"Omen, Raze",1.02,184,21,17,7,+4,59%,111,33%,3,3,0
+kamo,TL,All_Maps,Attack,"Jett, Yoru",1.19,277,31,22,5,+9,72%,169,33%,7,10,-3
+paTiTek,TL,All_Maps,Attack,"Kayo, Gekko, Omen",0.92,168,20,20,11,0,84%,103,27%,1,1,0
+OLIZERA,APK,All_Maps,Attack,Cypher,1.08,211,30,24,8,+6,73%,128,25%,0,4,-4
+penny,APK,All_Maps,Attack,"Jett, Neon, Raze",1.01,238,33,27,4,+6,62%,150,32%,7,14,-7
+AvovA,APK,All_Maps,Attack,Omen,0.97,166,22,25,12,-3,70%,110,26%,1,0,+1
+MOLSI,APK,All_Maps,Attack,"Sova, Fade, Kayo",0.79,151,18,26,14,-8,68%,102,38%,1,1,0
+batujnax,APK,All_Maps,Attack,"Yoru, Deadlock",0.67,189,21,33,11,-12,73%,121,25%,4,5,-1
+nAts,TL,All_Maps,Defend,"Cypher, Viper, Vyse",1.17,228,32,24,9,+8,73%,153,28%,5,1,+4
+trexx,TL,All_Maps,Defend,"Sova, Fade",1.37,241,32,22,12,+10,68%,146,12%,3,3,0
+keiko,TL,All_Maps,Defend,"Omen, Raze",1.13,202,29,24,11,+5,81%,128,27%,5,0,+5
+kamo,TL,All_Maps,Defend,"Jett, Yoru",0.78,166,19,28,13,-9,76%,115,16%,7,3,+4
+paTiTek,TL,All_Maps,Defend,"Kayo, Gekko, Omen",0.97,188,23,26,19,-3,70%,120,29%,4,6,-2
+OLIZERA,APK,All_Maps,Defend,Cypher,0.89,171,20,23,9,-3,72%,113,33%,4,4,0
+penny,APK,All_Maps,Defend,"Jett, Neon, Raze",0.90,175,20,23,5,-3,69%,112,21%,3,3,0
+AvovA,APK,All_Maps,Defend,Omen,0.83,182,19,26,10,-7,66%,122,41%,4,3,+1
+MOLSI,APK,All_Maps,Defend,"Sova, Fade, Kayo",0.98,176,18,20,17,-2,66%,114,38%,2,1,+1
+batujnax,APK,All_Maps,Defend,"Yoru, Deadlock",1.04,194,20,22,9,-2,72%,133,27%,3,5,-2

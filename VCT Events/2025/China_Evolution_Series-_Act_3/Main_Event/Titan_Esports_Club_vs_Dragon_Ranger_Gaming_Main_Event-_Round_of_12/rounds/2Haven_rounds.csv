@@ -1,0 +1,27 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+2Haven,1,"""0-1""",DRG,Attackers,Elimination
+2Haven,2,"""0-2""",DRG,Attackers,Spike Detonation
+2Haven,3,"""1-2""",TEC,Defenders,Defuse
+2Haven,4,"""1-3""",DRG,Attackers,Elimination
+2Haven,5,"""1-4""",DRG,Attackers,Spike Detonation
+2Haven,6,"""2-4""",TEC,Defenders,Defuse
+2Haven,7,"""3-4""",TEC,Defenders,Elimination
+2Haven,8,"""4-4""",TEC,Defenders,Defuse
+2Haven,9,"""5-4""",TEC,Defenders,Elimination
+2Haven,10,"""6-4""",TEC,Defenders,Defuse
+2Haven,11,"""7-4""",TEC,Defenders,Elimination
+2Haven,12,"""8-4""",TEC,Defenders,Defuse
+2Haven,13,"""8-5""",TEC,Defenders,Defuse
+2Haven,14,"""8-6""",TEC,Defenders,Elimination
+2Haven,15,"""9-6""",DRG,Attackers,Elimination
+2Haven,16,"""9-7""",TEC,Defenders,Defuse
+2Haven,17,"""9-8""",TEC,Defenders,Elimination
+2Haven,18,"""9-9""",TEC,Defenders,Defuse
+2Haven,19,"""10-9""",DRG,Attackers,Elimination
+2Haven,20,"""10-10""",TEC,Defenders,Defuse
+2Haven,21,"""11-10""",DRG,Attackers,Elimination
+2Haven,22,"""11-11""",TEC,Defenders,Defuse
+2Haven,23,"""11-12""",TEC,Defenders,Defuse
+2Haven,24,"""12-12""",DRG,Attackers,Elimination
+2Haven,25,"""13-12""",TEC,Defenders,Elimination
+2Haven,26,"""14-12""",DRG,Attackers,Elimination

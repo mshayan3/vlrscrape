@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+iZu,T1,All_Maps,All,"Yoru, Cypher, Viper, Gekko",1.09,202,83,76,33,+7,72%,137,26%,9,8,+1
+carpe,T1,All_Maps,All,"Astra, Omen, Brimstone",1.07,196,79,81,50,-2,76%,130,33%,11,3,+8
+stax,T1,All_Maps,All,"Sova, Fade, Kayo",1.04,169,77,72,30,+5,69%,122,29%,6,7,-1
+Meteor,T1,All_Maps,All,"Killjoy, Iso, Yoru, Vyse",0.95,194,77,85,23,-8,67%,130,24%,9,12,-3
+BuZz,T1,All_Maps,All,"Neon, Raze, Yoru",0.70,184,67,97,25,-30,64%,118,12%,24,26,-2
+Karon,GEN,All_Maps,All,"Astra, Omen, Brimstone",1.30,221,88,66,60,+22,82%,147,29%,6,7,-1
+Munchkin,GEN,All_Maps,All,"Kayo, Viper, Tejo",1.11,215,83,75,49,+8,81%,138,24%,11,9,+2
+t3xture,GEN,All_Maps,All,"Jett, Raze, Neon",1.04,228,96,85,19,+11,65%,148,25%,19,25,-6
+yoman,GEN,All_Maps,All,"Sova, Fade, Breach",0.90,174,74,80,38,-6,77%,109,27%,11,8,+3
+Foxy9,GEN,All_Maps,All,"Killjoy, Cypher, Gekko",0.86,172,70,77,21,-7,69%,112,28%,9,10,-1
+iZu,T1,All_Maps,Attack,"Yoru, Cypher, Viper, Gekko",1.21,229,51,42,22,+9,80%,146,29%,4,5,-1
+carpe,T1,All_Maps,Attack,"Astra, Omen, Brimstone",0.99,162,38,42,28,-4,78%,113,28%,1,1,0
+stax,T1,All_Maps,Attack,"Sova, Fade, Kayo",0.94,160,38,39,21,-1,69%,114,29%,5,3,+2
+Meteor,T1,All_Maps,Attack,"Killjoy, Iso, Yoru, Vyse",1.01,213,48,50,13,-2,70%,146,21%,7,7,0
+BuZz,T1,All_Maps,Attack,"Neon, Raze, Yoru",0.72,195,41,56,15,-15,67%,122,12%,13,18,-5
+Karon,GEN,All_Maps,Attack,"Astra, Omen, Brimstone",1.15,179,32,29,22,+3,84%,124,27%,0,4,-4
+Munchkin,GEN,All_Maps,Attack,"Kayo, Viper, Tejo",0.96,190,31,32,21,-1,78%,125,23%,4,5,-1
+t3xture,GEN,All_Maps,Attack,"Jett, Raze, Neon",1.00,228,42,39,9,+3,63%,144,22%,11,12,-1
+yoman,GEN,All_Maps,Attack,"Sova, Fade, Breach",0.96,185,37,36,14,+1,78%,113,26%,4,4,0
+Foxy9,GEN,All_Maps,Attack,"Killjoy, Cypher, Gekko",1.10,209,40,31,7,+9,73%,131,29%,3,4,-1
+iZu,T1,All_Maps,Defend,"Yoru, Cypher, Viper, Gekko",0.93,185,32,34,11,-2,63%,126,22%,5,3,+2
+carpe,T1,All_Maps,Defend,"Astra, Omen, Brimstone",1.17,231,41,39,22,+2,73%,151,37%,10,2,+8
+stax,T1,All_Maps,Defend,"Sova, Fade, Kayo",1.15,197,39,33,9,+6,69%,132,29%,1,4,-3
+Meteor,T1,All_Maps,Defend,"Killjoy, Iso, Yoru, Vyse",0.87,159,29,35,10,-6,63%,110,29%,2,5,-3
+BuZz,T1,All_Maps,Defend,"Neon, Raze, Yoru",0.68,170,26,41,10,-15,61%,112,12%,11,8,+3
+Karon,GEN,All_Maps,Defend,"Astra, Omen, Brimstone",1.41,252,56,37,38,+19,80%,164,31%,6,3,+3
+Munchkin,GEN,All_Maps,Defend,"Kayo, Viper, Tejo",1.23,229,52,43,28,+9,83%,147,25%,7,4,+3
+t3xture,GEN,All_Maps,Defend,"Jett, Raze, Neon",1.07,243,54,46,10,+8,67%,152,28%,8,13,-5
+yoman,GEN,All_Maps,Defend,"Sova, Fade, Breach",0.85,168,37,44,24,-7,75%,107,28%,7,4,+3
+Foxy9,GEN,All_Maps,Defend,"Killjoy, Cypher, Gekko",0.67,138,30,46,14,-16,66%,97,26%,6,6,0

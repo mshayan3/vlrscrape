@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Ezeir,NOVA,All_Maps,All,"Astra, Viper",1.27,229,49,39,33,+10,76%,155,24%,2,4,-2
+GuanG,NOVA,All_Maps,All,"Vyse, Jett",1.03,193,41,40,10,+1,78%,137,37%,3,8,-5
+o0o0o,NOVA,All_Maps,All,"Skye, Kayo",1.00,193,37,41,21,-4,76%,122,27%,4,5,-1
+cb,NOVA,All_Maps,All,"Raze, Tejo, Neon",0.91,189,40,44,7,-4,72%,126,30%,7,11,-4
+OBONE,NOVA,All_Maps,All,"Deadlock, Killjoy",0.88,174,36,39,9,-3,71%,126,20%,5,9,-4
+slowly,TYL,All_Maps,All,"Fade, Kayo, Tejo",1.54,271,57,35,23,+22,83%,169,39%,7,3,+4
+Ninebody,TYL,All_Maps,All,"Yoru, Jett",1.07,209,42,40,20,+2,79%,138,25%,10,7,+3
+zjc,TYL,All_Maps,All,"Raze, Gekko, Fade",0.86,188,39,44,15,-5,62%,123,26%,13,6,+7
+waituu,TYL,All_Maps,All,"Omen, Viper, Astra",0.79,167,34,44,16,-10,69%,107,24%,2,1,+1
+5CM,TYL,All_Maps,All,"Viper, Killjoy, Vyse",0.73,153,29,41,14,-12,67%,100,19%,5,4,+1
+Ezeir,NOVA,All_Maps,Attack,"Astra, Viper",1.27,260,27,23,16,+4,83%,178,30%,1,2,-1
+GuanG,NOVA,All_Maps,Attack,"Vyse, Jett",1.18,238,26,22,7,+4,83%,167,43%,0,2,-2
+o0o0o,NOVA,All_Maps,Attack,"Skye, Kayo",0.97,152,16,21,13,-5,83%,93,33%,0,3,-3
+cb,NOVA,All_Maps,Attack,"Raze, Tejo, Neon",0.64,170,18,27,5,-9,63%,118,40%,2,10,-8
+OBONE,NOVA,All_Maps,Attack,"Deadlock, Killjoy",0.90,183,19,22,5,-3,73%,124,20%,3,7,-4
+slowly,TYL,All_Maps,Attack,"Fade, Kayo, Tejo",1.51,289,30,19,9,+11,79%,190,40%,1,2,-1
+Ninebody,TYL,All_Maps,Attack,"Yoru, Jett",1.12,213,20,19,10,+1,79%,140,22%,4,4,0
+zjc,TYL,All_Maps,Attack,"Raze, Gekko, Fade",0.65,141,14,20,4,-6,54%,85,34%,6,5,+1
+waituu,TYL,All_Maps,Attack,"Omen, Viper, Astra",0.61,114,11,22,10,-11,64%,71,18%,0,1,-1
+5CM,TYL,All_Maps,Attack,"Viper, Killjoy, Vyse",0.80,151,13,18,4,-5,68%,97,23%,2,3,-1
+Ezeir,NOVA,All_Maps,Defend,"Astra, Viper",1.28,212,22,16,17,+6,68%,131,18%,1,2,-1
+GuanG,NOVA,All_Maps,Defend,"Vyse, Jett",0.86,149,15,18,3,-3,71%,104,28%,3,6,-3
+o0o0o,NOVA,All_Maps,Defend,"Skye, Kayo",1.05,231,21,20,8,+1,68%,153,23%,4,2,+2
+cb,NOVA,All_Maps,Defend,"Raze, Tejo, Neon",1.20,209,22,17,2,+5,82%,134,22%,5,1,+4
+OBONE,NOVA,All_Maps,Defend,"Deadlock, Killjoy",0.87,175,17,17,4,0,68%,128,20%,2,2,0
+slowly,TYL,All_Maps,Defend,"Fade, Kayo, Tejo",1.56,235,27,16,14,+11,87%,150,37%,6,1,+5
+Ninebody,TYL,All_Maps,Defend,"Yoru, Jett",1.03,205,22,21,10,+1,80%,136,30%,6,3,+3
+zjc,TYL,All_Maps,Defend,"Raze, Gekko, Fade",1.05,237,25,24,11,+1,70%,158,23%,7,1,+6
+waituu,TYL,All_Maps,Defend,"Omen, Viper, Astra",0.96,220,23,22,6,+1,73%,140,28%,2,0,+2
+5CM,TYL,All_Maps,Defend,"Viper, Killjoy, Vyse",0.65,155,16,23,10,-7,67%,103,17%,3,1,+2

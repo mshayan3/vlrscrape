@@ -1,0 +1,27 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+1Pearl,1,"""0-1""",MIBR,Attackers,Elimination
+1Pearl,2,"""0-2""",MIBR,Attackers,Elimination
+1Pearl,3,"""1-2""",G2,Defenders,Defuse
+1Pearl,4,"""2-2""",G2,Defenders,Defuse
+1Pearl,5,"""2-3""",MIBR,Attackers,Spike Detonation
+1Pearl,6,"""3-3""",G2,Defenders,Elimination
+1Pearl,7,"""4-3""",G2,Defenders,Elimination
+1Pearl,8,"""5-3""",G2,Defenders,Elimination
+1Pearl,9,"""6-3""",G2,Defenders,Defuse
+1Pearl,10,"""6-4""",MIBR,Attackers,Elimination
+1Pearl,11,"""6-5""",MIBR,Attackers,Elimination
+1Pearl,12,"""6-6""",MIBR,Attackers,Elimination
+1Pearl,13,"""7-6""",MIBR,Attackers,Elimination
+1Pearl,14,"""8-6""",MIBR,Attackers,Elimination
+1Pearl,15,"""8-7""",G2,Defenders,Elimination
+1Pearl,16,"""9-7""",MIBR,Attackers,Spike Detonation
+1Pearl,17,"""10-7""",MIBR,Attackers,Elimination
+1Pearl,18,"""10-8""",G2,Defenders,Defuse
+1Pearl,19,"""10-9""",G2,Defenders,Defuse
+1Pearl,20,"""11-9""",MIBR,Attackers,Spike Detonation
+1Pearl,21,"""11-10""",G2,Defenders,Defuse
+1Pearl,22,"""11-11""",G2,Defenders,Defuse
+1Pearl,23,"""12-11""",MIBR,Attackers,Elimination
+1Pearl,24,"""12-12""",G2,Defenders,Time Expired
+1Pearl,25,"""12-13""",MIBR,Attackers,Elimination
+1Pearl,26,"""12-14""",G2,Defenders,Defuse

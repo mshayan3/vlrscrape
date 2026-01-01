@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+xenom,MIBR,All_Maps,All,"Viper, Omen",1.28,217,38,26,14,+12,79%,139,34%,8,0,+8
+aspas,MIBR,All_Maps,All,"Jett, Neon",1.25,276,45,31,9,+14,74%,180,36%,12,4,+8
+cortezia,MIBR,All_Maps,All,"Killjoy, Cypher",0.94,188,33,31,9,+2,77%,128,28%,1,4,-3
+Verno,MIBR,All_Maps,All,Sova,0.88,167,27,29,14,-2,70%,111,26%,4,3,+1
+artzin,MIBR,All_Maps,All,"Harbor, Viper",0.83,164,27,31,7,-4,70%,121,27%,2,9,-7
+cauanzin,LOUD,All_Maps,All,"Sova, Breach",1.11,215,37,33,21,+4,74%,136,26%,3,3,0
+Virtyy,LOUD,All_Maps,All,"Jett, Neon",0.99,183,31,33,5,-2,66%,123,35%,6,9,-3
+lukxo,LOUD,All_Maps,All,"Omen, Cypher",0.92,195,32,38,12,-6,64%,121,33%,6,7,-1
+pANcada,LOUD,All_Maps,All,"Viper, Omen",0.89,143,22,31,15,-9,66%,109,33%,1,3,-2
+RobbieBk,LOUD,All_Maps,All,"Killjoy, Sova",0.78,158,26,35,7,-9,62%,107,40%,4,5,-1
+xenom,MIBR,All_Maps,Attack,"Viper, Omen",0.83,136,10,15,8,-5,74%,90,33%,3,0,+3
+aspas,MIBR,All_Maps,Attack,"Jett, Neon",1.37,315,24,17,6,+7,70%,202,37%,6,2,+4
+cortezia,MIBR,All_Maps,Attack,"Killjoy, Cypher",1.08,190,17,14,3,+3,70%,132,34%,0,3,-3
+Verno,MIBR,All_Maps,Attack,Sova,0.84,165,14,16,5,-2,61%,114,21%,1,2,-1
+artzin,MIBR,All_Maps,Attack,"Harbor, Viper",0.62,130,10,17,4,-7,65%,98,21%,1,5,-4
+cauanzin,LOUD,All_Maps,Attack,"Sova, Breach",1.05,216,18,18,9,0,79%,142,25%,1,1,0
+Virtyy,LOUD,All_Maps,Attack,"Jett, Neon",0.74,154,13,20,3,-7,67%,102,29%,4,7,-3
+lukxo,LOUD,All_Maps,Attack,"Omen, Cypher",1.16,217,19,18,4,+1,67%,133,37%,2,3,-1
+pANcada,LOUD,All_Maps,Attack,"Viper, Omen",0.76,141,11,19,7,-8,58%,100,27%,0,1,-1
+RobbieBk,LOUD,All_Maps,Attack,"Killjoy, Sova",0.41,99,8,20,4,-12,50%,72,39%,1,4,-3
+xenom,MIBR,All_Maps,Defend,"Viper, Omen",1.71,295,28,11,6,+17,83%,186,34%,5,0,+5
+aspas,MIBR,All_Maps,Defend,"Jett, Neon",1.13,239,21,14,3,+7,79%,158,33%,6,2,+4
+cortezia,MIBR,All_Maps,Defend,"Killjoy, Cypher",0.80,186,16,17,6,-1,83%,125,23%,1,1,0
+Verno,MIBR,All_Maps,Defend,Sova,0.92,168,13,13,9,0,79%,109,31%,3,1,+2
+artzin,MIBR,All_Maps,Defend,"Harbor, Viper",1.04,197,17,14,3,+3,75%,143,32%,1,4,-3
+cauanzin,LOUD,All_Maps,Defend,"Sova, Breach",1.17,214,19,15,12,+4,70%,130,27%,2,2,0
+Virtyy,LOUD,All_Maps,Defend,"Jett, Neon",1.25,214,18,13,2,+5,65%,145,40%,2,2,0
+lukxo,LOUD,All_Maps,Defend,"Omen, Cypher",0.68,173,13,20,8,-7,61%,108,28%,4,4,0
+pANcada,LOUD,All_Maps,Defend,"Viper, Omen",1.03,145,11,12,8,-1,74%,119,39%,1,2,-1
+RobbieBk,LOUD,All_Maps,Defend,"Killjoy, Sova",1.16,221,18,15,3,+3,74%,143,40%,3,1,+2

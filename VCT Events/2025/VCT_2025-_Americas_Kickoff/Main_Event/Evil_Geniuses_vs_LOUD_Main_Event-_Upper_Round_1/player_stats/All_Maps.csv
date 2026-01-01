@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+yay,EG,All_Maps,All,"Chamber, Phoenix",1.00,209,35,33,9,+2,57%,142,29%,8,6,+2
+NaturE,EG,All_Maps,All,"Viper, Vyse",0.97,198,33,34,9,-1,71%,132,24%,5,2,+3
+icy,EG,All_Maps,All,"Raze, Jett",0.95,193,34,35,7,-1,65%,135,20%,4,8,-4
+supamen,EG,All_Maps,All,"Omen, Astra",0.93,162,30,31,14,-1,69%,95,25%,3,4,-1
+Derrek,EG,All_Maps,All,"Skye, Sova",0.81,161,25,34,23,-9,73%,109,31%,3,6,-3
+dgzin,LOUD,All_Maps,All,"Raze, Jett",1.26,245,41,30,8,+11,69%,165,25%,13,6,+7
+cauanzin,LOUD,All_Maps,All,"Tejo, Sova",1.22,260,41,35,11,+6,65%,172,33%,5,8,-3
+v1nny,LOUD,All_Maps,All,"Breach, Kayo",1.19,191,33,29,27,+4,76%,134,30%,2,3,-1
+pANcada,LOUD,All_Maps,All,Astra,0.98,159,28,29,19,-1,82%,107,37%,2,2,0
+tuyz,LOUD,All_Maps,All,Cypher,0.71,129,24,34,15,-10,65%,85,29%,4,4,0
+yay,EG,All_Maps,Attack,"Chamber, Phoenix",0.79,168,15,18,5,-3,46%,115,36%,3,3,0
+NaturE,EG,All_Maps,Attack,"Viper, Vyse",0.79,160,12,19,5,-7,67%,117,19%,3,1,+2
+icy,EG,All_Maps,Attack,"Raze, Jett",0.69,163,14,20,4,-6,58%,117,27%,2,6,-4
+supamen,EG,All_Maps,Attack,"Omen, Astra",0.80,160,14,18,4,-4,67%,97,25%,1,3,-2
+Derrek,EG,All_Maps,Attack,"Skye, Sova",0.77,158,13,18,12,-5,71%,102,34%,0,2,-2
+dgzin,LOUD,All_Maps,Attack,"Raze, Jett",1.07,237,19,19,3,0,64%,166,33%,5,5,0
+cauanzin,LOUD,All_Maps,Attack,"Tejo, Sova",1.30,276,23,19,3,+4,48%,178,41%,3,5,-2
+v1nny,LOUD,All_Maps,Attack,"Breach, Kayo",1.15,177,14,16,15,-2,68%,129,27%,1,1,0
+pANcada,LOUD,All_Maps,Attack,Astra,0.71,112,10,16,6,-6,68%,73,36%,1,0,+1
+tuyz,LOUD,All_Maps,Attack,Cypher,0.44,88,8,19,6,-11,60%,62,20%,1,3,-2
+yay,EG,All_Maps,Defend,"Chamber, Phoenix",1.20,245,20,15,4,+5,68%,167,25%,5,3,+2
+NaturE,EG,All_Maps,Defend,"Viper, Vyse",1.13,234,21,15,4,+6,76%,147,28%,2,1,+1
+icy,EG,All_Maps,Defend,"Raze, Jett",1.19,224,20,15,3,+5,72%,152,15%,2,2,0
+supamen,EG,All_Maps,Defend,"Omen, Astra",1.06,164,16,13,10,+3,72%,93,24%,2,1,+1
+Derrek,EG,All_Maps,Defend,"Skye, Sova",0.84,163,12,16,11,-4,76%,115,28%,3,4,-1
+dgzin,LOUD,All_Maps,Defend,"Raze, Jett",1.45,260,22,11,5,+11,75%,163,15%,8,1,+7
+cauanzin,LOUD,All_Maps,Defend,"Tejo, Sova",1.14,242,18,16,8,+2,83%,165,25%,2,3,-1
+v1nny,LOUD,All_Maps,Defend,"Breach, Kayo",1.23,198,19,13,12,+6,83%,139,33%,1,2,-1
+pANcada,LOUD,All_Maps,Defend,Astra,1.25,205,18,13,13,+5,96%,143,37%,1,2,-1
+tuyz,LOUD,All_Maps,Defend,Cypher,0.99,177,16,15,9,+1,71%,108,34%,3,1,+2

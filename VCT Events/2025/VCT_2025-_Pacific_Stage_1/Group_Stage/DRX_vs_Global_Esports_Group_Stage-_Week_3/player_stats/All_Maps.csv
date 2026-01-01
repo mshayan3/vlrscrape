@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Flashback,DRX,All_Maps,All,"Yoru, Neon",1.35,265,41,23,7,+18,90%,185,27%,7,2,+5
+Estrella,DRX,All_Maps,All,"Vyse, Omen",1.34,255,37,22,11,+15,82%,161,32%,6,2,+4
+free1ng,DRX,All_Maps,All,Tejo,1.14,212,30,22,9,+8,90%,136,28%,4,0,+4
+MaKo,DRX,All_Maps,All,"Omen, Viper",0.92,156,21,20,15,+1,79%,108,32%,3,6,-3
+HYUNMIN,DRX,All_Maps,All,"Jett, Raze",0.91,203,30,26,3,+4,79%,135,35%,7,2,+5
+Kr1stal,GE,All_Maps,All,"Tejo, Fade",0.99,168,24,30,11,-6,67%,117,22%,3,7,-4
+UdoTan,GE,All_Maps,All,Cypher,0.95,175,25,30,5,-5,59%,104,30%,2,2,0
+Papi,GE,All_Maps,All,"Omen, Astra",0.83,150,22,30,7,-8,64%,100,25%,0,6,-6
+kellyS,GE,All_Maps,All,Deadlock,0.78,184,23,33,10,-10,69%,113,22%,4,5,-1
+yokam,GE,All_Maps,All,"Jett, Raze",0.54,150,19,36,10,-17,59%,113,17%,3,7,-4
+Flashback,DRX,All_Maps,Attack,"Yoru, Neon",1.27,248,23,15,5,+8,83%,174,32%,2,2,0
+Estrella,DRX,All_Maps,Attack,"Vyse, Omen",1.21,255,22,16,5,+6,79%,158,26%,5,2,+3
+free1ng,DRX,All_Maps,Attack,Tejo,1.17,251,21,16,6,+5,83%,161,32%,3,0,+3
+MaKo,DRX,All_Maps,Attack,"Omen, Viper",0.68,109,9,13,9,-4,71%,83,33%,3,3,0
+HYUNMIN,DRX,All_Maps,Attack,"Jett, Raze",0.77,182,18,17,0,+1,79%,122,36%,4,0,+4
+Kr1stal,GE,All_Maps,Attack,"Tejo, Fade",0.63,98,6,12,3,-6,40%,63,18%,0,2,-2
+UdoTan,GE,All_Maps,Attack,Cypher,0.52,101,5,14,0,-9,47%,69,32%,0,0,0
+Papi,GE,All_Maps,Attack,"Omen, Astra",0.86,175,9,13,5,-4,67%,111,26%,0,1,-1
+kellyS,GE,All_Maps,Attack,Deadlock,0.42,136,6,14,3,-8,53%,85,20%,3,4,-1
+yokam,GE,All_Maps,Attack,"Jett, Raze",0.88,215,10,13,5,-3,67%,133,15%,2,3,-1
+Flashback,DRX,All_Maps,Defend,"Yoru, Neon",1.47,305,18,8,2,+10,100%,202,20%,5,0,+5
+Estrella,DRX,All_Maps,Defend,"Vyse, Omen",1.55,256,15,6,6,+9,87%,166,42%,1,0,+1
+free1ng,DRX,All_Maps,Defend,Tejo,1.09,162,9,6,3,+3,100%,98,19%,1,0,+1
+MaKo,DRX,All_Maps,Defend,"Omen, Viper",1.31,223,12,7,6,+5,93%,148,30%,0,3,-3
+HYUNMIN,DRX,All_Maps,Defend,"Jett, Raze",1.12,224,12,9,3,+3,80%,156,33%,3,2,+1
+Kr1stal,GE,All_Maps,Defend,"Tejo, Fade",1.22,219,18,18,8,0,83%,150,23%,3,5,-2
+UdoTan,GE,All_Maps,Defend,Cypher,1.22,226,20,16,5,+4,67%,125,29%,2,2,0
+Papi,GE,All_Maps,Defend,"Omen, Astra",0.80,141,13,17,2,-4,63%,93,24%,0,5,-5
+kellyS,GE,All_Maps,Defend,Deadlock,1.01,207,17,19,7,-2,79%,131,24%,1,1,0
+yokam,GE,All_Maps,Defend,"Jett, Raze",0.34,130,9,23,5,-14,54%,100,18%,1,4,-3

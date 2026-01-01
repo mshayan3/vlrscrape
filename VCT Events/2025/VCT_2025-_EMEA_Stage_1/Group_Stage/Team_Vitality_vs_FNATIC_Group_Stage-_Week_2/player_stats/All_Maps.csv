@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+CyvOph,VIT,All_Maps,All,"Omen, Iso",1.06,203,53,51,26,+2,70%,122,30%,6,5,+1
+Less,VIT,All_Maps,All,"Cypher, Viper",1.00,184,53,48,11,+5,64%,124,35%,4,10,-6
+Kicks,VIT,All_Maps,All,"Breach, Omen",0.95,160,47,51,18,-4,72%,108,21%,2,4,-2
+Sayf,VIT,All_Maps,All,"Tejo, Sova",0.84,179,47,59,19,-12,61%,122,29%,6,8,-2
+Derke,VIT,All_Maps,All,Yoru,0.78,165,42,56,18,-14,61%,109,24%,12,19,-7
+Boaster,FNC,All_Maps,All,"Astra, Omen",1.26,189,54,40,39,+14,84%,126,20%,7,4,+3
+kaajak,FNC,All_Maps,All,"Yoru, Raze",1.11,237,64,50,14,+14,76%,148,25%,16,7,+9
+Chronicle,FNC,All_Maps,All,"Viper, Cypher",1.02,217,56,49,17,+7,72%,127,25%,13,9,+4
+crashies,FNC,All_Maps,All,"Fade, Sova",0.86,162,45,50,14,-5,68%,108,33%,3,3,0
+Alfajer,FNC,All_Maps,All,"Raze, Killjoy, Iso",0.79,175,46,53,9,-7,61%,119,34%,7,7,0
+CyvOph,VIT,All_Maps,Attack,"Omen, Iso",1.13,211,27,24,12,+3,69%,118,27%,4,3,+1
+Less,VIT,All_Maps,Attack,"Cypher, Viper",0.79,153,20,24,1,-4,53%,103,26%,1,4,-3
+Kicks,VIT,All_Maps,Attack,"Breach, Omen",0.92,153,22,23,8,-1,72%,99,17%,0,4,-4
+Sayf,VIT,All_Maps,Attack,"Tejo, Sova",1.07,228,28,28,12,0,64%,146,28%,3,4,-1
+Derke,VIT,All_Maps,Attack,Yoru,0.80,153,17,25,12,-8,64%,101,18%,5,8,-3
+Boaster,FNC,All_Maps,Attack,"Astra, Omen",1.29,193,29,20,18,+9,90%,115,25%,3,1,+2
+kaajak,FNC,All_Maps,Attack,"Yoru, Raze",0.81,199,26,29,9,-3,70%,127,29%,8,5,+3
+Chronicle,FNC,All_Maps,Attack,"Viper, Cypher",1.18,230,32,26,11,+6,80%,145,26%,4,5,-1
+crashies,FNC,All_Maps,Attack,"Fade, Sova",0.89,165,25,25,5,0,73%,97,35%,2,1,+1
+Alfajer,FNC,All_Maps,Attack,"Raze, Killjoy, Iso",0.89,208,29,28,2,+1,53%,143,38%,6,5,+1
+CyvOph,VIT,All_Maps,Defend,"Omen, Iso",1.00,189,26,27,14,-1,70%,126,32%,2,2,0
+Less,VIT,All_Maps,Defend,"Cypher, Viper",1.18,222,33,24,10,+9,75%,144,41%,3,6,-3
+Kicks,VIT,All_Maps,Defend,"Breach, Omen",0.98,180,25,28,10,-3,73%,117,24%,2,0,+2
+Sayf,VIT,All_Maps,Defend,"Tejo, Sova",0.63,144,19,31,7,-12,58%,100,31%,3,4,-1
+Derke,VIT,All_Maps,Defend,Yoru,0.78,179,25,31,6,-6,58%,116,31%,7,11,-4
+Boaster,FNC,All_Maps,Defend,"Astra, Omen",1.23,206,25,20,21,+5,78%,138,17%,4,3,+1
+kaajak,FNC,All_Maps,Defend,"Yoru, Raze",1.45,286,38,21,5,+17,83%,172,21%,8,2,+6
+Chronicle,FNC,All_Maps,Defend,"Viper, Cypher",0.85,184,24,23,6,+1,64%,108,24%,9,4,+5
+crashies,FNC,All_Maps,Defend,"Fade, Sova",0.84,166,20,25,9,-5,64%,120,31%,1,2,-1
+Alfajer,FNC,All_Maps,Defend,"Raze, Killjoy, Iso",0.67,139,17,25,7,-8,69%,93,30%,1,2,-1

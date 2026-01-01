@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Khalil,FUR,All_Maps,All,"Viper, Omen",1.38,253,53,32,19,+21,82%,162,42%,5,5,0
+nzr,FUR,All_Maps,All,"Sova, Breach",1.29,237,47,35,24,+12,79%,155,25%,2,3,-1
+havoc,FUR,All_Maps,All,Killjoy,0.94,200,39,40,10,-1,68%,141,35%,2,6,-4
+mwzera,FUR,All_Maps,All,"Jett, Neon",0.83,210,39,49,17,-10,77%,132,17%,11,10,+1
+xand,FUR,All_Maps,All,"Sage, Gekko",0.76,162,30,40,19,-10,73%,102,29%,4,8,-4
+eeiu,100T,All_Maps,All,Sova,1.06,189,36,37,19,-1,77%,147,36%,2,1,+1
+Asuna,100T,All_Maps,All,"Gekko, Kayo",1.05,197,39,41,24,-2,75%,130,23%,6,7,-1
+Cryocells,100T,All_Maps,All,Jett,0.99,234,46,47,10,-1,66%,145,23%,11,6,+5
+Boostio,100T,All_Maps,All,Killjoy,0.94,200,38,43,16,-5,70%,145,30%,3,4,-1
+bang,100T,All_Maps,All,"Viper, Omen",0.91,195,37,40,18,-3,77%,120,32%,10,6,+4
+Khalil,FUR,All_Maps,Attack,"Viper, Omen",1.16,192,21,15,10,+6,93%,120,33%,1,2,-1
+nzr,FUR,All_Maps,Attack,"Sova, Breach",1.91,352,37,16,12,+21,96%,215,20%,2,0,+2
+havoc,FUR,All_Maps,Attack,Killjoy,1.09,206,20,18,7,+2,71%,151,36%,2,3,-1
+mwzera,FUR,All_Maps,Attack,"Jett, Neon",0.77,222,21,26,8,-5,71%,136,22%,6,6,0
+xand,FUR,All_Maps,Attack,"Sage, Gekko",0.90,157,15,18,10,-3,79%,99,29%,1,5,-4
+eeiu,100T,All_Maps,Attack,Sova,1.36,212,23,15,6,+8,79%,159,49%,1,0,+1
+Asuna,100T,All_Maps,Attack,"Gekko, Kayo",0.96,164,16,19,15,-3,79%,113,17%,1,2,-1
+Cryocells,100T,All_Maps,Attack,Jett,1.00,245,23,24,6,-1,68%,157,26%,6,3,+3
+Boostio,100T,All_Maps,Attack,Killjoy,1.09,204,20,18,7,+2,68%,152,32%,1,2,-1
+bang,100T,All_Maps,Attack,"Viper, Omen",1.17,222,21,18,12,+3,79%,137,26%,7,5,+2
+Khalil,FUR,All_Maps,Defend,"Viper, Omen",1.59,318,32,17,9,+15,71%,203,48%,4,3,+1
+nzr,FUR,All_Maps,Defend,"Sova, Breach",0.66,121,10,19,12,-9,61%,94,39%,0,3,-3
+havoc,FUR,All_Maps,Defend,Killjoy,0.79,191,19,22,3,-3,64%,132,34%,0,3,-3
+mwzera,FUR,All_Maps,Defend,"Jett, Neon",0.89,200,18,23,9,-5,82%,129,11%,5,4,+1
+xand,FUR,All_Maps,Defend,"Sage, Gekko",0.62,166,15,22,9,-7,68%,105,29%,3,3,0
+eeiu,100T,All_Maps,Defend,Sova,0.75,165,13,22,13,-9,75%,135,24%,1,1,0
+Asuna,100T,All_Maps,Defend,"Gekko, Kayo",1.14,233,23,22,9,+1,71%,147,30%,5,5,0
+Cryocells,100T,All_Maps,Defend,Jett,0.97,222,23,23,4,0,64%,133,19%,5,3,+2
+Boostio,100T,All_Maps,Defend,Killjoy,0.78,198,18,25,9,-7,71%,138,27%,2,2,0
+bang,100T,All_Maps,Defend,"Viper, Omen",0.66,167,16,22,6,-6,75%,104,42%,3,1,+2

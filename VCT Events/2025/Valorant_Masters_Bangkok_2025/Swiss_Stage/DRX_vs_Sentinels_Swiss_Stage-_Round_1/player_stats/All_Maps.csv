@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Flashback,DRX,All_Maps,All,Cypher,1.38,203,34,19,7,+15,85%,147,28%,2,2,0
+BeYN,DRX,All_Maps,All,Breach,1.31,202,27,19,20,+8,87%,132,20%,1,2,-1
+free1ng,DRX,All_Maps,All,Tejo,1.30,256,35,23,12,+12,85%,160,38%,6,2,+4
+MaKo,DRX,All_Maps,All,Omen,0.96,164,20,22,21,-2,77%,106,23%,4,5,-1
+HYUNMIN,DRX,All_Maps,All,Yoru,0.92,208,31,30,4,+1,69%,133,48%,9,6,+3
+bang,SEN,All_Maps,All,"Omen, Astra",0.97,186,29,29,13,0,64%,129,33%,4,5,-1
+N4RRATE,SEN,All_Maps,All,"Fade, Breach",0.86,161,20,28,19,-8,72%,122,25%,4,1,+3
+johnqt,SEN,All_Maps,All,"Viper, Tejo",0.78,160,24,32,8,-8,79%,107,15%,3,5,-2
+zekken,SEN,All_Maps,All,"Raze, Jett",0.77,176,23,29,3,-6,69%,122,26%,5,7,-2
+Zellsis,SEN,All_Maps,All,Vyse,0.67,138,17,29,11,-12,62%,95,14%,1,4,-3
+Flashback,DRX,All_Maps,Attack,Cypher,1.32,186,18,10,2,+8,87%,130,47%,0,1,-1
+BeYN,DRX,All_Maps,Attack,Breach,1.34,205,17,11,10,+6,91%,128,25%,1,0,+1
+free1ng,DRX,All_Maps,Attack,Tejo,1.13,220,18,14,7,+4,87%,154,31%,4,2,+2
+MaKo,DRX,All_Maps,Attack,Omen,1.07,187,14,13,13,+1,83%,131,29%,2,5,-3
+HYUNMIN,DRX,All_Maps,Attack,Yoru,1.01,219,19,18,3,+1,74%,133,55%,5,3,+2
+bang,SEN,All_Maps,Attack,"Omen, Astra",0.61,152,9,13,5,-4,69%,91,27%,2,2,0
+N4RRATE,SEN,All_Maps,Attack,"Fade, Breach",1.15,175,9,11,10,-2,81%,114,16%,1,0,+1
+johnqt,SEN,All_Maps,Attack,"Viper, Tejo",0.90,164,10,12,5,-2,75%,103,9%,0,1,-1
+zekken,SEN,All_Maps,Attack,"Raze, Jett",0.86,190,10,12,2,-2,63%,140,34%,3,4,-1
+Zellsis,SEN,All_Maps,Attack,Vyse,0.71,157,9,13,2,-4,50%,97,29%,0,3,-3
+Flashback,DRX,All_Maps,Defend,Cypher,1.46,262,16,9,5,+7,81%,172,17%,2,1,+1
+BeYN,DRX,All_Maps,Defend,Breach,1.27,191,10,8,10,+2,81%,137,14%,0,2,-2
+free1ng,DRX,All_Maps,Defend,Tejo,1.54,282,17,9,5,+8,81%,169,50%,2,0,+2
+MaKo,DRX,All_Maps,Defend,Omen,0.80,112,6,9,8,-3,69%,71,15%,2,0,+2
+HYUNMIN,DRX,All_Maps,Defend,Yoru,0.80,197,12,12,1,0,63%,134,40%,4,3,+1
+bang,SEN,All_Maps,Defend,"Omen, Astra",1.21,230,20,16,8,+4,61%,156,38%,2,3,-1
+N4RRATE,SEN,All_Maps,Defend,"Fade, Breach",0.65,167,11,17,9,-6,65%,127,33%,3,1,+2
+johnqt,SEN,All_Maps,Defend,"Viper, Tejo",0.70,174,14,20,3,-6,83%,109,21%,3,4,-1
+zekken,SEN,All_Maps,Defend,"Raze, Jett",0.72,166,13,17,1,-4,74%,109,20%,2,3,-1
+Zellsis,SEN,All_Maps,Defend,Vyse,0.64,135,8,16,9,-8,70%,94,8%,1,1,0

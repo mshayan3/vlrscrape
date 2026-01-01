@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+2Fracture,1,"""1-0""",NAVI,Attackers,Spike Detonation
+2Fracture,2,"""2-0""",NAVI,Attackers,Spike Detonation
+2Fracture,3,"""2-1""",FNC,Defenders,Defuse
+2Fracture,4,"""2-2""",FNC,Defenders,Defuse
+2Fracture,5,"""3-2""",NAVI,Attackers,Elimination
+2Fracture,6,"""4-2""",NAVI,Attackers,Elimination
+2Fracture,7,"""5-2""",NAVI,Attackers,Elimination
+2Fracture,8,"""6-2""",NAVI,Attackers,Elimination
+2Fracture,9,"""6-3""",FNC,Defenders,Time Expired
+2Fracture,10,"""6-4""",FNC,Defenders,Elimination
+2Fracture,11,"""6-5""",FNC,Defenders,Defuse
+2Fracture,12,"""6-6""",FNC,Defenders,Defuse
+2Fracture,13,"""6-7""",NAVI,Attackers,Elimination
+2Fracture,14,"""6-8""",NAVI,Attackers,Elimination
+2Fracture,15,"""7-8""",FNC,Defenders,Defuse
+2Fracture,16,"""7-9""",NAVI,Attackers,Spike Detonation
+2Fracture,17,"""7-10""",NAVI,Attackers,Elimination
+2Fracture,18,"""7-11""",NAVI,Attackers,Spike Detonation
+2Fracture,19,"""8-11""",FNC,Defenders,Time Expired
+2Fracture,20,"""9-11""",FNC,Defenders,Elimination
+2Fracture,21,"""10-11""",FNC,Defenders,Elimination
+2Fracture,22,"""11-11""",FNC,Defenders,Elimination
+2Fracture,23,"""12-11""",FNC,Defenders,Elimination
+2Fracture,24,"""13-11""",FNC,Defenders,Defuse

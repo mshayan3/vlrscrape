@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+2Split,1,"""1-0""",KC,Attackers,Elimination
+2Split,2,"""2-0""",KC,Attackers,Spike Detonation
+2Split,3,"""2-1""",NAVI,Defenders,Elimination
+2Split,4,"""3-1""",KC,Attackers,Spike Detonation
+2Split,5,"""4-1""",KC,Attackers,Elimination
+2Split,6,"""5-1""",KC,Attackers,Elimination
+2Split,7,"""6-1""",KC,Attackers,Elimination
+2Split,8,"""6-2""",NAVI,Defenders,Elimination
+2Split,9,"""7-2""",KC,Attackers,Elimination
+2Split,10,"""7-3""",NAVI,Defenders,Elimination
+2Split,11,"""8-3""",KC,Attackers,Elimination
+2Split,12,"""9-3""",KC,Attackers,Elimination
+2Split,13,"""9-4""",KC,Attackers,Elimination
+2Split,14,"""9-5""",KC,Attackers,Elimination
+2Split,15,"""9-6""",KC,Attackers,Elimination
+2Split,16,"""9-7""",KC,Attackers,Elimination
+2Split,17,"""9-8""",KC,Attackers,Elimination
+2Split,18,"""9-9""",KC,Attackers,Elimination
+2Split,19,"""10-9""",NAVI,Defenders,Elimination
+2Split,20,"""11-9""",NAVI,Defenders,Defuse
+2Split,21,"""12-9""",NAVI,Defenders,Elimination
+2Split,22,"""12-10""",KC,Attackers,Elimination
+2Split,23,"""12-11""",KC,Attackers,Elimination
+2Split,24,"""13-11""",NAVI,Defenders,Elimination

@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+3Sunset,1,"""0-1""",TEC,Defenders,Defuse
+3Sunset,2,"""0-2""",TEC,Defenders,Elimination
+3Sunset,3,"""0-3""",TEC,Defenders,Elimination
+3Sunset,4,"""0-4""",TEC,Defenders,Elimination
+3Sunset,5,"""0-5""",TEC,Defenders,Time Expired
+3Sunset,6,"""0-6""",TEC,Defenders,Elimination
+3Sunset,7,"""1-6""",JDG,Attackers,Elimination
+3Sunset,8,"""1-7""",TEC,Defenders,Elimination
+3Sunset,9,"""1-8""",TEC,Defenders,Elimination
+3Sunset,10,"""1-9""",TEC,Defenders,Time Expired
+3Sunset,11,"""2-9""",JDG,Attackers,Elimination
+3Sunset,12,"""3-9""",JDG,Attackers,Elimination
+3Sunset,13,"""4-9""",TEC,Defenders,Elimination
+3Sunset,14,"""5-9""",TEC,Defenders,Elimination
+3Sunset,15,"""5-10""",JDG,Attackers,Elimination
+3Sunset,16,"""6-10""",TEC,Defenders,Defuse
+3Sunset,17,"""7-10""",TEC,Defenders,Defuse
+3Sunset,18,"""8-10""",TEC,Defenders,Defuse
+3Sunset,19,"""9-10""",TEC,Defenders,Elimination
+3Sunset,20,"""10-10""",TEC,Defenders,Defuse
+3Sunset,21,"""11-10""",TEC,Defenders,Defuse
+3Sunset,22,"""11-11""",JDG,Attackers,Elimination
+3Sunset,23,"""11-12""",JDG,Attackers,Elimination
+3Sunset,24,"""11-13""",JDG,Attackers,Elimination

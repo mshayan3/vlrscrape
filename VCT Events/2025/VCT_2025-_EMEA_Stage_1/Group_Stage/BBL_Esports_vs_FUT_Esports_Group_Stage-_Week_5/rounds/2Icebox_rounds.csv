@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+2Icebox,1,"""0-1""",FUT,Attackers,Elimination
+2Icebox,2,"""0-2""",FUT,Attackers,Elimination
+2Icebox,3,"""1-2""",BBL,Defenders,Defuse
+2Icebox,4,"""2-2""",BBL,Defenders,Elimination
+2Icebox,5,"""3-2""",BBL,Defenders,Elimination
+2Icebox,6,"""3-3""",FUT,Attackers,Elimination
+2Icebox,7,"""3-4""",FUT,Attackers,Elimination
+2Icebox,8,"""4-4""",BBL,Defenders,Elimination
+2Icebox,9,"""5-4""",BBL,Defenders,Defuse
+2Icebox,10,"""6-4""",BBL,Defenders,Elimination
+2Icebox,11,"""6-5""",FUT,Attackers,Elimination
+2Icebox,12,"""7-5""",BBL,Defenders,Defuse
+2Icebox,13,"""8-5""",FUT,Attackers,Elimination
+2Icebox,14,"""9-5""",FUT,Attackers,Elimination
+2Icebox,15,"""10-5""",FUT,Attackers,Elimination
+2Icebox,16,"""11-5""",FUT,Attackers,Spike Detonation
+2Icebox,17,"""11-6""",BBL,Defenders,Defuse
+2Icebox,18,"""12-6""",FUT,Attackers,Elimination
+2Icebox,19,"""12-7""",BBL,Defenders,Time Expired
+2Icebox,20,"""12-8""",BBL,Defenders,Elimination
+2Icebox,21,"""12-9""",BBL,Defenders,Defuse
+2Icebox,22,"""12-10""",BBL,Defenders,Defuse
+2Icebox,23,"""12-11""",BBL,Defenders,Elimination
+2Icebox,24,"""13-11""",FUT,Attackers,Elimination

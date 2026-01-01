@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Derrek,EG,All_Maps,All,"Gekko, Fade",1.14,220,30,28,11,+2,70%,154,44%,2,1,+1
+jawgemo,EG,All_Maps,All,"Raze, Neon",1.00,229,30,30,3,0,68%,151,21%,2,8,-6
+supamen,EG,All_Maps,All,Omen,0.99,204,26,29,12,-3,73%,136,44%,4,7,-3
+NaturE,EG,All_Maps,All,"Skye, Breach",0.62,153,18,31,7,-13,62%,105,25%,2,2,0
+Apoth,EG,All_Maps,All,"Brimstone, Cypher",0.30,70,8,29,5,-21,43%,53,23%,1,8,-7
+artzin,MIBR,All_Maps,All,"Cypher, Viper",1.39,234,31,21,13,+10,81%,157,22%,5,1,+4
+liazzi,MIBR,All_Maps,All,"Deadlock, Killjoy",1.28,213,30,18,9,+12,76%,140,33%,5,2,+3
+rich,MIBR,All_Maps,All,"Skye, Fade",1.15,195,25,21,18,+4,76%,136,32%,1,1,0
+mazin,MIBR,All_Maps,All,"Brimstone, Omen",1.15,201,28,22,15,+6,73%,124,32%,4,0,+4
+Palla,MIBR,All_Maps,All,Raze,1.00,263,33,30,7,+3,76%,161,30%,11,7,+4
+Derrek,EG,All_Maps,Attack,"Gekko, Fade",1.47,286,14,9,3,+5,77%,182,48%,0,0,0
+jawgemo,EG,All_Maps,Attack,"Raze, Neon",0.81,192,9,11,1,-2,62%,126,8%,0,5,-5
+supamen,EG,All_Maps,Attack,Omen,1.05,211,9,10,6,-1,77%,127,35%,2,2,0
+NaturE,EG,All_Maps,Attack,"Skye, Breach",0.75,175,8,11,2,-3,77%,130,28%,0,0,0
+Apoth,EG,All_Maps,Attack,"Brimstone, Cypher",0.02,18,0,11,2,-11,38%,16,0%,0,4,-4
+artzin,MIBR,All_Maps,Attack,"Cypher, Viper",1.14,189,17,15,6,+2,75%,137,25%,1,1,0
+liazzi,MIBR,All_Maps,Attack,"Deadlock, Killjoy",1.46,227,20,9,4,+11,71%,152,33%,2,2,0
+rich,MIBR,All_Maps,Attack,"Skye, Fade",0.96,161,13,15,13,-2,75%,113,30%,1,1,0
+mazin,MIBR,All_Maps,Attack,"Brimstone, Omen",1.41,225,21,13,12,+8,79%,150,43%,3,0,+3
+Palla,MIBR,All_Maps,Attack,Raze,1.03,280,24,20,5,+4,79%,179,35%,8,5,+3
+Derrek,EG,All_Maps,Defend,"Gekko, Fade",0.96,198,16,19,8,-3,67%,139,42%,2,1,+1
+jawgemo,EG,All_Maps,Defend,"Raze, Neon",1.10,267,21,19,2,+2,71%,165,28%,2,3,-1
+supamen,EG,All_Maps,Defend,Omen,0.95,209,17,19,6,-2,71%,141,51%,2,5,-3
+NaturE,EG,All_Maps,Defend,"Skye, Breach",0.55,136,10,20,5,-10,54%,92,23%,2,2,0
+Apoth,EG,All_Maps,Defend,"Brimstone, Cypher",0.53,102,8,18,3,-10,46%,73,26%,1,4,-3
+artzin,MIBR,All_Maps,Defend,"Cypher, Viper",1.83,314,14,6,7,+8,92%,193,20%,4,0,+4
+liazzi,MIBR,All_Maps,Defend,"Deadlock, Killjoy",0.94,207,10,9,5,+1,85%,118,32%,3,0,+3
+rich,MIBR,All_Maps,Defend,"Skye, Fade",1.50,248,12,6,5,+6,77%,179,34%,0,0,0
+mazin,MIBR,All_Maps,Defend,"Brimstone, Omen",0.67,130,7,9,3,-2,62%,74,16%,1,0,+1
+Palla,MIBR,All_Maps,Defend,Raze,0.94,200,9,10,2,-1,69%,127,19%,3,2,+1

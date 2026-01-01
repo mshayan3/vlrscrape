@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+1Haven,1,"""0-1""",PRX,Attackers,Elimination
+1Haven,2,"""0-2""",PRX,Attackers,Elimination
+1Haven,3,"""0-3""",PRX,Attackers,Elimination
+1Haven,4,"""0-4""",PRX,Attackers,Elimination
+1Haven,5,"""0-5""",PRX,Attackers,Elimination
+1Haven,6,"""0-6""",PRX,Attackers,Elimination
+1Haven,7,"""0-7""",PRX,Attackers,Elimination
+1Haven,8,"""0-8""",PRX,Attackers,Elimination
+1Haven,9,"""1-8""",DRX,Defenders,Defuse
+1Haven,10,"""2-8""",DRX,Defenders,Elimination
+1Haven,11,"""3-8""",DRX,Defenders,Elimination
+1Haven,12,"""4-8""",DRX,Defenders,Elimination
+1Haven,13,"""5-8""",PRX,Attackers,Elimination
+1Haven,14,"""6-8""",PRX,Attackers,Spike Detonation
+1Haven,15,"""7-8""",PRX,Attackers,Spike Detonation
+1Haven,16,"""8-8""",PRX,Attackers,Spike Detonation
+1Haven,17,"""9-8""",PRX,Attackers,Elimination
+1Haven,18,"""10-8""",PRX,Attackers,Spike Detonation
+1Haven,19,"""10-9""",DRX,Defenders,Defuse
+1Haven,20,"""11-9""",PRX,Attackers,Spike Detonation
+1Haven,21,"""12-9""",PRX,Attackers,Elimination
+1Haven,22,"""13-9""",PRX,Attackers,Elimination
+1Haven,23,"""""",,,
+1Haven,24,"""""",,,

@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+3Icebox,1,"""1-0""",TH,Defenders,Defuse
+3Icebox,2,"""2-0""",TH,Defenders,Defuse
+3Icebox,3,"""2-1""",DRX,Attackers,Spike Detonation
+3Icebox,4,"""3-1""",TH,Defenders,Elimination
+3Icebox,5,"""3-2""",DRX,Attackers,Elimination
+3Icebox,6,"""3-3""",DRX,Attackers,Spike Detonation
+3Icebox,7,"""3-4""",DRX,Attackers,Spike Detonation
+3Icebox,8,"""3-5""",DRX,Attackers,Spike Detonation
+3Icebox,9,"""3-6""",DRX,Attackers,Elimination
+3Icebox,10,"""4-6""",TH,Defenders,Defuse
+3Icebox,11,"""4-7""",DRX,Attackers,Elimination
+3Icebox,12,"""5-7""",TH,Defenders,Defuse
+3Icebox,13,"""5-8""",TH,Defenders,Defuse
+3Icebox,14,"""5-9""",TH,Defenders,Elimination
+3Icebox,15,"""6-9""",DRX,Attackers,Elimination
+3Icebox,16,"""7-9""",DRX,Attackers,Spike Detonation
+3Icebox,17,"""8-9""",DRX,Attackers,Elimination
+3Icebox,18,"""8-10""",TH,Defenders,Elimination
+3Icebox,19,"""9-10""",DRX,Attackers,Elimination
+3Icebox,20,"""10-10""",DRX,Attackers,Elimination
+3Icebox,21,"""11-10""",DRX,Attackers,Elimination
+3Icebox,22,"""12-10""",DRX,Attackers,Elimination
+3Icebox,23,"""13-10""",DRX,Attackers,Elimination
+3Icebox,24,"""""",,,

@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Jinggg,PRX,All_Maps,All,"Raze, Omen",0.94,208,28,32,9,-4,60%,135,14%,6,5,+1
+PatMen,PRX,All_Maps,All,"Fade, Viper",0.88,175,26,31,10,-5,70%,104,28%,2,3,-1
+f0rsakeN,PRX,All_Maps,All,"Omen, Sova",0.87,183,27,34,11,-7,68%,129,29%,4,3,+1
+d4v41,PRX,All_Maps,All,"Viper, Killjoy",0.83,143,21,30,11,-9,60%,103,27%,0,2,-2
+something,PRX,All_Maps,All,"Gekko, Jett",0.56,159,22,34,6,-12,58%,105,32%,5,10,-5
+t3xture,GEN,All_Maps,All,Jett,1.39,296,45,25,3,+20,80%,189,30%,12,8,+4
+Foxy9,GEN,All_Maps,All,Killjoy,1.26,234,34,24,10,+10,83%,144,26%,5,3,+2
+Munchkin,GEN,All_Maps,All,"Kayo, Viper",1.12,251,33,29,23,+4,73%,141,17%,2,1,+1
+Karon,GEN,All_Maps,All,Omen,1.07,174,29,24,12,+5,75%,123,26%,3,5,-2
+Ash,GEN,All_Maps,All,Sova,1.03,141,20,22,18,-2,83%,98,33%,1,0,+1
+Jinggg,PRX,All_Maps,Attack,"Raze, Omen",1.11,245,20,18,8,+2,71%,156,12%,3,4,-1
+PatMen,PRX,All_Maps,Attack,"Fade, Viper",1.22,197,19,16,5,+3,79%,124,32%,2,1,+1
+f0rsakeN,PRX,All_Maps,Attack,"Omen, Sova",0.70,151,12,20,8,-8,67%,106,22%,2,1,+1
+d4v41,PRX,All_Maps,Attack,"Viper, Killjoy",0.93,181,15,17,10,-2,67%,121,33%,0,0,0
+something,PRX,All_Maps,Attack,"Gekko, Jett",0.67,177,16,18,2,-2,58%,121,42%,4,7,-3
+t3xture,GEN,All_Maps,Attack,Jett,2.00,446,27,9,2,+18,100%,274,32%,7,2,+5
+Foxy9,GEN,All_Maps,Attack,Killjoy,1.28,185,11,7,4,+4,81%,123,30%,1,3,-2
+Munchkin,GEN,All_Maps,Attack,"Kayo, Viper",1.03,197,11,10,13,+1,81%,95,11%,1,0,+1
+Karon,GEN,All_Maps,Attack,Omen,1.21,252,16,10,5,+6,94%,160,24%,1,1,0
+Ash,GEN,All_Maps,Attack,Sova,1.15,127,7,6,10,+1,94%,85,40%,0,0,0
+Jinggg,PRX,All_Maps,Defend,"Raze, Omen",0.67,171,8,14,1,-6,44%,104,23%,3,1,+2
+PatMen,PRX,All_Maps,Defend,"Fade, Viper",0.37,126,7,15,5,-8,56%,76,20%,0,2,-2
+f0rsakeN,PRX,All_Maps,Defend,"Omen, Sova",1.13,273,15,14,3,+1,69%,162,37%,2,2,0
+d4v41,PRX,All_Maps,Defend,"Viper, Killjoy",0.68,116,6,13,1,-7,50%,75,14%,0,2,-2
+something,PRX,All_Maps,Defend,"Gekko, Jett",0.39,125,6,16,4,-10,56%,81,17%,1,3,-2
+t3xture,GEN,All_Maps,Defend,Jett,0.99,202,18,16,1,+2,67%,132,27%,5,6,-1
+Foxy9,GEN,All_Maps,Defend,Killjoy,1.24,256,23,17,6,+6,83%,157,25%,4,0,+4
+Munchkin,GEN,All_Maps,Defend,"Kayo, Viper",1.18,267,22,19,10,+3,67%,172,20%,1,1,0
+Karon,GEN,All_Maps,Defend,Omen,0.98,151,13,14,7,-1,63%,99,27%,2,4,-2
+Ash,GEN,All_Maps,Defend,Sova,0.94,148,13,16,8,-3,75%,107,29%,1,0,+1

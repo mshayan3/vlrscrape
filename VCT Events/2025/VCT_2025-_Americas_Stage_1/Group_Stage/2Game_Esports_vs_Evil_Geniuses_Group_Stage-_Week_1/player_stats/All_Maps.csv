@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Zap,2G,All_Maps,All,Sova,1.07,205,34,31,9,+3,71%,135,22%,2,1,+1
+gobera,2G,All_Maps,All,Cypher,0.99,203,33,31,4,+2,60%,140,36%,7,4,+3
+Askia,2G,All_Maps,All,"Yoru, Raze",0.97,214,34,35,6,-1,60%,157,30%,5,6,-1
+silentzz,2G,All_Maps,All,Iso,0.78,223,34,42,6,-8,62%,143,48%,6,4,+2
+lz,2G,All_Maps,All,Omen,0.76,144,22,33,24,-11,64%,87,30%,3,7,-4
+NaturE,EG,All_Maps,All,"Breach, Fade",1.24,232,37,31,25,+6,80%,138,21%,3,4,-1
+yay,EG,All_Maps,All,"Cypher, Clove",1.20,252,43,33,7,+10,80%,176,33%,3,5,-2
+Derrek,EG,All_Maps,All,"Sova, Tejo",1.02,177,26,28,17,-2,82%,123,35%,5,3,+2
+supamen,EG,All_Maps,All,"Omen, Viper",1.01,197,31,32,13,-1,71%,134,27%,2,5,-3
+icy,EG,All_Maps,All,"Waylay, Raze",0.97,210,35,33,7,+2,73%,132,17%,9,6,+3
+Zap,2G,All_Maps,Attack,Sova,0.99,167,15,14,3,+1,71%,115,16%,1,1,0
+gobera,2G,All_Maps,Attack,Cypher,1.05,213,18,15,4,+3,67%,150,38%,3,3,0
+Askia,2G,All_Maps,Attack,"Yoru, Raze",1.12,253,21,17,4,+4,63%,181,33%,2,2,0
+silentzz,2G,All_Maps,Attack,Iso,0.78,243,20,23,2,-3,71%,152,51%,4,2,+2
+lz,2G,All_Maps,Attack,Omen,1.01,170,14,15,15,-1,75%,95,38%,3,3,0
+NaturE,EG,All_Maps,Attack,"Breach, Fade",1.45,289,21,14,14,+7,86%,176,21%,3,2,+1
+yay,EG,All_Maps,Attack,"Cypher, Clove",1.56,292,25,12,2,+13,86%,224,41%,1,2,-1
+Derrek,EG,All_Maps,Attack,"Sova, Tejo",0.73,128,8,13,7,-5,81%,85,23%,1,1,0
+supamen,EG,All_Maps,Attack,"Omen, Viper",0.89,162,13,14,4,-1,76%,119,38%,1,2,-1
+icy,EG,All_Maps,Attack,"Waylay, Raze",1.19,277,21,16,3,+5,71%,170,21%,5,3,+2
+Zap,2G,All_Maps,Defend,Sova,1.16,245,19,17,6,+2,71%,159,28%,1,0,+1
+gobera,2G,All_Maps,Defend,Cypher,0.92,197,15,16,0,-1,52%,128,33%,4,1,+3
+Askia,2G,All_Maps,Defend,"Yoru, Raze",0.79,173,13,18,2,-5,57%,128,24%,3,4,-1
+silentzz,2G,All_Maps,Defend,Iso,0.79,199,14,19,4,-5,52%,133,44%,2,2,0
+lz,2G,All_Maps,Defend,Omen,0.47,119,8,18,9,-10,52%,77,20%,0,4,-4
+NaturE,EG,All_Maps,Defend,"Breach, Fade",1.05,183,16,17,11,-1,75%,105,21%,0,2,-2
+yay,EG,All_Maps,Defend,"Cypher, Clove",0.90,220,18,21,5,-3,75%,134,26%,2,3,-1
+Derrek,EG,All_Maps,Defend,"Sova, Tejo",1.27,220,18,15,10,+3,83%,156,43%,4,2,+2
+supamen,EG,All_Maps,Defend,"Omen, Viper",1.11,225,18,18,9,0,67%,147,20%,1,3,-2
+icy,EG,All_Maps,Defend,"Waylay, Raze",0.78,152,14,17,4,-3,75%,98,11%,4,3,+1

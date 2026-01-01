@@ -1,0 +1,27 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+1Haven,1,"""1-0""",FNC,Defenders,Elimination
+1Haven,2,"""2-0""",FNC,Defenders,Elimination
+1Haven,3,"""2-1""",KC,Attackers,Elimination
+1Haven,4,"""2-2""",KC,Attackers,Elimination
+1Haven,5,"""2-3""",KC,Attackers,Elimination
+1Haven,6,"""2-4""",KC,Attackers,Elimination
+1Haven,7,"""3-4""",FNC,Defenders,Defuse
+1Haven,8,"""3-5""",KC,Attackers,Spike Detonation
+1Haven,9,"""3-6""",KC,Attackers,Spike Detonation
+1Haven,10,"""4-6""",FNC,Defenders,Defuse
+1Haven,11,"""4-7""",KC,Attackers,Elimination
+1Haven,12,"""5-7""",FNC,Defenders,Elimination
+1Haven,13,"""6-7""",KC,Attackers,Spike Detonation
+1Haven,14,"""7-7""",KC,Attackers,Spike Detonation
+1Haven,15,"""8-7""",KC,Attackers,Spike Detonation
+1Haven,16,"""8-8""",FNC,Defenders,Elimination
+1Haven,17,"""8-9""",FNC,Defenders,Defuse
+1Haven,18,"""8-10""",FNC,Defenders,Elimination
+1Haven,19,"""9-10""",KC,Attackers,Spike Detonation
+1Haven,20,"""9-11""",FNC,Defenders,Time Expired
+1Haven,21,"""10-11""",KC,Attackers,Elimination
+1Haven,22,"""10-12""",FNC,Defenders,Elimination
+1Haven,23,"""11-12""",KC,Attackers,Elimination
+1Haven,24,"""12-12""",KC,Attackers,Elimination
+1Haven,25,"""12-13""",KC,Attackers,Elimination
+1Haven,26,"""12-14""",FNC,Defenders,Defuse

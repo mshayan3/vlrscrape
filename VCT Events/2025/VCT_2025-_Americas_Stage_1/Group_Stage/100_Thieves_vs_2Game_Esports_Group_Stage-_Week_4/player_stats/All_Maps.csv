@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Cryocells,100T,All_Maps,All,"Yoru, Jett",1.46,273,50,26,7,+24,85%,170,22%,4,6,-2
+Boostio,100T,All_Maps,All,Killjoy,1.30,271,44,34,8,+10,77%,175,33%,12,5,+7
+Asuna,100T,All_Maps,All,"Tejo, Gekko",1.13,187,29,28,25,+1,83%,128,19%,3,3,0
+zander,100T,All_Maps,All,"Omen, Viper",1.06,188,28,32,25,-4,79%,123,20%,4,5,-1
+eeiu,100T,All_Maps,All,Sova,0.91,167,25,30,14,-5,72%,112,28%,1,4,-3
+Askia,2G,All_Maps,All,Jett,1.01,222,35,36,9,-1,74%,155,31%,9,6,+3
+lz,2G,All_Maps,All,"Omen, Viper",0.97,207,37,35,17,+2,81%,124,44%,5,3,+2
+PxS,2G,All_Maps,All,Kayo,0.77,163,25,36,28,-11,79%,102,28%,5,6,-1
+gobera,2G,All_Maps,All,Tejo,0.76,152,25,33,13,-8,68%,117,22%,0,7,-7
+silentzz,2G,All_Maps,All,"Vyse, Killjoy",0.75,158,28,36,7,-8,55%,106,26%,4,2,+2
+Cryocells,100T,All_Maps,Attack,"Yoru, Jett",1.62,313,26,12,4,+14,86%,190,22%,1,3,-2
+Boostio,100T,All_Maps,Attack,Killjoy,1.28,247,18,16,4,+2,76%,168,30%,7,0,+7
+Asuna,100T,All_Maps,Attack,"Tejo, Gekko",1.45,194,15,9,10,+6,86%,125,23%,1,2,-1
+zander,100T,All_Maps,Attack,"Omen, Viper",0.82,166,11,16,8,-5,81%,124,18%,2,4,-2
+eeiu,100T,All_Maps,Attack,Sova,0.78,149,10,15,5,-5,71%,100,24%,0,1,-1
+Askia,2G,All_Maps,Attack,Jett,0.98,218,20,21,7,-1,81%,152,24%,5,3,+2
+lz,2G,All_Maps,Attack,"Omen, Viper",0.88,164,15,18,11,-3,73%,104,39%,2,1,+1
+PxS,2G,All_Maps,Attack,Kayo,0.77,155,14,19,12,-5,77%,91,33%,4,4,0
+gobera,2G,All_Maps,Attack,Tejo,0.73,171,13,19,8,-6,81%,122,28%,0,4,-4
+silentzz,2G,All_Maps,Attack,"Vyse, Killjoy",0.92,193,20,19,0,+1,58%,115,32%,2,1,+1
+Cryocells,100T,All_Maps,Defend,"Yoru, Jett",1.32,246,24,14,3,+10,85%,154,23%,3,3,0
+Boostio,100T,All_Maps,Defend,Killjoy,1.32,283,26,18,4,+8,77%,180,34%,5,5,0
+Asuna,100T,All_Maps,Defend,"Tejo, Gekko",0.88,185,14,19,15,-5,81%,130,16%,2,1,+1
+zander,100T,All_Maps,Defend,"Omen, Viper",1.26,201,17,16,17,+1,77%,123,22%,2,1,+1
+eeiu,100T,All_Maps,Defend,Sova,1.02,172,15,15,9,0,73%,122,30%,1,3,-2
+Askia,2G,All_Maps,Defend,Jett,1.05,206,15,15,2,0,67%,160,42%,4,3,+1
+lz,2G,All_Maps,Defend,"Omen, Viper",1.08,268,22,17,6,+5,90%,149,50%,3,2,+1
+PxS,2G,All_Maps,Defend,Kayo,0.76,176,11,17,16,-6,81%,115,24%,1,2,-1
+gobera,2G,All_Maps,Defend,Tejo,0.80,152,12,14,5,-2,52%,111,15%,0,3,-3
+silentzz,2G,All_Maps,Defend,"Vyse, Killjoy",0.56,134,8,17,7,-9,52%,94,20%,2,1,+1

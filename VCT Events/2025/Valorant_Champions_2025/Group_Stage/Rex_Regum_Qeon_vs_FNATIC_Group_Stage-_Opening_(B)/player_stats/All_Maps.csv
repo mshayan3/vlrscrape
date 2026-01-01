@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Kushy,RRQ,All_Maps,All,"Sova, Kayo",1.21,254,37,31,9,+6,67%,175,49%,6,5,+1
+Jemkin,RRQ,All_Maps,All,"Yoru, Jett",0.85,207,30,32,7,-2,63%,123,25%,8,8,0
+crazyguy,RRQ,All_Maps,All,"Tejo, Sova",0.70,154,21,31,9,-10,72%,106,22%,0,4,-4
+xffero,RRQ,All_Maps,All,Cypher,0.64,145,21,32,7,-11,60%,101,27%,3,5,-2
+Monyet,RRQ,All_Maps,All,Omen,0.61,118,18,32,15,-14,65%,69,30%,0,3,-3
+Chronicle,FNC,All_Maps,All,"Vyse, Breach",1.65,270,44,21,14,+23,84%,186,34%,6,2,+4
+Boaster,FNC,All_Maps,All,"Omen, Astra",1.44,221,36,22,13,+14,77%,135,52%,1,1,0
+Alfajer,FNC,All_Maps,All,"Sage, Cypher",1.27,247,38,27,11,+11,79%,157,38%,9,1,+8
+crashies,FNC,All_Maps,All,Sova,0.78,140,18,29,19,-11,74%,102,26%,2,4,-2
+kaajak,FNC,All_Maps,All,"Yoru, Waylay",0.60,154,22,33,4,-11,67%,98,32%,7,9,-2
+Kushy,RRQ,All_Maps,Attack,"Sova, Kayo",1.43,294,24,14,6,+10,70%,195,49%,5,3,+2
+Jemkin,RRQ,All_Maps,Attack,"Yoru, Jett",0.85,207,16,16,5,0,65%,126,27%,4,5,-1
+crazyguy,RRQ,All_Maps,Attack,"Tejo, Sova",0.84,158,13,15,7,-2,87%,116,23%,0,0,0
+xffero,RRQ,All_Maps,Attack,Cypher,0.57,152,11,17,4,-6,70%,102,28%,2,3,-1
+Monyet,RRQ,All_Maps,Attack,Omen,0.86,166,14,17,13,-3,78%,93,33%,0,0,0
+Chronicle,FNC,All_Maps,Attack,"Vyse, Breach",1.79,272,21,7,5,+14,90%,180,37%,4,2,+2
+Boaster,FNC,All_Maps,Attack,"Omen, Astra",1.66,243,19,8,8,+11,80%,150,41%,1,0,+1
+Alfajer,FNC,All_Maps,Attack,"Sage, Cypher",1.37,276,20,11,5,+9,85%,171,36%,4,0,+4
+crashies,FNC,All_Maps,Attack,Sova,0.66,94,6,10,4,-4,80%,66,40%,1,0,+1
+kaajak,FNC,All_Maps,Attack,"Yoru, Waylay",0.84,187,13,13,3,0,70%,115,29%,4,4,0
+Kushy,RRQ,All_Maps,Defend,"Sova, Kayo",0.96,211,13,17,3,-4,65%,152,50%,1,2,-1
+Jemkin,RRQ,All_Maps,Defend,"Yoru, Jett",0.84,215,14,16,2,-2,60%,120,20%,4,3,+1
+crazyguy,RRQ,All_Maps,Defend,"Tejo, Sova",0.54,146,8,16,2,-8,55%,95,21%,0,4,-4
+xffero,RRQ,All_Maps,Defend,Cypher,0.71,142,10,15,3,-5,50%,100,26%,1,2,-1
+Monyet,RRQ,All_Maps,Defend,Omen,0.33,59,4,15,2,-11,50%,41,25%,0,3,-3
+Chronicle,FNC,All_Maps,Defend,"Vyse, Breach",1.53,271,23,14,9,+9,78%,191,32%,2,0,+2
+Boaster,FNC,All_Maps,Defend,"Omen, Astra",1.25,191,17,14,5,+3,74%,122,68%,0,1,-1
+Alfajer,FNC,All_Maps,Defend,"Sage, Cypher",1.18,220,18,16,6,+2,74%,145,40%,5,1,+4
+crashies,FNC,All_Maps,Defend,Sova,0.89,185,12,19,15,-7,70%,133,20%,1,4,-3
+kaajak,FNC,All_Maps,Defend,"Yoru, Waylay",0.40,121,9,20,1,-11,65%,82,36%,3,5,-2

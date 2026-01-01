@@ -1,0 +1,31 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+2Corrode,1,"""1-0""",NAVI,Attackers,Elimination
+2Corrode,2,"""1-1""",MKOI,Defenders,Defuse
+2Corrode,3,"""1-2""",MKOI,Defenders,Elimination
+2Corrode,4,"""2-2""",NAVI,Attackers,Elimination
+2Corrode,5,"""2-3""",MKOI,Defenders,Elimination
+2Corrode,6,"""3-3""",NAVI,Attackers,Elimination
+2Corrode,7,"""4-3""",NAVI,Attackers,Elimination
+2Corrode,8,"""4-4""",MKOI,Defenders,Defuse
+2Corrode,9,"""4-5""",MKOI,Defenders,Elimination
+2Corrode,10,"""4-6""",MKOI,Defenders,Time Expired
+2Corrode,11,"""4-7""",MKOI,Defenders,Elimination
+2Corrode,12,"""5-7""",NAVI,Attackers,Elimination
+2Corrode,13,"""5-8""",NAVI,Attackers,Elimination
+2Corrode,14,"""5-9""",NAVI,Attackers,Spike Detonation
+2Corrode,15,"""6-9""",MKOI,Defenders,Defuse
+2Corrode,16,"""7-9""",MKOI,Defenders,Elimination
+2Corrode,17,"""8-9""",MKOI,Defenders,Elimination
+2Corrode,18,"""8-10""",NAVI,Attackers,Elimination
+2Corrode,19,"""9-10""",MKOI,Defenders,Elimination
+2Corrode,20,"""10-10""",MKOI,Defenders,Defuse
+2Corrode,21,"""10-11""",NAVI,Attackers,Spike Detonation
+2Corrode,22,"""11-11""",MKOI,Defenders,Defuse
+2Corrode,23,"""12-11""",MKOI,Defenders,Elimination
+2Corrode,24,"""12-12""",NAVI,Attackers,Elimination
+2Corrode,25,"""12-13""",MKOI,Defenders,Defuse
+2Corrode,26,"""13-13""",MKOI,Defenders,Elimination
+2Corrode,27,"""13-14""",MKOI,Defenders,Elimination
+2Corrode,28,"""14-14""",MKOI,Defenders,Defuse
+2Corrode,29,"""15-14""",NAVI,Attackers,Spike Detonation
+2Corrode,30,"""16-14""",MKOI,Defenders,Elimination

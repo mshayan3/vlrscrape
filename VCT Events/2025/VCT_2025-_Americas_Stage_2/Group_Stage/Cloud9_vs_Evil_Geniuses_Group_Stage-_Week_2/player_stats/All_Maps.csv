@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+mitch,C9,All_Maps,All,"Fade, Skye",1.25,238,31,25,27,+6,79%,155,19%,5,3,+2
+v1c,C9,All_Maps,All,Omen,1.22,224,36,26,22,+10,74%,144,27%,2,3,-1
+neT,C9,All_Maps,All,Viper,1.14,205,32,25,15,+7,70%,132,33%,5,4,+1
+OXY,C9,All_Maps,All,"Neon, Jett",1.13,257,39,29,9,+10,77%,165,25%,6,8,-2
+Xeppaa,C9,All_Maps,All,"Vyse, Killjoy",0.96,175,28,29,13,-1,77%,116,20%,4,3,+1
+Derrek,EG,All_Maps,All,"Tejo, Sova",1.11,206,29,30,14,-1,65%,157,26%,4,0,+4
+yay,EG,All_Maps,All,"Clove, Jett",0.97,206,34,33,5,+1,63%,132,29%,6,7,-1
+icy,EG,All_Maps,All,"Raze, Cypher",0.82,165,25,33,9,-8,63%,101,27%,4,6,-2
+supamen,EG,All_Maps,All,"Viper, Omen",0.79,181,27,35,11,-8,67%,119,32%,6,5,+1
+NaturE,EG,All_Maps,All,"Fade, Breach",0.68,130,19,35,19,-16,65%,80,23%,1,4,-3
+mitch,C9,All_Maps,Attack,"Fade, Skye",1.24,234,17,13,17,+4,83%,155,23%,2,2,0
+v1c,C9,All_Maps,Attack,Omen,1.26,237,21,14,10,+7,74%,151,31%,1,3,-2
+neT,C9,All_Maps,Attack,Viper,1.16,225,19,13,7,+6,65%,142,33%,4,3,+1
+OXY,C9,All_Maps,Attack,"Neon, Jett",1.18,260,22,16,6,+6,78%,178,31%,1,4,-3
+Xeppaa,C9,All_Maps,Attack,"Vyse, Killjoy",1.07,187,16,16,9,0,83%,136,26%,0,3,-3
+Derrek,EG,All_Maps,Attack,"Tejo, Sova",1.05,170,10,13,8,-3,65%,136,22%,2,0,+2
+yay,EG,All_Maps,Attack,"Clove, Jett",1.22,230,18,14,3,+4,60%,156,40%,1,5,-4
+icy,EG,All_Maps,Attack,"Raze, Cypher",0.77,172,12,15,4,-3,65%,109,29%,2,6,-4
+supamen,EG,All_Maps,Attack,"Viper, Omen",0.67,147,11,15,6,-4,60%,89,30%,1,3,-2
+NaturE,EG,All_Maps,Attack,"Fade, Breach",0.93,136,11,14,10,-3,70%,75,26%,0,0,0
+mitch,C9,All_Maps,Defend,"Fade, Skye",1.26,242,14,12,10,+2,75%,155,15%,3,1,+2
+v1c,C9,All_Maps,Defend,Omen,1.18,210,15,12,12,+3,75%,136,23%,1,0,+1
+neT,C9,All_Maps,Defend,Viper,1.12,182,13,12,8,+1,75%,119,32%,1,1,0
+OXY,C9,All_Maps,Defend,"Neon, Jett",1.08,243,17,13,3,+4,75%,150,18%,5,4,+1
+Xeppaa,C9,All_Maps,Defend,"Vyse, Killjoy",0.85,159,12,13,4,-1,70%,94,12%,4,0,+4
+Derrek,EG,All_Maps,Defend,"Tejo, Sova",1.17,241,19,17,6,+2,65%,175,29%,2,0,+2
+yay,EG,All_Maps,Defend,"Clove, Jett",0.75,186,16,19,2,-3,65%,112,20%,5,2,+3
+icy,EG,All_Maps,Defend,"Raze, Cypher",0.85,159,13,18,5,-5,61%,93,25%,2,0,+2
+supamen,EG,All_Maps,Defend,"Viper, Omen",0.89,211,16,20,5,-4,74%,144,32%,5,2,+3
+NaturE,EG,All_Maps,Defend,"Fade, Breach",0.45,124,8,21,9,-13,61%,84,21%,1,4,-3

@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+3Abyss,1,"""0-1""",T1,Attackers,Elimination
+3Abyss,2,"""0-2""",T1,Attackers,Elimination
+3Abyss,3,"""0-3""",T1,Attackers,Elimination
+3Abyss,4,"""0-4""",T1,Attackers,Elimination
+3Abyss,5,"""0-5""",T1,Attackers,Elimination
+3Abyss,6,"""0-6""",T1,Attackers,Elimination
+3Abyss,7,"""1-6""",G2,Defenders,Elimination
+3Abyss,8,"""1-7""",T1,Attackers,Elimination
+3Abyss,9,"""2-7""",G2,Defenders,Elimination
+3Abyss,10,"""3-7""",G2,Defenders,Defuse
+3Abyss,11,"""3-8""",T1,Attackers,Elimination
+3Abyss,12,"""4-8""",G2,Defenders,Defuse
+3Abyss,13,"""5-8""",T1,Attackers,Elimination
+3Abyss,14,"""6-8""",T1,Attackers,Elimination
+3Abyss,15,"""6-9""",G2,Defenders,Elimination
+3Abyss,16,"""6-10""",G2,Defenders,Defuse
+3Abyss,17,"""7-10""",T1,Attackers,Elimination
+3Abyss,18,"""8-10""",T1,Attackers,Elimination
+3Abyss,19,"""8-11""",G2,Defenders,Time Expired
+3Abyss,20,"""9-11""",T1,Attackers,Elimination
+3Abyss,21,"""10-11""",T1,Attackers,Elimination
+3Abyss,22,"""11-11""",T1,Attackers,Spike Detonation
+3Abyss,23,"""12-11""",T1,Attackers,Elimination
+3Abyss,24,"""13-11""",T1,Attackers,Elimination

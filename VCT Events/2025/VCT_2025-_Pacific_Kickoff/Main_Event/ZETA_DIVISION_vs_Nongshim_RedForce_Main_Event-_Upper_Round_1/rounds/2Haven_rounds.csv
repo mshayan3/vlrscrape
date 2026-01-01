@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+2Haven,1,"""0-1""",NS,Attackers,Elimination
+2Haven,2,"""0-2""",NS,Attackers,Elimination
+2Haven,3,"""1-2""",ZETA,Defenders,Time Expired
+2Haven,4,"""2-2""",ZETA,Defenders,Elimination
+2Haven,5,"""2-3""",NS,Attackers,Elimination
+2Haven,6,"""2-4""",NS,Attackers,Elimination
+2Haven,7,"""3-4""",ZETA,Defenders,Defuse
+2Haven,8,"""3-5""",NS,Attackers,Elimination
+2Haven,9,"""3-6""",NS,Attackers,Elimination
+2Haven,10,"""3-7""",NS,Attackers,Elimination
+2Haven,11,"""3-8""",NS,Attackers,Elimination
+2Haven,12,"""4-8""",ZETA,Defenders,Elimination
+2Haven,13,"""5-8""",NS,Attackers,Elimination
+2Haven,14,"""6-8""",NS,Attackers,Elimination
+2Haven,15,"""6-9""",ZETA,Defenders,Elimination
+2Haven,16,"""7-9""",NS,Attackers,Elimination
+2Haven,17,"""8-9""",NS,Attackers,Elimination
+2Haven,18,"""8-10""",ZETA,Defenders,Time Expired
+2Haven,19,"""8-11""",ZETA,Defenders,Elimination
+2Haven,20,"""8-12""",ZETA,Defenders,Defuse
+2Haven,21,"""9-12""",NS,Attackers,Elimination
+2Haven,22,"""9-13""",ZETA,Defenders,Elimination
+2Haven,23,"""""",,,
+2Haven,24,"""""",,,

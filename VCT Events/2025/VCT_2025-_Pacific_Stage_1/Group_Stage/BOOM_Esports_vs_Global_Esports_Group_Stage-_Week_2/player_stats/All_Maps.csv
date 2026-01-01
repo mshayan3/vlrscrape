@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+BerserX,BME,All_Maps,All,"Viper, Cypher",1.64,281,37,18,9,+19,87%,177,34%,3,4,-1
+dos9,BME,All_Maps,All,Omen,1.33,236,35,25,24,+10,74%,140,25%,7,0,+7
+NcSlasher,BME,All_Maps,All,Breach,1.17,196,27,19,19,+8,84%,127,35%,1,1,0
+Famouz,BME,All_Maps,All,Neon,1.15,264,35,26,11,+9,92%,162,18%,10,4,+6
+Shiro,BME,All_Maps,All,"Tejo, Sova",1.08,195,27,28,19,-1,68%,150,27%,3,5,-2
+UdoTan,GE,All_Maps,All,"Cypher, Iso",1.24,261,35,31,13,+4,79%,192,25%,5,3,+2
+Kr1stal,GE,All_Maps,All,"Tejo, Sova",0.96,174,23,30,10,-7,68%,117,23%,0,3,-3
+kellyS,GE,All_Maps,All,"Breach, Cypher",0.80,189,26,32,9,-6,61%,126,30%,3,4,-1
+Papi,GE,All_Maps,All,Omen,0.55,142,18,34,15,-16,68%,88,27%,3,4,-1
+yokam,GE,All_Maps,All,Yoru,0.38,135,14,34,6,-20,47%,91,25%,3,10,-7
+BerserX,BME,All_Maps,Attack,"Viper, Cypher",1.75,296,14,8,4,+6,93%,201,32%,2,0,+2
+dos9,BME,All_Maps,Attack,Omen,1.22,201,11,10,11,+1,64%,101,16%,2,0,+2
+NcSlasher,BME,All_Maps,Attack,Breach,0.65,82,4,8,6,-4,71%,55,19%,0,1,-1
+Famouz,BME,All_Maps,Attack,Neon,0.66,227,10,13,4,-3,86%,149,20%,4,4,0
+Shiro,BME,All_Maps,Attack,"Tejo, Sova",1.25,196,10,9,4,+1,57%,137,33%,1,0,+1
+UdoTan,GE,All_Maps,Attack,"Cypher, Iso",1.11,256,19,21,9,-2,75%,175,25%,3,2,+1
+Kr1stal,GE,All_Maps,Attack,"Tejo, Sova",0.73,161,13,22,6,-9,63%,103,21%,0,3,-3
+kellyS,GE,All_Maps,Attack,"Breach, Cypher",0.65,168,14,22,4,-8,54%,110,25%,2,2,0
+Papi,GE,All_Maps,Attack,Omen,0.61,154,13,23,8,-10,71%,99,24%,1,2,-1
+yokam,GE,All_Maps,Attack,Yoru,0.34,136,9,24,4,-15,46%,100,24%,3,6,-3
+BerserX,BME,All_Maps,Defend,"Viper, Cypher",1.57,241,23,10,5,+13,83%,162,35%,1,4,-3
+dos9,BME,All_Maps,Defend,Omen,1.39,244,24,15,13,+9,79%,163,31%,5,0,+5
+NcSlasher,BME,All_Maps,Defend,Breach,1.48,254,23,11,13,+12,92%,169,40%,1,0,+1
+Famouz,BME,All_Maps,Defend,Neon,1.44,281,25,13,7,+12,96%,170,16%,6,0,+6
+Shiro,BME,All_Maps,Defend,"Tejo, Sova",0.98,222,17,19,15,-2,75%,159,25%,2,5,-3
+UdoTan,GE,All_Maps,Defend,"Cypher, Iso",1.47,328,16,10,4,+6,86%,220,24%,2,1,+1
+Kr1stal,GE,All_Maps,Defend,"Tejo, Sova",1.35,201,10,8,4,+2,79%,141,26%,0,0,0
+kellyS,GE,All_Maps,Defend,"Breach, Cypher",1.05,253,12,10,5,+2,71%,153,38%,1,2,-1
+Papi,GE,All_Maps,Defend,Omen,0.46,118,5,11,7,-6,64%,69,38%,2,2,0
+yokam,GE,All_Maps,Defend,Yoru,0.46,111,5,10,2,-5,50%,77,26%,0,4,-4

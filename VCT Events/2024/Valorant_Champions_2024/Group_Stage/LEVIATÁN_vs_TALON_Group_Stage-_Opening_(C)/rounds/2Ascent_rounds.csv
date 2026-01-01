@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+2Ascent,1,"""1-0""",LEV,Defenders,Defuse
+2Ascent,2,"""2-0""",LEV,Defenders,Elimination
+2Ascent,3,"""2-1""",TLN,Attackers,Spike Detonation
+2Ascent,4,"""2-2""",TLN,Attackers,Elimination
+2Ascent,5,"""2-3""",TLN,Attackers,Spike Detonation
+2Ascent,6,"""3-3""",LEV,Defenders,Defuse
+2Ascent,7,"""4-3""",LEV,Defenders,Defuse
+2Ascent,8,"""4-4""",TLN,Attackers,Spike Detonation
+2Ascent,9,"""5-4""",LEV,Defenders,Time Expired
+2Ascent,10,"""6-4""",LEV,Defenders,Defuse
+2Ascent,11,"""7-4""",LEV,Defenders,Time Expired
+2Ascent,12,"""8-4""",LEV,Defenders,Elimination
+2Ascent,13,"""9-4""",TLN,Attackers,Elimination
+2Ascent,14,"""9-5""",LEV,Defenders,Elimination
+2Ascent,15,"""9-6""",LEV,Defenders,Elimination
+2Ascent,16,"""9-7""",LEV,Defenders,Defuse
+2Ascent,17,"""9-8""",LEV,Defenders,Defuse
+2Ascent,18,"""10-8""",TLN,Attackers,Elimination
+2Ascent,19,"""11-8""",TLN,Attackers,Elimination
+2Ascent,20,"""12-8""",TLN,Attackers,Elimination
+2Ascent,21,"""13-8""",TLN,Attackers,Elimination
+2Ascent,22,"""""",,,
+2Ascent,23,"""""",,,
+2Ascent,24,"""""",,,

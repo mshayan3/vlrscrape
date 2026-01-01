@@ -1,0 +1,33 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+1Abyss,1,"""0-1""",EDG,Attackers,Elimination
+1Abyss,2,"""0-2""",EDG,Attackers,Elimination
+1Abyss,3,"""0-3""",EDG,Attackers,Spike Detonation
+1Abyss,4,"""1-3""",NRG,Defenders,Time Expired
+1Abyss,5,"""1-4""",EDG,Attackers,Spike Detonation
+1Abyss,6,"""1-5""",EDG,Attackers,Elimination
+1Abyss,7,"""2-5""",NRG,Defenders,Defuse
+1Abyss,8,"""2-6""",EDG,Attackers,Elimination
+1Abyss,9,"""2-7""",EDG,Attackers,Elimination
+1Abyss,10,"""2-8""",EDG,Attackers,Spike Detonation
+1Abyss,11,"""2-9""",EDG,Attackers,Elimination
+1Abyss,12,"""2-10""",EDG,Attackers,Elimination
+1Abyss,13,"""2-11""",NRG,Defenders,Defuse
+1Abyss,14,"""3-11""",EDG,Attackers,Elimination
+1Abyss,15,"""4-11""",EDG,Attackers,Elimination
+1Abyss,16,"""5-11""",EDG,Attackers,Elimination
+1Abyss,17,"""6-11""",EDG,Attackers,Elimination
+1Abyss,18,"""7-11""",EDG,Attackers,Spike Detonation
+1Abyss,19,"""7-12""",NRG,Defenders,Defuse
+1Abyss,20,"""8-12""",EDG,Attackers,Elimination
+1Abyss,21,"""9-12""",EDG,Attackers,Elimination
+1Abyss,22,"""10-12""",EDG,Attackers,Spike Detonation
+1Abyss,23,"""11-12""",EDG,Attackers,Spike Detonation
+1Abyss,24,"""12-12""",EDG,Attackers,Elimination
+1Abyss,25,"""12-13""",EDG,Attackers,Elimination
+1Abyss,26,"""13-13""",EDG,Attackers,Elimination
+1Abyss,27,"""13-14""",EDG,Attackers,Elimination
+1Abyss,28,"""14-14""",EDG,Attackers,Elimination
+1Abyss,29,"""15-14""",NRG,Defenders,Elimination
+1Abyss,30,"""15-15""",NRG,Defenders,Defuse
+1Abyss,31,"""16-15""",NRG,Defenders,Elimination
+1Abyss,32,"""17-15""",EDG,Attackers,Elimination

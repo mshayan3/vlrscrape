@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+adverso,FUR,All_Maps,All,Sova,0.91,195,21,27,4,-6,57%,130,24%,0,1,-1
+heat,FUR,All_Maps,All,Viper,0.81,205,19,26,5,-7,73%,127,29%,3,2,+1
+Palla,FUR,All_Maps,All,"Neon, Waylay",0.69,207,20,30,2,-10,60%,126,37%,4,8,-4
+tuyz,FUR,All_Maps,All,Omen,0.40,116,13,29,7,-16,57%,81,39%,1,5,-4
+Urango,FUR,All_Maps,All,"Sage, Killjoy",0.31,94,8,27,6,-19,60%,76,24%,0,6,-6
+N4RRATE,SEN,All_Maps,All,"Fade, Sova",1.63,293,32,14,13,+18,97%,198,36%,4,1,+3
+Zellsis,SEN,All_Maps,All,"Breach, Killjoy",1.45,267,29,17,18,+12,93%,165,24%,2,2,0
+zekken,SEN,All_Maps,All,"Neon, Jett",1.34,301,35,21,3,+14,83%,189,23%,10,2,+8
+bang,SEN,All_Maps,All,"Omen, Viper",1.24,234,24,17,13,+7,90%,143,26%,6,2,+4
+johnqt,SEN,All_Maps,All,"Cypher, Sage",1.14,153,19,12,11,+7,80%,101,30%,0,1,-1
+adverso,FUR,All_Maps,Attack,Sova,0.73,217,9,13,0,-4,62%,143,20%,0,1,-1
+heat,FUR,All_Maps,Attack,Viper,0.63,140,7,10,0,-3,54%,87,17%,0,1,-1
+Palla,FUR,All_Maps,Attack,"Neon, Waylay",0.56,200,8,14,1,-6,46%,120,38%,2,6,-4
+tuyz,FUR,All_Maps,Attack,Omen,0.35,99,6,12,0,-6,69%,57,50%,1,2,-1
+Urango,FUR,All_Maps,Attack,"Sage, Killjoy",0.53,114,4,11,5,-7,85%,91,30%,0,0,0
+N4RRATE,SEN,All_Maps,Attack,"Fade, Sova",1.57,290,18,8,7,+10,94%,197,37%,2,0,+2
+Zellsis,SEN,All_Maps,Attack,"Breach, Killjoy",1.43,273,18,10,5,+8,88%,168,23%,1,2,-1
+zekken,SEN,All_Maps,Attack,"Neon, Jett",0.93,238,16,12,1,+4,76%,145,36%,4,2,+2
+bang,SEN,All_Maps,Attack,"Omen, Viper",1.06,235,13,11,6,+2,82%,142,19%,5,1,+4
+johnqt,SEN,All_Maps,Attack,"Cypher, Sage",1.46,194,14,6,6,+8,88%,134,39%,0,0,0
+adverso,FUR,All_Maps,Defend,Sova,1.05,188,12,14,4,-2,53%,120,27%,0,0,0
+heat,FUR,All_Maps,Defend,Viper,0.94,244,12,16,5,-4,88%,157,35%,3,1,+2
+Palla,FUR,All_Maps,Defend,"Neon, Waylay",0.80,210,12,16,1,-4,71%,130,36%,2,2,0
+tuyz,FUR,All_Maps,Defend,Omen,0.44,139,7,17,7,-10,47%,99,35%,0,3,-3
+Urango,FUR,All_Maps,Defend,"Sage, Killjoy",0.15,79,4,16,1,-12,41%,65,19%,0,6,-6
+N4RRATE,SEN,All_Maps,Defend,"Fade, Sova",1.71,296,14,6,6,+8,100%,199,34%,2,1,+1
+Zellsis,SEN,All_Maps,Defend,"Breach, Killjoy",1.48,241,11,7,13,+4,100%,160,27%,1,0,+1
+zekken,SEN,All_Maps,Defend,"Neon, Jett",1.88,413,19,9,2,+10,92%,246,16%,6,0,+6
+bang,SEN,All_Maps,Defend,"Omen, Viper",1.46,226,11,6,7,+5,100%,146,42%,1,1,0
+johnqt,SEN,All_Maps,Defend,"Cypher, Sage",0.71,97,5,6,5,-1,69%,58,13%,0,1,-1

@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Palla,MIBR,All_Maps,All,Jett,0.94,228,29,32,6,-3,62%,148,27%,8,7,+1
+rich,MIBR,All_Maps,All,"Sova, Skye",0.93,175,24,29,5,-5,73%,120,46%,4,0,+4
+mazin,MIBR,All_Maps,All,"Viper, Omen",0.70,131,14,28,12,-14,54%,87,37%,1,5,-4
+liazzi,MIBR,All_Maps,All,"Gekko, Raze",0.61,156,19,32,9,-13,73%,101,24%,4,4,0
+artzin,MIBR,All_Maps,All,"Killjoy, Viper",0.50,139,17,33,10,-16,65%,91,19%,2,2,0
+eeiu,100T,All_Maps,All,"Sova, Fade",1.85,300,43,14,9,+29,97%,193,34%,3,0,+3
+Boostio,100T,All_Maps,All,"Killjoy, Breach",1.33,242,33,21,18,+12,89%,170,34%,3,3,0
+Asuna,100T,All_Maps,All,"Gekko, Raze",1.11,180,24,20,15,+4,84%,120,17%,4,6,-2
+bang,100T,All_Maps,All,Viper,1.05,218,27,24,12,+3,73%,136,39%,7,5,+2
+Cryocells,100T,All_Maps,All,"Jett, Astra",0.96,192,27,25,9,+2,76%,124,39%,1,5,-4
+Palla,MIBR,All_Maps,Attack,Jett,0.72,197,16,22,3,-6,63%,132,28%,6,5,+1
+rich,MIBR,All_Maps,Attack,"Sova, Skye",0.83,147,13,20,3,-7,75%,99,38%,1,0,+1
+mazin,MIBR,All_Maps,Attack,"Viper, Omen",0.82,158,12,19,5,-7,54%,101,35%,1,3,-2
+liazzi,MIBR,All_Maps,Attack,"Gekko, Raze",0.37,125,9,23,4,-14,63%,79,17%,2,4,-2
+artzin,MIBR,All_Maps,Attack,"Killjoy, Viper",0.23,102,8,24,3,-16,54%,76,35%,1,1,0
+eeiu,100T,All_Maps,Attack,"Sova, Fade",1.53,255,12,6,2,+6,92%,163,45%,1,0,+1
+Boostio,100T,All_Maps,Attack,"Killjoy, Breach",0.58,150,7,10,7,-3,77%,109,16%,0,2,-2
+Asuna,100T,All_Maps,Attack,"Gekko, Raze",1.17,180,9,8,3,+1,69%,111,25%,2,3,-1
+bang,100T,All_Maps,Attack,Viper,0.88,184,9,10,4,-1,62%,103,47%,1,1,0
+Cryocells,100T,All_Maps,Attack,"Jett, Astra",0.87,226,10,11,3,-1,54%,157,40%,1,2,-1
+Palla,MIBR,All_Maps,Defend,Jett,1.36,286,13,10,3,+3,62%,177,26%,2,2,0
+rich,MIBR,All_Maps,Defend,"Sova, Skye",1.12,220,11,9,2,+2,69%,159,57%,3,0,+3
+mazin,MIBR,All_Maps,Defend,"Viper, Omen",0.46,81,2,9,7,-7,54%,62,42%,0,2,-2
+liazzi,MIBR,All_Maps,Defend,"Gekko, Raze",1.05,217,10,9,5,+1,92%,140,33%,2,0,+2
+artzin,MIBR,All_Maps,Defend,"Killjoy, Viper",1.01,212,9,9,7,0,85%,119,11%,1,1,0
+eeiu,100T,All_Maps,Defend,"Sova, Fade",2.03,327,31,8,7,+23,100%,209,30%,2,0,+2
+Boostio,100T,All_Maps,Defend,"Killjoy, Breach",1.73,291,26,11,11,+15,96%,203,42%,3,1,+2
+Asuna,100T,All_Maps,Defend,"Gekko, Raze",1.08,180,15,12,12,+3,92%,125,15%,2,3,-1
+bang,100T,All_Maps,Defend,Viper,1.14,238,18,14,8,+4,79%,153,36%,6,4,+2
+Cryocells,100T,All_Maps,Defend,"Jett, Astra",1.00,173,17,14,6,+3,88%,107,38%,0,3,-3

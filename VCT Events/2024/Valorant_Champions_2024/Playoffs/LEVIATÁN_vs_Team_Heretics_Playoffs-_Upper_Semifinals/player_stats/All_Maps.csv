@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+aspas,LEV,All_Maps,All,"Jett, Raze",1.30,274,52,38,6,+14,84%,169,22%,7,5,+2
+Mazino,LEV,All_Maps,All,"Harbor, Breach",1.03,206,38,34,14,+4,69%,137,30%,5,2,+3
+kiNgg,LEV,All_Maps,All,"Viper, Omen",1.03,175,31,34,19,-3,78%,111,22%,4,2,+2
+tex,LEV,All_Maps,All,"Killjoy, Cypher",0.99,203,35,34,9,+1,75%,144,29%,10,7,+3
+C0M,LEV,All_Maps,All,"Sova, Fade",0.91,180,30,37,22,-7,69%,130,27%,4,5,-1
+Boo,TH,All_Maps,All,"Viper, Fade",1.08,178,33,32,13,+1,71%,127,43%,4,3,+1
+benjyfishy,TH,All_Maps,All,Killjoy,1.05,222,43,35,2,+8,67%,138,36%,7,7,0
+MiniBoo,TH,All_Maps,All,"Neon, Raze",1.01,227,42,41,7,+1,71%,156,37%,7,6,+1
+RieNs,TH,All_Maps,All,"Sova, Viper",0.96,193,35,37,11,-2,75%,133,39%,2,5,-3
+Wo0t,TH,All_Maps,All,"Gekko, Omen",0.56,145,24,41,19,-17,69%,104,28%,1,9,-8
+aspas,LEV,All_Maps,Attack,"Jett, Raze",1.15,258,25,18,3,+7,92%,154,24%,4,1,+3
+Mazino,LEV,All_Maps,Attack,"Harbor, Breach",1.20,241,23,14,8,+9,80%,149,34%,3,1,+2
+kiNgg,LEV,All_Maps,Attack,"Viper, Omen",1.17,181,15,13,12,+2,80%,117,22%,2,1,+1
+tex,LEV,All_Maps,Attack,"Killjoy, Cypher",1.29,240,21,13,4,+8,84%,169,25%,7,2,+5
+C0M,LEV,All_Maps,Attack,"Sova, Fade",1.19,213,19,15,11,+4,76%,152,31%,2,2,0
+Boo,TH,All_Maps,Attack,"Viper, Fade",1.11,172,17,14,7,+3,81%,116,45%,2,0,+2
+benjyfishy,TH,All_Maps,Attack,Killjoy,1.24,250,26,16,0,+10,73%,150,38%,6,1,+5
+MiniBoo,TH,All_Maps,Attack,"Neon, Raze",1.05,258,25,19,4,+6,85%,177,33%,5,4,+1
+RieNs,TH,All_Maps,Attack,"Sova, Viper",1.22,201,20,14,7,+6,85%,138,42%,0,3,-3
+Wo0t,TH,All_Maps,Attack,"Gekko, Omen",0.75,193,16,20,14,-4,88%,134,30%,1,4,-3
+aspas,LEV,All_Maps,Defend,"Jett, Raze",1.46,279,27,20,3,+7,77%,184,21%,3,4,-1
+Mazino,LEV,All_Maps,Defend,"Harbor, Breach",0.86,171,15,20,6,-5,58%,124,25%,2,1,+1
+kiNgg,LEV,All_Maps,Defend,"Viper, Omen",0.89,173,16,21,7,-5,77%,104,22%,2,1,+1
+tex,LEV,All_Maps,Defend,"Killjoy, Cypher",0.70,178,14,21,5,-7,65%,120,35%,3,5,-2
+C0M,LEV,All_Maps,Defend,"Sova, Fade",0.65,150,11,22,11,-11,62%,108,24%,2,3,-1
+Boo,TH,All_Maps,Defend,"Viper, Fade",1.04,197,16,18,6,-2,60%,139,41%,2,3,-1
+benjyfishy,TH,All_Maps,Defend,Killjoy,0.86,193,17,19,2,-2,60%,125,34%,1,6,-5
+MiniBoo,TH,All_Maps,Defend,"Neon, Raze",0.98,200,17,22,3,-5,56%,135,41%,2,2,0
+RieNs,TH,All_Maps,Defend,"Sova, Viper",0.69,187,15,23,4,-8,64%,127,35%,2,2,0
+Wo0t,TH,All_Maps,Defend,"Gekko, Omen",0.36,96,8,21,5,-13,48%,72,23%,0,5,-5

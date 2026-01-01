@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Munchkin,GEN,All_Maps,All,"Kayo, Viper",1.36,235,31,18,15,+13,76%,149,33%,7,3,+4
+Foxy9,GEN,All_Maps,All,"Cypher, Killjoy",1.18,199,28,20,7,+8,71%,143,41%,1,4,-3
+yoman,GEN,All_Maps,All,"Sova, Fade",1.17,182,26,17,9,+9,79%,112,41%,1,0,+1
+Karon,GEN,All_Maps,All,Omen,1.15,198,30,23,14,+7,74%,143,47%,0,4,-4
+t3xture,GEN,All_Maps,All,"Jett, Raze",1.00,219,30,24,5,+6,68%,136,28%,10,8,+2
+Akame,DFM,All_Maps,All,"Kayo, Vyse",1.02,212,27,29,8,-2,68%,144,22%,5,1,+4
+Meiy,DFM,All_Maps,All,"Jett, Raze",0.86,183,22,29,4,-7,58%,121,21%,6,7,-1
+Art,DFM,All_Maps,All,"Sova, Omen",0.81,173,19,30,14,-11,66%,112,14%,6,5,+1
+Jinboong,DFM,All_Maps,All,"Astra, Fade",0.70,123,16,28,13,-12,61%,76,38%,2,4,-2
+gyen,DFM,All_Maps,All,"Omen, Astra",0.67,129,18,29,8,-11,61%,76,24%,0,2,-2
+Munchkin,GEN,All_Maps,Attack,"Kayo, Viper",1.55,264,17,9,9,+8,84%,164,33%,3,1,+2
+Foxy9,GEN,All_Maps,Attack,"Cypher, Killjoy",1.13,186,12,9,3,+3,68%,120,34%,1,1,0
+yoman,GEN,All_Maps,Attack,"Sova, Fade",1.32,231,16,9,3,+7,89%,145,41%,0,0,0
+Karon,GEN,All_Maps,Attack,Omen,1.17,198,16,11,4,+5,74%,152,47%,0,4,-4
+t3xture,GEN,All_Maps,Attack,"Jett, Raze",0.87,188,13,11,1,+2,58%,114,19%,4,5,-1
+Akame,DFM,All_Maps,Attack,"Kayo, Vyse",0.89,178,12,14,2,-2,68%,108,11%,2,0,+2
+Meiy,DFM,All_Maps,Attack,"Jett, Raze",1.19,250,15,14,2,+1,63%,165,22%,4,4,0
+Art,DFM,All_Maps,Attack,"Sova, Omen",0.67,125,7,14,5,-7,68%,83,13%,1,5,-4
+Jinboong,DFM,All_Maps,Attack,"Astra, Fade",0.80,124,8,13,7,-5,68%,83,37%,1,1,0
+gyen,DFM,All_Maps,Attack,"Omen, Astra",0.64,158,11,16,3,-5,58%,87,25%,0,1,-1
+Munchkin,GEN,All_Maps,Defend,"Kayo, Viper",1.16,207,14,9,6,+5,68%,134,34%,4,2,+2
+Foxy9,GEN,All_Maps,Defend,"Cypher, Killjoy",1.23,213,16,11,4,+5,74%,166,46%,0,3,-3
+yoman,GEN,All_Maps,Defend,"Sova, Fade",1.03,132,10,8,6,+2,68%,78,41%,1,0,+1
+Karon,GEN,All_Maps,Defend,Omen,1.12,198,14,12,10,+2,74%,134,47%,0,0,0
+t3xture,GEN,All_Maps,Defend,"Jett, Raze",1.13,250,17,13,4,+4,79%,159,35%,6,3,+3
+Akame,DFM,All_Maps,Defend,"Kayo, Vyse",1.15,246,15,15,6,0,68%,180,30%,3,1,+2
+Meiy,DFM,All_Maps,Defend,"Jett, Raze",0.53,117,7,15,2,-8,53%,78,18%,2,3,-1
+Art,DFM,All_Maps,Defend,"Sova, Omen",0.94,222,12,16,9,-4,63%,142,14%,5,0,+5
+Jinboong,DFM,All_Maps,Defend,"Astra, Fade",0.61,122,8,15,6,-7,53%,70,40%,1,3,-2
+gyen,DFM,All_Maps,Defend,"Omen, Astra",0.70,100,7,13,5,-6,63%,65,22%,0,1,-1

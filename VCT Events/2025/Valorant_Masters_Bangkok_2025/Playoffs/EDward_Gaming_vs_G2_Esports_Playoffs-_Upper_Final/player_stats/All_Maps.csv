@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Smoggy,EDG,All_Maps,All,"Clove, Omen",1.04,203,29,32,13,-3,68%,147,37%,4,3,+1
+CHICHOO,EDG,All_Maps,All,"Omen, Viper",0.90,196,29,32,10,-3,66%,140,33%,2,2,0
+nobody,EDG,All_Maps,All,"Fade, Tejo",0.88,168,23,29,8,-6,68%,114,28%,5,3,+2
+ZmjjKK,EDG,All_Maps,All,"Neon, Jett",0.83,211,31,34,2,-3,56%,135,25%,5,13,-8
+S1Mon,EDG,All_Maps,All,Breach,0.70,122,16,31,15,-15,66%,81,35%,1,3,-2
+trent,G2,All_Maps,All,Tejo,1.22,218,30,23,10,+7,76%,154,20%,2,2,0
+JonahP,G2,All_Maps,All,Breach,1.22,235,33,29,20,+4,83%,148,21%,7,2,+5
+jawgemo,G2,All_Maps,All,Yoru,1.20,251,37,27,18,+10,78%,155,21%,7,5,+2
+valyn,G2,All_Maps,All,Omen,1.10,182,27,25,22,+2,80%,124,33%,3,4,-1
+leaf,G2,All_Maps,All,Viper,1.07,196,30,24,8,+6,71%,144,29%,5,4,+1
+Smoggy,EDG,All_Maps,Attack,"Clove, Omen",1.06,182,15,17,10,-2,67%,145,38%,0,1,-1
+CHICHOO,EDG,All_Maps,Attack,"Omen, Viper",0.79,165,15,19,4,-4,67%,113,29%,1,2,-1
+nobody,EDG,All_Maps,Attack,"Fade, Tejo",0.77,154,12,18,5,-6,75%,101,24%,3,1,+2
+ZmjjKK,EDG,All_Maps,Attack,"Neon, Jett",0.79,205,17,19,1,-2,54%,137,28%,3,10,-7
+S1Mon,EDG,All_Maps,Attack,Breach,0.95,153,13,18,11,-5,75%,98,41%,1,2,-1
+trent,G2,All_Maps,Attack,Tejo,0.83,164,8,11,4,-3,76%,118,16%,0,1,-1
+JonahP,G2,All_Maps,Attack,Breach,1.87,365,23,12,8,+11,94%,215,25%,3,1,+2
+jawgemo,G2,All_Maps,Attack,Yoru,0.87,199,12,12,4,0,65%,134,21%,5,4,+1
+valyn,G2,All_Maps,Attack,Omen,1.00,173,11,11,8,0,82%,102,30%,0,0,0
+leaf,G2,All_Maps,Attack,Viper,1.04,182,12,10,3,+2,59%,128,35%,0,3,-3
+Smoggy,EDG,All_Maps,Defend,"Clove, Omen",1.00,238,14,15,3,-1,71%,152,36%,4,2,+2
+CHICHOO,EDG,All_Maps,Defend,"Omen, Viper",1.06,240,14,13,6,+1,65%,178,38%,1,0,+1
+nobody,EDG,All_Maps,Defend,"Fade, Tejo",1.05,191,11,11,3,0,59%,133,33%,2,2,0
+ZmjjKK,EDG,All_Maps,Defend,"Neon, Jett",0.89,220,14,15,1,-1,59%,133,20%,2,3,-1
+S1Mon,EDG,All_Maps,Defend,Breach,0.34,78,3,13,4,-10,53%,57,26%,0,1,-1
+trent,G2,All_Maps,Defend,Tejo,1.49,257,22,12,6,+10,75%,179,22%,2,1,+1
+JonahP,G2,All_Maps,Defend,Breach,0.76,147,10,17,12,-7,75%,100,14%,4,1,+3
+jawgemo,G2,All_Maps,Defend,Yoru,1.43,286,25,15,14,+10,88%,169,20%,2,1,+1
+valyn,G2,All_Maps,Defend,Omen,1.17,189,16,14,14,+2,79%,140,35%,3,4,-1
+leaf,G2,All_Maps,Defend,Viper,1.09,206,18,14,5,+4,79%,155,26%,5,1,+4

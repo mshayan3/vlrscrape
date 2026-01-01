@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+1Lotus,1,"""0-1""",SEN,Defenders,Defuse
+1Lotus,2,"""0-2""",SEN,Defenders,Elimination
+1Lotus,3,"""1-2""",KRÜ,Attackers,Spike Detonation
+1Lotus,4,"""2-2""",KRÜ,Attackers,Elimination
+1Lotus,5,"""3-2""",KRÜ,Attackers,Elimination
+1Lotus,6,"""4-2""",KRÜ,Attackers,Spike Detonation
+1Lotus,7,"""4-3""",SEN,Defenders,Time Expired
+1Lotus,8,"""4-4""",SEN,Defenders,Time Expired
+1Lotus,9,"""5-4""",KRÜ,Attackers,Spike Detonation
+1Lotus,10,"""6-4""",KRÜ,Attackers,Elimination
+1Lotus,11,"""7-4""",KRÜ,Attackers,Elimination
+1Lotus,12,"""8-4""",KRÜ,Attackers,Elimination
+1Lotus,13,"""9-4""",SEN,Defenders,Defuse
+1Lotus,14,"""10-4""",SEN,Defenders,Defuse
+1Lotus,15,"""10-5""",KRÜ,Attackers,Elimination
+1Lotus,16,"""10-6""",KRÜ,Attackers,Spike Detonation
+1Lotus,17,"""10-7""",KRÜ,Attackers,Elimination
+1Lotus,18,"""10-8""",KRÜ,Attackers,Spike Detonation
+1Lotus,19,"""10-9""",KRÜ,Attackers,Elimination
+1Lotus,20,"""11-9""",SEN,Defenders,Elimination
+1Lotus,21,"""11-10""",KRÜ,Attackers,Elimination
+1Lotus,22,"""12-10""",SEN,Defenders,Defuse
+1Lotus,23,"""12-11""",KRÜ,Attackers,Elimination
+1Lotus,24,"""13-11""",SEN,Defenders,Defuse

@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+gobera,2G,All_Maps,All,Vyse,1.21,264,35,30,10,+5,74%,179,32%,4,3,+1
+lz,2G,All_Maps,All,Omen,0.98,200,26,30,13,-4,66%,134,48%,5,5,0
+silentzz,2G,All_Maps,All,"Yoru, Raze",0.86,209,27,34,6,-7,71%,140,39%,11,6,+5
+pryze,2G,All_Maps,All,Breach,0.58,105,13,28,13,-15,66%,66,20%,0,0,0
+Zap,2G,All_Maps,All,Tejo,0.55,145,18,30,6,-12,71%,103,19%,0,4,-4
+penny,FUR,All_Maps,All,"Jett, Raze",1.37,266,37,22,8,+15,82%,166,24%,7,4,+3
+bdog,FUR,All_Maps,All,Breach,1.28,213,28,21,21,+7,79%,126,35%,2,0,+2
+jakee,FUR,All_Maps,All,"Clove, Omen",1.16,221,29,25,18,+4,82%,142,25%,1,4,-3
+stellar,FUR,All_Maps,All,Tejo,1.08,205,29,24,11,+5,76%,143,19%,4,6,-2
+Add3r,FUR,All_Maps,All,"Cypher, Vyse",0.89,195,28,28,3,0,66%,126,33%,4,6,-2
+gobera,2G,All_Maps,Attack,Vyse,1.33,284,21,16,3,+5,75%,207,38%,1,1,0
+lz,2G,All_Maps,Attack,Omen,0.91,202,13,17,7,-4,70%,132,44%,3,3,0
+silentzz,2G,All_Maps,Attack,"Yoru, Raze",0.60,171,11,19,3,-8,60%,120,45%,5,5,0
+pryze,2G,All_Maps,Attack,Breach,0.62,120,8,15,7,-7,65%,73,24%,0,0,0
+Zap,2G,All_Maps,Attack,Tejo,0.54,128,10,15,2,-5,75%,99,14%,0,2,-2
+penny,FUR,All_Maps,Attack,"Jett, Raze",1.17,243,16,12,5,+4,78%,150,28%,3,3,0
+bdog,FUR,All_Maps,Attack,Breach,1.21,231,15,12,7,+3,72%,128,43%,1,0,+1
+jakee,FUR,All_Maps,Attack,"Clove, Omen",1.01,188,11,13,8,-2,78%,122,29%,1,3,-2
+stellar,FUR,All_Maps,Attack,Tejo,1.26,211,16,9,3,+7,72%,140,18%,1,1,0
+Add3r,FUR,All_Maps,Attack,"Cypher, Vyse",0.86,171,12,11,2,+1,61%,112,32%,1,4,-3
+gobera,2G,All_Maps,Defend,Vyse,1.08,250,14,14,7,0,72%,148,26%,3,2,+1
+lz,2G,All_Maps,Defend,Omen,1.05,197,13,13,6,0,61%,135,52%,2,2,0
+silentzz,2G,All_Maps,Defend,"Yoru, Raze",1.16,252,16,15,3,+1,83%,162,34%,6,1,+5
+pryze,2G,All_Maps,Defend,Breach,0.53,89,5,13,6,-8,67%,58,15%,0,0,0
+Zap,2G,All_Maps,Defend,Tejo,0.56,162,8,15,4,-7,67%,107,28%,0,2,-2
+penny,FUR,All_Maps,Defend,"Jett, Raze",1.55,280,21,10,3,+11,85%,180,21%,4,1,+3
+bdog,FUR,All_Maps,Defend,Breach,1.35,200,13,9,14,+4,85%,123,30%,1,0,+1
+jakee,FUR,All_Maps,Defend,"Clove, Omen",1.29,246,18,12,10,+6,85%,160,22%,0,1,-1
+stellar,FUR,All_Maps,Defend,Tejo,0.92,198,13,15,8,-2,80%,147,20%,3,5,-2
+Add3r,FUR,All_Maps,Defend,"Cypher, Vyse",0.92,221,16,17,1,-1,70%,139,33%,3,2,+1

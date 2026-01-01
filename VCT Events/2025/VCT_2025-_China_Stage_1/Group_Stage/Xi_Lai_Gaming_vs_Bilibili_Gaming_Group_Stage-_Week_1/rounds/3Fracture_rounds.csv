@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+3Fracture,1,"""0-1""",BLG,Attackers,Elimination
+3Fracture,2,"""0-2""",BLG,Attackers,Elimination
+3Fracture,3,"""1-2""",XLG,Defenders,Elimination
+3Fracture,4,"""1-3""",BLG,Attackers,Elimination
+3Fracture,5,"""1-4""",BLG,Attackers,Elimination
+3Fracture,6,"""1-5""",BLG,Attackers,Elimination
+3Fracture,7,"""1-6""",BLG,Attackers,Spike Detonation
+3Fracture,8,"""1-7""",BLG,Attackers,Elimination
+3Fracture,9,"""2-7""",XLG,Defenders,Time Expired
+3Fracture,10,"""3-7""",XLG,Defenders,Defuse
+3Fracture,11,"""3-8""",BLG,Attackers,Spike Detonation
+3Fracture,12,"""3-9""",BLG,Attackers,Elimination
+3Fracture,13,"""4-9""",BLG,Attackers,Elimination
+3Fracture,14,"""5-9""",BLG,Attackers,Elimination
+3Fracture,15,"""5-10""",XLG,Defenders,Defuse
+3Fracture,16,"""5-11""",XLG,Defenders,Defuse
+3Fracture,17,"""6-11""",BLG,Attackers,Elimination
+3Fracture,18,"""6-12""",XLG,Defenders,Elimination
+3Fracture,19,"""7-12""",BLG,Attackers,Spike Detonation
+3Fracture,20,"""8-12""",BLG,Attackers,Elimination
+3Fracture,21,"""8-13""",XLG,Defenders,Defuse
+3Fracture,22,"""""",,,
+3Fracture,23,"""""",,,
+3Fracture,24,"""""",,,

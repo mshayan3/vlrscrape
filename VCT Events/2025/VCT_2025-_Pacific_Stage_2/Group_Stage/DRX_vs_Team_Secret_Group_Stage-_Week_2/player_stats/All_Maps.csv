@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+free1ng,DRX,All_Maps,All,"Viper, Sova",1.64,265,31,13,13,+18,88%,174,38%,5,1,+4
+MaKo,DRX,All_Maps,All,"Omen, Viper",1.43,263,32,16,14,+16,79%,173,26%,9,3,+6
+HYUNMIN,DRX,All_Maps,All,"Neon, Jett",1.40,284,35,21,11,+14,88%,178,32%,4,2,+2
+Flashback,DRX,All_Maps,All,"Vyse, Killjoy",1.16,186,27,13,5,+14,82%,124,22%,1,3,-2
+Estrella,DRX,All_Maps,All,"Fade, Sage",1.09,169,21,16,10,+5,91%,113,24%,3,3,0
+invy,TS,All_Maps,All,"Fade, Sova",0.99,210,25,29,8,-4,59%,134,25%,3,2,+1
+n1zzy,TS,All_Maps,All,"Viper, Killjoy",0.67,124,13,28,6,-15,59%,86,42%,3,2,+1
+kellyS,TS,All_Maps,All,"Deadlock, Kayo",0.65,130,14,30,6,-16,62%,86,15%,2,1,+1
+ZesBeeW,TS,All_Maps,All,Omen,0.51,122,13,28,6,-15,53%,84,30%,1,6,-5
+Wild0reoo,TS,All_Maps,All,"Neon, Viper",0.41,141,14,31,6,-17,50%,91,30%,3,11,-8
+free1ng,DRX,All_Maps,Attack,"Viper, Sova",1.75,303,17,8,8,+9,88%,188,36%,2,0,+2
+MaKo,DRX,All_Maps,Attack,"Omen, Viper",1.26,258,16,9,1,+7,71%,175,29%,5,1,+4
+HYUNMIN,DRX,All_Maps,Attack,"Neon, Jett",0.79,206,12,13,7,-1,82%,136,28%,1,2,-1
+Flashback,DRX,All_Maps,Attack,"Vyse, Killjoy",0.93,170,12,8,2,+4,76%,120,22%,0,3,-3
+Estrella,DRX,All_Maps,Attack,"Fade, Sage",1.35,209,14,7,3,+7,88%,137,32%,1,2,-1
+invy,TS,All_Maps,Attack,"Fade, Sova",0.61,156,8,16,4,-8,59%,107,20%,0,1,-1
+n1zzy,TS,All_Maps,Attack,"Viper, Killjoy",0.64,128,6,14,3,-8,59%,93,43%,2,0,+2
+kellyS,TS,All_Maps,Attack,"Deadlock, Kayo",0.62,133,7,16,3,-9,65%,92,19%,1,1,0
+ZesBeeW,TS,All_Maps,Attack,Omen,0.81,153,10,13,1,-3,59%,101,39%,0,2,-2
+Wild0reoo,TS,All_Maps,Attack,"Neon, Viper",0.09,79,3,16,3,-13,47%,52,16%,1,9,-8
+free1ng,DRX,All_Maps,Defend,"Viper, Sova",1.52,227,14,5,5,+9,88%,160,39%,3,1,+2
+MaKo,DRX,All_Maps,Defend,"Omen, Viper",1.60,270,16,7,13,+9,88%,170,23%,4,2,+2
+HYUNMIN,DRX,All_Maps,Defend,"Neon, Jett",2.02,362,23,8,4,+15,94%,219,34%,3,0,+3
+Flashback,DRX,All_Maps,Defend,"Vyse, Killjoy",1.39,203,15,5,3,+10,88%,128,22%,1,0,+1
+Estrella,DRX,All_Maps,Defend,"Fade, Sage",0.82,129,7,9,7,-2,94%,89,16%,2,1,+1
+invy,TS,All_Maps,Defend,"Fade, Sova",1.40,264,17,13,4,+4,59%,161,30%,3,1,+2
+n1zzy,TS,All_Maps,Defend,"Viper, Killjoy",0.70,121,7,14,3,-7,59%,79,40%,1,2,-1
+kellyS,TS,All_Maps,Defend,"Deadlock, Kayo",0.68,129,7,14,3,-7,59%,80,11%,1,0,+1
+ZesBeeW,TS,All_Maps,Defend,Omen,0.22,92,3,15,5,-12,47%,67,19%,1,4,-3
+Wild0reoo,TS,All_Maps,Defend,"Neon, Viper",0.80,203,11,15,3,-4,53%,130,39%,2,2,0

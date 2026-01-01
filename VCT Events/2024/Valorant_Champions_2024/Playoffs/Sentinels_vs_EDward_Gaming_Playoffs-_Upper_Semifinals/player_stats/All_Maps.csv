@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+zekken,SEN,All_Maps,All,"Neon, Raze",1.10,276,59,52,18,+7,73%,172,22%,16,11,+5
+TenZ,SEN,All_Maps,All,Omen,1.09,246,55,48,24,+7,76%,166,34%,3,4,-1
+johnqt,SEN,All_Maps,All,"Cypher, Viper",1.02,170,41,39,17,+2,76%,112,30%,3,7,-4
+Sacy,SEN,All_Maps,All,"Sova, Fade",0.99,177,38,43,25,-5,76%,118,25%,3,4,-1
+Zellsis,SEN,All_Maps,All,"Breach, Killjoy",0.87,152,31,45,27,-14,67%,106,28%,4,8,-4
+S1Mon,EDG,All_Maps,All,"Breach, Kayo",1.12,174,39,42,40,-3,81%,121,35%,6,2,+4
+CHICHOO,EDG,All_Maps,All,"Cypher, Omen",1.11,232,49,44,23,+5,73%,150,23%,7,4,+3
+nobody,EDG,All_Maps,All,"Sova, Fade",1.06,203,49,43,12,+6,71%,120,34%,5,5,0
+ZmjjKK,EDG,All_Maps,All,Neon,0.97,233,51,47,18,+4,71%,148,29%,14,14,0
+Smoggy,EDG,All_Maps,All,"Omen, Clove",0.87,176,39,48,27,-9,68%,115,23%,2,4,-2
+zekken,SEN,All_Maps,Attack,"Neon, Raze",1.05,289,28,26,9,+2,86%,174,22%,8,5,+3
+TenZ,SEN,All_Maps,Attack,Omen,1.37,304,34,20,10,+14,79%,207,34%,1,2,-1
+johnqt,SEN,All_Maps,Attack,"Cypher, Viper",1.10,180,19,15,9,+4,86%,128,26%,1,5,-4
+Sacy,SEN,All_Maps,Attack,"Sova, Fade",0.80,128,13,18,7,-5,76%,83,30%,1,3,-2
+Zellsis,SEN,All_Maps,Attack,"Breach, Killjoy",1.10,187,17,19,19,-2,72%,133,33%,1,2,-1
+S1Mon,EDG,All_Maps,Attack,"Breach, Kayo",1.31,190,23,20,22,+3,88%,131,35%,4,1,+3
+CHICHOO,EDG,All_Maps,Attack,"Cypher, Omen",0.99,198,23,23,12,0,68%,128,24%,3,3,0
+nobody,EDG,All_Maps,Attack,"Sova, Fade",1.01,187,26,22,6,+4,79%,115,42%,3,3,0
+ZmjjKK,EDG,All_Maps,Attack,Neon,0.94,246,30,24,6,+6,62%,148,31%,6,7,-1
+Smoggy,EDG,All_Maps,Attack,"Omen, Clove",1.15,227,27,24,17,+3,68%,146,25%,1,3,-2
+zekken,SEN,All_Maps,Defend,"Neon, Raze",1.14,267,31,26,9,+5,62%,170,22%,8,6,+2
+TenZ,SEN,All_Maps,Defend,Omen,0.86,192,21,28,14,-7,74%,131,34%,2,2,0
+johnqt,SEN,All_Maps,Defend,"Cypher, Viper",0.96,165,22,24,8,-2,68%,98,36%,2,2,0
+Sacy,SEN,All_Maps,Defend,"Sova, Fade",1.16,226,25,25,18,0,76%,148,23%,2,1,+1
+Zellsis,SEN,All_Maps,Defend,"Breach, Killjoy",0.67,125,14,26,8,-12,62%,82,24%,3,6,-3
+S1Mon,EDG,All_Maps,Defend,"Breach, Kayo",0.91,162,16,22,18,-6,72%,108,34%,2,1,+1
+CHICHOO,EDG,All_Maps,Defend,"Cypher, Omen",1.27,262,26,21,11,+5,79%,176,23%,4,1,+3
+nobody,EDG,All_Maps,Defend,"Sova, Fade",1.12,217,23,21,6,+2,62%,126,28%,2,2,0
+ZmjjKK,EDG,All_Maps,Defend,Neon,1.02,219,21,23,12,-2,83%,148,27%,8,7,+1
+Smoggy,EDG,All_Maps,Defend,"Omen, Clove",0.55,121,12,24,10,-12,69%,79,18%,1,1,0

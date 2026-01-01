@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Flex1n,BLG,All_Maps,All,"Omen, Viper",1.19,227,32,30,12,+2,79%,159,40%,5,4,+1
+Knight,BLG,All_Maps,All,"Breach, Sage",0.78,142,18,31,20,-13,64%,90,30%,0,2,-2
+whzy,BLG,All_Maps,All,"Neon, Jett",0.78,232,27,37,11,-10,56%,140,23%,8,10,-2
+yosemite,BLG,All_Maps,All,"Viper, Killjoy",0.58,137,17,32,7,-15,54%,86,25%,1,2,-1
+nephh,BLG,All_Maps,All,"Fade, Kayo",0.57,135,16,33,12,-17,54%,90,18%,1,6,-5
+heat,KRÜ,All_Maps,All,"Fade, Gekko",1.52,265,39,18,7,+21,90%,170,38%,5,2,+3
+keznit,KRÜ,All_Maps,All,"Raze, Jett",1.36,232,32,21,14,+11,92%,174,16%,4,1,+3
+mta,KRÜ,All_Maps,All,"Viper, Sova",1.32,217,32,20,11,+12,87%,135,36%,6,3,+3
+Shyy,KRÜ,All_Maps,All,Killjoy,1.24,261,40,24,6,+16,74%,175,25%,5,3,+2
+Melser,KRÜ,All_Maps,All,"Omen, Viper",0.75,159,20,27,21,-7,79%,111,29%,4,6,-2
+Flex1n,BLG,All_Maps,Attack,"Omen, Viper",1.26,238,21,18,10,+3,88%,157,45%,4,3,+1
+Knight,BLG,All_Maps,Attack,"Breach, Sage",0.73,146,12,19,11,-7,71%,81,31%,0,1,-1
+whzy,BLG,All_Maps,Attack,"Neon, Jett",0.97,275,20,22,9,-2,67%,159,27%,6,7,-1
+yosemite,BLG,All_Maps,Attack,"Viper, Killjoy",0.57,119,10,18,3,-8,63%,82,21%,1,1,0
+nephh,BLG,All_Maps,Attack,"Fade, Kayo",0.61,132,10,19,10,-9,63%,78,13%,0,1,-1
+heat,KRÜ,All_Maps,Attack,"Fade, Gekko",1.98,335,20,5,4,+15,100%,214,41%,1,0,+1
+keznit,KRÜ,All_Maps,Attack,"Raze, Jett",1.57,252,13,7,8,+6,100%,204,18%,2,0,+2
+mta,KRÜ,All_Maps,Attack,"Viper, Sova",1.00,147,9,8,3,+1,93%,98,27%,4,1,+3
+Shyy,KRÜ,All_Maps,Attack,Killjoy,1.38,303,19,8,0,+11,73%,205,32%,4,1,+3
+Melser,KRÜ,All_Maps,Attack,"Omen, Viper",0.69,124,6,9,11,-3,87%,78,13%,0,2,-2
+Flex1n,BLG,All_Maps,Defend,"Omen, Viper",1.09,205,11,12,2,-1,67%,161,32%,1,1,0
+Knight,BLG,All_Maps,Defend,"Breach, Sage",0.87,149,6,12,9,-6,53%,105,30%,0,1,-1
+whzy,BLG,All_Maps,Defend,"Neon, Jett",0.47,167,7,15,2,-8,40%,110,18%,2,3,-1
+yosemite,BLG,All_Maps,Defend,"Viper, Killjoy",0.60,143,7,14,4,-7,40%,93,32%,0,1,-1
+nephh,BLG,All_Maps,Defend,"Fade, Kayo",0.51,149,6,14,2,-8,40%,108,26%,1,5,-4
+heat,KRÜ,All_Maps,Defend,"Fade, Gekko",1.23,217,19,13,3,+6,83%,142,36%,4,2,+2
+keznit,KRÜ,All_Maps,Defend,"Raze, Jett",1.23,226,19,14,6,+5,88%,155,15%,2,1,+1
+mta,KRÜ,All_Maps,Defend,"Viper, Sova",1.51,249,23,12,8,+11,83%,158,39%,2,2,0
+Shyy,KRÜ,All_Maps,Defend,Killjoy,1.16,236,21,16,6,+5,75%,156,21%,1,2,-1
+Melser,KRÜ,All_Maps,Defend,"Omen, Viper",0.79,185,14,18,10,-4,75%,131,38%,4,4,0

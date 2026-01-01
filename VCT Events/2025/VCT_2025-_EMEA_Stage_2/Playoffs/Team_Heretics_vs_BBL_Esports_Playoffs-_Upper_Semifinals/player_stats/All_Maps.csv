@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+benjyfishy,TH,All_Maps,All,"Killjoy, Cypher",1.03,214,34,35,15,-1,70%,132,32%,5,2,+3
+RieNs,TH,All_Maps,All,Sova,1.01,211,34,33,9,+1,74%,148,32%,1,2,-1
+Boo,TH,All_Maps,All,"Viper, Omen",0.96,192,27,32,20,-5,70%,135,20%,3,0,+3
+MiniBoo,TH,All_Maps,All,Yoru,0.86,205,30,37,11,-7,65%,132,26%,12,7,+5
+Wo0t,TH,All_Maps,All,Jett,0.84,194,30,34,5,-4,74%,127,35%,5,6,-1
+LewN,BBL,All_Maps,All,Jett,1.19,245,39,32,9,+7,79%,164,34%,5,11,-6
+Jamppi,BBL,All_Maps,All,"Sova, Kayo",1.17,229,34,29,18,+5,84%,142,27%,3,5,-2
+PROFEK,BBL,All_Maps,All,"Viper, Omen",1.06,229,36,31,20,+5,77%,140,24%,3,2,+1
+MAGNUM,BBL,All_Maps,All,"Killjoy, Fade",1.03,220,32,30,13,+2,72%,141,32%,2,6,-4
+sociablEE,BBL,All_Maps,All,"Omen, Tejo",0.93,194,30,33,15,-3,67%,126,25%,4,2,+2
+benjyfishy,TH,All_Maps,Attack,"Killjoy, Cypher",1.11,241,23,20,5,+3,67%,144,34%,4,2,+2
+RieNs,TH,All_Maps,Attack,Sova,0.89,200,18,20,6,-2,75%,143,38%,0,1,-1
+Boo,TH,All_Maps,Attack,"Viper, Omen",0.88,174,14,17,7,-3,75%,119,26%,0,0,0
+MiniBoo,TH,All_Maps,Attack,Yoru,0.86,207,17,22,7,-5,58%,133,30%,6,5,+1
+Wo0t,TH,All_Maps,Attack,Jett,0.78,193,17,19,3,-2,83%,116,42%,3,3,0
+LewN,BBL,All_Maps,Attack,Jett,1.08,251,17,15,3,+2,79%,158,36%,2,5,-3
+Jamppi,BBL,All_Maps,Attack,"Sova, Kayo",1.34,203,14,10,10,+4,84%,123,28%,0,2,-2
+PROFEK,BBL,All_Maps,Attack,"Viper, Omen",0.90,191,14,13,7,+1,79%,127,26%,0,2,-2
+MAGNUM,BBL,All_Maps,Attack,"Killjoy, Fade",1.20,248,16,13,8,+3,79%,150,29%,1,3,-2
+sociablEE,BBL,All_Maps,Attack,"Omen, Tejo",0.78,177,12,15,7,-3,74%,112,16%,3,1,+2
+benjyfishy,TH,All_Maps,Defend,"Killjoy, Cypher",0.93,173,11,15,10,-4,74%,117,28%,1,0,+1
+RieNs,TH,All_Maps,Defend,Sova,1.16,233,16,13,3,+3,74%,154,26%,1,1,0
+Boo,TH,All_Maps,Defend,"Viper, Omen",1.06,219,13,15,13,-2,63%,156,16%,3,0,+3
+MiniBoo,TH,All_Maps,Defend,Yoru,0.85,201,13,15,4,-2,74%,130,21%,6,2,+4
+Wo0t,TH,All_Maps,Defend,Jett,0.91,192,13,15,2,-2,63%,142,28%,2,3,-1
+LewN,BBL,All_Maps,Defend,Jett,1.27,245,22,17,6,+5,79%,168,32%,3,6,-3
+Jamppi,BBL,All_Maps,Defend,"Sova, Kayo",1.04,243,20,19,8,+1,83%,157,27%,3,3,0
+PROFEK,BBL,All_Maps,Defend,"Viper, Omen",1.19,248,22,18,13,+4,75%,150,22%,3,0,+3
+MAGNUM,BBL,All_Maps,Defend,"Killjoy, Fade",0.88,197,16,17,5,-1,67%,133,35%,1,3,-2
+sociablEE,BBL,All_Maps,Defend,"Omen, Tejo",1.05,204,18,18,8,0,63%,137,33%,1,1,0

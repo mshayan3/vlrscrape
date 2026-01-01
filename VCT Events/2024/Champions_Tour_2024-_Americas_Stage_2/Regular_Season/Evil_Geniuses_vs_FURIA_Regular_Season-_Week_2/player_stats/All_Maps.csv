@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+supamen,EG,All_Maps,All,Omen,1.56,231,35,15,12,+20,89%,159,48%,3,3,0
+jawgemo,EG,All_Maps,All,"Raze, Neon",1.49,339,41,24,13,+17,91%,225,26%,10,3,+7
+Apoth,EG,All_Maps,All,"Brimstone, Cypher",1.30,200,26,18,17,+8,89%,122,29%,2,5,-3
+Derrek,EG,All_Maps,All,"Gekko, Fade",1.20,229,29,21,17,+8,91%,158,39%,5,1,+4
+NaturE,EG,All_Maps,All,"Skye, Breach",1.18,206,27,19,15,+8,86%,134,40%,2,1,+1
+nzr,FUR,All_Maps,All,"Gekko, Breach",1.06,246,29,31,7,-2,71%,166,36%,2,1,+1
+Khalil,FUR,All_Maps,All,"Brimstone, Omen",0.74,183,22,32,6,-10,63%,119,21%,1,2,-1
+havoc,FUR,All_Maps,All,"Viper, Cypher",0.66,157,19,30,5,-11,51%,102,39%,2,8,-6
+mwzera,FUR,All_Maps,All,"Raze, Neon",0.56,153,17,33,9,-16,63%,97,20%,7,7,0
+xand,FUR,All_Maps,All,"Fade, Kayo",0.33,95,10,32,11,-22,63%,66,35%,1,4,-3
+supamen,EG,All_Maps,Attack,Omen,1.49,231,17,10,3,+7,82%,179,51%,0,2,-2
+jawgemo,EG,All_Maps,Attack,"Raze, Neon",1.51,339,20,12,7,+8,94%,224,22%,3,1,+2
+Apoth,EG,All_Maps,Attack,"Brimstone, Cypher",1.29,190,13,10,8,+3,82%,116,36%,0,5,-5
+Derrek,EG,All_Maps,Attack,"Gekko, Fade",0.95,198,12,12,9,0,88%,127,39%,3,1,+2
+NaturE,EG,All_Maps,Attack,"Skye, Breach",0.96,194,12,12,5,0,82%,134,38%,1,1,0
+nzr,FUR,All_Maps,Attack,"Gekko, Breach",0.79,196,12,17,1,-5,67%,129,43%,1,1,0
+Khalil,FUR,All_Maps,Attack,"Brimstone, Omen",0.84,206,13,17,0,-4,50%,130,22%,0,1,-1
+havoc,FUR,All_Maps,Attack,"Viper, Cypher",0.56,101,6,15,2,-9,44%,63,31%,0,4,-4
+mwzera,FUR,All_Maps,Attack,"Raze, Neon",0.17,105,5,18,3,-13,50%,65,13%,2,5,-3
+xand,FUR,All_Maps,Attack,"Fade, Kayo",0.30,100,5,17,5,-12,56%,64,44%,0,4,-4
+supamen,EG,All_Maps,Defend,Omen,1.63,235,18,5,9,+13,94%,140,45%,3,1,+2
+jawgemo,EG,All_Maps,Defend,"Raze, Neon",1.48,336,21,12,6,+9,89%,226,31%,7,2,+5
+Apoth,EG,All_Maps,Defend,"Brimstone, Cypher",1.31,213,13,8,9,+5,94%,128,25%,2,0,+2
+Derrek,EG,All_Maps,Defend,"Gekko, Fade",1.43,258,17,9,8,+8,94%,187,38%,2,0,+2
+NaturE,EG,All_Maps,Defend,"Skye, Breach",1.39,216,15,7,10,+8,89%,134,42%,1,0,+1
+nzr,FUR,All_Maps,Defend,"Gekko, Breach",1.35,300,17,14,6,+3,76%,204,33%,1,0,+1
+Khalil,FUR,All_Maps,Defend,"Brimstone, Omen",0.63,159,9,15,6,-6,76%,108,19%,1,1,0
+havoc,FUR,All_Maps,Defend,"Viper, Cypher",0.79,213,13,15,3,-2,59%,143,43%,2,4,-2
+mwzera,FUR,All_Maps,Defend,"Raze, Neon",0.98,205,12,15,6,-3,76%,131,24%,5,2,+3
+xand,FUR,All_Maps,Defend,"Fade, Kayo",0.36,92,5,15,6,-10,71%,68,26%,1,0,+1

@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+1Abyss,1,"""0-1""",SEN,Attackers,Elimination
+1Abyss,2,"""0-2""",SEN,Attackers,Elimination
+1Abyss,3,"""1-2""",XLG,Defenders,Elimination
+1Abyss,4,"""1-3""",SEN,Attackers,Elimination
+1Abyss,5,"""2-3""",XLG,Defenders,Defuse
+1Abyss,6,"""2-4""",SEN,Attackers,Spike Detonation
+1Abyss,7,"""2-5""",SEN,Attackers,Elimination
+1Abyss,8,"""3-5""",XLG,Defenders,Defuse
+1Abyss,9,"""3-6""",SEN,Attackers,Spike Detonation
+1Abyss,10,"""3-7""",SEN,Attackers,Spike Detonation
+1Abyss,11,"""4-7""",XLG,Defenders,Defuse
+1Abyss,12,"""5-7""",XLG,Defenders,Elimination
+1Abyss,13,"""5-8""",XLG,Defenders,Elimination
+1Abyss,14,"""6-8""",SEN,Attackers,Elimination
+1Abyss,15,"""7-8""",SEN,Attackers,Elimination
+1Abyss,16,"""8-8""",SEN,Attackers,Spike Detonation
+1Abyss,17,"""8-9""",XLG,Defenders,Defuse
+1Abyss,18,"""8-10""",XLG,Defenders,Defuse
+1Abyss,19,"""9-10""",SEN,Attackers,Elimination
+1Abyss,20,"""9-11""",XLG,Defenders,Defuse
+1Abyss,21,"""10-11""",SEN,Attackers,Elimination
+1Abyss,22,"""10-12""",XLG,Defenders,Defuse
+1Abyss,23,"""10-13""",XLG,Defenders,Elimination
+1Abyss,24,"""""",,,

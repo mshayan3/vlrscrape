@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+HYUNMIN,DRX,All_Maps,All,"Jett, Waylay, Raze",1.28,260,51,42,13,+9,76%,171,26%,10,6,+4
+Flashback,DRX,All_Maps,All,"Killjoy, Viper, Vyse",0.95,180,39,40,10,-1,69%,124,23%,9,7,+2
+free1ng,DRX,All_Maps,All,"Sova, Skye, Fade",0.92,185,38,43,23,-5,73%,120,33%,3,5,-2
+MaKo,DRX,All_Maps,All,"Viper, Brimstone, Omen",0.83,175,33,41,27,-8,69%,113,20%,1,11,-10
+Estrella,DRX,All_Maps,All,"Sage, Gekko, Viper",0.79,159,32,42,23,-10,68%,99,21%,3,4,-1
+Persia,NS,All_Maps,All,"Viper, Astra, Omen",1.10,192,40,34,17,+6,73%,126,26%,5,1,+4
+Dambi,NS,All_Maps,All,"Jett, Raze, Neon",1.07,226,46,38,9,+8,68%,147,22%,8,12,-4
+Francis,NS,All_Maps,All,"Harbor, Viper",1.06,204,45,40,15,+5,68%,130,25%,9,6,+3
+Ivy,NS,All_Maps,All,"Killjoy, Deadlock",1.01,209,44,42,12,+2,71%,130,26%,7,2,+5
+Rb,NS,All_Maps,All,"Sova, Kayo, Fade",0.97,170,33,39,27,-6,71%,100,25%,4,5,-1
+HYUNMIN,DRX,All_Maps,Attack,"Jett, Waylay, Raze",1.59,295,31,18,6,+13,83%,184,25%,6,3,+3
+Flashback,DRX,All_Maps,Attack,"Killjoy, Viper, Vyse",0.98,171,19,18,6,+1,70%,121,21%,5,3,+2
+free1ng,DRX,All_Maps,Attack,"Sova, Skye, Fade",0.70,163,16,23,13,-7,83%,107,25%,2,3,-1
+MaKo,DRX,All_Maps,Attack,"Viper, Brimstone, Omen",1.03,227,23,21,15,+2,83%,143,21%,1,6,-5
+Estrella,DRX,All_Maps,Attack,"Sage, Gekko, Viper",0.75,177,19,22,10,-3,63%,101,19%,0,1,-1
+Persia,NS,All_Maps,Attack,"Viper, Astra, Omen",1.33,211,23,13,6,+10,83%,143,32%,2,0,+2
+Dambi,NS,All_Maps,Attack,"Jett, Raze, Neon",1.07,246,22,19,4,+3,69%,173,22%,5,6,-1
+Francis,NS,All_Maps,Attack,"Harbor, Viper",0.98,192,22,18,6,+4,69%,118,28%,5,4,+1
+Ivy,NS,All_Maps,Attack,"Killjoy, Deadlock",1.21,208,23,17,6,+6,83%,131,31%,3,0,+3
+Rb,NS,All_Maps,Attack,"Sova, Kayo, Fade",1.03,163,16,18,16,-2,79%,97,18%,2,2,0
+HYUNMIN,DRX,All_Maps,Defend,"Jett, Waylay, Raze",0.96,236,20,24,7,-4,69%,157,29%,4,3,+1
+Flashback,DRX,All_Maps,Defend,"Killjoy, Viper, Vyse",0.91,193,20,22,4,-2,69%,127,25%,4,4,0
+free1ng,DRX,All_Maps,Defend,"Sova, Skye, Fade",1.14,210,22,20,10,+2,62%,134,40%,1,2,-1
+MaKo,DRX,All_Maps,Defend,"Viper, Brimstone, Omen",0.63,112,10,20,12,-10,55%,82,17%,0,5,-5
+Estrella,DRX,All_Maps,Defend,"Sage, Gekko, Viper",0.84,155,13,20,13,-7,72%,96,23%,3,3,0
+Persia,NS,All_Maps,Defend,"Viper, Astra, Omen",0.89,174,17,21,11,-4,63%,110,21%,3,1,+2
+Dambi,NS,All_Maps,Defend,"Jett, Raze, Neon",1.08,205,24,19,5,+5,67%,121,23%,3,6,-3
+Francis,NS,All_Maps,Defend,"Harbor, Viper",1.12,230,23,22,9,+1,67%,142,22%,4,2,+2
+Ivy,NS,All_Maps,Defend,"Killjoy, Deadlock",0.83,211,21,25,6,-4,60%,128,23%,4,2,+2
+Rb,NS,All_Maps,Defend,"Sova, Kayo, Fade",0.92,171,17,21,11,-4,63%,102,32%,2,3,-1

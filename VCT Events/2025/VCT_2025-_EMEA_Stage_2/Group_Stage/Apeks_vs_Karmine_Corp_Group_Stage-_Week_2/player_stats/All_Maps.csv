@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+penny,APK,All_Maps,All,"Jett, Neon, Raze",1.18,232,56,46,16,+10,74%,161,21%,9,9,0
+batujnax,APK,All_Maps,All,"Omen, Deadlock",1.12,207,54,44,18,+10,84%,134,30%,6,6,0
+MOLSI,APK,All_Maps,All,"Sova, Kayo",1.12,213,49,49,33,0,76%,145,22%,5,4,+1
+OLIZERA,APK,All_Maps,All,"Killjoy, Viper, Cypher",0.88,199,46,54,18,-8,78%,133,25%,12,8,+4
+AvovA,APK,All_Maps,All,"Viper, Omen",0.73,142,35,50,20,-15,65%,92,33%,4,5,-1
+SUYGETSU,KC,All_Maps,All,"Viper, Omen",1.31,264,68,48,12,+20,79%,169,42%,11,5,+6
+Avez,KC,All_Maps,All,"Sova, Phoenix, Raze",1.03,203,52,48,16,+4,78%,141,27%,6,6,0
+Elite,KC,All_Maps,All,"Killjoy, Cypher",1.03,205,50,44,12,+6,74%,142,41%,8,7,+1
+marteen,KC,All_Maps,All,"Omen, Yoru",0.80,158,39,49,23,-10,69%,104,21%,4,12,-8
+saadhak,KC,All_Maps,All,"Kayo, Sova, Fade",0.79,157,34,51,30,-17,63%,105,27%,3,6,-3
+penny,APK,All_Maps,Attack,"Jett, Neon, Raze",0.80,194,21,25,9,-4,69%,126,13%,3,6,-3
+batujnax,APK,All_Maps,Attack,"Omen, Deadlock",1.12,218,28,22,7,+6,78%,145,23%,4,3,+1
+MOLSI,APK,All_Maps,Attack,"Sova, Kayo",1.00,203,23,25,15,-2,72%,124,23%,3,3,0
+OLIZERA,APK,All_Maps,Attack,"Killjoy, Viper, Cypher",0.96,212,25,24,5,+1,81%,135,21%,5,3,+2
+AvovA,APK,All_Maps,Attack,"Viper, Omen",0.77,161,17,24,10,-7,75%,102,33%,2,0,+2
+SUYGETSU,KC,All_Maps,Attack,"Viper, Omen",1.33,295,40,27,5,+13,83%,193,42%,7,3,+4
+Avez,KC,All_Maps,Attack,"Sova, Phoenix, Raze",1.02,204,28,25,8,+3,83%,141,27%,4,4,0
+Elite,KC,All_Maps,Attack,"Killjoy, Cypher",0.75,149,20,23,3,-3,67%,101,39%,4,4,0
+marteen,KC,All_Maps,Attack,"Omen, Yoru",0.44,108,14,28,11,-14,72%,76,15%,0,7,-7
+saadhak,KC,All_Maps,Attack,"Kayo, Sova, Fade",1.03,181,21,23,14,-2,64%,119,22%,2,1,+1
+penny,APK,All_Maps,Defend,"Jett, Neon, Raze",1.52,272,35,21,7,+14,78%,193,27%,6,3,+3
+batujnax,APK,All_Maps,Defend,"Omen, Deadlock",1.12,199,26,22,11,+4,89%,124,37%,2,3,-1
+MOLSI,APK,All_Maps,Defend,"Sova, Kayo",1.23,224,26,24,18,+2,81%,164,21%,2,1,+1
+OLIZERA,APK,All_Maps,Defend,"Killjoy, Viper, Cypher",0.80,191,21,30,13,-9,75%,130,28%,7,5,+2
+AvovA,APK,All_Maps,Defend,"Viper, Omen",0.69,127,18,26,10,-8,56%,83,33%,2,5,-3
+SUYGETSU,KC,All_Maps,Defend,"Viper, Omen",1.30,219,28,21,7,+7,75%,142,42%,4,2,+2
+Avez,KC,All_Maps,Defend,"Sova, Phoenix, Raze",1.05,210,24,23,8,+1,72%,141,26%,2,2,0
+Elite,KC,All_Maps,Defend,"Killjoy, Cypher",1.35,270,30,21,9,+9,81%,187,42%,4,3,+1
+marteen,KC,All_Maps,Defend,"Omen, Yoru",1.20,218,25,21,12,+4,66%,136,26%,4,5,-1
+saadhak,KC,All_Maps,Defend,"Kayo, Sova, Fade",0.52,131,13,28,16,-15,63%,90,41%,1,5,-4

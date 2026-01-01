@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+1Fracture,1,"""0-1""",GEN,Defenders,Defuse
+1Fracture,2,"""0-2""",GEN,Defenders,Elimination
+1Fracture,3,"""0-3""",GEN,Defenders,Defuse
+1Fracture,4,"""0-4""",GEN,Defenders,Elimination
+1Fracture,5,"""1-4""",RRQ,Attackers,Elimination
+1Fracture,6,"""1-5""",GEN,Defenders,Elimination
+1Fracture,7,"""1-6""",GEN,Defenders,Elimination
+1Fracture,8,"""1-7""",GEN,Defenders,Defuse
+1Fracture,9,"""1-8""",GEN,Defenders,Elimination
+1Fracture,10,"""1-9""",GEN,Defenders,Defuse
+1Fracture,11,"""1-10""",GEN,Defenders,Defuse
+1Fracture,12,"""1-11""",GEN,Defenders,Elimination
+1Fracture,13,"""2-11""",GEN,Defenders,Defuse
+1Fracture,14,"""3-11""",GEN,Defenders,Elimination
+1Fracture,15,"""3-12""",RRQ,Attackers,Elimination
+1Fracture,16,"""4-12""",GEN,Defenders,Defuse
+1Fracture,17,"""5-12""",GEN,Defenders,Elimination
+1Fracture,18,"""6-12""",GEN,Defenders,Elimination
+1Fracture,19,"""6-13""",RRQ,Attackers,Elimination
+1Fracture,20,"""""",,,
+1Fracture,21,"""""",,,
+1Fracture,22,"""""",,,
+1Fracture,23,"""""",,,
+1Fracture,24,"""""",,,

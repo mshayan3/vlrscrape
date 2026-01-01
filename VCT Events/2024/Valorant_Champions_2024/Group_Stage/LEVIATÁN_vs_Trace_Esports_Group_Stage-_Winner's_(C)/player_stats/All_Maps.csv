@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+aspas,LEV,All_Maps,All,"Raze, Neon, Jett",1.13,232,54,43,12,+11,68%,154,32%,10,8,+2
+kiNgg,LEV,All_Maps,All,"Brimstone, Omen",1.02,188,39,40,26,-1,78%,120,37%,4,9,-5
+tex,LEV,All_Maps,All,"Gekko, Cypher",0.99,204,48,46,11,+2,70%,137,31%,5,5,0
+C0M,LEV,All_Maps,All,"Viper, Sova",0.88,176,38,45,12,-7,59%,131,21%,5,4,+1
+Mazino,LEV,All_Maps,All,"Skye, Breach, Deadlock",0.74,167,34,49,22,-15,65%,101,30%,6,7,-1
+Kai,TE,All_Maps,All,"Cypher, Jett",1.26,240,52,42,14,+10,71%,159,29%,11,7,+4
+FengF,TE,All_Maps,All,"Raze, Killjoy",1.05,232,50,45,8,+5,71%,155,31%,7,9,-2
+heybay,TE,All_Maps,All,"Deadlock, Breach, Kayo",1.00,179,41,40,23,+1,75%,121,25%,2,4,-2
+Biank,TE,All_Maps,All,"Skye, Sova",0.97,187,37,42,29,-5,70%,114,11%,7,8,-1
+LuoK1ng,TE,All_Maps,All,"Brimstone, Omen",0.96,187,43,44,25,-1,76%,113,38%,6,2,+4
+aspas,LEV,All_Maps,Attack,"Raze, Neon, Jett",1.04,264,31,27,6,+4,67%,167,40%,8,4,+4
+kiNgg,LEV,All_Maps,Attack,"Brimstone, Omen",0.89,176,20,24,9,-4,73%,119,39%,1,5,-4
+tex,LEV,All_Maps,Attack,"Gekko, Cypher",1.14,219,27,24,5,+3,67%,143,26%,2,2,0
+C0M,LEV,All_Maps,Attack,"Viper, Sova",0.61,124,12,26,7,-14,55%,103,20%,1,2,-1
+Mazino,LEV,All_Maps,Attack,"Skye, Breach, Deadlock",0.69,153,16,26,11,-10,64%,98,36%,2,6,-4
+Kai,TE,All_Maps,Attack,"Cypher, Jett",0.97,208,21,22,6,-1,63%,139,33%,4,5,-1
+FengF,TE,All_Maps,Attack,"Raze, Killjoy",1.11,248,25,23,5,+2,70%,168,37%,4,4,0
+heybay,TE,All_Maps,Attack,"Deadlock, Breach, Kayo",1.17,199,22,19,12,+3,77%,133,28%,1,1,0
+Biank,TE,All_Maps,Attack,"Skye, Sova",0.95,190,19,21,13,-2,67%,111,14%,3,6,-3
+LuoK1ng,TE,All_Maps,Attack,"Brimstone, Omen",0.54,100,9,22,15,-13,67%,62,24%,2,0,+2
+aspas,LEV,All_Maps,Defend,"Raze, Neon, Jett",1.23,206,23,16,6,+7,70%,139,23%,2,4,-2
+kiNgg,LEV,All_Maps,Defend,"Brimstone, Omen",1.16,190,19,16,17,+3,83%,122,35%,3,4,-1
+tex,LEV,All_Maps,Defend,"Gekko, Cypher",0.82,198,21,22,6,-1,73%,129,37%,3,3,0
+C0M,LEV,All_Maps,Defend,"Viper, Sova",1.23,240,26,19,5,+7,63%,161,23%,4,2,+2
+Mazino,LEV,All_Maps,Defend,"Skye, Breach, Deadlock",0.80,181,18,23,11,-5,67%,105,26%,4,1,+3
+Kai,TE,All_Maps,Defend,"Cypher, Jett",1.53,265,31,20,8,+11,79%,178,26%,7,2,+5
+FengF,TE,All_Maps,Defend,"Raze, Killjoy",1.00,210,25,22,3,+3,73%,144,27%,3,5,-2
+heybay,TE,All_Maps,Defend,"Deadlock, Breach, Kayo",0.85,165,19,21,11,-2,73%,111,23%,1,3,-2
+Biank,TE,All_Maps,Defend,"Skye, Sova",0.99,180,18,21,16,-3,73%,118,8%,4,2,+2
+LuoK1ng,TE,All_Maps,Defend,"Brimstone, Omen",1.35,263,34,22,10,+12,85%,160,44%,4,2,+2

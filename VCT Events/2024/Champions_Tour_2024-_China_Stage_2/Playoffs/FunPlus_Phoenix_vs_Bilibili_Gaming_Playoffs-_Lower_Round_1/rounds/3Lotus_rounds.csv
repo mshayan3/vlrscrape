@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+3Lotus,1,"""1-0""",FPX,Defenders,Defuse
+3Lotus,2,"""2-0""",FPX,Defenders,Elimination
+3Lotus,3,"""2-1""",BLG,Attackers,Elimination
+3Lotus,4,"""2-2""",BLG,Attackers,Elimination
+3Lotus,5,"""2-3""",BLG,Attackers,Elimination
+3Lotus,6,"""2-4""",BLG,Attackers,Elimination
+3Lotus,7,"""3-4""",FPX,Defenders,Elimination
+3Lotus,8,"""3-5""",BLG,Attackers,Elimination
+3Lotus,9,"""4-5""",FPX,Defenders,Elimination
+3Lotus,10,"""5-5""",FPX,Defenders,Elimination
+3Lotus,11,"""6-5""",FPX,Defenders,Defuse
+3Lotus,12,"""6-6""",BLG,Attackers,Elimination
+3Lotus,13,"""7-6""",BLG,Attackers,Elimination
+3Lotus,14,"""8-6""",BLG,Attackers,Elimination
+3Lotus,15,"""8-7""",FPX,Defenders,Defuse
+3Lotus,16,"""9-7""",BLG,Attackers,Elimination
+3Lotus,17,"""9-8""",FPX,Defenders,Elimination
+3Lotus,18,"""9-9""",FPX,Defenders,Defuse
+3Lotus,19,"""10-9""",BLG,Attackers,Elimination
+3Lotus,20,"""11-9""",BLG,Attackers,Elimination
+3Lotus,21,"""12-9""",BLG,Attackers,Elimination
+3Lotus,22,"""12-10""",FPX,Defenders,Elimination
+3Lotus,23,"""13-10""",BLG,Attackers,Elimination
+3Lotus,24,"""""",,,

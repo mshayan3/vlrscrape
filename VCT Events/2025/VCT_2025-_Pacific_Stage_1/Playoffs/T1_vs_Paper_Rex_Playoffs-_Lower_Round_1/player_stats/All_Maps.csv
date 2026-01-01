@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+BuZz,T1,All_Maps,All,"Neon, Jett, Yoru",0.98,238,40,40,8,0,65%,151,32%,8,6,+2
+Meteor,T1,All_Maps,All,"Vyse, Killjoy, Tejo",0.93,220,38,38,5,0,67%,140,26%,5,8,-3
+iZu,T1,All_Maps,All,"Tejo, Sova, Viper",0.84,202,33,39,7,-6,69%,132,30%,1,6,-5
+Sylvan,T1,All_Maps,All,"Brimstone, Omen",0.75,144,24,36,16,-12,67%,104,24%,2,7,-5
+stax,T1,All_Maps,All,"Breach, Kayo",0.66,153,24,38,16,-14,63%,103,32%,1,4,-3
+Jinggg,PRX,All_Maps,All,"Raze, Omen",1.43,270,46,33,24,+13,83%,185,25%,7,4,+3
+f0rsakeN,PRX,All_Maps,All,"Neon, Fade, Omen",1.20,212,39,30,19,+9,77%,124,29%,10,5,+5
+something,PRX,All_Maps,All,"Brimstone, Jett, Yoru",1.16,223,36,31,20,+5,81%,138,19%,6,4,+2
+PatMen,PRX,All_Maps,All,"Breach, Kayo, Fade",1.13,204,36,33,27,+3,73%,139,27%,1,0,+1
+d4v41,PRX,All_Maps,All,"Killjoy, Vyse",0.97,175,34,32,14,+2,81%,119,23%,7,4,+3
+BuZz,T1,All_Maps,Attack,"Neon, Jett, Yoru",0.80,208,21,25,1,-4,54%,123,43%,4,5,-1
+Meteor,T1,All_Maps,Attack,"Vyse, Killjoy, Tejo",0.98,249,24,24,0,0,61%,166,27%,4,5,-1
+iZu,T1,All_Maps,Attack,"Tejo, Sova, Viper",0.59,173,15,25,2,-10,61%,119,30%,0,4,-4
+Sylvan,T1,All_Maps,Attack,"Brimstone, Omen",0.55,119,12,23,7,-11,57%,92,24%,1,4,-3
+stax,T1,All_Maps,Attack,"Breach, Kayo",0.65,152,14,24,10,-10,61%,106,42%,0,1,-1
+Jinggg,PRX,All_Maps,Attack,"Raze, Omen",1.10,206,14,14,8,0,80%,142,19%,1,1,0
+f0rsakeN,PRX,All_Maps,Attack,"Neon, Fade, Omen",1.26,240,17,15,10,+2,80%,140,23%,4,2,+2
+something,PRX,All_Maps,Attack,"Brimstone, Jett, Yoru",1.10,226,14,15,10,-1,70%,134,20%,5,2,+3
+PatMen,PRX,All_Maps,Attack,"Breach, Kayo, Fade",1.18,191,15,13,9,+2,60%,138,42%,0,0,0
+d4v41,PRX,All_Maps,Attack,"Killjoy, Vyse",0.58,125,10,16,5,-6,80%,82,9%,2,3,-1
+BuZz,T1,All_Maps,Defend,"Neon, Jett, Yoru",1.23,287,19,15,7,+4,80%,190,26%,4,1,+3
+Meteor,T1,All_Maps,Defend,"Vyse, Killjoy, Tejo",0.88,178,14,14,5,0,75%,103,24%,1,3,-2
+iZu,T1,All_Maps,Defend,"Tejo, Sova, Viper",1.20,245,18,14,5,+4,80%,151,30%,1,2,-1
+Sylvan,T1,All_Maps,Defend,"Brimstone, Omen",1.03,182,12,13,9,-1,80%,122,23%,1,3,-2
+stax,T1,All_Maps,Defend,"Breach, Kayo",0.67,155,10,14,6,-4,65%,100,20%,1,3,-2
+Jinggg,PRX,All_Maps,Defend,"Raze, Omen",1.67,315,32,19,16,+13,86%,216,28%,6,3,+3
+f0rsakeN,PRX,All_Maps,Defend,"Neon, Fade, Omen",1.16,190,22,15,9,+7,75%,113,37%,6,3,+3
+something,PRX,All_Maps,Defend,"Brimstone, Jett, Yoru",1.19,222,22,16,10,+6,89%,141,18%,1,2,-1
+PatMen,PRX,All_Maps,Defend,"Breach, Kayo, Fade",1.10,218,21,20,18,+1,82%,140,20%,1,0,+1
+d4v41,PRX,All_Maps,Defend,"Killjoy, Vyse",1.24,212,24,16,9,+8,82%,145,33%,5,1,+4

@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+DH,T1,All_Maps,All,Omen,1.26,240,36,25,19,+11,78%,146,46%,3,4,-1
+stax,T1,All_Maps,All,"Fade, Sova",1.25,206,31,22,11,+9,68%,145,38%,0,1,-1
+iZu,T1,All_Maps,All,"Yoru, Neon",1.15,280,37,29,14,+8,80%,177,26%,8,3,+5
+Meteor,T1,All_Maps,All,"Astra, Cypher",1.06,205,31,26,11,+5,80%,130,31%,5,4,+1
+BuZz,T1,All_Maps,All,"Chamber, Yoru",0.84,175,25,27,5,-2,73%,114,13%,5,7,-2
+Dep,ZETA,All_Maps,All,Viper,1.32,250,35,31,11,+4,73%,167,35%,6,5,+1
+SugarZ3ro,ZETA,All_Maps,All,Omen,0.97,210,27,30,11,-3,58%,134,27%,4,1,+3
+CLZ,ZETA,All_Maps,All,"Deadlock, Cypher",0.80,170,24,32,8,-8,70%,111,33%,3,1,+2
+TenTen,ZETA,All_Maps,All,"Yoru, Neon",0.69,173,26,34,7,-8,63%,103,14%,4,13,-9
+Xdll,ZETA,All_Maps,All,Sova,0.52,128,17,34,6,-17,55%,86,20%,2,1,+1
+DH,T1,All_Maps,Attack,Omen,1.31,260,20,12,8,+8,79%,155,44%,1,1,0
+stax,T1,All_Maps,Attack,"Fade, Sova",1.21,182,13,10,5,+3,63%,131,39%,0,1,-1
+iZu,T1,All_Maps,Attack,"Yoru, Neon",0.74,189,11,15,8,-4,74%,128,25%,1,3,-2
+Meteor,T1,All_Maps,Attack,"Astra, Cypher",1.45,310,21,12,5,+9,89%,192,32%,4,2,+2
+BuZz,T1,All_Maps,Attack,"Chamber, Yoru",0.84,150,11,12,2,-1,68%,91,14%,2,4,-2
+Dep,ZETA,All_Maps,Attack,Viper,1.46,261,21,15,3,+6,67%,162,41%,2,3,-1
+SugarZ3ro,ZETA,All_Maps,Attack,Omen,0.99,222,15,16,6,-1,52%,133,29%,4,0,+4
+CLZ,ZETA,All_Maps,Attack,"Deadlock, Cypher",0.77,153,11,16,4,-5,81%,101,32%,1,0,+1
+TenTen,ZETA,All_Maps,Attack,"Yoru, Neon",0.46,141,11,19,5,-8,62%,83,20%,1,10,-9
+Xdll,ZETA,All_Maps,Attack,Sova,0.52,139,11,18,4,-7,62%,88,23%,0,0,0
+DH,T1,All_Maps,Defend,Omen,1.22,223,16,13,11,+3,76%,138,47%,2,3,-1
+stax,T1,All_Maps,Defend,"Fade, Sova",1.29,220,18,12,6,+6,71%,157,38%,0,0,0
+iZu,T1,All_Maps,Defend,"Yoru, Neon",1.53,364,26,14,6,+12,86%,221,26%,7,0,+7
+Meteor,T1,All_Maps,Defend,"Astra, Cypher",0.70,116,10,14,6,-4,71%,74,29%,1,2,-1
+BuZz,T1,All_Maps,Defend,"Chamber, Yoru",0.84,203,14,15,3,-1,76%,135,13%,3,3,0
+Dep,ZETA,All_Maps,Defend,Viper,1.15,242,14,16,8,-2,79%,173,29%,4,2,+2
+SugarZ3ro,ZETA,All_Maps,Defend,Omen,0.95,194,12,14,5,-2,63%,135,24%,0,1,-1
+CLZ,ZETA,All_Maps,Defend,"Deadlock, Cypher",0.82,185,13,16,4,-3,58%,121,33%,2,1,+1
+TenTen,ZETA,All_Maps,Defend,"Yoru, Neon",0.94,209,15,15,2,0,63%,125,10%,3,3,0
+Xdll,ZETA,All_Maps,Defend,Sova,0.52,112,6,16,2,-10,47%,84,17%,2,1,+1

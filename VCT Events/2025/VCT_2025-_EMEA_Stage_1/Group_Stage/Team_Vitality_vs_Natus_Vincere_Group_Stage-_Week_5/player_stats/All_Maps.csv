@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Derke,VIT,All_Maps,All,"Neon, Jett",1.02,228,31,33,5,-2,57%,149,27%,7,11,-4
+CyvOph,VIT,All_Maps,All,"Omen, Killjoy",0.90,168,25,31,8,-6,69%,104,42%,0,5,-5
+Sayf,VIT,All_Maps,All,Tejo,0.76,153,20,29,7,-9,67%,113,13%,2,1,+1
+Less,VIT,All_Maps,All,"Cypher, Viper",0.72,176,24,36,11,-12,60%,111,28%,3,6,-3
+Kicks,VIT,All_Maps,All,"Breach, Kayo",0.70,131,21,33,13,-12,62%,101,32%,0,8,-8
+koalanoob,NAVI,All_Maps,All,"Yoru, Omen",1.42,256,40,25,17,+15,88%,163,31%,10,5,+5
+Ruxic,NAVI,All_Maps,All,"Omen, Viper",1.31,295,42,24,11,+18,88%,162,31%,10,1,+9
+hiro,NAVI,All_Maps,All,"Cypher, Killjoy",1.00,167,27,23,8,+4,79%,116,20%,2,1,+1
+ANGE1,NAVI,All_Maps,All,"Vyse, Tejo",0.95,172,25,25,7,0,74%,113,28%,6,1,+5
+Shao,NAVI,All_Maps,All,"Sova, Gekko",0.91,148,23,24,9,-1,81%,109,24%,2,3,-1
+Derke,VIT,All_Maps,Attack,"Neon, Jett",1.15,266,22,21,2,+1,63%,174,30%,5,3,+2
+CyvOph,VIT,All_Maps,Attack,"Omen, Killjoy",0.93,176,14,18,7,-4,71%,107,35%,0,4,-4
+Sayf,VIT,All_Maps,Attack,Tejo,1.05,162,12,14,5,-2,67%,115,12%,1,0,+1
+Less,VIT,All_Maps,Attack,"Cypher, Viper",0.80,202,16,21,7,-5,67%,133,25%,1,5,-4
+Kicks,VIT,All_Maps,Attack,"Breach, Kayo",0.63,118,11,19,5,-8,63%,91,44%,0,6,-6
+koalanoob,NAVI,All_Maps,Attack,"Yoru, Omen",1.24,242,15,12,10,+3,89%,149,35%,5,1,+4
+Ruxic,NAVI,All_Maps,Attack,"Omen, Viper",1.51,309,21,9,3,+12,89%,171,24%,4,1,+3
+hiro,NAVI,All_Maps,Attack,"Cypher, Killjoy",1.26,193,14,7,3,+7,78%,121,19%,1,1,0
+ANGE1,NAVI,All_Maps,Attack,"Vyse, Tejo",1.21,165,10,8,2,+2,89%,114,35%,3,0,+3
+Shao,NAVI,All_Maps,Attack,"Sova, Gekko",0.79,117,8,10,5,-2,89%,89,30%,0,1,-1
+Derke,VIT,All_Maps,Defend,"Neon, Jett",0.84,163,9,12,3,-3,50%,115,20%,2,8,-6
+CyvOph,VIT,All_Maps,Defend,"Omen, Killjoy",0.87,154,11,13,1,-2,67%,100,52%,0,1,-1
+Sayf,VIT,All_Maps,Defend,Tejo,0.37,137,8,15,2,-7,67%,110,15%,1,1,0
+Less,VIT,All_Maps,Defend,"Cypher, Viper",0.61,139,8,15,4,-7,50%,82,38%,2,1,+1
+Kicks,VIT,All_Maps,Defend,"Breach, Kayo",0.80,162,10,14,8,-4,61%,114,23%,0,2,-2
+koalanoob,NAVI,All_Maps,Defend,"Yoru, Omen",1.56,274,25,13,7,+12,88%,173,29%,5,4,+1
+Ruxic,NAVI,All_Maps,Defend,"Omen, Viper",1.16,250,21,15,8,+6,88%,155,36%,6,0,+6
+hiro,NAVI,All_Maps,Defend,"Cypher, Killjoy",0.80,150,13,16,5,-3,79%,112,21%,1,0,+1
+ANGE1,NAVI,All_Maps,Defend,"Vyse, Tejo",0.75,178,15,17,5,-2,63%,113,24%,3,1,+2
+Shao,NAVI,All_Maps,Defend,"Sova, Gekko",0.99,172,15,14,4,+1,75%,124,21%,2,2,0

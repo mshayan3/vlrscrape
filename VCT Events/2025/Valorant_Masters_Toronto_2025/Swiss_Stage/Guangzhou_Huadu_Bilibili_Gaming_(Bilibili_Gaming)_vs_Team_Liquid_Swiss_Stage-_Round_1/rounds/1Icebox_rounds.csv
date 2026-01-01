@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+1Icebox,1,"""1-0""",BLG,Defenders,Elimination
+1Icebox,2,"""2-0""",BLG,Defenders,Defuse
+1Icebox,3,"""2-1""",TL,Attackers,Elimination
+1Icebox,4,"""2-2""",TL,Attackers,Elimination
+1Icebox,5,"""2-3""",TL,Attackers,Spike Detonation
+1Icebox,6,"""3-3""",BLG,Defenders,Elimination
+1Icebox,7,"""3-4""",TL,Attackers,Elimination
+1Icebox,8,"""3-5""",TL,Attackers,Elimination
+1Icebox,9,"""3-6""",TL,Attackers,Spike Detonation
+1Icebox,10,"""3-7""",TL,Attackers,Elimination
+1Icebox,11,"""4-7""",BLG,Defenders,Elimination
+1Icebox,12,"""5-7""",BLG,Defenders,Defuse
+1Icebox,13,"""6-7""",TL,Attackers,Elimination
+1Icebox,14,"""7-7""",TL,Attackers,Spike Detonation
+1Icebox,15,"""7-8""",BLG,Defenders,Elimination
+1Icebox,16,"""8-8""",TL,Attackers,Elimination
+1Icebox,17,"""9-8""",TL,Attackers,Elimination
+1Icebox,18,"""10-8""",TL,Attackers,Elimination
+1Icebox,19,"""11-8""",TL,Attackers,Elimination
+1Icebox,20,"""11-9""",BLG,Defenders,Time Expired
+1Icebox,21,"""11-10""",BLG,Defenders,Defuse
+1Icebox,22,"""12-10""",TL,Attackers,Elimination
+1Icebox,23,"""13-10""",TL,Attackers,Elimination
+1Icebox,24,"""""",,,

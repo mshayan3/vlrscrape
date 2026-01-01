@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+kaajak,FNC,All_Maps,All,"Yoru, Sage, Neon",1.70,316,73,33,17,+40,83%,199,30%,14,7,+7
+Chronicle,FNC,All_Maps,All,"Viper, Gekko, Breach",1.13,216,47,39,26,+8,85%,134,19%,7,2,+5
+Alfajer,FNC,All_Maps,All,"Raze, Killjoy, Cypher",1.00,205,45,45,14,0,71%,130,25%,11,3,+8
+crashies,FNC,All_Maps,All,"Fade, Tejo",0.96,152,36,38,24,-2,72%,106,27%,3,4,-1
+Boaster,FNC,All_Maps,All,"Astra, Viper, Brimstone",0.90,167,40,41,16,-1,75%,115,30%,5,9,-4
+Wo0t,TH,All_Maps,All,"Raze, Gekko",0.99,206,47,49,11,-2,68%,138,29%,8,11,-3
+benjyfishy,TH,All_Maps,All,"Viper, Killjoy, Cypher",0.98,176,43,44,7,-1,62%,126,46%,2,7,-5
+MiniBoo,TH,All_Maps,All,"Yoru, Neon",0.86,195,42,49,15,-7,58%,124,39%,9,12,-3
+RieNs,TH,All_Maps,All,"Fade, Sova",0.78,171,38,52,17,-14,63%,118,35%,3,8,-5
+Boo,TH,All_Maps,All,"Omen, Viper, Brimstone",0.68,118,26,47,22,-21,69%,76,26%,3,2,+1
+kaajak,FNC,All_Maps,Attack,"Yoru, Sage, Neon",1.46,297,37,22,6,+15,77%,194,32%,6,7,-1
+Chronicle,FNC,All_Maps,Attack,"Viper, Gekko, Breach",1.04,183,23,21,7,+2,77%,124,25%,2,1,+1
+Alfajer,FNC,All_Maps,Attack,"Raze, Killjoy, Cypher",0.92,207,25,27,7,-2,66%,136,22%,6,0,+6
+crashies,FNC,All_Maps,Attack,"Fade, Tejo",0.83,136,16,22,12,-6,63%,91,25%,2,3,-1
+Boaster,FNC,All_Maps,Attack,"Astra, Viper, Brimstone",0.72,137,16,24,4,-8,69%,99,31%,4,4,0
+Wo0t,TH,All_Maps,Attack,"Raze, Gekko",0.93,215,21,25,3,-4,60%,141,27%,2,3,-1
+benjyfishy,TH,All_Maps,Attack,"Viper, Killjoy, Cypher",1.11,193,22,21,3,+1,67%,136,55%,1,2,-1
+MiniBoo,TH,All_Maps,Attack,"Yoru, Neon",0.53,165,16,26,5,-10,50%,100,33%,6,8,-2
+RieNs,TH,All_Maps,Attack,"Fade, Sova",0.44,125,12,27,6,-15,50%,90,23%,0,6,-6
+Boo,TH,All_Maps,Attack,"Omen, Viper, Brimstone",0.50,113,9,25,14,-16,67%,64,30%,1,1,0
+kaajak,FNC,All_Maps,Defend,"Yoru, Sage, Neon",1.99,322,36,11,11,+25,90%,206,27%,8,0,+8
+Chronicle,FNC,All_Maps,Defend,"Viper, Gekko, Breach",1.24,238,24,18,19,+6,93%,146,15%,5,1,+4
+Alfajer,FNC,All_Maps,Defend,"Raze, Killjoy, Cypher",1.08,196,20,18,7,+2,77%,124,29%,5,3,+2
+crashies,FNC,All_Maps,Defend,"Fade, Tejo",1.11,182,20,16,12,+4,83%,123,28%,1,1,0
+Boaster,FNC,All_Maps,Defend,"Astra, Viper, Brimstone",1.11,214,24,17,12,+7,83%,134,30%,1,5,-4
+Wo0t,TH,All_Maps,Defend,"Raze, Gekko",1.03,204,26,24,8,+2,74%,136,30%,6,8,-2
+benjyfishy,TH,All_Maps,Defend,"Viper, Killjoy, Cypher",0.87,170,21,23,4,-2,57%,118,39%,1,5,-4
+MiniBoo,TH,All_Maps,Defend,"Yoru, Neon",1.15,223,26,23,10,+3,66%,144,43%,3,4,-1
+RieNs,TH,All_Maps,Defend,"Fade, Sova",1.08,214,26,25,11,+1,74%,142,44%,3,2,+1
+Boo,TH,All_Maps,Defend,"Omen, Viper, Brimstone",0.84,133,17,22,8,-5,71%,86,24%,2,1,+1

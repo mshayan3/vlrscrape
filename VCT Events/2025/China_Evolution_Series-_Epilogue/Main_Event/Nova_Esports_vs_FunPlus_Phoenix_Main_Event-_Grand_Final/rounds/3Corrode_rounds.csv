@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+3Corrode,1,"""0-1""",FPX,Attackers,Elimination
+3Corrode,2,"""0-2""",FPX,Attackers,Elimination
+3Corrode,3,"""0-3""",FPX,Attackers,Elimination
+3Corrode,4,"""0-4""",FPX,Attackers,Elimination
+3Corrode,5,"""1-4""",NOVA,Defenders,Time Expired
+3Corrode,6,"""1-5""",FPX,Attackers,Elimination
+3Corrode,7,"""1-6""",FPX,Attackers,Spike Detonation
+3Corrode,8,"""2-6""",NOVA,Defenders,Elimination
+3Corrode,9,"""2-7""",FPX,Attackers,Spike Detonation
+3Corrode,10,"""2-8""",FPX,Attackers,Elimination
+3Corrode,11,"""2-9""",FPX,Attackers,Spike Detonation
+3Corrode,12,"""3-9""",NOVA,Defenders,Elimination
+3Corrode,13,"""4-9""",FPX,Attackers,Elimination
+3Corrode,14,"""5-9""",FPX,Attackers,Elimination
+3Corrode,15,"""6-9""",FPX,Attackers,Spike Detonation
+3Corrode,16,"""7-9""",FPX,Attackers,Elimination
+3Corrode,17,"""8-9""",FPX,Attackers,Spike Detonation
+3Corrode,18,"""8-10""",NOVA,Defenders,Elimination
+3Corrode,19,"""9-10""",FPX,Attackers,Elimination
+3Corrode,20,"""9-11""",NOVA,Defenders,Elimination
+3Corrode,21,"""10-11""",FPX,Attackers,Elimination
+3Corrode,22,"""10-12""",NOVA,Defenders,Defuse
+3Corrode,23,"""11-12""",FPX,Attackers,Elimination
+3Corrode,24,"""11-13""",NOVA,Defenders,Elimination

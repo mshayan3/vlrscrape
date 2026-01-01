@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Yuicaw,WOL,All_Maps,All,"Breach, Chamber",1.20,221,37,30,18,+7,73%,144,33%,4,3,+1
+Spring,WOL,All_Maps,All,"Brimstone, Viper",1.16,229,40,32,14,+8,63%,145,25%,6,9,-3
+Lysoar,WOL,All_Maps,All,"Cypher, Killjoy",0.93,178,30,33,9,-3,67%,111,26%,2,1,+1
+Juicy,WOL,All_Maps,All,"Raze, Reyna",0.88,200,34,37,7,-3,65%,127,21%,6,11,-5
+SiuFatBB,WOL,All_Maps,All,"Tejo, Sova",0.75,130,22,32,13,-10,65%,86,18%,3,4,-1
+Rarga,XLG,All_Maps,All,"Neon, Jett",1.21,273,48,37,4,+11,67%,170,34%,10,8,+2
+Viva,XLG,All_Maps,All,Tejo,1.20,186,34,28,7,+6,67%,124,24%,4,2,+2
+YOU,XLG,All_Maps,All,"Brimstone, Killjoy",0.96,178,29,31,13,-2,73%,116,25%,4,0,+4
+coconut,XLG,All_Maps,All,"Breach, Gekko",0.86,168,27,33,18,-6,69%,104,29%,3,5,-2
+happywei,XLG,All_Maps,All,"Cypher, Viper",0.73,159,26,35,14,-9,63%,107,26%,7,6,+1
+Yuicaw,WOL,All_Maps,Attack,"Breach, Chamber",1.01,200,16,17,8,-1,67%,135,27%,2,3,-1
+Spring,WOL,All_Maps,Attack,"Brimstone, Viper",0.67,163,14,17,6,-3,50%,76,28%,1,7,-6
+Lysoar,WOL,All_Maps,Attack,"Cypher, Killjoy",0.96,163,14,15,3,-1,67%,93,34%,0,0,0
+Juicy,WOL,All_Maps,Attack,"Raze, Reyna",0.67,164,12,19,4,-7,58%,106,20%,3,4,-1
+SiuFatBB,WOL,All_Maps,Attack,"Tejo, Sova",0.81,145,11,16,7,-5,63%,88,9%,2,2,0
+Rarga,XLG,All_Maps,Attack,"Neon, Jett",0.77,224,19,22,0,-3,44%,135,33%,4,5,-1
+Viva,XLG,All_Maps,Attack,Tejo,1.13,163,16,14,2,+2,60%,102,23%,1,2,-1
+YOU,XLG,All_Maps,Attack,"Brimstone, Killjoy",0.88,176,14,19,3,-5,64%,118,21%,3,0,+3
+coconut,XLG,All_Maps,Attack,"Breach, Gekko",0.88,224,20,20,8,0,68%,131,28%,1,5,-4
+happywei,XLG,All_Maps,Attack,"Cypher, Viper",0.42,140,11,21,7,-10,64%,54,24%,3,1,+2
+Yuicaw,WOL,All_Maps,Defend,"Breach, Chamber",1.38,236,21,13,10,+8,80%,153,36%,2,0,+2
+Spring,WOL,All_Maps,Defend,"Brimstone, Viper",1.63,293,26,15,8,+11,76%,210,22%,5,2,+3
+Lysoar,WOL,All_Maps,Defend,"Cypher, Killjoy",0.91,186,16,18,6,-2,68%,129,22%,2,1,+1
+Juicy,WOL,All_Maps,Defend,"Raze, Reyna",1.08,239,22,18,3,+4,72%,147,24%,3,7,-4
+SiuFatBB,WOL,All_Maps,Defend,"Tejo, Sova",0.70,117,11,16,6,-5,68%,83,25%,1,2,-1
+Rarga,XLG,All_Maps,Defend,"Neon, Jett",1.67,332,29,15,4,+14,92%,206,35%,6,3,+3
+Viva,XLG,All_Maps,Defend,Tejo,1.28,211,18,14,5,+4,75%,146,26%,3,0,+3
+YOU,XLG,All_Maps,Defend,"Brimstone, Killjoy",1.04,175,15,12,10,+3,83%,113,23%,1,0,+1
+coconut,XLG,All_Maps,Defend,"Breach, Gekko",0.84,107,7,13,10,-6,71%,76,27%,2,0,+2
+happywei,XLG,All_Maps,Defend,"Cypher, Viper",1.05,172,15,14,7,+1,63%,163,28%,4,5,-1

@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Jinggg,PRX,All_Maps,All,"Omen, Brimstone, Phoenix",1.16,217,50,43,26,+7,80%,152,29%,3,5,-2
+f0rsakeN,PRX,All_Maps,All,"Fade, Neon, Vyse",1.05,206,49,45,21,+4,73%,131,33%,12,14,-2
+PatMen,PRX,All_Maps,All,"Kayo, Breach, Fade",0.97,211,44,51,27,-7,67%,140,27%,4,2,+2
+something,PRX,All_Maps,All,"Jett, Tejo, Yoru",0.89,171,41,45,11,-4,73%,108,24%,7,10,-3
+d4v41,PRX,All_Maps,All,"Vyse, Astra",0.78,150,36,45,15,-9,70%,103,31%,1,8,-7
+Famouz,BME,All_Maps,All,"Phoenix, Neon, Jett",1.31,302,69,50,15,+19,79%,182,23%,18,9,+9
+NcSlasher,BME,All_Maps,All,"Tejo, Breach",1.13,205,47,43,26,+4,79%,133,20%,3,5,-2
+dos9,BME,All_Maps,All,"Omen, Brimstone, Astra",1.09,156,37,38,32,-1,76%,100,20%,3,4,-1
+Shiro,BME,All_Maps,All,"Sova, Tejo, Kayo",0.89,176,38,45,18,-7,77%,121,24%,8,3,+5
+BerserX,BME,All_Maps,All,Killjoy,0.81,162,38,44,12,-6,73%,107,14%,7,6,+1
+Jinggg,PRX,All_Maps,Attack,"Omen, Brimstone, Phoenix",1.13,202,21,21,14,0,77%,137,27%,0,2,-2
+f0rsakeN,PRX,All_Maps,Attack,"Fade, Neon, Vyse",0.85,166,18,21,5,-3,52%,101,37%,4,10,-6
+PatMen,PRX,All_Maps,Attack,"Kayo, Breach, Fade",0.79,169,16,24,12,-8,71%,117,30%,1,1,0
+something,PRX,All_Maps,Attack,"Jett, Tejo, Yoru",0.56,148,16,27,5,-11,65%,98,25%,3,7,-4
+d4v41,PRX,All_Maps,Attack,"Vyse, Astra",0.88,173,19,23,7,-4,65%,114,40%,0,3,-3
+Famouz,BME,All_Maps,Attack,"Phoenix, Neon, Jett",1.00,247,29,30,8,-1,77%,151,23%,9,6,+3
+NcSlasher,BME,All_Maps,Attack,"Tejo, Breach",1.01,201,25,25,10,0,71%,128,19%,1,4,-3
+dos9,BME,All_Maps,Attack,"Omen, Brimstone, Astra",1.10,174,21,23,17,-2,74%,114,25%,3,3,0
+Shiro,BME,All_Maps,Attack,"Sova, Tejo, Kayo",0.63,144,16,28,8,-12,71%,98,21%,1,3,-2
+BerserX,BME,All_Maps,Attack,Killjoy,0.87,184,22,24,5,-2,74%,124,20%,2,3,-1
+Jinggg,PRX,All_Maps,Defend,"Omen, Brimstone, Phoenix",1.19,231,29,22,12,+7,83%,165,31%,3,3,0
+f0rsakeN,PRX,All_Maps,Defend,"Fade, Neon, Vyse",1.22,242,31,24,16,+7,91%,157,31%,8,4,+4
+PatMen,PRX,All_Maps,Defend,"Kayo, Breach, Fade",1.13,249,28,27,15,+1,63%,161,26%,3,1,+2
+something,PRX,All_Maps,Defend,"Jett, Tejo, Yoru",1.18,187,25,18,6,+7,80%,117,23%,4,3,+1
+d4v41,PRX,All_Maps,Defend,"Vyse, Astra",0.70,130,17,22,8,-5,74%,93,24%,1,5,-4
+Famouz,BME,All_Maps,Defend,"Phoenix, Neon, Jett",1.64,364,40,20,7,+20,81%,218,22%,9,3,+6
+NcSlasher,BME,All_Maps,Defend,"Tejo, Breach",1.27,208,22,18,16,+4,87%,138,20%,2,1,+1
+dos9,BME,All_Maps,Defend,"Omen, Brimstone, Astra",1.07,137,16,15,15,+1,77%,83,13%,0,1,-1
+Shiro,BME,All_Maps,Defend,"Sova, Tejo, Kayo",1.19,217,22,17,10,+5,84%,147,25%,7,0,+7
+BerserX,BME,All_Maps,Defend,Killjoy,0.73,136,16,20,7,-4,71%,89,10%,5,3,+2

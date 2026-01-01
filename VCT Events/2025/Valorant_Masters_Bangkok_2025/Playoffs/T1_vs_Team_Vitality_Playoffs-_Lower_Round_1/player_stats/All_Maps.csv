@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+BuZz,T1,All_Maps,All,"Raze, Yoru",1.20,270,57,42,14,+15,70%,168,13%,15,6,+9
+iZu,T1,All_Maps,All,"Cypher, Yoru",1.16,213,49,34,14,+15,69%,119,29%,6,10,-4
+Meteor,T1,All_Maps,All,"Iso, Viper",1.14,233,51,43,15,+8,79%,146,35%,10,4,+6
+Sylvan,T1,All_Maps,All,Omen,1.08,176,38,34,37,+4,84%,113,29%,3,2,+1
+stax,T1,All_Maps,All,"Sova, Fade",1.05,158,35,30,17,+5,80%,116,34%,2,3,-1
+trexx,VIT,All_Maps,All,"Fade, Sova",1.09,207,41,44,24,-3,66%,132,18%,3,1,+2
+Derke,VIT,All_Maps,All,"Raze, Yoru",1.01,215,46,47,9,-1,64%,143,24%,8,14,-6
+Less,VIT,All_Maps,All,"Viper, Cypher",0.94,167,37,45,17,-8,61%,115,33%,4,6,-2
+Sayf,VIT,All_Maps,All,"Vyse, Jett, Omen",0.72,170,33,48,14,-15,64%,110,20%,7,5,+2
+Kicks,VIT,All_Maps,All,"Omen, Breach",0.61,123,26,46,23,-20,72%,85,23%,3,10,-7
+BuZz,T1,All_Maps,Attack,"Raze, Yoru",1.44,318,28,15,5,+13,79%,200,18%,6,2,+4
+iZu,T1,All_Maps,Attack,"Cypher, Yoru",0.98,184,15,14,7,+1,71%,108,29%,1,2,-1
+Meteor,T1,All_Maps,Attack,"Iso, Viper",1.16,243,20,15,6,+5,88%,146,38%,8,3,+5
+Sylvan,T1,All_Maps,Attack,Omen,1.42,233,21,12,15,+9,92%,145,38%,1,0,+1
+stax,T1,All_Maps,Attack,"Sova, Fade",1.00,129,12,10,5,+2,79%,97,31%,0,1,-1
+trexx,VIT,All_Maps,Attack,"Fade, Sova",1.26,227,28,23,14,+5,73%,143,18%,2,0,+2
+Derke,VIT,All_Maps,Attack,"Raze, Yoru",0.99,237,29,30,8,-1,62%,151,24%,5,8,-3
+Less,VIT,All_Maps,Attack,"Viper, Cypher",0.86,172,20,28,14,-8,62%,113,29%,4,5,-1
+Sayf,VIT,All_Maps,Attack,"Vyse, Jett, Omen",1.02,204,27,26,8,+1,76%,129,26%,4,2,+2
+Kicks,VIT,All_Maps,Attack,"Omen, Breach",0.54,112,13,27,14,-14,73%,74,18%,2,5,-3
+BuZz,T1,All_Maps,Defend,"Raze, Yoru",1.04,234,29,27,9,+2,65%,146,10%,9,4,+5
+iZu,T1,All_Maps,Defend,"Cypher, Yoru",1.28,217,34,20,7,+14,68%,126,30%,5,8,-3
+Meteor,T1,All_Maps,Defend,"Iso, Viper",1.13,229,31,28,9,+3,73%,146,33%,2,1,+1
+Sylvan,T1,All_Maps,Defend,Omen,0.86,139,17,22,22,-5,78%,91,22%,2,2,0
+stax,T1,All_Maps,Defend,"Sova, Fade",1.09,176,23,20,12,+3,81%,128,35%,2,2,0
+trexx,VIT,All_Maps,Defend,"Fade, Sova",0.84,182,13,21,10,-8,54%,114,18%,1,1,0
+Derke,VIT,All_Maps,Defend,"Raze, Yoru",1.05,199,17,17,1,0,67%,130,23%,3,6,-3
+Less,VIT,All_Maps,Defend,"Viper, Cypher",1.07,199,17,17,3,0,58%,117,41%,0,1,-1
+Sayf,VIT,All_Maps,Defend,"Vyse, Jett, Omen",0.28,113,6,22,6,-16,46%,80,8%,3,3,0
+Kicks,VIT,All_Maps,Defend,"Omen, Breach",0.72,160,13,19,9,-6,71%,102,31%,1,5,-4

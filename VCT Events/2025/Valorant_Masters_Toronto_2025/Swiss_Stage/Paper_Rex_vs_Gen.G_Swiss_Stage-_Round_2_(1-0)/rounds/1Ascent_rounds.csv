@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+1Ascent,1,"""0-1""",GEN,Attackers,Elimination
+1Ascent,2,"""0-2""",GEN,Attackers,Elimination
+1Ascent,3,"""0-3""",GEN,Attackers,Elimination
+1Ascent,4,"""0-4""",GEN,Attackers,Elimination
+1Ascent,5,"""0-5""",GEN,Attackers,Spike Detonation
+1Ascent,6,"""0-6""",GEN,Attackers,Elimination
+1Ascent,7,"""0-7""",GEN,Attackers,Elimination
+1Ascent,8,"""1-7""",PRX,Defenders,Defuse
+1Ascent,9,"""2-7""",PRX,Defenders,Defuse
+1Ascent,10,"""3-7""",PRX,Defenders,Elimination
+1Ascent,11,"""3-8""",GEN,Attackers,Elimination
+1Ascent,12,"""4-8""",PRX,Defenders,Time Expired
+1Ascent,13,"""4-9""",PRX,Defenders,Defuse
+1Ascent,14,"""4-10""",PRX,Defenders,Elimination
+1Ascent,15,"""5-10""",GEN,Attackers,Elimination
+1Ascent,16,"""6-10""",GEN,Attackers,Spike Detonation
+1Ascent,17,"""7-10""",GEN,Attackers,Elimination
+1Ascent,18,"""7-11""",PRX,Defenders,Defuse
+1Ascent,19,"""8-11""",GEN,Attackers,Elimination
+1Ascent,20,"""9-11""",GEN,Attackers,Elimination
+1Ascent,21,"""10-11""",GEN,Attackers,Spike Detonation
+1Ascent,22,"""10-12""",PRX,Defenders,Defuse
+1Ascent,23,"""11-12""",GEN,Attackers,Elimination
+1Ascent,24,"""11-13""",PRX,Defenders,Defuse

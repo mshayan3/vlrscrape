@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Zellsis,SEN,All_Maps,All,"Kayo, Vyse",1.00,209,29,32,10,-3,70%,139,31%,4,4,0
+bang,SEN,All_Maps,All,Astra,0.95,179,25,27,14,-2,73%,119,30%,2,6,-4
+zekken,SEN,All_Maps,All,"Jett, Yoru",0.79,193,26,33,7,-7,65%,121,23%,8,4,+4
+N4RRATE,SEN,All_Maps,All,"Omen, Fade",0.78,186,25,33,14,-8,68%,127,31%,2,8,-6
+johnqt,SEN,All_Maps,All,"Sova, Tejo",0.68,136,18,29,8,-11,63%,93,29%,1,1,0
+jawgemo,G2,All_Maps,All,Yoru,1.20,255,36,29,16,+7,70%,160,18%,9,3,+6
+JonahP,G2,All_Maps,All,"Breach, Vyse",1.18,183,26,20,20,+6,75%,125,21%,4,2,+2
+trent,G2,All_Maps,All,Sova,1.17,215,31,23,9,+8,68%,141,22%,2,3,-1
+valyn,G2,All_Maps,All,Astra,1.04,198,30,24,11,+6,65%,121,22%,2,4,-2
+leaf,G2,All_Maps,All,Chamber,1.04,212,30,28,8,+2,70%,135,23%,6,5,+1
+Zellsis,SEN,All_Maps,Attack,"Kayo, Vyse",1.28,236,17,14,5,+3,75%,166,27%,2,1,+1
+bang,SEN,All_Maps,Attack,Astra,0.84,142,10,13,10,-3,75%,87,18%,1,2,-1
+zekken,SEN,All_Maps,Attack,"Jett, Yoru",0.80,206,14,16,4,-2,65%,131,33%,4,2,+2
+N4RRATE,SEN,All_Maps,Attack,"Omen, Fade",1.01,211,15,14,7,+1,75%,135,37%,2,4,-2
+johnqt,SEN,All_Maps,Attack,"Sova, Tejo",0.70,151,11,14,4,-3,65%,101,26%,1,1,0
+jawgemo,G2,All_Maps,Attack,Yoru,1.44,286,21,13,7,+8,75%,180,20%,7,1,+6
+JonahP,G2,All_Maps,Attack,"Breach, Vyse",1.45,213,17,9,10,+8,85%,142,21%,1,1,0
+trent,G2,All_Maps,Attack,Sova,1.47,257,21,10,2,+11,75%,161,23%,2,1,+1
+valyn,G2,All_Maps,Attack,Astra,0.97,155,12,8,3,+4,75%,89,21%,0,2,-2
+leaf,G2,All_Maps,Attack,Chamber,0.69,184,11,16,6,-5,60%,115,17%,3,2,+1
+Zellsis,SEN,All_Maps,Defend,"Kayo, Vyse",0.72,182,12,18,5,-6,65%,111,37%,2,3,-1
+bang,SEN,All_Maps,Defend,Astra,1.05,217,15,14,4,+1,70%,151,40%,1,4,-3
+zekken,SEN,All_Maps,Defend,"Jett, Yoru",0.78,182,12,17,3,-5,65%,111,15%,4,2,+2
+N4RRATE,SEN,All_Maps,Defend,"Omen, Fade",0.55,162,10,19,7,-9,60%,120,25%,0,4,-4
+johnqt,SEN,All_Maps,Defend,"Sova, Tejo",0.66,122,7,15,4,-8,60%,86,35%,0,0,0
+jawgemo,G2,All_Maps,Defend,Yoru,0.96,224,15,16,9,-1,65%,139,15%,2,2,0
+JonahP,G2,All_Maps,Defend,"Breach, Vyse",0.90,153,9,11,10,-2,65%,109,20%,3,1,+2
+trent,G2,All_Maps,Defend,Sova,0.86,173,10,13,7,-3,60%,120,21%,0,2,-2
+valyn,G2,All_Maps,Defend,Astra,1.12,243,18,16,8,+2,55%,152,22%,2,2,0
+leaf,G2,All_Maps,Defend,Chamber,1.38,241,19,12,2,+7,80%,156,30%,3,3,0

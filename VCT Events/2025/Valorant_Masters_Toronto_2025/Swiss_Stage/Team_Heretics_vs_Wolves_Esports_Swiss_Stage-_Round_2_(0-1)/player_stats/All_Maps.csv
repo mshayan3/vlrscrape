@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+RieNs,TH,All_Maps,All,"Sova, Viper",1.00,208,31,31,14,0,69%,137,26%,5,5,0
+MiniBoo,TH,All_Maps,All,"Yoru, Raze",1.00,217,36,33,3,+3,71%,125,26%,8,3,+5
+Boo,TH,All_Maps,All,"Astra, Omen",0.99,174,27,27,21,0,67%,102,41%,2,3,-1
+Wo0t,TH,All_Maps,All,"Jett, Fade",0.95,188,28,32,16,-4,71%,124,26%,6,8,-2
+benjyfishy,TH,All_Maps,All,"Cypher, Killjoy",0.79,171,27,31,6,-4,62%,111,26%,3,2,+1
+Spring,WOL,All_Maps,All,"Astra, Viper",1.40,260,44,29,11,+15,71%,157,31%,9,4,+5
+Juicy,WOL,All_Maps,All,"Yoru, Raze",1.33,242,40,29,9,+11,64%,157,29%,4,9,-5
+Yuicaw,WOL,All_Maps,All,"Chamber, Killjoy",0.99,198,31,30,7,+1,62%,129,30%,6,5,+1
+Lysoar,WOL,All_Maps,All,"Vyse, Omen",0.91,164,24,29,27,-5,64%,101,22%,2,3,-1
+SiuFatBB,WOL,All_Maps,All,Fade,0.57,104,15,32,15,-17,71%,68,33%,0,3,-3
+RieNs,TH,All_Maps,Attack,"Sova, Viper",1.11,240,18,16,7,+2,73%,158,23%,2,0,+2
+MiniBoo,TH,All_Maps,Attack,"Yoru, Raze",1.19,254,21,16,1,+5,77%,144,36%,5,3,+2
+Boo,TH,All_Maps,Attack,"Astra, Omen",1.01,204,16,15,6,+1,55%,129,35%,1,2,-1
+Wo0t,TH,All_Maps,Attack,"Jett, Fade",0.40,109,7,18,9,-11,68%,83,24%,1,6,-5
+benjyfishy,TH,All_Maps,Attack,"Cypher, Killjoy",0.45,109,9,16,2,-7,55%,66,19%,1,1,0
+Spring,WOL,All_Maps,Attack,"Astra, Viper",1.03,175,16,15,4,+1,70%,110,22%,4,2,+2
+Juicy,WOL,All_Maps,Attack,"Yoru, Raze",1.46,256,22,14,4,+8,61%,154,29%,1,5,-4
+Yuicaw,WOL,All_Maps,Attack,"Chamber, Killjoy",0.93,208,16,16,4,0,61%,135,30%,4,5,-1
+Lysoar,WOL,All_Maps,Attack,"Vyse, Omen",0.94,180,14,15,13,-1,65%,115,29%,0,1,-1
+SiuFatBB,WOL,All_Maps,Attack,Fade,0.30,75,5,18,5,-13,65%,47,38%,0,1,-1
+RieNs,TH,All_Maps,Defend,"Sova, Viper",0.89,177,13,15,7,-2,65%,116,29%,3,5,-2
+MiniBoo,TH,All_Maps,Defend,"Yoru, Raze",0.81,181,15,17,2,-2,65%,106,16%,3,0,+3
+Boo,TH,All_Maps,Defend,"Astra, Omen",0.98,144,11,12,15,-1,78%,76,56%,1,1,0
+Wo0t,TH,All_Maps,Defend,"Jett, Fade",1.47,264,21,14,7,+7,74%,163,28%,5,2,+3
+benjyfishy,TH,All_Maps,Defend,"Cypher, Killjoy",1.11,229,18,15,4,+3,70%,155,29%,2,1,+1
+Spring,WOL,All_Maps,Defend,"Astra, Viper",1.80,350,28,14,7,+14,73%,207,36%,5,2,+3
+Juicy,WOL,All_Maps,Defend,"Yoru, Raze",1.19,229,18,15,5,+3,68%,160,30%,3,4,-1
+Yuicaw,WOL,All_Maps,Defend,"Chamber, Killjoy",1.06,185,15,14,3,+1,64%,124,29%,2,0,+2
+Lysoar,WOL,All_Maps,Defend,"Vyse, Omen",0.87,147,10,14,14,-4,64%,87,15%,2,2,0
+SiuFatBB,WOL,All_Maps,Defend,Fade,0.84,135,10,14,10,-4,77%,89,31%,0,2,-2

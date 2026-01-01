@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+JitBoyS,TLN,All_Maps,All,"Viper, Cypher, Killjoy, Omen",1.05,215,80,70,26,+10,72%,132,41%,11,11,0
+primmie,TLN,All_Maps,All,"Yoru, Deadlock, Sage",1.03,222,81,74,24,+7,69%,133,34%,14,13,+1
+Crws,TLN,All_Maps,All,"Brimstone, Deadlock, Omen, Viper",0.95,168,56,66,40,-10,72%,113,21%,8,10,-2
+thyy,TLN,All_Maps,All,"Raze, Omen, Yoru, Jett",0.94,203,78,79,21,-1,67%,133,34%,17,10,+7
+Killua,TLN,All_Maps,All,"Fade, Sova",0.91,183,71,74,24,-3,74%,127,41%,6,5,+1
+xffero,RRQ,All_Maps,All,"Viper, Cypher, Killjoy",1.15,226,83,69,21,+14,73%,145,31%,8,11,-3
+Jemkin,RRQ,All_Maps,All,"Yoru, Waylay, Jett",1.13,224,91,75,15,+16,70%,151,35%,13,11,+2
+Monyet,RRQ,All_Maps,All,"Raze, Neon, Viper, Omen",0.96,209,69,75,38,-6,71%,140,34%,14,19,-5
+crazyguy,RRQ,All_Maps,All,"Brimstone, Omen, Sage, Breach",0.91,159,58,67,45,-9,70%,112,29%,3,10,-7
+Kushy,RRQ,All_Maps,All,"Fade, Sova",0.84,159,62,80,17,-18,70%,110,39%,11,5,+6
+JitBoyS,TLN,All_Maps,Attack,"Viper, Cypher, Killjoy, Omen",1.02,200,38,34,13,+4,72%,117,39%,6,6,0
+primmie,TLN,All_Maps,Attack,"Yoru, Deadlock, Sage",1.04,217,44,38,12,+6,69%,136,29%,6,7,-1
+Crws,TLN,All_Maps,Attack,"Brimstone, Deadlock, Omen, Viper",1.07,168,30,29,18,+1,80%,114,24%,5,3,+2
+thyy,TLN,All_Maps,Attack,"Raze, Omen, Yoru, Jett",0.95,199,38,38,12,0,65%,125,31%,9,7,+2
+Killua,TLN,All_Maps,Attack,"Fade, Sova",0.90,197,38,38,10,0,76%,129,33%,3,2,+1
+xffero,RRQ,All_Maps,Attack,"Viper, Cypher, Killjoy",1.46,314,58,36,6,+22,80%,197,35%,7,5,+2
+Jemkin,RRQ,All_Maps,Attack,"Yoru, Waylay, Jett",0.91,198,38,38,8,0,67%,125,34%,4,7,-3
+Monyet,RRQ,All_Maps,Attack,"Raze, Neon, Viper, Omen",0.95,196,34,35,16,-1,75%,132,35%,7,9,-2
+crazyguy,RRQ,All_Maps,Attack,"Brimstone, Omen, Sage, Breach",1.14,183,32,30,26,+2,78%,124,31%,2,5,-3
+Kushy,RRQ,All_Maps,Attack,"Fade, Sova",0.68,131,24,39,9,-15,76%,86,41%,4,1,+3
+JitBoyS,TLN,All_Maps,Defend,"Viper, Cypher, Killjoy, Omen",1.07,231,42,36,13,+6,73%,147,43%,5,5,0
+primmie,TLN,All_Maps,Defend,"Yoru, Deadlock, Sage",1.02,211,37,36,12,+1,69%,130,41%,8,6,+2
+Crws,TLN,All_Maps,Defend,"Brimstone, Deadlock, Omen, Viper",0.82,168,26,37,22,-11,65%,111,19%,3,7,-4
+thyy,TLN,All_Maps,Defend,"Raze, Omen, Yoru, Jett",0.92,202,40,41,9,-1,69%,141,37%,8,3,+5
+Killua,TLN,All_Maps,Defend,"Fade, Sova",0.92,181,33,36,14,-3,73%,124,51%,3,3,0
+xffero,RRQ,All_Maps,Defend,"Viper, Cypher, Killjoy",0.86,142,25,33,15,-8,67%,96,26%,1,6,-5
+Jemkin,RRQ,All_Maps,Defend,"Yoru, Waylay, Jett",1.33,265,53,37,7,+16,74%,175,35%,9,4,+5
+Monyet,RRQ,All_Maps,Defend,"Raze, Neon, Viper, Omen",0.97,216,35,40,22,-5,69%,147,33%,7,10,-3
+crazyguy,RRQ,All_Maps,Defend,"Brimstone, Omen, Sage, Breach",0.70,141,26,37,19,-11,61%,101,28%,1,5,-4
+Kushy,RRQ,All_Maps,Defend,"Fade, Sova",1.00,200,38,41,8,-3,63%,133,37%,7,4,+3

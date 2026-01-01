@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+2Bind,1,"""0-1""",SEN,Defenders,Defuse
+2Bind,2,"""0-2""",SEN,Defenders,Defuse
+2Bind,3,"""1-2""",FNC,Attackers,Spike Detonation
+2Bind,4,"""2-2""",FNC,Attackers,Elimination
+2Bind,5,"""2-3""",SEN,Defenders,Elimination
+2Bind,6,"""3-3""",FNC,Attackers,Elimination
+2Bind,7,"""4-3""",FNC,Attackers,Elimination
+2Bind,8,"""5-3""",FNC,Attackers,Spike Detonation
+2Bind,9,"""5-4""",SEN,Defenders,Defuse
+2Bind,10,"""6-4""",FNC,Attackers,Elimination
+2Bind,11,"""7-4""",FNC,Attackers,Spike Detonation
+2Bind,12,"""7-5""",SEN,Defenders,Defuse
+2Bind,13,"""7-6""",FNC,Attackers,Spike Detonation
+2Bind,14,"""7-7""",FNC,Attackers,Spike Detonation
+2Bind,15,"""7-8""",FNC,Attackers,Spike Detonation
+2Bind,16,"""8-8""",SEN,Defenders,Time Expired
+2Bind,17,"""8-9""",FNC,Attackers,Elimination
+2Bind,18,"""8-10""",FNC,Attackers,Elimination
+2Bind,19,"""9-10""",SEN,Defenders,Defuse
+2Bind,20,"""9-11""",FNC,Attackers,Spike Detonation
+2Bind,21,"""9-12""",FNC,Attackers,Spike Detonation
+2Bind,22,"""9-13""",FNC,Attackers,Elimination
+2Bind,23,"""""",,,
+2Bind,24,"""""",,,

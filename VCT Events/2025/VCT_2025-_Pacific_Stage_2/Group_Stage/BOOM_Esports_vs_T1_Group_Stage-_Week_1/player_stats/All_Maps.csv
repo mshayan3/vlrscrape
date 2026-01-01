@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+dos9,BME,All_Maps,All,Omen,1.17,205,34,29,17,+5,78%,128,27%,3,3,0
+NcSlasher,BME,All_Maps,All,"Deadlock, Sova",1.01,186,30,28,12,+2,62%,109,16%,1,6,-5
+BerserX,BME,All_Maps,All,"Cypher, Deadlock",0.95,179,29,32,8,-3,71%,121,27%,2,6,-4
+Shiro,BME,All_Maps,All,"Sova, Viper",0.92,194,30,34,9,-4,73%,127,18%,6,4,+2
+Famouz,BME,All_Maps,All,"Yoru, Neon",0.54,168,24,38,10,-14,60%,110,14%,6,8,-2
+Meteor,T1,All_Maps,All,"Vyse, Astra",1.27,235,37,30,12,+7,73%,154,28%,5,1,+4
+BuZz,T1,All_Maps,All,Chamber,1.07,196,34,26,3,+8,60%,120,22%,5,5,0
+DH,T1,All_Maps,All,Omen,1.04,181,29,31,21,-2,76%,119,31%,8,2,+6
+stax,T1,All_Maps,All,"Sova, Fade",1.04,195,34,28,8,+6,80%,129,37%,2,3,-1
+iZu,T1,All_Maps,All,Yoru,0.86,195,27,32,13,-5,64%,137,23%,7,7,0
+dos9,BME,All_Maps,Attack,Omen,0.93,166,13,14,10,-1,71%,105,24%,1,1,0
+NcSlasher,BME,All_Maps,Attack,"Deadlock, Sova",0.90,169,13,14,6,-1,67%,106,26%,0,1,-1
+BerserX,BME,All_Maps,Attack,"Cypher, Deadlock",0.73,125,10,15,3,-5,62%,93,36%,0,3,-3
+Shiro,BME,All_Maps,Attack,"Sova, Viper",1.22,227,17,14,5,+3,90%,156,22%,3,2,+1
+Famouz,BME,All_Maps,Attack,"Yoru, Neon",0.53,171,11,18,4,-7,71%,115,19%,4,6,-2
+Meteor,T1,All_Maps,Attack,"Vyse, Astra",1.18,220,19,16,5,+3,75%,148,34%,1,1,0
+BuZz,T1,All_Maps,Attack,Chamber,1.10,227,21,15,1,+6,54%,136,28%,3,3,0
+DH,T1,All_Maps,Attack,Omen,1.04,207,18,18,8,0,75%,131,28%,5,2,+3
+stax,T1,All_Maps,Attack,"Sova, Fade",0.68,132,11,16,4,-5,71%,91,20%,0,1,-1
+iZu,T1,All_Maps,Attack,Yoru,0.87,224,17,18,6,-1,54%,151,28%,5,3,+2
+dos9,BME,All_Maps,Defend,Omen,1.37,241,21,15,7,+6,83%,149,28%,2,2,0
+NcSlasher,BME,All_Maps,Defend,"Deadlock, Sova",1.11,201,17,14,6,+3,58%,111,10%,1,5,-4
+BerserX,BME,All_Maps,Defend,"Cypher, Deadlock",1.13,227,19,17,5,+2,79%,145,23%,2,3,-1
+Shiro,BME,All_Maps,Defend,"Sova, Viper",0.65,163,13,20,4,-7,58%,102,15%,3,2,+1
+Famouz,BME,All_Maps,Defend,"Yoru, Neon",0.55,167,13,20,6,-7,50%,105,8%,2,2,0
+Meteor,T1,All_Maps,Defend,"Vyse, Astra",1.38,254,18,14,7,+4,71%,162,23%,4,0,+4
+BuZz,T1,All_Maps,Defend,Chamber,1.03,159,13,11,2,+2,67%,103,17%,2,2,0
+DH,T1,All_Maps,Defend,Omen,1.03,154,11,13,13,-2,76%,105,37%,3,0,+3
+stax,T1,All_Maps,Defend,"Sova, Fade",1.45,266,23,12,4,+11,90%,172,53%,2,2,0
+iZu,T1,All_Maps,Defend,Yoru,0.84,159,10,14,7,-4,76%,122,15%,2,4,-2

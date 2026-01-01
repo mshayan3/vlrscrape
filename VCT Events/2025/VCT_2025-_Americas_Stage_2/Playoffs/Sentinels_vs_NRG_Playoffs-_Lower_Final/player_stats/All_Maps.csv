@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+johnqt,SEN,All_Maps,All,"Viper, Sage, Cypher",1.03,192,59,54,37,+5,76%,111,26%,2,7,-5
+zekken,SEN,All_Maps,All,"Raze, Jett, Neon",0.97,215,69,68,10,+1,71%,143,25%,19,16,+3
+N4RRATE,SEN,All_Maps,All,"Fade, Sova",0.95,197,58,63,25,-5,68%,138,26%,8,11,-3
+bang,SEN,All_Maps,All,"Omen, Viper",0.90,167,50,58,27,-8,69%,113,30%,6,7,-1
+Zellsis,SEN,All_Maps,All,"Vyse, Killjoy, Breach",0.81,172,47,60,34,-13,69%,114,20%,4,5,-1
+brawk,NRG,All_Maps,All,"Vyse, Sova",1.46,283,82,52,23,+30,81%,182,22%,9,0,+9
+Ethan,NRG,All_Maps,All,"Fade, Harbor, Breach, Kayo",1.22,208,61,52,38,+9,75%,137,29%,9,5,+4
+skuba,NRG,All_Maps,All,"Viper, Cypher",1.08,194,59,50,30,+9,74%,127,31%,5,5,0
+mada,NRG,All_Maps,All,"Raze, Jett, Neon, Waylay",0.89,193,58,63,23,-5,74%,125,35%,16,16,0
+s0m,NRG,All_Maps,All,"Omen, Killjoy",0.63,152,42,66,29,-24,69%,99,20%,7,13,-6
+johnqt,SEN,All_Maps,Attack,"Viper, Sage, Cypher",1.02,195,32,30,18,+2,78%,119,26%,0,4,-4
+zekken,SEN,All_Maps,Attack,"Raze, Jett, Neon",1.02,231,37,36,7,+1,73%,154,29%,11,10,+1
+N4RRATE,SEN,All_Maps,Attack,"Fade, Sova",0.77,181,29,34,7,-5,67%,122,28%,3,5,-2
+bang,SEN,All_Maps,Attack,"Omen, Viper",1.11,188,30,26,14,+4,76%,126,33%,4,3,+1
+Zellsis,SEN,All_Maps,Attack,"Vyse, Killjoy, Breach",0.76,169,25,33,18,-8,69%,115,18%,2,3,-1
+brawk,NRG,All_Maps,Attack,"Vyse, Sova",1.30,263,36,25,9,+11,78%,163,22%,4,0,+4
+Ethan,NRG,All_Maps,Attack,"Fade, Harbor, Breach, Kayo",1.03,170,22,25,20,-3,83%,122,27%,4,3,+1
+skuba,NRG,All_Maps,Attack,"Viper, Cypher",1.41,234,35,19,16,+16,83%,152,45%,2,1,+1
+mada,NRG,All_Maps,Attack,"Raze, Jett, Neon, Waylay",0.89,213,29,31,12,-2,85%,135,44%,8,9,-1
+s0m,NRG,All_Maps,Attack,"Omen, Killjoy",0.69,155,22,30,10,-8,70%,101,40%,3,6,-3
+johnqt,SEN,All_Maps,Defend,"Viper, Sage, Cypher",1.05,177,27,24,19,+3,75%,102,25%,2,3,-1
+zekken,SEN,All_Maps,Defend,"Raze, Jett, Neon",0.92,209,32,32,3,0,68%,131,22%,8,6,+2
+N4RRATE,SEN,All_Maps,Defend,"Fade, Sova",1.15,233,29,29,18,0,70%,157,25%,5,6,-1
+bang,SEN,All_Maps,Defend,"Omen, Viper",0.67,151,20,32,13,-12,63%,99,26%,2,4,-2
+Zellsis,SEN,All_Maps,Defend,"Vyse, Killjoy, Breach",0.88,177,22,27,16,-5,70%,113,23%,2,2,0
+brawk,NRG,All_Maps,Defend,"Vyse, Sova",1.59,302,46,27,14,+19,84%,198,23%,5,0,+5
+Ethan,NRG,All_Maps,Defend,"Fade, Harbor, Breach, Kayo",1.38,233,39,27,18,+12,69%,150,31%,5,2,+3
+skuba,NRG,All_Maps,Defend,"Viper, Cypher",0.78,156,24,31,14,-7,67%,104,21%,3,4,-1
+mada,NRG,All_Maps,Defend,"Raze, Jett, Neon, Waylay",0.89,179,29,32,11,-3,64%,116,26%,8,7,+1
+s0m,NRG,All_Maps,Defend,"Omen, Killjoy",0.57,147,20,36,19,-16,69%,97,12%,4,7,-3

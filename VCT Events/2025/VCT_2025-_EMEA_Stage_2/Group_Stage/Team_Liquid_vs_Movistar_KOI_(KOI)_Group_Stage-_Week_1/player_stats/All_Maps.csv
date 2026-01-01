@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+keiko,TL,All_Maps,All,"Brimstone, Killjoy, Raze",1.45,293,66,41,15,+25,85%,181,41%,5,3,+2
+nAts,TL,All_Maps,All,"Viper, Vyse",1.26,268,58,47,23,+11,74%,176,28%,5,8,-3
+kamo,TL,All_Maps,All,"Raze, Jett, Yoru",1.00,212,46,45,12,+1,77%,145,25%,10,12,-2
+trexx,TL,All_Maps,All,"Gekko, Kayo, Fade",0.93,176,35,43,28,-8,70%,116,17%,2,3,-1
+paTiTek,TL,All_Maps,All,"Skye, Gekko, Omen",0.67,139,32,44,13,-12,69%,86,21%,5,8,-3
+MONSTEERR,MKOI,All_Maps,All,Viper,1.15,240,52,45,17,+7,75%,161,28%,6,2,+4
+flyuh,MKOI,All_Maps,All,"Fade, Sova",1.12,236,54,47,14,+7,75%,159,24%,7,2,+5
+baddyG,MKOI,All_Maps,All,"Brimstone, Omen",1.08,213,47,46,25,+1,77%,135,20%,10,6,+4
+nataNk,MKOI,All_Maps,All,"Gekko, Killjoy, Vyse",0.75,157,35,46,13,-11,77%,116,28%,6,11,-5
+Filu,MKOI,All_Maps,All,"Raze, Sage",0.62,170,32,53,16,-21,69%,122,19%,5,6,-1
+keiko,TL,All_Maps,Attack,"Brimstone, Killjoy, Raze",1.26,273,36,28,11,+8,86%,162,42%,2,3,-1
+nAts,TL,All_Maps,Attack,"Viper, Vyse",1.39,289,38,28,12,+10,72%,193,30%,2,3,-1
+kamo,TL,All_Maps,Attack,"Raze, Jett, Yoru",0.85,202,26,29,5,-3,75%,134,27%,7,8,-1
+trexx,TL,All_Maps,Attack,"Gekko, Kayo, Fade",0.80,144,18,25,14,-7,69%,99,14%,0,2,-2
+paTiTek,TL,All_Maps,Attack,"Skye, Gekko, Omen",0.63,138,19,26,7,-7,69%,84,24%,3,6,-3
+MONSTEERR,MKOI,All_Maps,Attack,Viper,1.41,289,23,18,8,+5,72%,186,33%,4,1,+3
+flyuh,MKOI,All_Maps,Attack,"Fade, Sova",0.80,173,17,19,3,-2,60%,112,22%,1,2,-1
+baddyG,MKOI,All_Maps,Attack,"Brimstone, Omen",1.00,207,19,19,8,0,72%,123,21%,4,2,+2
+nataNk,MKOI,All_Maps,Attack,"Gekko, Killjoy, Vyse",0.52,129,12,21,3,-9,72%,88,26%,1,5,-4
+Filu,MKOI,All_Maps,Attack,"Raze, Sage",0.59,167,13,23,5,-10,64%,114,19%,2,3,-1
+keiko,TL,All_Maps,Defend,"Brimstone, Killjoy, Raze",1.72,306,30,13,4,+17,84%,208,39%,3,0,+3
+nAts,TL,All_Maps,Defend,"Viper, Vyse",1.07,227,20,19,11,+1,76%,153,26%,3,5,-2
+kamo,TL,All_Maps,Defend,"Raze, Jett, Yoru",1.22,226,20,16,7,+4,80%,161,22%,3,4,-1
+trexx,TL,All_Maps,Defend,"Gekko, Kayo, Fade",1.11,224,17,18,14,-1,72%,141,20%,2,1,+1
+paTiTek,TL,All_Maps,Defend,"Skye, Gekko, Omen",0.73,140,13,18,6,-5,68%,88,17%,2,2,0
+MONSTEERR,MKOI,All_Maps,Defend,Viper,0.98,207,29,27,9,+2,78%,144,24%,2,1,+1
+flyuh,MKOI,All_Maps,Defend,"Fade, Sova",1.34,284,37,28,11,+9,86%,192,26%,6,0,+6
+baddyG,MKOI,All_Maps,Defend,"Brimstone, Omen",1.13,221,28,27,17,+1,81%,143,19%,6,4,+2
+nataNk,MKOI,All_Maps,Defend,"Gekko, Killjoy, Vyse",0.92,176,23,25,10,-2,81%,135,30%,5,6,-1
+Filu,MKOI,All_Maps,Defend,"Raze, Sage",0.70,178,19,30,11,-11,72%,127,19%,3,3,0

@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+trexx,VIT,All_Maps,All,"Sova, Brimstone",1.21,243,55,45,31,+10,71%,155,15%,7,2,+5
+Derke,VIT,All_Maps,All,"Yoru, Raze, Jett",1.20,252,66,54,16,+12,72%,170,35%,13,13,0
+Kicks,VIT,All_Maps,All,"Omen, Skye, Breach",0.92,194,48,54,33,-6,76%,115,35%,8,5,+3
+Less,VIT,All_Maps,All,"Cypher, Viper, Astra",0.90,157,37,43,26,-6,63%,101,30%,4,4,0
+Sayf,VIT,All_Maps,All,"Iso, Tejo",0.88,165,43,46,18,-3,69%,113,28%,6,10,-4
+SUYGETSU,KC,All_Maps,All,"Omen, Astra",1.04,209,53,49,24,+4,69%,126,42%,5,5,0
+marteen,KC,All_Maps,All,Yoru,0.95,192,50,50,16,0,67%,127,30%,10,11,-1
+Elite,KC,All_Maps,All,"Killjoy, Vyse",0.95,180,45,48,19,-3,78%,131,40%,5,9,-4
+Avez,KC,All_Maps,All,"Fade, Gekko",0.93,196,52,55,13,-3,68%,121,33%,7,4,+3
+saadhak,KC,All_Maps,All,"Harbor, Deadlock",0.88,178,42,51,26,-9,75%,119,27%,7,9,-2
+trexx,VIT,All_Maps,Attack,"Sova, Brimstone",1.17,210,20,19,15,+1,69%,137,16%,4,2,+2
+Derke,VIT,All_Maps,Attack,"Yoru, Raze, Jett",1.09,262,28,25,7,+3,69%,168,37%,7,6,+1
+Kicks,VIT,All_Maps,Attack,"Omen, Skye, Breach",1.05,204,26,21,7,+5,69%,124,50%,2,1,+1
+Less,VIT,All_Maps,Attack,"Cypher, Viper, Astra",1.05,135,17,15,10,+2,63%,91,24%,2,1,+1
+Sayf,VIT,All_Maps,Attack,"Iso, Tejo",0.87,151,17,18,10,-1,75%,103,29%,2,5,-3
+SUYGETSU,KC,All_Maps,Attack,"Omen, Astra",1.02,203,29,29,14,0,65%,136,49%,3,4,-1
+marteen,KC,All_Maps,Attack,Yoru,0.86,196,29,29,6,0,65%,127,33%,5,8,-3
+Elite,KC,All_Maps,Attack,"Killjoy, Vyse",1.00,178,25,26,10,-1,80%,127,36%,3,4,-1
+Avez,KC,All_Maps,Attack,"Fade, Gekko",1.20,246,38,30,6,+8,73%,150,32%,3,0,+3
+saadhak,KC,All_Maps,Attack,"Harbor, Deadlock",0.96,185,23,27,21,-4,78%,119,23%,5,5,0
+trexx,VIT,All_Maps,Defend,"Sova, Brimstone",1.23,269,35,26,16,+9,73%,169,14%,3,0,+3
+Derke,VIT,All_Maps,Defend,"Yoru, Raze, Jett",1.29,259,38,29,9,+9,75%,171,33%,6,7,-1
+Kicks,VIT,All_Maps,Defend,"Omen, Skye, Breach",0.81,174,22,33,26,-11,83%,107,27%,6,4,+2
+Less,VIT,All_Maps,Defend,"Cypher, Viper, Astra",0.79,161,20,28,16,-8,63%,109,34%,2,3,-1
+Sayf,VIT,All_Maps,Defend,"Iso, Tejo",0.89,176,26,28,8,-2,65%,121,28%,4,5,-1
+SUYGETSU,KC,All_Maps,Defend,"Omen, Astra",1.06,194,24,20,10,+4,75%,114,34%,2,1,+1
+marteen,KC,All_Maps,Defend,Yoru,1.06,208,21,21,10,0,69%,128,26%,5,3,+2
+Elite,KC,All_Maps,Defend,"Killjoy, Vyse",0.88,184,20,22,9,-2,75%,135,45%,2,5,-3
+Avez,KC,All_Maps,Defend,"Fade, Gekko",0.59,127,14,25,7,-11,63%,84,36%,4,4,0
+saadhak,KC,All_Maps,Defend,"Harbor, Deadlock",0.79,174,19,24,5,-5,72%,120,32%,2,4,-2

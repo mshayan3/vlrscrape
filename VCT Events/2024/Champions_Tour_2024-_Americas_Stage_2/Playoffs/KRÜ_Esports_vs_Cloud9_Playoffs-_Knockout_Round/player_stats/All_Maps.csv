@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+heat,KRÜ,All_Maps,All,"Kayo, Fade, Breach",1.57,244,65,36,32,+29,87%,164,40%,8,2,+6
+Melser,KRÜ,All_Maps,All,Omen,1.10,203,49,43,30,+6,82%,133,33%,6,7,-1
+Shyy,KRÜ,All_Maps,All,"Cypher, Killjoy",1.07,215,49,45,25,+4,78%,147,31%,7,5,+2
+keznit,KRÜ,All_Maps,All,"Jett, Raze, Neon",1.06,223,51,45,17,+6,69%,157,24%,13,13,0
+mta,KRÜ,All_Maps,All,"Sova, Viper",0.89,192,46,47,8,-1,75%,120,34%,3,3,0
+moose,C9,All_Maps,All,Killjoy,1.00,196,47,47,4,0,61%,132,32%,8,6,+2
+Xeppaa,C9,All_Maps,All,"Kayo, Gekko, Breach",0.96,183,42,51,29,-9,75%,131,31%,1,2,-1
+OXY,C9,All_Maps,All,"Jett, Raze",0.82,223,51,58,8,-7,67%,142,27%,11,15,-4
+runi,C9,All_Maps,All,"Sova, Clove",0.79,187,40,53,17,-13,70%,121,41%,5,4,+1
+vanity,C9,All_Maps,All,Omen,0.77,155,36,53,22,-17,61%,100,23%,5,10,-5
+heat,KRÜ,All_Maps,Attack,"Kayo, Fade, Breach",1.44,212,27,15,12,+12,84%,146,36%,4,1,+3
+Melser,KRÜ,All_Maps,Attack,Omen,1.11,184,21,17,16,+4,87%,118,31%,1,2,-1
+Shyy,KRÜ,All_Maps,Attack,"Cypher, Killjoy",0.89,185,20,21,13,-1,77%,121,23%,2,3,-1
+keznit,KRÜ,All_Maps,Attack,"Jett, Raze, Neon",1.55,295,34,17,5,+17,74%,200,25%,8,7,+1
+mta,KRÜ,All_Maps,Attack,"Sova, Viper",0.94,186,22,20,6,+2,81%,115,39%,1,2,-1
+moose,C9,All_Maps,Attack,Killjoy,0.98,207,28,25,3,+3,64%,139,34%,5,4,+1
+Xeppaa,C9,All_Maps,Attack,"Kayo, Gekko, Breach",1.29,243,31,24,17,+7,78%,167,32%,0,1,-1
+OXY,C9,All_Maps,Attack,"Jett, Raze",0.82,232,29,32,4,-3,67%,149,31%,6,9,-3
+runi,C9,All_Maps,Attack,"Sova, Clove",0.89,182,22,28,12,-6,75%,118,39%,2,1,+1
+vanity,C9,All_Maps,Attack,Omen,0.66,141,17,28,10,-11,56%,87,22%,2,6,-4
+heat,KRÜ,All_Maps,Defend,"Kayo, Fade, Breach",1.69,281,38,21,20,+17,89%,179,43%,4,1,+3
+Melser,KRÜ,All_Maps,Defend,Omen,1.09,220,28,26,14,+2,78%,147,35%,5,5,0
+Shyy,KRÜ,All_Maps,Defend,"Cypher, Killjoy",1.23,238,29,24,12,+5,78%,169,36%,5,2,+3
+keznit,KRÜ,All_Maps,Defend,"Jett, Raze, Neon",0.64,162,17,28,12,-11,64%,120,23%,5,6,-1
+mta,KRÜ,All_Maps,Defend,"Sova, Viper",0.85,184,24,27,2,-3,69%,123,31%,2,1,+1
+moose,C9,All_Maps,Defend,Killjoy,1.03,182,19,22,1,-3,58%,122,29%,3,2,+1
+Xeppaa,C9,All_Maps,Defend,"Kayo, Gekko, Breach",0.58,122,11,27,12,-16,71%,90,29%,1,1,0
+OXY,C9,All_Maps,Defend,"Jett, Raze",0.82,216,22,26,4,-4,68%,135,22%,5,6,-1
+runi,C9,All_Maps,Defend,"Sova, Clove",0.67,190,18,25,5,-7,65%,124,45%,3,3,0
+vanity,C9,All_Maps,Defend,Omen,0.90,183,19,25,12,-6,68%,114,25%,3,4,-1

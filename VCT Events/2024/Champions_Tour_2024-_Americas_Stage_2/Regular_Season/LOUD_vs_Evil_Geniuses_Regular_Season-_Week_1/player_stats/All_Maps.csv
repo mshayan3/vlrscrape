@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Less,LOUD,All_Maps,All,"Cypher, Killjoy",1.24,219,51,36,13,+15,70%,142,27%,4,5,-1
+cauanzin,LOUD,All_Maps,All,"Fade, Breach, Kayo",1.05,237,52,45,23,+7,81%,162,26%,5,7,-2
+tuyz,LOUD,All_Maps,All,"Gekko, Omen",1.00,193,45,42,14,+3,75%,134,31%,4,5,-1
+saadhak,LOUD,All_Maps,All,"Neon, Gekko",0.96,224,46,48,18,-2,73%,144,24%,8,13,-5
+pANcada,LOUD,All_Maps,All,"Omen, Viper",0.89,152,35,38,24,-3,70%,105,36%,4,8,-4
+jawgemo,EG,All_Maps,All,"Iso, Neon",1.26,279,58,49,15,+9,78%,177,23%,21,3,+18
+Derrek,EG,All_Maps,All,"Fade, Sova",1.07,177,42,41,23,+1,70%,119,30%,3,0,+3
+supamen,EG,All_Maps,All,"Omen, Clove",1.02,212,50,48,16,+2,71%,126,51%,3,12,-9
+NaturE,EG,All_Maps,All,"Breach, Killjoy",0.83,135,28,42,24,-14,71%,96,31%,6,4,+2
+Apoth,EG,All_Maps,All,"Cypher, Harbor",0.64,155,31,49,12,-18,62%,99,23%,5,6,-1
+Less,LOUD,All_Maps,Attack,"Cypher, Killjoy",1.45,250,25,16,6,+9,67%,161,39%,3,1,+2
+cauanzin,LOUD,All_Maps,Attack,"Fade, Breach, Kayo",1.25,275,27,18,6,+9,85%,191,33%,2,2,0
+tuyz,LOUD,All_Maps,Attack,"Gekko, Omen",0.82,170,17,18,5,-1,78%,114,34%,0,2,-2
+saadhak,LOUD,All_Maps,Attack,"Neon, Gekko",0.80,193,16,22,7,-6,67%,135,27%,5,6,-1
+pANcada,LOUD,All_Maps,Attack,"Omen, Viper",0.65,129,12,19,10,-7,63%,97,32%,1,5,-4
+jawgemo,EG,All_Maps,Attack,"Iso, Neon",1.31,272,33,26,6,+7,78%,177,25%,13,2,+11
+Derrek,EG,All_Maps,Attack,"Fade, Sova",0.93,169,22,25,15,-3,72%,115,31%,1,0,+1
+supamen,EG,All_Maps,Attack,"Omen, Clove",1.14,216,29,25,11,+4,75%,129,50%,2,5,-3
+NaturE,EG,All_Maps,Attack,"Breach, Killjoy",0.77,151,17,27,13,-10,69%,107,25%,4,3,+1
+Apoth,EG,All_Maps,Attack,"Cypher, Harbor",0.50,137,15,29,7,-14,61%,95,20%,2,4,-2
+Less,LOUD,All_Maps,Defend,"Cypher, Killjoy",1.08,197,26,20,7,+6,72%,128,19%,1,4,-3
+cauanzin,LOUD,All_Maps,Defend,"Fade, Breach, Kayo",0.91,212,25,27,17,-2,78%,141,19%,3,5,-2
+tuyz,LOUD,All_Maps,Defend,"Gekko, Omen",1.14,220,28,24,9,+4,72%,150,29%,4,3,+1
+saadhak,LOUD,All_Maps,Defend,"Neon, Gekko",1.09,242,30,26,11,+4,78%,150,22%,3,7,-4
+pANcada,LOUD,All_Maps,Defend,"Omen, Viper",1.07,168,23,19,14,+4,75%,111,38%,3,3,0
+jawgemo,EG,All_Maps,Defend,"Iso, Neon",1.21,277,25,23,9,+2,78%,178,21%,8,1,+7
+Derrek,EG,All_Maps,Defend,"Fade, Sova",1.25,193,20,16,8,+4,67%,125,29%,2,0,+2
+supamen,EG,All_Maps,Defend,"Omen, Clove",0.86,211,21,23,5,-2,67%,123,53%,1,7,-6
+NaturE,EG,All_Maps,Defend,"Breach, Killjoy",0.90,121,11,15,11,-4,74%,80,43%,2,1,+1
+Apoth,EG,All_Maps,Defend,"Cypher, Harbor",0.83,170,16,20,5,-4,63%,105,27%,3,2,+1

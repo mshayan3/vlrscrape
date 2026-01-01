@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Lysoar,WOL,All_Maps,All,"Vyse, Cypher, Omen",1.62,193,39,42,15,-3,80%,214,33%,4,3,+1
+Juicy,WOL,All_Maps,All,"Yoru, Neon",1.58,259,53,41,17,+12,73%,217,46%,4,3,+1
+Spring,WOL,All_Maps,All,"Astra, Brimstone, Viper",1.51,239,51,37,27,+14,78%,148,48%,2,1,+1
+SiuFatBB,WOL,All_Maps,All,Tejo,0.96,218,45,32,15,+13,75%,117,19%,0,2,-2
+Yuicaw,WOL,All_Maps,All,"Chamber, Breach",0.72,168,36,39,25,-3,75%,89,38%,2,2,0
+Bai,AG,All_Maps,All,"Yoru, Neon",0.99,190,37,48,10,-11,73%,165,50%,3,5,-2
+K1ra,AG,All_Maps,All,"Astra, Brimstone, Omen",0.90,212,46,44,20,+2,80%,127,24%,1,1,0
+HanChe,AG,All_Maps,All,"Vyse, Cypher, Viper",0.69,205,42,42,15,0,65%,104,41%,2,2,0
+Lsn,AG,All_Maps,All,"Tejo, Breach",0.65,160,34,44,20,-10,78%,111,40%,2,3,-1
+deLb,AG,All_Maps,All,"Fade, Tejo, Deadlock",0.31,152,32,46,10,-14,65%,64,19%,0,1,-1
+Lysoar,WOL,All_Maps,Attack,"Vyse, Cypher, Omen",1.71,356,13,11,2,+2,73%,229,34%,1,2,-1
+Juicy,WOL,All_Maps,Attack,"Yoru, Neon",1.09,270,11,13,3,-2,53%,171,28%,1,2,-1
+Spring,WOL,All_Maps,Attack,"Astra, Brimstone, Viper",1.27,191,11,10,4,+1,80%,131,38%,0,0,0
+SiuFatBB,WOL,All_Maps,Attack,Tejo,0.21,55,6,13,4,-7,67%,55,15%,0,1,-1
+Yuicaw,WOL,All_Maps,Attack,"Chamber, Breach",0.15,95,9,13,1,-4,53%,60,28%,1,2,-1
+Bai,AG,All_Maps,Attack,"Yoru, Neon",0.99,278,14,22,4,-8,64%,184,37%,2,5,-3
+K1ra,AG,All_Maps,Attack,"Astra, Brimstone, Omen",0.78,183,20,19,8,+1,76%,128,30%,0,0,0
+HanChe,AG,All_Maps,Attack,"Vyse, Cypher, Viper",0.25,139,23,18,7,+5,68%,92,38%,1,2,-1
+Lsn,AG,All_Maps,Attack,"Tejo, Breach",0.25,103,11,19,6,-8,72%,68,23%,0,2,-2
+deLb,AG,All_Maps,Attack,"Fade, Tejo, Deadlock",0.13,60,10,19,4,-9,60%,41,27%,0,0,0
+Lysoar,WOL,All_Maps,Defend,"Vyse, Cypher, Omen",1.56,286,16,18,8,-2,84%,204,22%,3,1,+2
+Juicy,WOL,All_Maps,Defend,"Yoru, Neon",1.91,365,24,18,8,+6,84%,248,40%,3,1,+2
+Spring,WOL,All_Maps,Defend,"Astra, Brimstone, Viper",1.67,236,22,16,13,+6,76%,159,23%,2,1,+1
+SiuFatBB,WOL,All_Maps,Defend,Tejo,1.45,180,20,10,8,+10,80%,158,31%,0,1,-1
+Yuicaw,WOL,All_Maps,Defend,"Chamber, Breach",1.10,153,13,16,10,-3,88%,108,32%,1,0,+1
+Bai,AG,All_Maps,Defend,"Yoru, Neon",0.99,183,17,8,2,+9,87%,137,22%,1,0,+1
+K1ra,AG,All_Maps,Defend,"Astra, Brimstone, Omen",1.08,256,16,10,8,+6,87%,126,17%,1,1,0
+HanChe,AG,All_Maps,Defend,"Vyse, Cypher, Viper",1.35,234,6,9,2,-3,60%,122,58%,1,0,+1
+Lsn,AG,All_Maps,Defend,"Tejo, Breach",1.24,268,10,10,12,0,87%,176,43%,2,1,+1
+deLb,AG,All_Maps,Defend,"Fade, Tejo, Deadlock",0.57,173,11,11,4,0,73%,99,21%,0,1,-1

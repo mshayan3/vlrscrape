@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+5Bind,1,"""1-0""",GEN,Attackers,Elimination
+5Bind,2,"""2-0""",GEN,Attackers,Elimination
+5Bind,3,"""3-0""",GEN,Attackers,Spike Detonation
+5Bind,4,"""4-0""",GEN,Attackers,Elimination
+5Bind,5,"""5-0""",GEN,Attackers,Elimination
+5Bind,6,"""6-0""",GEN,Attackers,Elimination
+5Bind,7,"""7-0""",GEN,Attackers,Elimination
+5Bind,8,"""8-0""",GEN,Attackers,Elimination
+5Bind,9,"""9-0""",GEN,Attackers,Spike Detonation
+5Bind,10,"""9-1""",T1,Defenders,Defuse
+5Bind,11,"""9-2""",T1,Defenders,Elimination
+5Bind,12,"""9-3""",T1,Defenders,Defuse
+5Bind,13,"""9-4""",GEN,Attackers,Elimination
+5Bind,14,"""9-5""",GEN,Attackers,Elimination
+5Bind,15,"""10-5""",T1,Defenders,Defuse
+5Bind,16,"""10-6""",GEN,Attackers,Elimination
+5Bind,17,"""10-7""",GEN,Attackers,Spike Detonation
+5Bind,18,"""10-8""",GEN,Attackers,Spike Detonation
+5Bind,19,"""11-8""",T1,Defenders,Elimination
+5Bind,20,"""12-8""",T1,Defenders,Time Expired
+5Bind,21,"""12-9""",GEN,Attackers,Elimination
+5Bind,22,"""12-10""",GEN,Attackers,Elimination
+5Bind,23,"""13-10""",T1,Defenders,Elimination
+5Bind,24,"""""",,,

@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+1Fracture,1,"""1-0""",NOVA,Defenders,Elimination
+1Fracture,2,"""2-0""",NOVA,Defenders,Elimination
+1Fracture,3,"""2-1""",WOL,Attackers,Elimination
+1Fracture,4,"""3-1""",NOVA,Defenders,Elimination
+1Fracture,5,"""4-1""",NOVA,Defenders,Elimination
+1Fracture,6,"""4-2""",WOL,Attackers,Elimination
+1Fracture,7,"""5-2""",NOVA,Defenders,Defuse
+1Fracture,8,"""6-2""",NOVA,Defenders,Elimination
+1Fracture,9,"""7-2""",NOVA,Defenders,Elimination
+1Fracture,10,"""8-2""",NOVA,Defenders,Elimination
+1Fracture,11,"""9-2""",NOVA,Defenders,Elimination
+1Fracture,12,"""9-3""",WOL,Attackers,Elimination
+1Fracture,13,"""9-4""",NOVA,Defenders,Defuse
+1Fracture,14,"""9-5""",NOVA,Defenders,Elimination
+1Fracture,15,"""9-6""",NOVA,Defenders,Elimination
+1Fracture,16,"""9-7""",NOVA,Defenders,Elimination
+1Fracture,17,"""10-7""",WOL,Attackers,Elimination
+1Fracture,18,"""11-7""",WOL,Attackers,Spike Detonation
+1Fracture,19,"""11-8""",NOVA,Defenders,Defuse
+1Fracture,20,"""11-9""",NOVA,Defenders,Defuse
+1Fracture,21,"""11-10""",NOVA,Defenders,Elimination
+1Fracture,22,"""12-10""",WOL,Attackers,Spike Detonation
+1Fracture,23,"""12-11""",NOVA,Defenders,Defuse
+1Fracture,24,"""13-11""",WOL,Attackers,Elimination

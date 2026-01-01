@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+AvovA,APK,All_Maps,All,"Brimstone, Omen",0.98,169,26,31,14,-5,63%,106,44%,2,2,0
+penny,APK,All_Maps,All,"Raze, Yoru",0.78,145,22,30,8,-8,59%,94,10%,10,11,-1
+OLIZERA,APK,All_Maps,All,"Viper, Vyse",0.75,177,24,33,8,-9,54%,117,32%,2,0,+2
+batujnax,APK,All_Maps,All,Fade,0.70,171,23,34,10,-11,56%,117,31%,4,3,+1
+MOLSI,APK,All_Maps,All,"Gekko, Raze",0.53,144,19,36,6,-17,61%,91,19%,2,5,-3
+kaajak,FNC,All_Maps,All,Raze,1.64,344,49,25,10,+24,76%,220,38%,8,5,+3
+Alfajer,FNC,All_Maps,All,"Tejo, Killjoy",1.38,242,37,23,9,+14,80%,162,33%,5,1,+4
+Chronicle,FNC,All_Maps,All,Viper,1.08,195,27,24,12,+3,76%,129,21%,2,3,-1
+crashies,FNC,All_Maps,All,Fade,1.06,182,28,22,15,+6,78%,110,35%,4,4,0
+Boaster,FNC,All_Maps,All,"Astra, Omen",0.94,149,23,20,10,+3,71%,103,33%,2,7,-5
+AvovA,APK,All_Maps,Attack,"Brimstone, Omen",0.85,145,12,20,10,-8,52%,89,35%,1,0,+1
+penny,APK,All_Maps,Attack,"Raze, Yoru",0.64,146,12,19,4,-7,52%,89,12%,4,10,-6
+OLIZERA,APK,All_Maps,Attack,"Viper, Vyse",0.77,171,13,19,6,-6,48%,113,26%,1,0,+1
+batujnax,APK,All_Maps,Attack,Fade,0.25,100,6,22,4,-16,39%,67,20%,1,1,0
+MOLSI,APK,All_Maps,Attack,"Gekko, Raze",0.64,169,13,22,4,-9,52%,106,23%,1,4,-3
+kaajak,FNC,All_Maps,Attack,Raze,1.16,233,15,13,5,+2,61%,161,36%,2,2,0
+Alfajer,FNC,All_Maps,Attack,"Tejo, Killjoy",1.65,279,19,10,3,+9,83%,174,37%,2,0,+2
+Chronicle,FNC,All_Maps,Attack,Viper,1.11,211,12,12,6,0,67%,137,17%,1,2,-1
+crashies,FNC,All_Maps,Attack,Fade,0.89,144,10,12,9,-2,72%,93,53%,0,3,-3
+Boaster,FNC,All_Maps,Attack,"Astra, Omen",0.50,91,6,11,2,-5,56%,59,38%,1,5,-4
+AvovA,APK,All_Maps,Defend,"Brimstone, Omen",1.14,199,14,11,4,+3,78%,129,54%,1,2,-1
+penny,APK,All_Maps,Defend,"Raze, Yoru",0.96,157,10,11,4,-1,67%,101,8%,6,1,+5
+OLIZERA,APK,All_Maps,Defend,"Viper, Vyse",0.72,180,11,14,2,-3,61%,123,42%,1,0,+1
+batujnax,APK,All_Maps,Defend,Fade,1.28,273,17,12,6,+5,78%,181,38%,3,2,+1
+MOLSI,APK,All_Maps,Defend,"Gekko, Raze",0.50,109,6,14,2,-8,72%,71,13%,1,1,0
+kaajak,FNC,All_Maps,Defend,Raze,2.02,417,34,12,5,+22,87%,266,40%,6,3,+3
+Alfajer,FNC,All_Maps,Defend,"Tejo, Killjoy",1.16,214,18,13,6,+5,78%,152,30%,3,1,+2
+Chronicle,FNC,All_Maps,Defend,Viper,1.05,187,15,12,6,+3,83%,123,24%,1,1,0
+crashies,FNC,All_Maps,Defend,Fade,1.20,204,18,10,6,+8,83%,123,27%,4,1,+3
+Boaster,FNC,All_Maps,Defend,"Astra, Omen",1.29,195,17,9,8,+8,83%,137,31%,1,2,-1

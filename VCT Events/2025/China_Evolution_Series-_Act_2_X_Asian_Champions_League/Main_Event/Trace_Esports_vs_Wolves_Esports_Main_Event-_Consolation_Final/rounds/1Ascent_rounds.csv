@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+1Ascent,1,"""0-1""",WOL,Attackers,Elimination
+1Ascent,2,"""0-2""",WOL,Attackers,Elimination
+1Ascent,3,"""1-2""",TE,Defenders,Elimination
+1Ascent,4,"""2-2""",TE,Defenders,Defuse
+1Ascent,5,"""2-3""",WOL,Attackers,Elimination
+1Ascent,6,"""2-4""",WOL,Attackers,Spike Detonation
+1Ascent,7,"""2-5""",WOL,Attackers,Elimination
+1Ascent,8,"""2-6""",WOL,Attackers,Elimination
+1Ascent,9,"""2-7""",WOL,Attackers,Spike Detonation
+1Ascent,10,"""3-7""",TE,Defenders,Defuse
+1Ascent,11,"""3-8""",WOL,Attackers,Spike Detonation
+1Ascent,12,"""4-8""",TE,Defenders,Elimination
+1Ascent,13,"""5-8""",WOL,Attackers,Elimination
+1Ascent,14,"""6-8""",WOL,Attackers,Elimination
+1Ascent,15,"""7-8""",WOL,Attackers,Spike Detonation
+1Ascent,16,"""8-8""",WOL,Attackers,Elimination
+1Ascent,17,"""8-9""",TE,Defenders,Time Expired
+1Ascent,18,"""9-9""",WOL,Attackers,Elimination
+1Ascent,19,"""9-10""",TE,Defenders,Defuse
+1Ascent,20,"""10-10""",WOL,Attackers,Spike Detonation
+1Ascent,21,"""11-10""",WOL,Attackers,Elimination
+1Ascent,22,"""12-10""",WOL,Attackers,Spike Detonation
+1Ascent,23,"""12-11""",TE,Defenders,Elimination
+1Ascent,24,"""13-11""",WOL,Attackers,Elimination

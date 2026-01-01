@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+TvirusLuke,TEC,All_Maps,All,"Raze, Jett",1.13,245,54,44,13,+10,71%,151,24%,21,8,+13
+Coco,TEC,All_Maps,All,"Breach, Gekko",1.07,247,53,42,22,+11,81%,154,15%,2,3,-1
+Rb,TEC,All_Maps,All,"Fade, Tejo",0.91,175,43,42,23,+1,73%,114,25%,2,7,-5
+Abo,TEC,All_Maps,All,"Deadlock, Cypher",0.84,170,42,40,18,+2,65%,113,26%,7,6,+1
+Haodong,TEC,All_Maps,All,"Omen, Brimstone, Viper",0.82,219,37,38,33,-1,79%,153,35%,3,3,0
+Flex1n,DRG,All_Maps,All,"Omen, Brimstone",1.19,253,56,42,31,+14,69%,149,23%,4,8,-4
+vo0kashu,DRG,All_Maps,All,"Cypher, Viper",1.01,175,44,43,16,+1,79%,105,35%,5,7,-2
+Cangshu,DRG,All_Maps,All,"Tejo, Fade, Killjoy",0.84,162,34,44,27,-10,69%,111,24%,5,4,+1
+SpiritZ1,DRG,All_Maps,All,"Yoru, Jett",0.79,187,41,50,10,-9,69%,126,25%,13,13,0
+Nicc,DRG,All_Maps,All,"Breach, Kayo",0.71,180,31,50,36,-19,76%,119,28%,0,3,-3
+TvirusLuke,TEC,All_Maps,Attack,"Raze, Jett",0.90,159,23,21,7,+2,77%,98,28%,10,3,+7
+Coco,TEC,All_Maps,Attack,"Breach, Gekko",1.11,141,22,16,5,+6,81%,102,40%,0,2,-2
+Rb,TEC,All_Maps,Attack,"Fade, Tejo",0.93,82,18,15,10,+3,69%,72,28%,0,3,-3
+Abo,TEC,All_Maps,Attack,"Deadlock, Cypher",0.80,74,21,19,10,+2,65%,50,34%,5,1,+4
+Haodong,TEC,All_Maps,Attack,"Omen, Brimstone, Viper",1.07,140,17,15,16,+2,88%,91,29%,1,1,0
+Flex1n,DRG,All_Maps,Attack,"Omen, Brimstone",1.37,174,37,22,19,+15,69%,98,31%,3,6,-3
+vo0kashu,DRG,All_Maps,Attack,"Cypher, Viper",1.22,173,34,25,7,+9,86%,107,29%,5,2,+3
+Cangshu,DRG,All_Maps,Attack,"Tejo, Fade, Killjoy",0.60,45,13,25,16,-12,64%,30,19%,2,3,-1
+SpiritZ1,DRG,All_Maps,Attack,"Yoru, Jett",0.63,116,19,28,7,-9,69%,76,25%,7,7,0
+Nicc,DRG,All_Maps,Attack,"Breach, Kayo",0.76,120,17,28,19,-11,75%,86,23%,0,1,-1
+TvirusLuke,TEC,All_Maps,Defend,"Raze, Jett",1.30,205,31,23,6,+8,67%,126,18%,11,5,+6
+Coco,TEC,All_Maps,Defend,"Breach, Gekko",1.04,179,31,26,17,+5,81%,108,24%,2,1,+1
+Rb,TEC,All_Maps,Defend,"Fade, Tejo",0.89,120,25,27,13,-2,75%,75,23%,2,4,-2
+Abo,TEC,All_Maps,Defend,"Deadlock, Cypher",0.87,84,21,21,8,0,64%,59,29%,2,5,-3
+Haodong,TEC,All_Maps,Defend,"Omen, Brimstone, Viper",0.65,111,20,23,17,-3,72%,76,17%,2,2,0
+Flex1n,DRG,All_Maps,Defend,"Omen, Brimstone",0.94,99,19,20,12,-1,69%,59,24%,1,2,-1
+vo0kashu,DRG,All_Maps,Defend,"Cypher, Viper",0.72,89,10,18,9,-8,69%,53,33%,0,5,-5
+Cangshu,DRG,All_Maps,Defend,"Tejo, Fade, Killjoy",1.16,186,21,19,11,+2,77%,132,32%,3,1,+2
+SpiritZ1,DRG,All_Maps,Defend,"Yoru, Jett",1.01,144,22,22,3,0,69%,88,44%,6,6,0
+Nicc,DRG,All_Maps,Defend,"Breach, Kayo",0.67,122,14,22,17,-8,77%,82,31%,0,2,-2

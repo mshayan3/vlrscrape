@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Mazino,LEV,All_Maps,All,"Harbor, Breach, Deadlock",1.25,257,99,76,48,+23,86%,164,27%,10,6,+4
+aspas,LEV,All_Maps,All,"Jett, Neon",1.23,250,90,70,21,+20,76%,166,31%,24,7,+17
+C0M,LEV,All_Maps,All,Sova,1.05,186,66,66,33,0,80%,129,19%,7,11,-4
+tex,LEV,All_Maps,All,"Killjoy, Cypher",1.01,201,75,68,22,+7,70%,133,33%,12,10,+2
+kiNgg,LEV,All_Maps,All,"Viper, Omen",0.95,180,68,71,38,-3,82%,119,23%,11,8,+3
+Shyy,KRÜ,All_Maps,All,"Killjoy, Cypher",1.15,225,86,74,25,+12,65%,154,28%,6,12,-6
+keznit,KRÜ,All_Maps,All,"Reyna, Neon, Jett",0.96,210,81,85,19,-4,66%,141,19%,15,19,-4
+heat,KRÜ,All_Maps,All,"Gekko, Breach, Kayo",0.91,181,69,78,42,-9,70%,115,30%,8,13,-5
+mta,KRÜ,All_Maps,All,Sova,0.78,173,64,84,15,-20,65%,123,30%,9,9,0
+Melser,KRÜ,All_Maps,All,"Viper, Omen",0.74,143,50,78,46,-28,63%,92,30%,4,11,-7
+Mazino,LEV,All_Maps,Attack,"Harbor, Breach, Deadlock",1.34,271,53,37,31,+16,96%,162,29%,9,2,+7
+aspas,LEV,All_Maps,Attack,"Jett, Neon",1.17,246,47,37,10,+10,76%,158,27%,13,2,+11
+C0M,LEV,All_Maps,Attack,Sova,1.14,189,38,30,13,+8,87%,124,18%,4,4,0
+tex,LEV,All_Maps,Attack,"Killjoy, Cypher",1.22,242,47,34,16,+13,69%,165,33%,6,7,-1
+kiNgg,LEV,All_Maps,Attack,"Viper, Omen",1.00,158,33,31,16,+2,85%,102,20%,4,4,0
+Shyy,KRÜ,All_Maps,Attack,"Killjoy, Cypher",1.33,257,47,32,15,+15,75%,165,33%,5,6,-1
+keznit,KRÜ,All_Maps,Attack,"Reyna, Neon, Jett",1.03,221,41,37,9,+4,71%,144,25%,9,9,0
+heat,KRÜ,All_Maps,Attack,"Gekko, Breach, Kayo",1.06,210,38,35,22,+3,76%,132,26%,4,6,-2
+mta,KRÜ,All_Maps,Attack,Sova,0.74,163,30,39,5,-9,71%,116,32%,3,3,0
+Melser,KRÜ,All_Maps,Attack,"Viper, Omen",0.80,162,27,37,29,-10,73%,101,32%,2,4,-2
+Mazino,LEV,All_Maps,Defend,"Harbor, Breach, Deadlock",1.15,245,46,39,17,+7,75%,167,26%,1,4,-3
+aspas,LEV,All_Maps,Defend,"Jett, Neon",1.29,247,43,33,11,+10,76%,174,35%,11,5,+6
+C0M,LEV,All_Maps,Defend,Sova,0.95,192,28,36,20,-8,73%,135,20%,3,7,-4
+tex,LEV,All_Maps,Defend,"Killjoy, Cypher",0.79,149,28,34,6,-6,71%,98,31%,6,3,+3
+kiNgg,LEV,All_Maps,Defend,"Viper, Omen",0.90,208,35,40,22,-5,78%,137,25%,7,4,+3
+Shyy,KRÜ,All_Maps,Defend,"Killjoy, Cypher",0.99,203,39,42,10,-3,56%,143,24%,1,6,-5
+keznit,KRÜ,All_Maps,Defend,"Reyna, Neon, Jett",0.89,212,40,48,10,-8,62%,139,13%,6,10,-4
+heat,KRÜ,All_Maps,Defend,"Gekko, Breach, Kayo",0.78,161,31,43,20,-12,64%,100,35%,4,7,-3
+mta,KRÜ,All_Maps,Defend,Sova,0.82,186,34,45,10,-11,60%,131,30%,6,6,0
+Melser,KRÜ,All_Maps,Defend,"Viper, Omen",0.69,130,23,41,17,-18,55%,84,29%,2,7,-5

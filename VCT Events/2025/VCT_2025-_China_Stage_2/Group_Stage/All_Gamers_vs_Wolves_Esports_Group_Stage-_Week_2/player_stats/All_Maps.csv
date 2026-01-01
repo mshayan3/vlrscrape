@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+K1ra,AG,All_Maps,All,"Raze, Omen",1.59,280,34,16,11,+18,91%,166,21%,8,1,+7
+Shr1mp,AG,All_Maps,All,"Fade, Sova",1.52,263,33,17,12,+16,94%,158,30%,4,0,+4
+Spitfires,AG,All_Maps,All,"Yoru, Neon",1.44,336,40,20,9,+20,81%,199,39%,9,3,+6
+HanChe,AG,All_Maps,All,Viper,1.00,143,15,15,17,0,84%,102,27%,2,2,0
+deLb,AG,All_Maps,All,"Brimstone, Deadlock",0.94,168,20,18,11,+2,81%,103,42%,1,2,-1
+Spring,WOL,All_Maps,All,"Brimstone, Viper",1.00,229,24,29,14,-5,75%,142,27%,4,3,+1
+Lysoar,WOL,All_Maps,All,"Cypher, Omen",0.75,161,17,27,6,-10,63%,113,34%,0,1,-1
+SiuFatBB,WOL,All_Maps,All,Fade,0.72,160,17,29,10,-12,50%,101,38%,0,3,-3
+Juicy,WOL,All_Maps,All,"Waylay, Yoru",0.66,140,16,27,5,-11,44%,90,41%,1,8,-7
+Yuicaw,WOL,All_Maps,All,"Raze, Cypher",0.40,124,12,30,8,-18,44%,89,28%,3,9,-6
+K1ra,AG,All_Maps,Attack,"Raze, Omen",1.16,184,11,8,5,+3,87%,108,19%,3,1,+2
+Shr1mp,AG,All_Maps,Attack,"Fade, Sova",1.70,280,16,7,5,+9,87%,177,26%,1,0,+1
+Spitfires,AG,All_Maps,Attack,"Yoru, Neon",1.64,386,22,9,5,+13,80%,232,35%,2,2,0
+HanChe,AG,All_Maps,Attack,Viper,0.91,145,7,8,8,-1,80%,117,24%,2,1,+1
+deLb,AG,All_Maps,Attack,"Brimstone, Deadlock",0.94,160,9,8,5,+1,87%,102,29%,1,2,-1
+Spring,WOL,All_Maps,Attack,"Brimstone, Viper",1.21,280,16,16,9,0,82%,170,30%,1,1,0
+Lysoar,WOL,All_Maps,Attack,"Cypher, Omen",0.61,130,7,15,2,-8,53%,93,38%,0,0,0
+SiuFatBB,WOL,All_Maps,Attack,Fade,0.97,183,11,15,8,-4,53%,120,33%,0,1,-1
+Juicy,WOL,All_Maps,Attack,"Waylay, Yoru",0.12,50,3,15,3,-12,29%,32,22%,0,7,-7
+Yuicaw,WOL,All_Maps,Attack,"Raze, Cypher",0.55,151,9,16,3,-7,47%,95,39%,1,6,-5
+K1ra,AG,All_Maps,Defend,"Raze, Omen",1.97,366,23,8,6,+15,94%,217,22%,5,0,+5
+Shr1mp,AG,All_Maps,Defend,"Fade, Sova",1.37,252,17,10,7,+7,100%,141,31%,3,0,+3
+Spitfires,AG,All_Maps,Defend,"Yoru, Neon",1.26,283,18,11,4,+7,82%,170,42%,7,1,+6
+HanChe,AG,All_Maps,Defend,Viper,1.07,139,8,7,9,+1,88%,88,29%,0,1,-1
+deLb,AG,All_Maps,Defend,"Brimstone, Deadlock",0.94,171,11,10,6,+1,76%,103,53%,0,0,0
+Spring,WOL,All_Maps,Defend,"Brimstone, Viper",0.77,174,8,13,5,-5,67%,110,21%,3,2,+1
+Lysoar,WOL,All_Maps,Defend,"Cypher, Omen",0.91,202,10,12,4,-2,73%,135,30%,0,1,-1
+SiuFatBB,WOL,All_Maps,Defend,Fade,0.44,127,6,14,2,-8,47%,79,43%,0,2,-2
+Juicy,WOL,All_Maps,Defend,"Waylay, Yoru",1.32,249,13,12,2,+1,60%,156,50%,1,1,0
+Yuicaw,WOL,All_Maps,Defend,"Raze, Cypher",0.32,86,3,14,5,-11,40%,82,18%,2,3,-1

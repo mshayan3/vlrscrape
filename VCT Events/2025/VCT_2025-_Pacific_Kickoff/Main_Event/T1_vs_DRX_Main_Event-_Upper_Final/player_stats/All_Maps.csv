@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+iZu,T1,All_Maps,All,"Cypher, Tejo",1.15,213,56,45,12,+11,73%,142,35%,5,6,-1
+BuZz,T1,All_Maps,All,"Raze, Yoru",1.15,272,67,59,17,+8,71%,171,23%,18,12,+6
+Meteor,T1,All_Maps,All,"Iso, Cypher",1.01,216,58,55,15,+3,73%,153,35%,7,10,-3
+carpe,T1,All_Maps,All,"Omen, Brimstone",0.90,163,43,54,38,-11,67%,112,48%,4,6,-2
+stax,T1,All_Maps,All,"Sova, Breach",0.84,154,40,52,28,-12,72%,98,23%,3,4,-1
+MaKo,DRX,All_Maps,All,"Omen, Brimstone",1.25,230,63,47,32,+16,80%,139,25%,8,7,+1
+HYUNMIN,DRX,All_Maps,All,"Raze, Jett",1.23,270,70,58,13,+12,71%,181,27%,17,11,+6
+free1ng,DRX,All_Maps,All,Tejo,0.99,207,55,57,21,-2,73%,148,27%,7,3,+4
+Flashback,DRX,All_Maps,All,"Vyse, Cypher",0.80,143,39,49,16,-10,65%,89,24%,4,13,-9
+BeYN,DRX,All_Maps,All,"Fade, Sova, Breach",0.79,150,38,53,28,-15,69%,98,24%,2,3,-1
+iZu,T1,All_Maps,Attack,"Cypher, Tejo",1.33,248,33,21,4,+12,73%,154,39%,3,1,+2
+BuZz,T1,All_Maps,Attack,"Raze, Yoru",1.00,252,30,31,11,-1,70%,158,27%,11,8,+3
+Meteor,T1,All_Maps,Attack,"Iso, Cypher",1.07,227,30,27,7,+3,78%,163,37%,3,5,-2
+carpe,T1,All_Maps,Attack,"Omen, Brimstone",0.80,137,19,26,17,-7,62%,97,44%,0,2,-2
+stax,T1,All_Maps,Attack,"Sova, Breach",0.80,158,20,26,10,-6,76%,102,27%,1,3,-2
+MaKo,DRX,All_Maps,Attack,"Omen, Brimstone",1.21,213,30,23,14,+7,76%,125,22%,4,5,-1
+HYUNMIN,DRX,All_Maps,Attack,"Raze, Jett",0.96,212,28,29,6,-1,66%,144,19%,9,8,+1
+free1ng,DRX,All_Maps,Attack,Tejo,0.84,203,26,31,11,-5,68%,144,29%,3,3,0
+Flashback,DRX,All_Maps,Attack,"Vyse, Cypher",0.88,175,25,26,7,-1,68%,109,24%,2,3,-1
+BeYN,DRX,All_Maps,Attack,"Fade, Sova, Breach",1.09,176,25,23,14,+2,82%,116,25%,1,0,+1
+iZu,T1,All_Maps,Defend,"Cypher, Tejo",0.98,179,23,24,8,-1,74%,130,31%,2,5,-3
+BuZz,T1,All_Maps,Defend,"Raze, Yoru",1.31,288,37,28,6,+9,71%,184,20%,7,4,+3
+Meteor,T1,All_Maps,Defend,"Iso, Cypher",0.96,210,28,28,8,0,68%,143,33%,4,5,-1
+carpe,T1,All_Maps,Defend,"Omen, Brimstone",0.99,188,24,28,21,-4,71%,127,50%,4,4,0
+stax,T1,All_Maps,Defend,"Sova, Breach",0.88,150,20,26,18,-6,68%,95,19%,2,1,+1
+MaKo,DRX,All_Maps,Defend,"Omen, Brimstone",1.30,244,33,24,18,+9,84%,154,26%,4,2,+2
+HYUNMIN,DRX,All_Maps,Defend,"Raze, Jett",1.50,329,42,29,7,+13,76%,219,35%,8,3,+5
+free1ng,DRX,All_Maps,Defend,Tejo,1.14,222,29,26,10,+3,78%,151,24%,4,0,+4
+Flashback,DRX,All_Maps,Defend,"Vyse, Cypher",0.71,115,14,23,9,-9,62%,68,25%,2,10,-8
+BeYN,DRX,All_Maps,Defend,"Fade, Sova, Breach",0.48,120,13,30,14,-17,57%,80,24%,1,3,-2

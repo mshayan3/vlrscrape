@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+CHICHOO,EDG,All_Maps,All,"Vyse, Cypher",1.30,247,40,30,8,+10,80%,165,36%,2,3,-1
+nobody,EDG,All_Maps,All,"Sova, Tejo",1.07,202,30,30,7,0,70%,134,35%,4,2,+2
+Smoggy,EDG,All_Maps,All,Omen,0.94,170,26,32,18,-6,72%,109,40%,3,2,+1
+Jieni7,EDG,All_Maps,All,"Neon, Breach",0.71,145,25,34,8,-9,65%,93,38%,5,9,-4
+ZmjjKK,EDG,All_Maps,All,"Iso, Yoru",0.63,186,29,40,7,-11,59%,126,28%,7,9,-2
+Rarga,XLG,All_Maps,All,Yoru,1.66,355,56,31,11,+25,83%,229,33%,12,8,+4
+Viva,XLG,All_Maps,All,Tejo,1.01,170,30,27,8,+3,76%,125,25%,1,2,-1
+coconut,XLG,All_Maps,All,Omen,0.97,168,27,28,24,-1,76%,107,32%,2,4,-2
+YOU,XLG,All_Maps,All,Breach,0.97,168,24,32,33,-8,78%,101,35%,2,4,-2
+happywei,XLG,All_Maps,All,"Viper, Cypher",0.87,177,29,32,12,-3,76%,117,30%,8,3,+5
+CHICHOO,EDG,All_Maps,Attack,"Vyse, Cypher",1.04,210,19,18,5,+1,79%,147,26%,0,3,-3
+nobody,EDG,All_Maps,Attack,"Sova, Tejo",1.08,219,16,16,5,0,71%,149,32%,2,1,+1
+Smoggy,EDG,All_Maps,Attack,Omen,0.79,146,12,18,12,-6,67%,94,45%,0,0,0
+Jieni7,EDG,All_Maps,Attack,"Neon, Breach",0.72,155,14,19,2,-5,67%,109,36%,3,5,-2
+ZmjjKK,EDG,All_Maps,Attack,"Iso, Yoru",0.63,211,17,23,4,-6,58%,135,26%,5,5,0
+Rarga,XLG,All_Maps,Attack,Yoru,1.54,361,26,15,3,+11,77%,224,29%,7,4,+3
+Viva,XLG,All_Maps,Attack,Tejo,0.88,133,12,13,4,-1,73%,105,26%,0,1,-1
+coconut,XLG,All_Maps,Attack,Omen,0.85,135,11,13,10,-2,73%,92,29%,1,2,-1
+YOU,XLG,All_Maps,Attack,Breach,0.89,156,11,16,14,-5,73%,97,47%,0,2,-2
+happywei,XLG,All_Maps,Attack,"Viper, Cypher",0.81,166,12,15,8,-3,73%,113,33%,3,2,+1
+CHICHOO,EDG,All_Maps,Defend,"Vyse, Cypher",1.58,278,21,12,3,+9,82%,185,41%,2,0,+2
+nobody,EDG,All_Maps,Defend,"Sova, Tejo",1.05,186,14,14,2,0,68%,118,43%,2,1,+1
+Smoggy,EDG,All_Maps,Defend,Omen,1.10,195,14,14,6,0,77%,126,29%,3,2,+1
+Jieni7,EDG,All_Maps,Defend,"Neon, Breach",0.70,133,11,15,6,-4,64%,75,24%,2,4,-2
+ZmjjKK,EDG,All_Maps,Defend,"Iso, Yoru",0.64,159,12,17,3,-5,59%,118,29%,2,4,-2
+Rarga,XLG,All_Maps,Defend,Yoru,1.77,356,30,16,8,+14,88%,233,36%,5,4,+1
+Viva,XLG,All_Maps,Defend,Tejo,1.14,200,18,14,4,+4,79%,142,23%,1,1,0
+coconut,XLG,All_Maps,Defend,Omen,1.07,195,16,15,14,+1,79%,122,34%,1,2,-1
+YOU,XLG,All_Maps,Defend,Breach,1.03,173,13,16,19,-3,83%,106,26%,2,2,0
+happywei,XLG,All_Maps,Defend,"Viper, Cypher",0.93,190,17,17,4,0,79%,121,28%,5,1,+4

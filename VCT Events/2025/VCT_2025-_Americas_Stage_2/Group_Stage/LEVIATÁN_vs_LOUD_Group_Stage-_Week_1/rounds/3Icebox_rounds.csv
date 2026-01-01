@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+3Icebox,1,"""1-0""",LOUD,Attackers,Spike Detonation
+3Icebox,2,"""1-1""",LEV,Defenders,Elimination
+3Icebox,3,"""1-2""",LEV,Defenders,Defuse
+3Icebox,4,"""1-3""",LEV,Defenders,Elimination
+3Icebox,5,"""1-4""",LEV,Defenders,Elimination
+3Icebox,6,"""1-5""",LEV,Defenders,Defuse
+3Icebox,7,"""1-6""",LEV,Defenders,Time Expired
+3Icebox,8,"""2-6""",LOUD,Attackers,Elimination
+3Icebox,9,"""2-7""",LEV,Defenders,Defuse
+3Icebox,10,"""3-7""",LOUD,Attackers,Elimination
+3Icebox,11,"""3-8""",LEV,Defenders,Time Expired
+3Icebox,12,"""4-8""",LOUD,Attackers,Elimination
+3Icebox,13,"""5-8""",LEV,Defenders,Elimination
+3Icebox,14,"""6-8""",LEV,Defenders,Elimination
+3Icebox,15,"""7-8""",LEV,Defenders,Time Expired
+3Icebox,16,"""7-9""",LOUD,Attackers,Elimination
+3Icebox,17,"""8-9""",LEV,Defenders,Defuse
+3Icebox,18,"""9-9""",LEV,Defenders,Elimination
+3Icebox,19,"""10-9""",LEV,Defenders,Defuse
+3Icebox,20,"""11-9""",LEV,Defenders,Defuse
+3Icebox,21,"""11-10""",LOUD,Attackers,Elimination
+3Icebox,22,"""11-11""",LOUD,Attackers,Elimination
+3Icebox,23,"""11-12""",LOUD,Attackers,Elimination
+3Icebox,24,"""11-13""",LOUD,Attackers,Elimination

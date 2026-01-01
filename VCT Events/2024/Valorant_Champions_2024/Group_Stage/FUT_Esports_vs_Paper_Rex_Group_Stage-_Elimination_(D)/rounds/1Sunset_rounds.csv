@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+1Sunset,1,"""0-1""",PRX,Attackers,Elimination
+1Sunset,2,"""0-2""",PRX,Attackers,Elimination
+1Sunset,3,"""1-2""",FUT,Defenders,Defuse
+1Sunset,4,"""2-2""",FUT,Defenders,Defuse
+1Sunset,5,"""2-3""",PRX,Attackers,Elimination
+1Sunset,6,"""2-4""",PRX,Attackers,Elimination
+1Sunset,7,"""3-4""",FUT,Defenders,Defuse
+1Sunset,8,"""3-5""",PRX,Attackers,Elimination
+1Sunset,9,"""3-6""",PRX,Attackers,Elimination
+1Sunset,10,"""4-6""",FUT,Defenders,Elimination
+1Sunset,11,"""5-6""",FUT,Defenders,Defuse
+1Sunset,12,"""5-7""",PRX,Attackers,Elimination
+1Sunset,13,"""6-7""",PRX,Attackers,Elimination
+1Sunset,14,"""7-7""",PRX,Attackers,Spike Detonation
+1Sunset,15,"""8-7""",PRX,Attackers,Elimination
+1Sunset,16,"""9-7""",PRX,Attackers,Spike Detonation
+1Sunset,17,"""9-8""",FUT,Defenders,Defuse
+1Sunset,18,"""9-9""",FUT,Defenders,Time Expired
+1Sunset,19,"""10-9""",PRX,Attackers,Elimination
+1Sunset,20,"""11-9""",PRX,Attackers,Elimination
+1Sunset,21,"""11-10""",FUT,Defenders,Defuse
+1Sunset,22,"""11-11""",FUT,Defenders,Defuse
+1Sunset,23,"""11-12""",FUT,Defenders,Elimination
+1Sunset,24,"""11-13""",FUT,Defenders,Defuse

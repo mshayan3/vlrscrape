@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Autumn,FPX,All_Maps,All,"Viper, Chamber",1.12,205,54,46,26,+8,75%,137,30%,9,6,+3
+AAAAY,FPX,All_Maps,All,"Fade, Gekko",1.07,222,65,52,11,+13,68%,142,35%,8,4,+4
+Lysoar,FPX,All_Maps,All,"Cypher, Viper, Omen",1.01,217,55,56,29,-1,76%,146,19%,5,3,+2
+BerLIN,FPX,All_Maps,All,"Omen, Astra",0.93,163,45,49,27,-4,72%,110,27%,8,6,+2
+Life,FPX,All_Maps,All,"Yoru, Raze",0.74,185,47,57,12,-10,63%,123,30%,12,15,-3
+RieNs,TH,All_Maps,All,"Sova, Gekko, Viper",1.49,260,71,44,19,+27,70%,173,36%,8,2,+6
+Wo0t,TH,All_Maps,All,"Gekko, Fade, Omen",1.01,185,50,52,32,-2,80%,119,34%,6,7,-1
+benjyfishy,TH,All_Maps,All,"Cypher, Viper, Killjoy",0.99,196,52,54,20,-2,68%,139,35%,5,13,-8
+Boo,TH,All_Maps,All,"Astra, Brimstone, Fade",0.85,172,47,56,29,-9,71%,107,28%,2,4,-2
+MiniBoo,TH,All_Maps,All,"Jett, Raze",0.70,155,40,60,14,-20,57%,109,30%,13,16,-3
+Autumn,FPX,All_Maps,Attack,"Viper, Chamber",1.08,194,25,23,11,+2,78%,130,33%,4,1,+3
+AAAAY,FPX,All_Maps,Attack,"Fade, Gekko",0.84,185,27,27,2,0,65%,119,29%,5,2,+3
+Lysoar,FPX,All_Maps,Attack,"Cypher, Viper, Omen",1.18,260,35,27,8,+8,78%,177,29%,2,1,+1
+BerLIN,FPX,All_Maps,Attack,"Omen, Astra",0.86,147,19,23,13,-4,76%,95,28%,4,2,+2
+Life,FPX,All_Maps,Attack,"Yoru, Raze",0.67,174,22,29,6,-7,59%,122,32%,7,9,-2
+RieNs,TH,All_Maps,Attack,"Sova, Gekko, Viper",1.59,269,40,20,8,+20,72%,186,35%,4,1,+3
+Wo0t,TH,All_Maps,Attack,"Gekko, Fade, Omen",0.98,182,23,27,19,-4,82%,122,37%,5,1,+4
+benjyfishy,TH,All_Maps,Attack,"Cypher, Viper, Killjoy",0.72,150,22,29,7,-7,62%,112,34%,1,7,-6
+Boo,TH,All_Maps,Attack,"Astra, Brimstone, Fade",0.85,195,27,30,16,-3,72%,116,26%,2,3,-1
+MiniBoo,TH,All_Maps,Attack,"Jett, Raze",0.64,155,19,32,9,-13,59%,102,38%,7,8,-1
+Autumn,FPX,All_Maps,Defend,"Viper, Chamber",1.17,216,29,23,15,+6,72%,144,28%,5,5,0
+AAAAY,FPX,All_Maps,Defend,"Fade, Gekko",1.29,261,38,25,9,+13,72%,165,40%,3,2,+1
+Lysoar,FPX,All_Maps,Defend,"Cypher, Viper, Omen",0.86,175,20,29,21,-9,74%,117,9%,3,2,+1
+BerLIN,FPX,All_Maps,Defend,"Omen, Astra",0.99,185,26,26,14,0,69%,125,27%,4,4,0
+Life,FPX,All_Maps,Defend,"Yoru, Raze",0.79,189,25,28,6,-3,67%,124,28%,5,6,-1
+RieNs,TH,All_Maps,Defend,"Sova, Gekko, Viper",1.38,253,31,24,11,+7,68%,160,36%,4,1,+3
+Wo0t,TH,All_Maps,Defend,"Gekko, Fade, Omen",1.04,191,27,25,13,+2,78%,117,31%,1,6,-5
+benjyfishy,TH,All_Maps,Defend,"Cypher, Viper, Killjoy",1.27,233,30,25,13,+5,76%,168,36%,4,6,-2
+Boo,TH,All_Maps,Defend,"Astra, Brimstone, Fade",0.84,156,20,26,13,-6,70%,98,30%,0,1,-1
+MiniBoo,TH,All_Maps,Defend,"Jett, Raze",0.75,164,21,28,5,-7,54%,116,24%,6,8,-2

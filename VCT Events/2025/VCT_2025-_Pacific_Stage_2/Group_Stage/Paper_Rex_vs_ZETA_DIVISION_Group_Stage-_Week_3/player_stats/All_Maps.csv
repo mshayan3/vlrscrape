@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Jinggg,PRX,All_Maps,All,Raze,1.18,259,36,31,7,+5,74%,169,19%,4,4,0
+something,PRX,All_Maps,All,"Yoru, Sova",0.95,181,28,32,6,-4,60%,130,33%,1,2,-1
+d4v41,PRX,All_Maps,All,"Vyse, Sage",0.78,189,26,34,13,-8,67%,130,21%,4,3,+1
+PatMen,PRX,All_Maps,All,"Fade, Viper",0.71,179,26,34,7,-8,67%,120,33%,3,4,-1
+f0rsakeN,PRX,All_Maps,All,Omen,0.56,152,21,36,14,-15,76%,108,31%,5,12,-7
+CLZ,ZETA,All_Maps,All,"Vyse, Cypher",1.42,244,39,25,9,+14,79%,166,30%,5,1,+4
+SugarZ3ro,ZETA,All_Maps,All,Omen,1.29,258,41,31,24,+10,81%,158,33%,4,1,+3
+Dep,ZETA,All_Maps,All,Viper,1.26,210,32,23,12,+9,79%,144,28%,6,3,+3
+Xdll,ZETA,All_Maps,All,"Fade, Sova",1.23,208,32,26,16,+6,81%,126,30%,4,2,+2
+TenTen,ZETA,All_Maps,All,"Raze, Neon",0.67,168,23,32,12,-9,67%,115,17%,6,10,-4
+Jinggg,PRX,All_Maps,Attack,Raze,1.66,363,23,13,0,+10,78%,230,22%,2,3,-1
+something,PRX,All_Maps,Attack,"Yoru, Sova",0.52,138,8,15,3,-7,61%,97,35%,0,1,-1
+d4v41,PRX,All_Maps,Attack,"Vyse, Sage",0.69,183,11,15,2,-4,50%,126,17%,1,3,-2
+PatMen,PRX,All_Maps,Attack,"Fade, Viper",0.53,120,7,14,2,-7,56%,75,27%,2,1,+1
+f0rsakeN,PRX,All_Maps,Attack,Omen,0.51,136,8,15,6,-7,78%,97,28%,2,3,-1
+CLZ,ZETA,All_Maps,Attack,"Vyse, Cypher",1.56,269,24,14,7,+10,71%,179,26%,2,1,+1
+SugarZ3ro,ZETA,All_Maps,Attack,Omen,1.57,277,26,16,12,+10,88%,172,32%,4,0,+4
+Dep,ZETA,All_Maps,Attack,Viper,1.07,189,16,15,9,+1,79%,134,20%,4,2,+2
+Xdll,ZETA,All_Maps,Attack,"Fade, Sova",1.01,171,15,16,11,-1,88%,101,29%,1,1,0
+TenTen,ZETA,All_Maps,Attack,"Raze, Neon",0.67,181,14,19,6,-5,63%,126,26%,3,6,-3
+Jinggg,PRX,All_Maps,Defend,Raze,0.82,178,13,18,7,-5,71%,124,15%,2,1,+1
+something,PRX,All_Maps,Defend,"Yoru, Sova",1.28,212,20,17,3,+3,58%,155,32%,1,1,0
+d4v41,PRX,All_Maps,Defend,"Vyse, Sage",0.85,200,15,19,11,-4,79%,132,26%,3,0,+3
+PatMen,PRX,All_Maps,Defend,"Fade, Viper",0.84,219,19,20,5,-1,75%,153,35%,1,3,-2
+f0rsakeN,PRX,All_Maps,Defend,Omen,0.60,165,13,21,8,-8,75%,116,33%,3,9,-6
+CLZ,ZETA,All_Maps,Defend,"Vyse, Cypher",1.24,210,15,11,2,+4,89%,149,39%,3,0,+3
+SugarZ3ro,ZETA,All_Maps,Defend,Omen,0.92,236,15,15,12,0,72%,140,33%,0,1,-1
+Dep,ZETA,All_Maps,Defend,Viper,1.51,234,16,8,3,+8,78%,158,39%,2,1,+1
+Xdll,ZETA,All_Maps,Defend,"Fade, Sova",1.52,259,17,10,5,+7,72%,159,31%,3,1,+2
+TenTen,ZETA,All_Maps,Defend,"Raze, Neon",0.67,154,9,13,6,-4,72%,101,9%,3,4,-1

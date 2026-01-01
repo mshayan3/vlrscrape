@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Palla,FUR,All_Maps,All,"Neon, Yoru",1.05,218,31,31,9,0,66%,145,41%,7,11,-4
+tuyz,FUR,All_Maps,All,Omen,0.81,168,25,34,13,-9,63%,119,20%,0,0,0
+adverso,FUR,All_Maps,All,"Fade, Vyse",0.74,171,23,33,12,-10,66%,104,19%,3,2,+1
+heat,FUR,All_Maps,All,"Viper, Chamber",0.70,133,20,33,9,-13,59%,96,24%,5,7,-2
+Urango,FUR,All_Maps,All,"Sage, Sova",0.64,173,24,37,11,-13,76%,117,42%,0,6,-6
+supamen,EG,All_Maps,All,"Viper, Omen",1.40,223,35,21,22,+14,80%,146,39%,3,2,+1
+yay,EG,All_Maps,All,"Chamber, Jett",1.31,298,41,29,10,+12,68%,191,25%,10,8,+2
+icy,EG,All_Maps,All,"Neon, Cypher",1.28,229,38,25,8,+13,83%,144,30%,5,4,+1
+NaturE,EG,All_Maps,All,"Sova, Kayo",1.14,188,23,22,35,+1,90%,124,15%,4,0,+4
+Derrek,EG,All_Maps,All,"Omen, Sova",1.14,220,30,26,18,+4,83%,144,23%,4,1,+3
+Palla,FUR,All_Maps,Attack,"Neon, Yoru",1.36,291,18,15,4,+3,74%,186,45%,3,5,-2
+tuyz,FUR,All_Maps,Attack,Omen,0.80,183,13,16,4,-3,63%,131,18%,0,0,0
+adverso,FUR,All_Maps,Attack,"Fade, Vyse",0.35,138,9,18,4,-9,63%,80,19%,2,2,0
+heat,FUR,All_Maps,Attack,"Viper, Chamber",0.63,126,9,16,5,-7,68%,78,14%,2,3,-1
+Urango,FUR,All_Maps,Attack,"Sage, Sova",0.70,173,12,17,8,-5,79%,115,39%,0,2,-2
+supamen,EG,All_Maps,Attack,"Viper, Omen",1.68,267,23,9,8,+14,77%,184,46%,2,0,+2
+yay,EG,All_Maps,Attack,"Chamber, Jett",1.00,212,15,14,5,+1,68%,142,25%,6,4,+2
+icy,EG,All_Maps,Attack,"Neon, Cypher",1.21,229,20,13,3,+7,82%,137,44%,2,3,-1
+NaturE,EG,All_Maps,Attack,"Sova, Kayo",1.09,201,14,14,14,0,91%,136,20%,2,0,+2
+Derrek,EG,All_Maps,Attack,"Omen, Sova",1.06,180,13,13,8,0,86%,118,27%,2,1,+1
+Palla,FUR,All_Maps,Defend,"Neon, Yoru",0.79,155,13,16,5,-3,59%,108,36%,4,6,-2
+tuyz,FUR,All_Maps,Defend,Omen,0.82,158,12,18,9,-6,64%,109,23%,0,0,0
+adverso,FUR,All_Maps,Defend,"Fade, Vyse",1.09,195,14,15,8,-1,68%,126,20%,1,0,+1
+heat,FUR,All_Maps,Defend,"Viper, Chamber",0.83,149,11,17,4,-6,50%,111,29%,3,4,-1
+Urango,FUR,All_Maps,Defend,"Sage, Sova",0.60,171,12,20,3,-8,73%,119,45%,0,4,-4
+supamen,EG,All_Maps,Defend,"Viper, Omen",1.07,178,12,12,14,0,84%,102,29%,1,2,-1
+yay,EG,All_Maps,Defend,"Chamber, Jett",1.66,402,26,15,5,+11,68%,247,26%,4,4,0
+icy,EG,All_Maps,Defend,"Neon, Cypher",1.35,226,18,12,5,+6,84%,152,19%,3,1,+2
+NaturE,EG,All_Maps,Defend,"Sova, Kayo",1.21,167,9,8,21,+1,89%,110,8%,2,0,+2
+Derrek,EG,All_Maps,Defend,"Omen, Sova",1.23,260,17,13,10,+4,79%,174,20%,2,0,+2

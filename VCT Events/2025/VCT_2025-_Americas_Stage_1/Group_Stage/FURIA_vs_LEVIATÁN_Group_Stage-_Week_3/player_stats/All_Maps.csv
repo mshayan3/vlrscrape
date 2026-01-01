@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+heat,FUR,All_Maps,All,Vyse,0.94,203,25,29,5,-4,60%,126,39%,4,3,+1
+Khalil,FUR,All_Maps,All,"Omen, Astra",0.88,190,24,29,8,-5,71%,123,26%,3,1,+2
+pryze,FUR,All_Maps,All,"Sova, Fade",0.73,177,20,29,6,-9,63%,109,24%,0,5,-5
+raafa,FUR,All_Maps,All,Tejo,0.56,150,16,30,9,-14,60%,105,14%,1,6,-5
+havoc,FUR,All_Maps,All,Yoru,0.49,133,17,30,4,-13,54%,89,26%,5,7,-2
+C0M,LEV,All_Maps,All,"Tejo, Fade",1.39,229,30,18,16,+12,86%,157,28%,1,2,-1
+kiNgg,LEV,All_Maps,All,"Waylay, Yoru",1.31,237,31,19,4,+12,83%,149,30%,9,3,+6
+Demon1,LEV,All_Maps,All,"Omen, Astra",1.29,242,33,22,18,+11,89%,156,42%,4,2,+2
+tex,LEV,All_Maps,All,Vyse,1.27,248,31,21,6,+10,89%,153,33%,4,1,+3
+Rossy,LEV,All_Maps,All,"Kayo, Tejo",0.99,158,22,22,11,0,77%,109,36%,4,5,-1
+heat,FUR,All_Maps,Attack,Vyse,1.04,209,17,19,4,-2,54%,135,39%,3,2,+1
+Khalil,FUR,All_Maps,Attack,"Omen, Astra",1.02,209,18,19,5,-1,79%,138,41%,3,0,+3
+pryze,FUR,All_Maps,Attack,"Sova, Fade",0.85,197,16,19,3,-3,71%,120,26%,0,2,-2
+raafa,FUR,All_Maps,Attack,Tejo,0.50,135,10,21,7,-11,58%,97,13%,0,5,-5
+havoc,FUR,All_Maps,Attack,Yoru,0.49,132,12,20,2,-8,54%,92,27%,3,6,-3
+C0M,LEV,All_Maps,Attack,"Tejo, Fade",1.59,223,9,4,4,+5,91%,151,18%,0,1,-1
+kiNgg,LEV,All_Maps,Attack,"Waylay, Yoru",1.82,338,14,5,3,+9,82%,203,28%,3,1,+2
+Demon1,LEV,All_Maps,Attack,"Omen, Astra",1.04,186,10,7,2,+3,100%,97,54%,0,0,0
+tex,LEV,All_Maps,Attack,Vyse,1.29,224,9,5,1,+4,91%,139,41%,2,0,+2
+Rossy,LEV,All_Maps,Attack,"Kayo, Tejo",0.93,184,7,8,3,-1,100%,135,31%,2,2,0
+heat,FUR,All_Maps,Defend,Vyse,0.72,195,8,10,1,-2,73%,107,39%,1,1,0
+Khalil,FUR,All_Maps,Defend,"Omen, Astra",0.55,147,6,10,3,-4,55%,89,6%,0,1,-1
+pryze,FUR,All_Maps,Defend,"Sova, Fade",0.47,127,4,10,3,-6,45%,84,20%,0,3,-3
+raafa,FUR,All_Maps,Defend,Tejo,0.69,186,6,9,2,-3,64%,121,15%,1,1,0
+havoc,FUR,All_Maps,Defend,Yoru,0.48,136,5,10,2,-5,55%,83,25%,2,1,+1
+C0M,LEV,All_Maps,Defend,"Tejo, Fade",1.30,229,21,14,12,+7,83%,160,33%,1,1,0
+kiNgg,LEV,All_Maps,Defend,"Waylay, Yoru",1.07,192,17,14,1,+3,83%,125,32%,6,2,+4
+Demon1,LEV,All_Maps,Defend,"Omen, Astra",1.40,268,23,15,16,+8,83%,183,39%,4,2,+2
+tex,LEV,All_Maps,Defend,Vyse,1.27,260,22,16,5,+6,88%,159,30%,2,1,+1
+Rossy,LEV,All_Maps,Defend,"Kayo, Tejo",1.02,147,15,14,8,+1,67%,97,39%,2,3,-1

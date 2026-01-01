@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+baddyG,MKOI,All_Maps,All,"Viper, Omen",1.26,256,66,51,18,+15,69%,160,32%,11,4,+7
+MONSTEERR,MKOI,All_Maps,All,"Killjoy, Viper, Vyse",1.03,222,54,52,11,+2,69%,150,31%,6,5,+1
+flyuh,MKOI,All_Maps,All,"Sova, Fade",0.78,175,40,56,18,-16,71%,126,30%,4,3,+1
+Filu,MKOI,All_Maps,All,"Jett, Gekko, Chamber",0.74,163,38,56,17,-18,56%,112,31%,8,8,0
+nataNk,MKOI,All_Maps,All,"Sage, Raze, Yoru",0.64,129,32,56,16,-24,65%,94,22%,7,12,-5
+hiro,NAVI,All_Maps,All,"Killjoy, Omen, Cypher",1.33,223,60,44,23,+16,78%,163,42%,6,2,+4
+alexiiik,NAVI,All_Maps,All,"Jett, Raze",1.24,265,61,44,11,+17,76%,162,20%,12,9,+3
+Shao,NAVI,All_Maps,All,"Sage, Fade, Sova",1.05,205,44,45,39,-1,85%,135,38%,3,4,-1
+Ruxic,NAVI,All_Maps,All,"Viper, Omen",1.05,241,62,50,18,+12,76%,152,36%,8,9,-1
+ANGE1,NAVI,All_Maps,All,"Sova, Gekko, Kayo",0.90,190,44,47,27,-3,75%,134,29%,3,12,-9
+baddyG,MKOI,All_Maps,Attack,"Viper, Omen",1.05,223,31,31,5,0,59%,137,28%,4,3,+1
+MONSTEERR,MKOI,All_Maps,Attack,"Killjoy, Viper, Vyse",1.07,217,31,32,3,-1,62%,140,36%,4,3,+1
+flyuh,MKOI,All_Maps,Attack,"Sova, Fade",0.57,149,18,35,6,-17,56%,105,27%,1,2,-1
+Filu,MKOI,All_Maps,Attack,"Jett, Gekko, Chamber",0.52,147,18,35,5,-17,51%,102,32%,4,7,-3
+nataNk,MKOI,All_Maps,Attack,"Sage, Raze, Yoru",0.54,114,15,33,8,-18,59%,72,22%,4,7,-3
+hiro,NAVI,All_Maps,Attack,"Killjoy, Omen, Cypher",1.13,207,23,22,6,+1,72%,141,36%,2,1,+1
+alexiiik,NAVI,All_Maps,Attack,"Jett, Raze",0.68,144,14,23,9,-9,66%,111,22%,0,6,-6
+Shao,NAVI,All_Maps,Attack,"Sage, Fade, Sova",1.20,231,24,22,13,+2,90%,158,43%,1,1,0
+Ruxic,NAVI,All_Maps,Attack,"Viper, Omen",1.09,286,31,26,5,+5,72%,178,39%,5,3,+2
+ANGE1,NAVI,All_Maps,Attack,"Sova, Gekko, Kayo",0.55,137,13,24,9,-11,72%,104,25%,2,8,-6
+baddyG,MKOI,All_Maps,Defend,"Viper, Omen",1.54,312,35,20,13,+15,83%,191,37%,7,1,+6
+MONSTEERR,MKOI,All_Maps,Defend,"Killjoy, Viper, Vyse",0.98,225,23,20,8,+3,79%,163,26%,2,2,0
+flyuh,MKOI,All_Maps,Defend,"Sova, Fade",1.06,217,22,21,12,+1,90%,155,32%,3,1,+2
+Filu,MKOI,All_Maps,Defend,"Jett, Gekko, Chamber",1.03,199,20,21,12,-1,62%,126,31%,4,1,+3
+nataNk,MKOI,All_Maps,Defend,"Sage, Raze, Yoru",0.77,175,17,23,8,-6,72%,124,22%,3,5,-2
+hiro,NAVI,All_Maps,Defend,"Killjoy, Omen, Cypher",1.48,263,37,22,17,+15,82%,178,47%,4,1,+3
+alexiiik,NAVI,All_Maps,Defend,"Jett, Raze",1.65,314,47,21,2,+26,85%,199,19%,12,3,+9
+Shao,NAVI,All_Maps,Defend,"Sage, Fade, Sova",0.94,169,20,23,26,-3,82%,118,34%,2,3,-1
+Ruxic,NAVI,All_Maps,Defend,"Viper, Omen",1.02,206,31,24,13,+7,79%,132,33%,3,6,-3
+ANGE1,NAVI,All_Maps,Defend,"Sova, Gekko, Kayo",1.16,232,31,23,18,+8,77%,156,32%,1,4,-3

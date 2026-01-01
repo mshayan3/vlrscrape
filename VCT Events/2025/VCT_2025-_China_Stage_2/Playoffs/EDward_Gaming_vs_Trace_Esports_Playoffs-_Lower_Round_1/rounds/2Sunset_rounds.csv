@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+2Sunset,1,"""1-0""",TE,Attackers,Elimination
+2Sunset,2,"""2-0""",TE,Attackers,Elimination
+2Sunset,3,"""3-0""",TE,Attackers,Elimination
+2Sunset,4,"""4-0""",TE,Attackers,Elimination
+2Sunset,5,"""4-1""",EDG,Defenders,Elimination
+2Sunset,6,"""4-2""",EDG,Defenders,Elimination
+2Sunset,7,"""4-3""",EDG,Defenders,Time Expired
+2Sunset,8,"""4-4""",EDG,Defenders,Elimination
+2Sunset,9,"""4-5""",EDG,Defenders,Elimination
+2Sunset,10,"""5-5""",TE,Attackers,Elimination
+2Sunset,11,"""5-6""",EDG,Defenders,Defuse
+2Sunset,12,"""5-7""",EDG,Defenders,Elimination
+2Sunset,13,"""6-7""",EDG,Defenders,Elimination
+2Sunset,14,"""6-8""",TE,Attackers,Elimination
+2Sunset,15,"""7-8""",EDG,Defenders,Defuse
+2Sunset,16,"""8-8""",EDG,Defenders,Defuse
+2Sunset,17,"""8-9""",TE,Attackers,Elimination
+2Sunset,18,"""8-10""",TE,Attackers,Spike Detonation
+2Sunset,19,"""9-10""",EDG,Defenders,Elimination
+2Sunset,20,"""10-10""",EDG,Defenders,Elimination
+2Sunset,21,"""11-10""",EDG,Defenders,Time Expired
+2Sunset,22,"""12-10""",EDG,Defenders,Time Expired
+2Sunset,23,"""13-10""",EDG,Defenders,Defuse
+2Sunset,24,"""""",,,

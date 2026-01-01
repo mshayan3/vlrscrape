@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+3Pearl,1,"""0-1""",TLN,Defenders,Defuse
+3Pearl,2,"""0-2""",TLN,Defenders,Elimination
+3Pearl,3,"""0-3""",TLN,Defenders,Elimination
+3Pearl,4,"""0-4""",TLN,Defenders,Elimination
+3Pearl,5,"""0-5""",TLN,Defenders,Defuse
+3Pearl,6,"""0-6""",TLN,Defenders,Time Expired
+3Pearl,7,"""0-7""",TLN,Defenders,Elimination
+3Pearl,8,"""0-8""",TLN,Defenders,Defuse
+3Pearl,9,"""0-9""",TLN,Defenders,Elimination
+3Pearl,10,"""0-10""",TLN,Defenders,Elimination
+3Pearl,11,"""1-10""",GEN,Attackers,Elimination
+3Pearl,12,"""1-11""",TLN,Defenders,Elimination
+3Pearl,13,"""2-11""",TLN,Defenders,Elimination
+3Pearl,14,"""3-11""",TLN,Defenders,Elimination
+3Pearl,15,"""3-12""",GEN,Attackers,Elimination
+3Pearl,16,"""3-13""",GEN,Attackers,Elimination
+3Pearl,17,"""""",,,
+3Pearl,18,"""""",,,
+3Pearl,19,"""""",,,
+3Pearl,20,"""""",,,
+3Pearl,21,"""""",,,
+3Pearl,22,"""""",,,
+3Pearl,23,"""""",,,
+3Pearl,24,"""""",,,

@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Lysoar,WOL,All_Maps,All,"Cypher, Omen",1.02,225,31,32,7,-1,71%,143,31%,3,2,+1
+Spring,WOL,All_Maps,All,"Omen, Viper",0.93,181,23,28,10,-5,66%,113,29%,2,5,-3
+Yuicaw,WOL,All_Maps,All,"Raze, Cypher",0.77,173,23,32,5,-9,63%,121,28%,2,3,-1
+SiuFatBB,WOL,All_Maps,All,"Sova, Fade",0.52,92,10,28,11,-18,55%,67,27%,0,3,-3
+Juicy,WOL,All_Maps,All,Yoru,0.50,153,19,35,7,-16,61%,93,20%,7,11,-4
+Autumn,FPX,All_Maps,All,"Yoru, Chamber",1.34,250,37,22,8,+15,71%,161,25%,6,4,+2
+BerLIN,FPX,All_Maps,All,Omen,1.31,195,27,19,15,+8,89%,123,30%,5,4,+1
+AAAAY,FPX,All_Maps,All,"Sova, Fade",1.27,206,29,17,13,+12,92%,139,42%,3,2,+1
+yosemite,FPX,All_Maps,All,"Cypher, Vyse",1.14,221,32,24,9,+8,79%,144,23%,2,1,+1
+Life,FPX,All_Maps,All,"Jett, Raze",1.04,219,30,24,5,+6,74%,137,28%,8,3,+5
+Lysoar,WOL,All_Maps,Attack,"Cypher, Omen",1.19,244,18,14,6,+4,85%,154,20%,1,0,+1
+Spring,WOL,All_Maps,Attack,"Omen, Viper",1.36,252,18,13,7,+5,80%,158,25%,1,3,-2
+Yuicaw,WOL,All_Maps,Attack,"Raze, Cypher",0.88,207,15,16,2,-1,60%,140,23%,1,2,-1
+SiuFatBB,WOL,All_Maps,Attack,"Sova, Fade",0.78,133,8,13,8,-5,60%,94,35%,0,0,0
+Juicy,WOL,All_Maps,Attack,Yoru,0.13,52,3,18,4,-15,50%,38,13%,2,10,-8
+Autumn,FPX,All_Maps,Attack,"Yoru, Chamber",1.26,214,16,9,3,+7,61%,144,25%,2,4,-2
+BerLIN,FPX,All_Maps,Attack,Omen,1.24,173,12,7,7,+5,94%,106,38%,1,3,-2
+AAAAY,FPX,All_Maps,Attack,"Sova, Fade",1.37,219,15,8,8,+7,94%,151,56%,2,1,+1
+yosemite,FPX,All_Maps,Attack,"Cypher, Vyse",1.34,260,18,10,5,+8,89%,176,28%,1,1,0
+Life,FPX,All_Maps,Attack,"Jett, Raze",1.43,302,20,10,3,+10,89%,190,31%,3,0,+3
+Lysoar,WOL,All_Maps,Defend,"Cypher, Omen",0.83,204,13,18,1,-5,56%,130,54%,2,2,0
+Spring,WOL,All_Maps,Defend,"Omen, Viper",0.44,100,5,15,3,-10,50%,62,39%,1,2,-1
+Yuicaw,WOL,All_Maps,Defend,"Raze, Cypher",0.65,136,8,16,3,-8,67%,100,42%,1,1,0
+SiuFatBB,WOL,All_Maps,Defend,"Sova, Fade",0.23,43,2,15,3,-13,50%,37,20%,0,3,-3
+Juicy,WOL,All_Maps,Defend,Yoru,1.02,270,16,17,3,-1,72%,155,22%,5,1,+4
+Autumn,FPX,All_Maps,Defend,"Yoru, Chamber",1.44,288,21,13,5,+8,80%,176,24%,4,0,+4
+BerLIN,FPX,All_Maps,Defend,Omen,1.37,214,15,12,8,+3,85%,139,25%,4,1,+3
+AAAAY,FPX,All_Maps,Defend,"Sova, Fade",1.18,193,14,9,5,+5,90%,129,29%,1,1,0
+yosemite,FPX,All_Maps,Defend,"Cypher, Vyse",0.96,185,14,14,4,0,70%,114,18%,1,0,+1
+Life,FPX,All_Maps,Defend,"Jett, Raze",0.70,146,10,14,2,-4,60%,90,21%,5,3,+2

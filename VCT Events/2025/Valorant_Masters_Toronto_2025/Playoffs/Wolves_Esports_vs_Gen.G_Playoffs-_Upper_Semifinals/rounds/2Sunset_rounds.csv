@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+2Sunset,1,"""0-1""",GEN,Attackers,Elimination
+2Sunset,2,"""0-2""",GEN,Attackers,Elimination
+2Sunset,3,"""0-3""",GEN,Attackers,Elimination
+2Sunset,4,"""0-4""",GEN,Attackers,Elimination
+2Sunset,5,"""1-4""",WOL,Defenders,Defuse
+2Sunset,6,"""1-5""",GEN,Attackers,Elimination
+2Sunset,7,"""1-6""",GEN,Attackers,Elimination
+2Sunset,8,"""2-6""",WOL,Defenders,Defuse
+2Sunset,9,"""3-6""",WOL,Defenders,Elimination
+2Sunset,10,"""3-7""",GEN,Attackers,Elimination
+2Sunset,11,"""4-7""",WOL,Defenders,Elimination
+2Sunset,12,"""4-8""",GEN,Attackers,Elimination
+2Sunset,13,"""5-8""",GEN,Attackers,Elimination
+2Sunset,14,"""5-9""",WOL,Defenders,Elimination
+2Sunset,15,"""6-9""",GEN,Attackers,Elimination
+2Sunset,16,"""7-9""",GEN,Attackers,Elimination
+2Sunset,17,"""8-9""",GEN,Attackers,Elimination
+2Sunset,18,"""9-9""",GEN,Attackers,Elimination
+2Sunset,19,"""10-9""",GEN,Attackers,Spike Detonation
+2Sunset,20,"""11-9""",GEN,Attackers,Elimination
+2Sunset,21,"""12-9""",GEN,Attackers,Elimination
+2Sunset,22,"""13-9""",GEN,Attackers,Elimination
+2Sunset,23,"""""",,,
+2Sunset,24,"""""",,,

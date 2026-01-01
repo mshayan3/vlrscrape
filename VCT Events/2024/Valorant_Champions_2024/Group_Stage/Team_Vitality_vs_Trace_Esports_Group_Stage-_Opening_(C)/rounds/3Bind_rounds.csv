@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+3Bind,1,"""1-0""",TE,Attackers,Spike Detonation
+3Bind,2,"""2-0""",TE,Attackers,Elimination
+3Bind,3,"""3-0""",TE,Attackers,Spike Detonation
+3Bind,4,"""3-1""",VIT,Defenders,Defuse
+3Bind,5,"""4-1""",TE,Attackers,Elimination
+3Bind,6,"""5-1""",TE,Attackers,Elimination
+3Bind,7,"""5-2""",VIT,Defenders,Defuse
+3Bind,8,"""5-3""",VIT,Defenders,Elimination
+3Bind,9,"""5-4""",VIT,Defenders,Elimination
+3Bind,10,"""6-4""",TE,Attackers,Elimination
+3Bind,11,"""6-5""",VIT,Defenders,Elimination
+3Bind,12,"""6-6""",VIT,Defenders,Elimination
+3Bind,13,"""7-6""",VIT,Defenders,Defuse
+3Bind,14,"""7-7""",TE,Attackers,Elimination
+3Bind,15,"""7-8""",TE,Attackers,Elimination
+3Bind,16,"""7-9""",TE,Attackers,Spike Detonation
+3Bind,17,"""7-10""",TE,Attackers,Spike Detonation
+3Bind,18,"""7-11""",TE,Attackers,Elimination
+3Bind,19,"""7-12""",TE,Attackers,Elimination
+3Bind,20,"""7-13""",TE,Attackers,Elimination
+3Bind,21,"""""",,,
+3Bind,22,"""""",,,
+3Bind,23,"""""",,,
+3Bind,24,"""""",,,

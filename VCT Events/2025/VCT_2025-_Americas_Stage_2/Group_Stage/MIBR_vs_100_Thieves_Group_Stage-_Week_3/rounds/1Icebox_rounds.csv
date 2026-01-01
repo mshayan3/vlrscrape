@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+1Icebox,1,"""1-0""",100T,Attackers,Elimination
+1Icebox,2,"""2-0""",100T,Attackers,Spike Detonation
+1Icebox,3,"""3-0""",100T,Attackers,Spike Detonation
+1Icebox,4,"""3-1""",MIBR,Defenders,Time Expired
+1Icebox,5,"""4-1""",100T,Attackers,Elimination
+1Icebox,6,"""5-1""",100T,Attackers,Elimination
+1Icebox,7,"""5-2""",MIBR,Defenders,Elimination
+1Icebox,8,"""6-2""",100T,Attackers,Spike Detonation
+1Icebox,9,"""7-2""",100T,Attackers,Elimination
+1Icebox,10,"""8-2""",100T,Attackers,Elimination
+1Icebox,11,"""9-2""",100T,Attackers,Spike Detonation
+1Icebox,12,"""9-3""",MIBR,Defenders,Defuse
+1Icebox,13,"""10-3""",MIBR,Defenders,Defuse
+1Icebox,14,"""10-4""",100T,Attackers,Elimination
+1Icebox,15,"""10-5""",100T,Attackers,Elimination
+1Icebox,16,"""11-5""",MIBR,Defenders,Elimination
+1Icebox,17,"""11-6""",100T,Attackers,Spike Detonation
+1Icebox,18,"""12-6""",MIBR,Defenders,Defuse
+1Icebox,19,"""12-7""",100T,Attackers,Spike Detonation
+1Icebox,20,"""12-8""",100T,Attackers,Spike Detonation
+1Icebox,21,"""12-9""",100T,Attackers,Elimination
+1Icebox,22,"""12-10""",100T,Attackers,Elimination
+1Icebox,23,"""13-10""",MIBR,Defenders,Defuse
+1Icebox,24,"""""",,,

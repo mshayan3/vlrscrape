@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+3Corrode,1,"""0-1""",DRG,Defenders,Elimination
+3Corrode,2,"""0-2""",DRG,Defenders,Defuse
+3Corrode,3,"""1-2""",BLG,Attackers,Elimination
+3Corrode,4,"""2-2""",BLG,Attackers,Spike Detonation
+3Corrode,5,"""3-2""",BLG,Attackers,Elimination
+3Corrode,6,"""4-2""",BLG,Attackers,Elimination
+3Corrode,7,"""4-3""",DRG,Defenders,Elimination
+3Corrode,8,"""4-4""",DRG,Defenders,Elimination
+3Corrode,9,"""4-5""",DRG,Defenders,Time Expired
+3Corrode,10,"""4-6""",DRG,Defenders,Elimination
+3Corrode,11,"""5-6""",BLG,Attackers,Elimination
+3Corrode,12,"""6-6""",BLG,Attackers,Elimination
+3Corrode,13,"""6-7""",BLG,Attackers,Elimination
+3Corrode,14,"""6-8""",BLG,Attackers,Elimination
+3Corrode,15,"""7-8""",DRG,Defenders,Defuse
+3Corrode,16,"""8-8""",DRG,Defenders,Elimination
+3Corrode,17,"""8-9""",BLG,Attackers,Elimination
+3Corrode,18,"""8-10""",BLG,Attackers,Elimination
+3Corrode,19,"""9-10""",DRG,Defenders,Elimination
+3Corrode,20,"""9-11""",BLG,Attackers,Elimination
+3Corrode,21,"""10-11""",DRG,Defenders,Elimination
+3Corrode,22,"""10-12""",BLG,Attackers,Elimination
+3Corrode,23,"""10-13""",BLG,Attackers,Elimination
+3Corrode,24,"""""",,,

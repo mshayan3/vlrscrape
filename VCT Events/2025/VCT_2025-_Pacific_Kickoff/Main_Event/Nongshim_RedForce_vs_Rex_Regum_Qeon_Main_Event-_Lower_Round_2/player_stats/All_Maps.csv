@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Ivy,NS,All_Maps,All,"Breach, Astra, Sova",1.15,193,66,56,35,+10,75%,126,29%,6,8,-2
+Francis,NS,All_Maps,All,"Tejo, Fade",1.04,237,64,63,31,+1,73%,156,19%,6,2,+4
+Persia,NS,All_Maps,All,"Brimstone, Omen, Astra",1.01,174,57,56,36,+1,76%,124,29%,6,4,+2
+margaret,NS,All_Maps,All,"Cypher, Vyse",1.01,186,56,60,25,-4,69%,130,31%,13,5,+8
+Dambi,NS,All_Maps,All,"Raze, Neon",0.92,224,66,72,26,-6,72%,135,25%,23,16,+7
+Jemkin,RRQ,All_Maps,All,"Brimstone, Raze, Jett",1.18,243,76,61,30,+15,75%,164,24%,14,21,-7
+Estrella,RRQ,All_Maps,All,"Breach, Omen, Astra",1.12,184,58,59,42,-1,81%,131,31%,5,3,+2
+xffero,RRQ,All_Maps,All,"Killjoy, Vyse",1.06,214,67,60,26,+7,73%,141,22%,5,9,-4
+Kushy,RRQ,All_Maps,All,"Sova, Fade",0.89,181,53,65,31,-12,71%,118,27%,4,8,-4
+Monyet,RRQ,All_Maps,All,"Neon, Viper, Phoenix",0.86,172,53,64,23,-11,72%,119,26%,7,13,-6
+Ivy,NS,All_Maps,Attack,"Breach, Astra, Sova",1.06,177,29,27,14,+2,72%,119,31%,2,3,-1
+Francis,NS,All_Maps,Attack,"Tejo, Fade",0.94,211,30,32,14,-2,74%,151,17%,2,1,+1
+Persia,NS,All_Maps,Attack,"Brimstone, Omen, Astra",1.02,195,30,27,21,+3,81%,128,31%,2,1,+1
+margaret,NS,All_Maps,Attack,"Cypher, Vyse",1.17,194,29,25,10,+4,65%,136,36%,4,4,0
+Dambi,NS,All_Maps,Attack,"Raze, Neon",0.73,207,31,39,14,-8,70%,122,24%,11,13,-2
+Jemkin,RRQ,All_Maps,Attack,"Brimstone, Raze, Jett",0.88,203,29,33,18,-4,74%,137,21%,7,17,-10
+Estrella,RRQ,All_Maps,Attack,"Breach, Omen, Astra",1.08,181,28,29,17,-1,78%,123,33%,2,2,0
+xffero,RRQ,All_Maps,Attack,"Killjoy, Vyse",1.31,244,43,28,9,+15,72%,157,25%,1,3,-2
+Kushy,RRQ,All_Maps,Attack,"Sova, Fade",0.79,171,25,35,17,-10,70%,119,25%,1,3,-2
+Monyet,RRQ,All_Maps,Attack,"Neon, Viper, Phoenix",0.86,191,32,35,9,-3,65%,123,24%,2,8,-6
+Ivy,NS,All_Maps,Defend,"Breach, Astra, Sova",1.23,219,37,29,21,+8,78%,133,28%,4,5,-1
+Francis,NS,All_Maps,Defend,"Tejo, Fade",1.13,232,34,31,17,+3,72%,160,20%,4,1,+3
+Persia,NS,All_Maps,Defend,"Brimstone, Omen, Astra",1.01,181,27,29,15,-2,72%,119,28%,4,3,+1
+margaret,NS,All_Maps,Defend,"Cypher, Vyse",0.86,189,27,35,15,-8,72%,125,27%,9,1,+8
+Dambi,NS,All_Maps,Defend,"Raze, Neon",1.10,227,35,33,12,+2,74%,147,25%,12,3,+9
+Jemkin,RRQ,All_Maps,Defend,"Brimstone, Raze, Jett",1.51,306,47,28,12,+19,77%,193,28%,7,4,+3
+Estrella,RRQ,All_Maps,Defend,"Breach, Omen, Astra",1.16,198,30,30,25,0,84%,140,30%,3,1,+2
+xffero,RRQ,All_Maps,Defend,"Killjoy, Vyse",0.79,179,24,32,17,-8,74%,123,20%,4,6,-2
+Kushy,RRQ,All_Maps,Defend,"Sova, Fade",1.00,176,28,30,14,-2,72%,116,29%,3,5,-2
+Monyet,RRQ,All_Maps,Defend,"Neon, Viper, Phoenix",0.86,161,21,29,14,-8,79%,114,31%,5,5,0

@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+2Pearl,1,"""1-0""",NS,Defenders,Defuse
+2Pearl,2,"""2-0""",NS,Defenders,Elimination
+2Pearl,3,"""2-1""",ZETA,Attackers,Elimination
+2Pearl,4,"""3-1""",NS,Defenders,Elimination
+2Pearl,5,"""3-2""",ZETA,Attackers,Elimination
+2Pearl,6,"""3-3""",ZETA,Attackers,Elimination
+2Pearl,7,"""4-3""",NS,Defenders,Defuse
+2Pearl,8,"""4-4""",ZETA,Attackers,Spike Detonation
+2Pearl,9,"""4-5""",ZETA,Attackers,Elimination
+2Pearl,10,"""5-5""",NS,Defenders,Elimination
+2Pearl,11,"""6-5""",NS,Defenders,Time Expired
+2Pearl,12,"""7-5""",NS,Defenders,Elimination
+2Pearl,13,"""7-6""",NS,Defenders,Defuse
+2Pearl,14,"""7-7""",NS,Defenders,Elimination
+2Pearl,15,"""8-7""",ZETA,Attackers,Elimination
+2Pearl,16,"""8-8""",NS,Defenders,Defuse
+2Pearl,17,"""8-9""",NS,Defenders,Time Expired
+2Pearl,18,"""8-10""",NS,Defenders,Elimination
+2Pearl,19,"""8-11""",NS,Defenders,Defuse
+2Pearl,20,"""8-12""",NS,Defenders,Defuse
+2Pearl,21,"""9-12""",ZETA,Attackers,Elimination
+2Pearl,22,"""10-12""",ZETA,Attackers,Elimination
+2Pearl,23,"""11-12""",ZETA,Attackers,Elimination
+2Pearl,24,"""11-13""",NS,Defenders,Elimination

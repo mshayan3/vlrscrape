@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Derke,FNC,All_Maps,All,"Raze, Yoru",1.46,301,65,42,19,+23,88%,190,21%,12,12,0
+Chronicle,FNC,All_Maps,All,"Sova, Viper",1.26,240,49,40,24,+9,70%,172,28%,5,2,+3
+hiro,FNC,All_Maps,All,"Cypher, Fade",1.01,207,50,44,12,+6,78%,127,29%,9,5,+4
+Alfajer,FNC,All_Maps,All,"Breach, Iso, Killjoy",0.92,176,40,44,21,-4,70%,130,27%,1,8,-7
+Boaster,FNC,All_Maps,All,"Astra, Omen",0.88,157,38,41,21,-3,73%,96,26%,6,4,+2
+keznit,KRÜ,All_Maps,All,"Neon, Raze",1.06,237,50,51,21,-1,75%,164,22%,7,7,0
+Shyy,KRÜ,All_Maps,All,"Cypher, Killjoy",1.06,210,49,42,16,+7,73%,139,29%,8,7,+1
+heat,KRÜ,All_Maps,All,"Breach, Fade",0.81,161,39,48,17,-9,66%,101,33%,3,3,0
+Melser,KRÜ,All_Maps,All,Omen,0.74,157,38,49,7,-11,61%,101,38%,6,10,-4
+mta,KRÜ,All_Maps,All,"Sova, Viper",0.67,157,34,52,14,-18,58%,100,36%,7,6,+1
+Derke,FNC,All_Maps,Attack,"Raze, Yoru",1.06,242,23,22,7,+1,86%,167,27%,7,7,0
+Chronicle,FNC,All_Maps,Attack,"Sova, Viper",1.40,228,22,14,7,+8,68%,172,30%,1,0,+1
+hiro,FNC,All_Maps,Attack,"Cypher, Fade",0.96,207,21,19,7,+2,71%,120,26%,6,3,+3
+Alfajer,FNC,All_Maps,Attack,"Breach, Iso, Killjoy",1.15,242,26,18,6,+8,75%,177,26%,0,3,-3
+Boaster,FNC,All_Maps,Attack,"Astra, Omen",1.08,169,17,15,12,+2,82%,103,26%,1,0,+1
+keznit,KRÜ,All_Maps,Attack,"Neon, Raze",1.08,260,31,29,11,+2,78%,167,20%,6,6,0
+Shyy,KRÜ,All_Maps,Attack,"Cypher, Killjoy",1.02,201,26,25,11,+1,67%,128,27%,4,4,0
+heat,KRÜ,All_Maps,Attack,"Breach, Fade",0.79,140,19,25,11,-6,64%,91,30%,1,2,-1
+Melser,KRÜ,All_Maps,Attack,Omen,0.77,168,22,29,5,-7,58%,114,43%,4,4,0
+mta,KRÜ,All_Maps,Attack,"Sova, Viper",0.90,182,24,26,8,-2,61%,114,50%,3,2,+1
+Derke,FNC,All_Maps,Defend,"Raze, Yoru",1.77,325,42,20,12,+22,89%,207,18%,5,5,0
+Chronicle,FNC,All_Maps,Defend,"Sova, Viper",1.16,257,27,26,17,+1,72%,172,26%,4,2,+2
+hiro,FNC,All_Maps,Defend,"Cypher, Fade",1.06,205,29,25,5,+4,83%,133,31%,3,2,+1
+Alfajer,FNC,All_Maps,Defend,"Breach, Iso, Killjoy",0.73,133,14,26,15,-12,67%,93,28%,1,5,-4
+Boaster,FNC,All_Maps,Defend,"Astra, Omen",0.72,154,21,26,9,-5,67%,90,25%,5,4,+1
+keznit,KRÜ,All_Maps,Defend,"Neon, Raze",1.04,209,19,22,10,-3,71%,161,24%,1,1,0
+Shyy,KRÜ,All_Maps,Defend,"Cypher, Killjoy",1.12,230,23,17,5,+6,82%,153,32%,4,3,+1
+heat,KRÜ,All_Maps,Defend,"Breach, Fade",0.85,192,20,23,6,-3,68%,114,36%,2,1,+1
+Melser,KRÜ,All_Maps,Defend,Omen,0.70,142,16,20,2,-4,64%,85,32%,2,6,-4
+mta,KRÜ,All_Maps,Defend,"Sova, Viper",0.37,118,10,26,6,-16,54%,83,21%,4,4,0

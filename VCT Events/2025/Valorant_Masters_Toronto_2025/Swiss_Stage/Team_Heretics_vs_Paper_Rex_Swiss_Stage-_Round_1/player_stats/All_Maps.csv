@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Wo0t,TH,All_Maps,All,"Breach, Gekko",0.93,179,23,27,13,-4,64%,113,50%,2,4,-2
+benjyfishy,TH,All_Maps,All,Killjoy,0.93,187,24,29,3,-5,61%,130,34%,7,3,+4
+RieNs,TH,All_Maps,All,"Fade, Sova",0.67,176,20,30,6,-10,56%,111,33%,2,5,-3
+Boo,TH,All_Maps,All,"Astra, Viper",0.47,106,12,29,14,-17,56%,68,33%,0,5,-5
+MiniBoo,TH,All_Maps,All,"Yoru, Neon",0.43,119,16,31,4,-15,47%,82,44%,2,6,-4
+Jinggg,PRX,All_Maps,All,"Raze, Omen",1.45,251,32,19,20,+13,92%,153,23%,10,1,+9
+f0rsakeN,PRX,All_Maps,All,"Astra, Sova",1.42,243,30,17,15,+13,83%,141,35%,5,2,+3
+PatMen,PRX,All_Maps,All,"Fade, Viper",1.22,213,30,18,9,+12,81%,140,32%,2,5,-3
+d4v41,PRX,All_Maps,All,"Vyse, Killjoy",1.17,187,27,21,4,+6,81%,148,29%,0,1,-1
+something,PRX,All_Maps,All,"Yoru, Jett",1.10,205,27,20,8,+7,78%,139,19%,6,4,+2
+Wo0t,TH,All_Maps,Attack,"Breach, Gekko",1.60,268,14,8,4,+6,79%,155,64%,1,0,+1
+benjyfishy,TH,All_Maps,Attack,Killjoy,1.84,329,17,8,1,+9,93%,209,52%,6,0,+6
+RieNs,TH,All_Maps,Attack,"Fade, Sova",0.38,93,4,11,3,-7,57%,66,17%,0,4,-4
+Boo,TH,All_Maps,Attack,"Astra, Viper",0.78,149,7,9,5,-2,79%,96,30%,0,0,0
+MiniBoo,TH,All_Maps,Attack,"Yoru, Neon",0.52,126,7,11,2,-4,50%,82,33%,1,2,-1
+Jinggg,PRX,All_Maps,Attack,"Raze, Omen",1.60,280,22,10,10,+12,95%,172,20%,8,1,+7
+f0rsakeN,PRX,All_Maps,Attack,"Astra, Sova",1.76,258,21,7,13,+14,91%,150,36%,5,0,+5
+PatMen,PRX,All_Maps,Attack,"Fade, Viper",1.64,283,24,8,6,+16,95%,186,32%,1,0,+1
+d4v41,PRX,All_Maps,Attack,"Vyse, Killjoy",1.00,145,13,11,0,+2,82%,115,27%,0,1,-1
+something,PRX,All_Maps,Attack,"Yoru, Jett",1.32,230,19,10,6,+9,91%,171,18%,3,3,0
+Wo0t,TH,All_Maps,Defend,"Breach, Gekko",0.51,139,9,19,9,-10,55%,86,38%,1,4,-3
+benjyfishy,TH,All_Maps,Defend,Killjoy,0.36,114,7,21,2,-14,41%,80,23%,1,3,-2
+RieNs,TH,All_Maps,Defend,"Fade, Sova",0.90,228,16,19,3,-3,55%,139,42%,2,1,+1
+Boo,TH,All_Maps,Defend,"Astra, Viper",0.27,79,5,20,9,-15,41%,50,38%,0,5,-5
+MiniBoo,TH,All_Maps,Defend,"Yoru, Neon",0.39,126,9,20,2,-11,45%,82,56%,1,4,-3
+Jinggg,PRX,All_Maps,Defend,"Raze, Omen",1.21,211,10,9,10,+1,86%,123,33%,2,0,+2
+f0rsakeN,PRX,All_Maps,Defend,"Astra, Sova",0.87,173,9,10,2,-1,71%,127,35%,0,2,-2
+PatMen,PRX,All_Maps,Defend,"Fade, Viper",0.56,119,6,10,3,-4,57%,68,33%,1,5,-4
+d4v41,PRX,All_Maps,Defend,"Vyse, Killjoy",1.43,264,14,10,4,+4,79%,201,30%,0,0,0
+something,PRX,All_Maps,Defend,"Yoru, Jett",0.77,143,8,10,2,-2,57%,89,24%,3,1,+2

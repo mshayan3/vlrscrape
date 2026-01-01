@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Shyy,KRÜ,All_Maps,All,"Vyse, Killjoy",1.16,217,33,25,6,+8,69%,150,30%,1,2,-1
+keznit,KRÜ,All_Maps,All,"Neon, Jett",0.98,199,26,30,9,-4,67%,136,27%,9,6,+3
+adverso,KRÜ,All_Maps,All,"Tejo, Sova",0.80,174,21,29,7,-8,62%,117,21%,3,4,-1
+Mazino,KRÜ,All_Maps,All,"Breach, Harbor",0.70,169,20,31,12,-11,74%,113,21%,5,2,+3
+Melser,KRÜ,All_Maps,All,"Omen, Viper",0.64,123,15,27,8,-12,72%,86,21%,2,5,-3
+aspas,MIBR,All_Maps,All,"Neon, Jett",1.34,263,37,23,7,+14,77%,161,29%,5,5,0
+Verno,MIBR,All_Maps,All,"Tejo, Sova",1.27,194,26,17,14,+9,79%,130,21%,4,3,+1
+cortezia,MIBR,All_Maps,All,"Omen, Killjoy",1.15,197,29,22,13,+7,79%,132,40%,4,4,0
+artzin,MIBR,All_Maps,All,"Breach, Harbor",0.94,233,32,30,9,+2,69%,148,30%,4,3,+1
+xenom,MIBR,All_Maps,All,Viper,0.85,137,18,23,13,-5,69%,92,23%,2,5,-3
+Shyy,KRÜ,All_Maps,Attack,"Vyse, Killjoy",1.48,297,17,9,2,+8,73%,186,47%,0,1,-1
+keznit,KRÜ,All_Maps,Attack,"Neon, Jett",0.57,120,6,11,3,-5,67%,86,27%,3,4,-1
+adverso,KRÜ,All_Maps,Attack,"Tejo, Sova",0.85,151,8,11,3,-3,67%,95,14%,0,2,-2
+Mazino,KRÜ,All_Maps,Attack,"Breach, Harbor",0.99,174,8,10,5,-2,73%,113,23%,3,0,+3
+Melser,KRÜ,All_Maps,Attack,"Omen, Viper",0.50,103,5,11,1,-6,67%,73,14%,1,1,0
+aspas,MIBR,All_Maps,Attack,"Neon, Jett",1.45,279,24,14,4,+10,79%,165,28%,4,4,0
+Verno,MIBR,All_Maps,Attack,"Tejo, Sova",1.31,200,18,10,6,+8,75%,123,24%,1,2,-1
+cortezia,MIBR,All_Maps,Attack,"Omen, Killjoy",1.09,185,16,14,8,+2,79%,119,38%,3,3,0
+artzin,MIBR,All_Maps,Attack,"Breach, Harbor",1.02,244,21,19,3,+2,58%,157,30%,2,2,0
+xenom,MIBR,All_Maps,Attack,Viper,0.91,147,11,14,8,-3,71%,106,21%,1,2,-1
+Shyy,KRÜ,All_Maps,Defend,"Vyse, Killjoy",0.96,181,16,16,4,0,67%,128,21%,1,1,0
+keznit,KRÜ,All_Maps,Defend,"Neon, Jett",1.24,257,20,19,6,+1,67%,167,26%,6,2,+4
+adverso,KRÜ,All_Maps,Defend,"Tejo, Sova",0.77,185,13,18,4,-5,58%,131,25%,3,2,+1
+Mazino,KRÜ,All_Maps,Defend,"Breach, Harbor",0.52,165,12,21,7,-9,75%,113,20%,2,2,0
+Melser,KRÜ,All_Maps,Defend,"Omen, Viper",0.74,134,10,16,7,-6,75%,95,26%,1,4,-3
+aspas,MIBR,All_Maps,Defend,"Neon, Jett",1.17,238,13,9,3,+4,73%,155,29%,1,1,0
+Verno,MIBR,All_Maps,Defend,"Tejo, Sova",1.20,194,8,7,8,+1,87%,141,17%,3,1,+2
+cortezia,MIBR,All_Maps,Defend,"Omen, Killjoy",1.24,224,13,8,5,+5,80%,152,42%,1,1,0
+artzin,MIBR,All_Maps,Defend,"Breach, Harbor",0.82,208,11,11,6,0,87%,132,30%,2,1,+1
+xenom,MIBR,All_Maps,Defend,Viper,0.76,119,7,9,5,-2,67%,70,27%,1,3,-2

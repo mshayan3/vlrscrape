@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+purp0,GX,All_Maps,All,Raze,1.16,278,38,32,5,+6,80%,179,36%,10,6,+4
+tomaszy,GX,All_Maps,All,"Brimstone, Omen",0.87,156,23,30,17,-7,73%,99,38%,3,3,0
+Cloud,GX,All_Maps,All,"Fade, Vyse",0.83,172,25,33,12,-8,70%,125,32%,3,2,+1
+westside,GX,All_Maps,All,"Killjoy, Viper",0.77,180,25,32,6,-7,63%,123,42%,2,3,-1
+runneR,GX,All_Maps,All,"Breach, Skye",0.69,177,21,34,17,-13,83%,126,20%,2,6,-4
+kamo,TL,All_Maps,All,"Raze, Yoru",1.30,258,39,27,7,+12,70%,165,27%,9,5,+4
+keiko,TL,All_Maps,All,"Brimstone, Raze",1.23,244,36,28,14,+8,80%,172,32%,4,5,-1
+nAts,TL,All_Maps,All,"Cypher, Viper",1.21,234,33,27,16,+6,80%,155,24%,2,5,-3
+paTiTek,TL,All_Maps,All,"Breach, Fade",1.14,190,26,23,20,+3,85%,132,24%,1,3,-2
+kamyk,TL,All_Maps,All,"Tejo, Astra",1.03,181,27,27,12,0,78%,129,33%,4,2,+2
+purp0,GX,All_Maps,Attack,Raze,1.32,335,19,14,0,+5,88%,223,57%,5,3,+2
+tomaszy,GX,All_Maps,Attack,"Brimstone, Omen",0.95,182,10,12,7,-2,75%,114,41%,1,1,0
+Cloud,GX,All_Maps,Attack,"Fade, Vyse",0.74,160,10,13,5,-3,63%,113,26%,0,0,0
+westside,GX,All_Maps,Attack,"Killjoy, Viper",0.42,120,7,13,1,-6,63%,84,39%,1,2,-1
+runneR,GX,All_Maps,Attack,"Breach, Skye",0.59,157,7,14,8,-7,69%,120,24%,0,3,-3
+kamo,TL,All_Maps,Attack,"Raze, Yoru",1.09,237,21,17,4,+4,71%,141,30%,7,4,+3
+keiko,TL,All_Maps,Attack,"Brimstone, Raze",0.80,170,15,18,11,-3,79%,119,32%,1,4,-3
+nAts,TL,All_Maps,Attack,"Cypher, Viper",1.27,264,23,17,8,+6,79%,172,25%,1,2,-1
+paTiTek,TL,All_Maps,Attack,"Breach, Fade",1.18,180,15,12,11,+3,79%,127,27%,0,2,-2
+kamyk,TL,All_Maps,Attack,"Tejo, Astra",1.34,228,21,15,7,+6,79%,163,33%,2,1,+1
+purp0,GX,All_Maps,Defend,Raze,1.05,241,19,18,5,+1,75%,151,23%,5,3,+2
+tomaszy,GX,All_Maps,Defend,"Brimstone, Omen",0.82,142,13,18,10,-5,71%,90,36%,2,2,0
+Cloud,GX,All_Maps,Defend,"Fade, Vyse",0.88,182,15,20,7,-5,75%,133,36%,3,2,+1
+westside,GX,All_Maps,Defend,"Killjoy, Viper",1.00,217,18,19,5,-1,63%,150,44%,1,1,0
+runneR,GX,All_Maps,Defend,"Breach, Skye",0.76,188,14,20,9,-6,92%,129,18%,2,3,-1
+kamo,TL,All_Maps,Defend,"Raze, Yoru",1.63,295,18,10,3,+8,69%,200,24%,2,1,+1
+keiko,TL,All_Maps,Defend,"Brimstone, Raze",1.88,346,21,10,3,+11,81%,251,32%,3,1,+2
+nAts,TL,All_Maps,Defend,"Cypher, Viper",1.12,189,10,10,8,0,81%,128,22%,1,3,-2
+paTiTek,TL,All_Maps,Defend,"Breach, Fade",1.07,206,11,11,9,0,94%,140,20%,1,1,0
+kamyk,TL,All_Maps,Defend,"Tejo, Astra",0.57,113,6,12,5,-6,75%,77,33%,2,1,+1

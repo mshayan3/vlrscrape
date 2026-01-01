@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Munchkin,GEN,All_Maps,All,"Kayo, Viper",1.30,252,46,36,16,+10,70%,180,28%,11,5,+6
+t3xture,GEN,All_Maps,All,"Jett, Neon",0.96,209,39,42,14,-3,60%,137,30%,6,11,-5
+Karon,GEN,All_Maps,All,Omen,0.88,196,33,40,22,-7,66%,119,26%,3,1,+2
+Ash,GEN,All_Maps,All,Tejo,0.88,176,29,40,9,-11,66%,128,28%,5,1,+4
+Suggest,GEN,All_Maps,All,"Cypher, Killjoy",0.62,155,29,43,7,-14,57%,123,28%,4,6,-2
+dos9,BME,All_Maps,All,Omen,1.66,289,57,30,21,+27,75%,186,34%,3,3,0
+Famouz,BME,All_Maps,All,"Phoenix, Neon",1.07,260,47,41,15,+6,74%,166,19%,11,14,-3
+NcSlasher,BME,All_Maps,All,"Tejo, Breach",0.97,212,37,37,18,0,74%,127,35%,4,3,+1
+BerserX,BME,All_Maps,All,"Killjoy, Cypher",0.93,179,33,32,11,+1,74%,114,26%,3,4,-1
+Shiro,BME,All_Maps,All,Sova,0.77,150,27,36,11,-9,62%,95,33%,3,5,-2
+Munchkin,GEN,All_Maps,Attack,"Kayo, Viper",1.70,296,29,13,8,+16,72%,204,35%,5,3,+2
+t3xture,GEN,All_Maps,Attack,"Jett, Neon",0.50,146,10,21,8,-11,60%,93,25%,4,3,+1
+Karon,GEN,All_Maps,Attack,Omen,1.05,218,18,17,8,+1,76%,139,17%,2,0,+2
+Ash,GEN,All_Maps,Attack,Tejo,0.78,149,12,17,5,-5,68%,104,20%,2,1,+1
+Suggest,GEN,All_Maps,Attack,"Cypher, Killjoy",0.90,224,20,19,2,+1,68%,155,29%,4,1,+3
+dos9,BME,All_Maps,Attack,Omen,1.57,269,28,15,13,+13,79%,173,35%,3,2,+1
+Famouz,BME,All_Maps,Attack,"Phoenix, Neon",1.24,294,28,21,9,+7,75%,191,24%,6,6,0
+NcSlasher,BME,All_Maps,Attack,"Tejo, Breach",1.00,196,20,18,11,+2,71%,121,32%,2,1,+1
+BerserX,BME,All_Maps,Attack,"Killjoy, Cypher",1.01,195,20,16,4,+4,75%,121,31%,3,2,+1
+Shiro,BME,All_Maps,Attack,Sova,0.96,179,18,17,6,+1,75%,113,41%,2,1,+1
+Munchkin,GEN,All_Maps,Defend,"Kayo, Viper",0.94,211,17,23,8,-6,68%,159,21%,6,2,+4
+t3xture,GEN,All_Maps,Defend,"Jett, Neon",1.37,285,29,21,6,+8,61%,177,32%,2,8,-6
+Karon,GEN,All_Maps,Defend,Omen,0.74,155,15,23,14,-8,57%,101,38%,1,1,0
+Ash,GEN,All_Maps,Defend,Tejo,0.96,188,17,23,4,-6,64%,149,33%,3,0,+3
+Suggest,GEN,All_Maps,Defend,"Cypher, Killjoy",0.36,113,9,24,5,-15,46%,94,27%,0,5,-5
+dos9,BME,All_Maps,Defend,Omen,1.76,325,29,15,8,+14,72%,201,32%,0,1,-1
+Famouz,BME,All_Maps,Defend,"Phoenix, Neon",0.88,225,19,20,6,-1,72%,139,11%,5,8,-3
+NcSlasher,BME,All_Maps,Defend,"Tejo, Breach",0.94,210,17,19,7,-2,76%,133,40%,2,2,0
+BerserX,BME,All_Maps,Defend,"Killjoy, Cypher",0.84,148,13,16,7,-3,72%,107,23%,0,2,-2
+Shiro,BME,All_Maps,Defend,Sova,0.57,105,9,19,5,-10,48%,74,21%,1,4,-3

@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+kellyS,GE,All_Maps,All,"Breach, Deadlock",1.06,222,38,36,13,+2,70%,151,26%,6,3,+3
+Kr1stal,GE,All_Maps,All,"Sova, Fade",0.90,177,29,36,17,-7,70%,117,18%,5,3,+2
+Deryeon,GE,All_Maps,All,"Chamber, Cypher",0.89,165,28,34,10,-6,66%,120,25%,2,5,-3
+UdoTan,GE,All_Maps,All,"Jett, Raze",0.79,185,29,36,9,-7,62%,127,19%,5,13,-8
+Papi,GE,All_Maps,All,Astra,0.77,137,23,34,18,-11,70%,93,34%,2,2,0
+Meiy,DFM,All_Maps,All,"Jett, Raze",1.37,265,46,30,9,+16,79%,173,28%,11,3,+8
+Akame,DFM,All_Maps,All,"Kayo, Vyse",1.24,214,36,29,15,+7,79%,141,40%,5,2,+3
+Jinboong,DFM,All_Maps,All,"Astra, Cypher",1.06,216,34,31,14,+3,77%,131,41%,4,2,+2
+gyen,DFM,All_Maps,All,Omen,0.94,172,28,27,8,+1,62%,120,33%,3,5,-2
+Art,DFM,All_Maps,All,"Sova, Skye",0.87,159,27,30,15,-3,79%,104,22%,3,8,-5
+kellyS,GE,All_Maps,Attack,"Breach, Deadlock",0.85,178,14,17,7,-3,64%,123,20%,3,1,+2
+Kr1stal,GE,All_Maps,Attack,"Sova, Fade",1.32,233,20,14,5,+6,77%,153,23%,3,1,+2
+Deryeon,GE,All_Maps,Attack,"Chamber, Cypher",1.31,212,18,13,6,+5,77%,157,27%,1,2,-1
+UdoTan,GE,All_Maps,Attack,"Jett, Raze",0.75,193,14,17,7,-3,68%,137,14%,3,7,-4
+Papi,GE,All_Maps,Attack,Astra,0.60,135,10,19,11,-9,73%,91,29%,0,1,-1
+Meiy,DFM,All_Maps,Attack,"Jett, Raze",1.49,277,25,15,5,+10,84%,187,36%,8,3,+5
+Akame,DFM,All_Maps,Attack,"Kayo, Vyse",1.02,188,16,16,11,0,76%,123,36%,1,1,0
+Jinboong,DFM,All_Maps,Attack,"Astra, Cypher",1.20,204,18,14,10,+4,76%,126,43%,1,1,0
+gyen,DFM,All_Maps,Attack,Omen,1.30,215,20,11,3,+9,76%,155,31%,3,2,+1
+Art,DFM,All_Maps,Attack,"Sova, Skye",0.71,128,12,15,8,-3,84%,82,26%,1,3,-2
+kellyS,GE,All_Maps,Defend,"Breach, Deadlock",1.25,267,24,19,6,+5,76%,175,31%,3,2,+1
+Kr1stal,GE,All_Maps,Defend,"Sova, Fade",0.53,126,9,22,12,-13,64%,86,12%,2,2,0
+Deryeon,GE,All_Maps,Defend,"Chamber, Cypher",0.52,125,10,21,4,-11,56%,88,22%,1,3,-2
+UdoTan,GE,All_Maps,Defend,"Jett, Raze",0.81,181,15,19,2,-4,56%,119,28%,2,6,-4
+Papi,GE,All_Maps,Defend,Astra,0.92,138,13,15,7,-2,68%,95,38%,2,1,+1
+Meiy,DFM,All_Maps,Defend,"Jett, Raze",1.24,262,21,15,4,+6,73%,157,18%,3,0,+3
+Akame,DFM,All_Maps,Defend,"Kayo, Vyse",1.49,254,20,13,4,+7,82%,162,44%,4,1,+3
+Jinboong,DFM,All_Maps,Defend,"Astra, Cypher",0.91,214,16,17,4,-1,77%,138,38%,3,1,+2
+gyen,DFM,All_Maps,Defend,Omen,0.53,113,8,16,5,-8,45%,79,40%,0,3,-3
+Art,DFM,All_Maps,Defend,"Sova, Skye",1.04,197,15,15,7,0,73%,130,19%,2,5,-3

@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+MrFaliN,FUT,All_Maps,All,"Fade, Sova",0.98,216,32,36,14,-4,65%,128,33%,3,3,0
+yetujey,FUT,All_Maps,All,"Cypher, Vyse",0.96,194,28,33,14,-5,67%,128,29%,4,7,-3
+qRaxs,FUT,All_Maps,All,Kayo,0.92,153,22,32,25,-10,61%,104,34%,0,3,-3
+xeus,FUT,All_Maps,All,"Raze, Jett",0.86,200,33,36,7,-3,61%,125,27%,7,9,-2
+cNed,FUT,All_Maps,All,Omen,0.79,161,29,35,6,-6,57%,107,36%,5,5,0
+Jamppi,BBL,All_Maps,All,Sova,1.28,227,36,26,12,+10,70%,148,34%,7,3,+4
+LewN,BBL,All_Maps,All,"Neon, Yoru",1.14,233,38,31,8,+7,70%,152,24%,8,7,+1
+PROFEK,BBL,All_Maps,All,Omen,1.03,182,31,27,12,+4,78%,112,21%,3,5,-2
+MAGNUM,BBL,All_Maps,All,"Viper, Vyse",0.98,192,31,29,12,+2,74%,131,38%,4,1,+3
+sociablEE,BBL,All_Maps,All,"Deadlock, Chamber",0.97,200,36,31,2,+5,63%,138,30%,5,3,+2
+MrFaliN,FUT,All_Maps,Attack,"Fade, Sova",0.95,211,15,19,7,-4,63%,122,29%,2,1,+1
+yetujey,FUT,All_Maps,Attack,"Cypher, Vyse",0.74,153,12,17,6,-5,63%,104,35%,0,4,-4
+qRaxs,FUT,All_Maps,Attack,Kayo,1.09,174,14,16,14,-2,67%,119,39%,0,1,-1
+xeus,FUT,All_Maps,Attack,"Raze, Jett",0.60,165,15,20,3,-5,50%,98,25%,4,7,-3
+cNed,FUT,All_Maps,Attack,Omen,0.84,151,14,17,4,-3,58%,99,39%,3,2,+1
+Jamppi,BBL,All_Maps,Attack,Sova,1.48,242,20,12,6,+8,73%,147,31%,4,0,+4
+LewN,BBL,All_Maps,Attack,"Neon, Yoru",0.91,195,14,15,6,-1,73%,139,22%,2,6,-4
+PROFEK,BBL,All_Maps,Attack,Omen,1.02,187,16,13,4,+3,77%,110,24%,1,3,-2
+MAGNUM,BBL,All_Maps,Attack,"Viper, Vyse",0.83,189,15,17,7,-2,73%,128,32%,2,1,+1
+sociablEE,BBL,All_Maps,Attack,"Deadlock, Chamber",0.91,211,18,17,2,+1,68%,153,26%,3,0,+3
+MrFaliN,FUT,All_Maps,Defend,"Fade, Sova",1.01,222,17,17,7,0,68%,134,39%,1,2,-1
+yetujey,FUT,All_Maps,Defend,"Cypher, Vyse",1.19,234,16,16,8,0,73%,154,25%,4,3,+1
+qRaxs,FUT,All_Maps,Defend,Kayo,0.74,128,8,16,11,-8,55%,87,29%,0,2,-2
+xeus,FUT,All_Maps,Defend,"Raze, Jett",1.14,240,18,16,4,+2,73%,155,28%,3,2,+1
+cNed,FUT,All_Maps,Defend,Omen,0.75,178,15,18,2,-3,55%,115,33%,2,3,-1
+Jamppi,BBL,All_Maps,Defend,Sova,1.11,212,16,14,6,+2,67%,149,37%,3,3,0
+LewN,BBL,All_Maps,Defend,"Neon, Yoru",1.35,273,24,16,2,+8,67%,165,26%,6,1,+5
+PROFEK,BBL,All_Maps,Defend,Omen,1.04,177,15,14,8,+1,79%,114,19%,2,2,0
+MAGNUM,BBL,All_Maps,Defend,"Viper, Vyse",1.12,192,16,12,5,+4,75%,134,43%,2,0,+2
+sociablEE,BBL,All_Maps,Defend,"Deadlock, Chamber",1.03,192,18,14,0,+4,58%,124,36%,2,3,-1

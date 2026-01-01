@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+heat,FUR,All_Maps,All,"Viper, Chamber",1.12,235,26,24,3,+2,64%,159,30%,5,2,+3
+adverso,FUR,All_Maps,All,"Fade, Vyse",0.90,185,21,25,3,-4,67%,120,25%,2,3,-1
+tuyz,FUR,All_Maps,All,Omen,0.72,120,12,22,13,-10,76%,76,17%,2,1,+1
+Palla,FUR,All_Maps,All,"Neon, Yoru",0.61,186,19,30,6,-11,52%,125,34%,7,9,-2
+Urango,FUR,All_Maps,All,"Sage, Sova",0.58,122,13,27,7,-14,61%,89,30%,0,2,-2
+trent,G2,All_Maps,All,"Fade, Sova",1.37,216,27,14,15,+13,85%,137,26%,1,0,+1
+jawgemo,G2,All_Maps,All,"Waylay, Yoru",1.32,278,31,22,11,+9,88%,178,37%,8,5,+3
+valyn,G2,All_Maps,All,Omen,1.12,203,28,18,4,+10,76%,111,25%,2,5,-3
+BABYBAY,G2,All_Maps,All,"Viper, Chamber",1.07,232,27,19,10,+8,88%,143,31%,4,2,+2
+JonahP,G2,All_Maps,All,"Sage, Vyse",0.95,154,15,18,13,-3,82%,115,23%,2,4,-2
+heat,FUR,All_Maps,Attack,"Viper, Chamber",0.65,144,5,8,0,-3,44%,87,27%,0,0,0
+adverso,FUR,All_Maps,Attack,"Fade, Vyse",1.12,203,7,7,1,0,67%,124,32%,0,1,-1
+tuyz,FUR,All_Maps,Attack,Omen,0.36,104,3,8,3,-5,56%,58,17%,1,1,0
+Palla,FUR,All_Maps,Attack,"Neon, Yoru",0.39,154,4,9,0,-5,33%,97,25%,3,3,0
+Urango,FUR,All_Maps,Attack,"Sage, Sova",0.04,47,0,9,1,-9,33%,47,27%,0,0,0
+trent,G2,All_Maps,Attack,"Fade, Sova",1.37,221,21,11,9,+10,79%,131,26%,1,0,+1
+jawgemo,G2,All_Maps,Attack,"Waylay, Yoru",1.16,258,20,17,9,+3,83%,169,32%,5,5,0
+valyn,G2,All_Maps,Attack,Omen,0.87,170,17,14,2,+3,67%,90,23%,2,4,-2
+BABYBAY,G2,All_Maps,Attack,"Viper, Chamber",1.00,230,19,15,6,+4,88%,141,31%,3,1,+2
+JonahP,G2,All_Maps,Attack,"Sage, Vyse",0.81,142,10,15,10,-5,75%,105,23%,1,2,-1
+heat,FUR,All_Maps,Defend,"Viper, Chamber",1.29,271,21,16,3,+5,71%,186,31%,5,2,+3
+adverso,FUR,All_Maps,Defend,"Fade, Vyse",0.82,182,14,18,2,-4,67%,118,23%,2,2,0
+tuyz,FUR,All_Maps,Defend,Omen,0.86,125,9,14,10,-5,83%,83,17%,1,0,+1
+Palla,FUR,All_Maps,Defend,"Neon, Yoru",0.73,195,15,21,6,-6,58%,135,38%,4,6,-2
+Urango,FUR,All_Maps,Defend,"Sage, Sova",0.81,150,13,18,6,-5,71%,105,31%,0,2,-2
+trent,G2,All_Maps,Defend,"Fade, Sova",1.39,222,6,3,6,+3,100%,152,29%,0,0,0
+jawgemo,G2,All_Maps,Defend,"Waylay, Yoru",1.74,315,11,5,2,+6,100%,203,50%,3,0,+3
+valyn,G2,All_Maps,Defend,Omen,1.79,296,11,4,2,+7,100%,164,28%,0,1,-1
+BABYBAY,G2,All_Maps,Defend,"Viper, Chamber",1.24,208,8,4,4,+4,89%,148,29%,1,1,0
+JonahP,G2,All_Maps,Defend,"Sage, Vyse",1.33,193,5,3,3,+2,100%,139,22%,1,2,-1

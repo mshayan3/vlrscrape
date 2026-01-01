@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+TenTen,ZETA,All_Maps,All,"Neon, Raze, Omen",0.92,202,35,36,9,-1,69%,133,23%,4,7,-3
+Xdll,ZETA,All_Maps,All,"Sova, Fade, Sage",0.91,162,28,34,13,-6,56%,97,30%,6,5,+1
+SugarZ3ro,ZETA,All_Maps,All,"Omen, Viper",0.88,164,30,37,12,-7,65%,109,35%,1,3,-2
+Dep,ZETA,All_Maps,All,"Viper, Killjoy",0.83,196,31,39,9,-8,69%,132,35%,6,4,+2
+CLZ,ZETA,All_Maps,All,"Killjoy, Vyse, Sova",0.76,145,25,35,7,-10,54%,100,45%,6,6,0
+Meiy,DFM,All_Maps,All,"Yoru, Jett",1.60,329,60,32,11,+28,75%,220,36%,6,2,+4
+Akame,DFM,All_Maps,All,"Iso, Raze, Harbor",1.26,241,44,31,16,+13,81%,165,31%,5,8,-3
+Jinboong,DFM,All_Maps,All,"Cypher, Vyse, Killjoy",1.18,215,36,27,9,+9,77%,145,28%,4,2,+2
+gyen,DFM,All_Maps,All,"Omen, Viper",0.91,130,21,26,18,-5,77%,85,27%,5,4,+1
+SSeeS,DFM,All_Maps,All,"Sova, Fade",0.56,121,20,33,10,-13,60%,71,19%,5,7,-2
+TenTen,ZETA,All_Maps,Attack,"Neon, Raze, Omen",1.34,265,22,13,7,+9,82%,180,22%,1,4,-3
+Xdll,ZETA,All_Maps,Attack,"Sova, Fade, Sage",1.37,237,20,13,9,+7,82%,138,30%,4,2,+2
+SugarZ3ro,ZETA,All_Maps,Attack,"Omen, Viper",0.93,176,14,15,7,-1,82%,118,33%,0,1,-1
+Dep,ZETA,All_Maps,Attack,"Viper, Killjoy",0.95,211,16,16,7,0,82%,140,24%,3,1,+2
+CLZ,ZETA,All_Maps,Attack,"Killjoy, Vyse, Sova",0.89,146,13,14,4,-1,59%,99,48%,2,4,-2
+Meiy,DFM,All_Maps,Attack,"Yoru, Jett",1.70,368,34,15,8,+19,81%,234,35%,4,2,+2
+Akame,DFM,All_Maps,Attack,"Iso, Raze, Harbor",1.29,254,25,15,10,+10,81%,170,32%,2,3,-1
+Jinboong,DFM,All_Maps,Attack,"Cypher, Vyse, Killjoy",1.62,285,27,10,2,+17,92%,186,27%,3,1,+2
+gyen,DFM,All_Maps,Attack,"Omen, Viper",1.10,143,13,10,8,+3,81%,92,39%,2,3,-1
+SSeeS,DFM,All_Maps,Attack,"Sova, Fade",0.65,110,11,14,5,-3,58%,64,31%,2,4,-2
+TenTen,ZETA,All_Maps,Defend,"Neon, Raze, Omen",0.57,141,13,23,2,-10,58%,93,25%,3,3,0
+Xdll,ZETA,All_Maps,Defend,"Sova, Fade, Sage",0.51,98,8,21,4,-13,35%,62,31%,2,3,-1
+SugarZ3ro,ZETA,All_Maps,Defend,"Omen, Viper",0.85,171,16,22,5,-6,50%,101,37%,1,2,-1
+Dep,ZETA,All_Maps,Defend,"Viper, Killjoy",0.74,183,15,23,2,-8,58%,126,51%,3,3,0
+CLZ,ZETA,All_Maps,Defend,"Killjoy, Vyse, Sova",0.64,138,12,21,3,-9,50%,100,43%,4,2,+2
+Meiy,DFM,All_Maps,Defend,"Yoru, Jett",1.48,334,26,17,3,+9,68%,203,37%,2,0,+2
+Akame,DFM,All_Maps,Defend,"Iso, Raze, Harbor",1.22,236,19,16,6,+3,82%,160,30%,3,5,-2
+Jinboong,DFM,All_Maps,Defend,"Cypher, Vyse, Killjoy",0.66,122,9,17,7,-8,59%,96,29%,1,1,0
+gyen,DFM,All_Maps,Defend,"Omen, Viper",0.69,127,8,16,10,-8,73%,77,17%,3,1,+2
+SSeeS,DFM,All_Maps,Defend,"Sova, Fade",0.45,131,9,19,5,-10,64%,80,10%,3,3,0

@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+vo0kashu,DRG,All_Maps,All,Cypher,1.32,255,56,37,11,+19,75%,155,36%,8,0,+8
+Nicc,DRG,All_Maps,All,"Breach, Gekko, Fade",1.10,183,42,40,22,+2,79%,123,31%,2,1,+1
+Flex1n,DRG,All_Maps,All,Omen,1.02,181,40,41,30,-1,70%,104,27%,4,6,-2
+Akeman,DRG,All_Maps,All,"Neon, Clove",0.76,163,36,46,13,-10,66%,109,27%,3,10,-7
+SpiritZ1,DRG,All_Maps,All,Yoru,0.76,202,39,52,16,-13,66%,125,32%,12,15,-3
+Shr1mp,AG,All_Maps,All,"Fade, Sova",1.14,223,47,42,21,+5,80%,143,29%,5,5,0
+deLb,AG,All_Maps,All,"Omen, Deadlock",1.10,222,49,43,19,+6,72%,147,38%,6,5,+1
+K1ra,AG,All_Maps,All,"Raze, Omen",1.07,224,44,43,23,+1,75%,139,21%,9,3,+6
+HanChe,AG,All_Maps,All,Viper,0.90,154,31,38,14,-7,62%,103,25%,7,6,+1
+Spitfires,AG,All_Maps,All,"Yoru, Neon",0.86,196,44,47,13,-3,64%,131,31%,5,10,-5
+vo0kashu,DRG,All_Maps,Attack,Cypher,1.36,268,33,21,6,+12,80%,169,29%,5,0,+5
+Nicc,DRG,All_Maps,Attack,"Breach, Gekko, Fade",1.15,192,25,23,15,+2,86%,129,31%,1,1,0
+Flex1n,DRG,All_Maps,Attack,Omen,0.97,185,23,23,16,0,69%,103,22%,2,4,-2
+Akeman,DRG,All_Maps,Attack,"Neon, Clove",0.89,199,27,27,8,0,71%,122,28%,1,5,-4
+SpiritZ1,DRG,All_Maps,Attack,Yoru,0.61,187,21,32,10,-11,66%,116,26%,7,9,-2
+Shr1mp,AG,All_Maps,Attack,"Fade, Sova",1.24,248,23,16,6,+7,73%,154,30%,1,1,0
+deLb,AG,All_Maps,Attack,"Omen, Deadlock",1.18,222,22,16,4,+6,62%,173,46%,4,3,+1
+K1ra,AG,All_Maps,Attack,"Raze, Omen",0.82,175,15,18,10,-3,65%,114,19%,2,1,+1
+HanChe,AG,All_Maps,Attack,Viper,1.03,158,13,14,6,-1,62%,109,22%,2,2,0
+Spitfires,AG,All_Maps,Attack,"Yoru, Neon",0.80,184,17,20,7,-3,58%,129,36%,4,6,-2
+vo0kashu,DRG,All_Maps,Defend,Cypher,1.27,242,23,16,5,+7,69%,137,49%,3,0,+3
+Nicc,DRG,All_Maps,Defend,"Breach, Gekko, Fade",1.04,182,17,17,7,0,69%,113,33%,1,0,+1
+Flex1n,DRG,All_Maps,Defend,Omen,1.09,179,17,18,14,-1,73%,106,34%,2,2,0
+Akeman,DRG,All_Maps,Defend,"Neon, Clove",0.58,119,9,19,5,-10,58%,91,24%,2,5,-3
+SpiritZ1,DRG,All_Maps,Defend,Yoru,0.95,215,18,20,6,-2,65%,137,43%,5,6,-1
+Shr1mp,AG,All_Maps,Defend,"Fade, Sova",1.06,207,24,26,15,-2,86%,134,26%,4,4,0
+deLb,AG,All_Maps,Defend,"Omen, Deadlock",1.05,224,27,27,15,0,80%,128,33%,2,2,0
+K1ra,AG,All_Maps,Defend,"Raze, Omen",1.26,250,29,25,13,+4,83%,158,25%,7,2,+5
+HanChe,AG,All_Maps,Defend,Viper,0.81,152,18,24,8,-6,63%,98,28%,5,4,+1
+Spitfires,AG,All_Maps,Defend,"Yoru, Neon",0.91,203,27,27,6,0,69%,133,28%,1,4,-3

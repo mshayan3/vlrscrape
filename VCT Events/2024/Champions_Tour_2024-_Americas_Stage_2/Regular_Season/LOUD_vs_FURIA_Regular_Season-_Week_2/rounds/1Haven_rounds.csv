@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+1Haven,1,"""1-0""",LOUD,Defenders,Elimination
+1Haven,2,"""2-0""",LOUD,Defenders,Defuse
+1Haven,3,"""2-1""",FUR,Attackers,Elimination
+1Haven,4,"""3-1""",LOUD,Defenders,Elimination
+1Haven,5,"""3-2""",FUR,Attackers,Elimination
+1Haven,6,"""3-3""",FUR,Attackers,Elimination
+1Haven,7,"""3-4""",FUR,Attackers,Elimination
+1Haven,8,"""3-5""",FUR,Attackers,Elimination
+1Haven,9,"""3-6""",FUR,Attackers,Elimination
+1Haven,10,"""3-7""",FUR,Attackers,Spike Detonation
+1Haven,11,"""4-7""",LOUD,Defenders,Defuse
+1Haven,12,"""5-7""",LOUD,Defenders,Elimination
+1Haven,13,"""6-7""",FUR,Attackers,Elimination
+1Haven,14,"""6-8""",LOUD,Defenders,Defuse
+1Haven,15,"""6-9""",LOUD,Defenders,Defuse
+1Haven,16,"""6-10""",LOUD,Defenders,Time Expired
+1Haven,17,"""6-11""",LOUD,Defenders,Elimination
+1Haven,18,"""7-11""",FUR,Attackers,Elimination
+1Haven,19,"""8-11""",FUR,Attackers,Spike Detonation
+1Haven,20,"""9-11""",FUR,Attackers,Elimination
+1Haven,21,"""10-11""",FUR,Attackers,Elimination
+1Haven,22,"""11-11""",FUR,Attackers,Elimination
+1Haven,23,"""12-11""",FUR,Attackers,Spike Detonation
+1Haven,24,"""13-11""",FUR,Attackers,Elimination

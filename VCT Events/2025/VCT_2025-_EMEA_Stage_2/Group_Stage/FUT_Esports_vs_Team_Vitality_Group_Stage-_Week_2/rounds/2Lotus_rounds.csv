@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+2Lotus,1,"""0-1""",VIT,Attackers,Elimination
+2Lotus,2,"""0-2""",VIT,Attackers,Elimination
+2Lotus,3,"""0-3""",VIT,Attackers,Elimination
+2Lotus,4,"""0-4""",VIT,Attackers,Elimination
+2Lotus,5,"""1-4""",FUT,Defenders,Elimination
+2Lotus,6,"""2-4""",FUT,Defenders,Elimination
+2Lotus,7,"""3-4""",FUT,Defenders,Elimination
+2Lotus,8,"""3-5""",VIT,Attackers,Elimination
+2Lotus,9,"""4-5""",FUT,Defenders,Defuse
+2Lotus,10,"""4-6""",VIT,Attackers,Elimination
+2Lotus,11,"""4-7""",VIT,Attackers,Elimination
+2Lotus,12,"""4-8""",VIT,Attackers,Elimination
+2Lotus,13,"""4-9""",FUT,Defenders,Elimination
+2Lotus,14,"""4-10""",FUT,Defenders,Elimination
+2Lotus,15,"""5-10""",VIT,Attackers,Elimination
+2Lotus,16,"""5-11""",FUT,Defenders,Defuse
+2Lotus,17,"""5-12""",FUT,Defenders,Defuse
+2Lotus,18,"""5-13""",FUT,Defenders,Defuse
+2Lotus,19,"""""",,,
+2Lotus,20,"""""",,,
+2Lotus,21,"""""",,,
+2Lotus,22,"""""",,,
+2Lotus,23,"""""",,,
+2Lotus,24,"""""",,,

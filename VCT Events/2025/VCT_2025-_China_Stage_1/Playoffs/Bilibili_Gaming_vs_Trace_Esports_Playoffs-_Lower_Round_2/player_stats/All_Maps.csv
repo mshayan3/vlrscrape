@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+whzy,BLG,All_Maps,All,Neon,1.55,345,47,27,9,+20,79%,207,27%,7,5,+2
+nephh,BLG,All_Maps,All,Breach,1.53,251,35,18,18,+17,89%,171,30%,2,4,-2
+Levius,BLG,All_Maps,All,"Cypher, Viper",1.24,222,33,21,6,+12,76%,133,32%,6,1,+5
+rushia,BLG,All_Maps,All,"Brimstone, Omen",1.23,181,26,19,27,+7,89%,110,28%,2,4,-2
+Knight,BLG,All_Maps,All,Tejo,0.88,149,19,21,9,-2,76%,104,23%,2,5,-3
+Kai,TE,All_Maps,All,Yoru,0.92,204,26,30,7,-4,63%,123,18%,10,5,+5
+Biank,TE,All_Maps,All,Breach,0.87,190,24,32,14,-8,66%,134,23%,2,1,+1
+Midi,TE,All_Maps,All,Tejo,0.71,172,22,33,8,-11,53%,111,29%,3,3,0
+LuoK1ng,TE,All_Maps,All,"Brimstone, Omen",0.60,144,15,32,10,-17,61%,101,29%,2,4,-2
+heybay,TE,All_Maps,All,"Vyse, Viper",0.54,157,19,33,5,-14,63%,101,16%,2,6,-4
+whzy,BLG,All_Maps,Attack,Neon,1.91,404,31,12,6,+19,86%,245,24%,4,3,+1
+nephh,BLG,All_Maps,Attack,Breach,1.51,235,18,7,12,+11,90%,160,34%,1,0,+1
+Levius,BLG,All_Maps,Attack,"Cypher, Viper",0.96,188,16,13,1,+3,71%,116,26%,4,1,+3
+rushia,BLG,All_Maps,Attack,"Brimstone, Omen",1.48,222,19,9,14,+10,100%,135,26%,1,0,+1
+Knight,BLG,All_Maps,Attack,Tejo,0.66,121,9,13,6,-4,71%,84,14%,2,5,-3
+Kai,TE,All_Maps,Attack,Yoru,0.72,174,10,13,6,-3,65%,103,24%,5,3,+2
+Biank,TE,All_Maps,Attack,Breach,0.80,180,10,14,7,-4,65%,118,20%,0,1,-1
+Midi,TE,All_Maps,Attack,Tejo,0.67,194,12,15,2,-3,59%,121,24%,2,0,+2
+LuoK1ng,TE,All_Maps,Attack,"Brimstone, Omen",0.89,172,9,12,7,-3,76%,113,35%,1,0,+1
+heybay,TE,All_Maps,Attack,"Vyse, Viper",0.72,197,11,13,1,-2,65%,127,16%,2,3,-1
+whzy,BLG,All_Maps,Defend,Neon,1.10,271,16,15,3,+1,71%,159,33%,3,2,+1
+nephh,BLG,All_Maps,Defend,Breach,1.54,276,17,11,6,+6,88%,184,27%,1,4,-3
+Levius,BLG,All_Maps,Defend,"Cypher, Viper",1.58,257,17,8,5,+9,82%,155,37%,2,0,+2
+rushia,BLG,All_Maps,Defend,"Brimstone, Omen",0.91,126,7,10,13,-3,76%,80,32%,1,4,-3
+Knight,BLG,All_Maps,Defend,Tejo,1.15,184,10,8,3,+2,82%,128,32%,0,0,0
+Kai,TE,All_Maps,Defend,Yoru,1.08,226,16,17,1,-1,62%,139,15%,5,2,+3
+Biank,TE,All_Maps,Defend,Breach,0.93,199,14,18,7,-4,67%,147,25%,2,0,+2
+Midi,TE,All_Maps,Defend,Tejo,0.75,156,10,18,6,-8,48%,102,36%,1,3,-2
+LuoK1ng,TE,All_Maps,Defend,"Brimstone, Omen",0.36,122,6,20,3,-14,48%,91,25%,1,4,-3
+heybay,TE,All_Maps,Defend,"Vyse, Viper",0.40,122,8,20,4,-12,62%,80,17%,0,3,-3

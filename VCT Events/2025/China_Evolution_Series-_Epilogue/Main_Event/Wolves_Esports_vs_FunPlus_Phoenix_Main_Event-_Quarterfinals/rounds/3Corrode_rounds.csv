@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+3Corrode,1,"""0-1""",WOL,Defenders,Defuse
+3Corrode,2,"""0-2""",WOL,Defenders,Elimination
+3Corrode,3,"""0-3""",WOL,Defenders,Time Expired
+3Corrode,4,"""0-4""",WOL,Defenders,Elimination
+3Corrode,5,"""1-4""",FPX,Attackers,Elimination
+3Corrode,6,"""1-5""",WOL,Defenders,Defuse
+3Corrode,7,"""1-6""",WOL,Defenders,Defuse
+3Corrode,8,"""1-7""",WOL,Defenders,Elimination
+3Corrode,9,"""1-8""",WOL,Defenders,Elimination
+3Corrode,10,"""1-9""",WOL,Defenders,Elimination
+3Corrode,11,"""2-9""",FPX,Attackers,Spike Detonation
+3Corrode,12,"""2-10""",WOL,Defenders,Elimination
+3Corrode,13,"""3-10""",WOL,Defenders,Elimination
+3Corrode,14,"""4-10""",WOL,Defenders,Elimination
+3Corrode,15,"""5-10""",WOL,Defenders,Elimination
+3Corrode,16,"""6-10""",WOL,Defenders,Defuse
+3Corrode,17,"""6-11""",FPX,Attackers,Elimination
+3Corrode,18,"""6-12""",FPX,Attackers,Elimination
+3Corrode,19,"""6-13""",FPX,Attackers,Elimination
+3Corrode,20,"""""",,,
+3Corrode,21,"""""",,,
+3Corrode,22,"""""",,,
+3Corrode,23,"""""",,,
+3Corrode,24,"""""",,,

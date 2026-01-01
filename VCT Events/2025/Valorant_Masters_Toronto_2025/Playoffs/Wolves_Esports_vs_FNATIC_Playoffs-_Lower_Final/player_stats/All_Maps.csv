@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Spring,WOL,All_Maps,All,"Viper, Omen",1.16,244,69,57,14,+12,69%,156,26%,9,9,0
+Lysoar,WOL,All_Maps,All,"Omen, Killjoy, Deadlock",0.88,191,55,61,16,-6,68%,117,28%,7,6,+1
+Juicy,WOL,All_Maps,All,"Raze, Jett, Yoru",0.82,188,52,63,10,-11,63%,126,28%,18,16,+2
+SiuFatBB,WOL,All_Maps,All,"Fade, Sova",0.82,137,38,55,21,-17,59%,90,29%,3,2,+1
+Yuicaw,WOL,All_Maps,All,"Cypher, Gekko, Killjoy",0.58,132,35,63,11,-28,48%,88,28%,3,7,-4
+Alfajer,FNC,All_Maps,All,"Raze, Killjoy, Chamber",1.17,276,80,58,16,+22,70%,174,30%,11,11,0
+Chronicle,FNC,All_Maps,All,"Viper, Sage, Vyse",1.12,198,56,48,28,+8,74%,133,26%,5,7,-2
+crashies,FNC,All_Maps,All,"Fade, Sova",1.09,195,58,51,29,+7,76%,135,39%,4,6,-2
+Boaster,FNC,All_Maps,All,"Astra, Viper, Omen",1.04,182,49,42,21,+7,80%,114,27%,9,4,+5
+kaajak,FNC,All_Maps,All,"Yoru, Jett, Raze",1.03,207,56,50,15,+6,70%,130,30%,11,12,-1
+Spring,WOL,All_Maps,Attack,"Viper, Omen",1.21,245,39,30,5,+9,67%,150,26%,6,4,+2
+Lysoar,WOL,All_Maps,Attack,"Omen, Killjoy, Deadlock",0.87,187,30,34,10,-4,67%,114,27%,4,4,0
+Juicy,WOL,All_Maps,Attack,"Raze, Jett, Yoru",0.99,210,33,31,5,+2,67%,131,31%,11,7,+4
+SiuFatBB,WOL,All_Maps,Attack,"Fade, Sova",0.86,116,17,29,15,-12,53%,79,25%,1,0,+1
+Yuicaw,WOL,All_Maps,Attack,"Cypher, Gekko, Killjoy",0.72,151,23,33,6,-10,49%,99,35%,3,5,-2
+Alfajer,FNC,All_Maps,Attack,"Raze, Killjoy, Chamber",1.35,303,39,26,13,+13,80%,195,33%,6,4,+2
+Chronicle,FNC,All_Maps,Attack,"Viper, Sage, Vyse",1.36,228,29,18,12,+11,83%,146,25%,4,2,+2
+crashies,FNC,All_Maps,Attack,"Fade, Sova",1.34,241,32,22,11,+10,91%,164,39%,2,0,+2
+Boaster,FNC,All_Maps,Attack,"Astra, Viper, Omen",1.00,148,17,18,14,-1,86%,106,28%,2,2,0
+kaajak,FNC,All_Maps,Attack,"Yoru, Jett, Raze",0.87,187,25,23,4,+2,69%,123,28%,6,7,-1
+Spring,WOL,All_Maps,Defend,"Viper, Omen",1.09,249,30,27,9,+3,71%,164,27%,3,5,-2
+Lysoar,WOL,All_Maps,Defend,"Omen, Killjoy, Deadlock",0.90,196,25,27,6,-2,69%,121,29%,3,2,+1
+Juicy,WOL,All_Maps,Defend,"Raze, Jett, Yoru",0.61,175,19,32,5,-13,57%,120,25%,7,9,-2
+SiuFatBB,WOL,All_Maps,Defend,"Fade, Sova",0.77,163,21,26,6,-5,66%,105,33%,2,2,0
+Yuicaw,WOL,All_Maps,Defend,"Cypher, Gekko, Killjoy",0.40,105,12,30,5,-18,46%,73,20%,0,2,-2
+Alfajer,FNC,All_Maps,Defend,"Raze, Killjoy, Chamber",1.03,249,41,32,3,+9,62%,157,26%,5,7,-2
+Chronicle,FNC,All_Maps,Defend,"Viper, Sage, Vyse",0.94,177,27,30,16,-3,67%,122,27%,1,5,-4
+crashies,FNC,All_Maps,Defend,"Fade, Sova",0.90,161,26,29,18,-3,64%,113,38%,2,6,-4
+Boaster,FNC,All_Maps,Defend,"Astra, Viper, Omen",1.06,195,32,24,7,+8,76%,121,26%,7,2,+5
+kaajak,FNC,All_Maps,Defend,"Yoru, Jett, Raze",1.16,213,31,27,11,+4,71%,135,31%,5,5,0

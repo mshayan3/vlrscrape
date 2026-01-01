@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+johnqt,SEN,All_Maps,All,"Cypher, Viper",1.20,223,55,37,14,+18,80%,145,24%,7,3,+4
+zekken,SEN,All_Maps,All,Raze,1.06,245,54,49,19,+5,68%,157,20%,12,16,-4
+Sacy,SEN,All_Maps,All,"Gekko, Fade",0.90,178,40,46,24,-6,74%,118,25%,5,6,-1
+Zellsis,SEN,All_Maps,All,"Kayo, Brimstone, Killjoy",0.86,160,36,44,30,-8,72%,101,25%,2,4,-2
+TenZ,SEN,All_Maps,All,"Omen, Gekko",0.76,153,33,49,31,-16,71%,103,19%,3,7,-4
+Chronicle,FNC,All_Maps,All,"Sova, Viper",1.46,266,59,39,24,+20,78%,179,34%,10,5,+5
+Derke,FNC,All_Maps,All,Raze,1.18,258,61,47,10,+14,69%,173,23%,11,9,+2
+Alfajer,FNC,All_Maps,All,"Breach, Gekko, Killjoy",1.03,182,43,44,20,-1,80%,127,36%,7,3,+4
+hiro,FNC,All_Maps,All,"Cypher, Fade",0.80,159,35,46,18,-11,60%,100,27%,3,3,0
+Boaster,FNC,All_Maps,All,"Astra, Omen",0.71,123,27,42,17,-15,66%,78,25%,5,9,-4
+johnqt,SEN,All_Maps,Attack,"Cypher, Viper",1.19,234,30,22,13,+8,86%,150,23%,6,2,+4
+zekken,SEN,All_Maps,Attack,Raze,0.95,240,31,29,7,+2,69%,156,22%,9,7,+2
+Sacy,SEN,All_Maps,Attack,"Gekko, Fade",0.86,188,24,27,13,-3,78%,127,33%,2,2,0
+Zellsis,SEN,All_Maps,Attack,"Kayo, Brimstone, Killjoy",1.00,191,25,24,16,+1,78%,124,30%,2,3,-1
+TenZ,SEN,All_Maps,Attack,"Omen, Gekko",0.99,185,25,26,16,-1,78%,130,21%,0,3,-3
+Chronicle,FNC,All_Maps,Attack,"Sova, Viper",1.33,221,23,15,8,+8,76%,158,29%,5,2,+3
+Derke,FNC,All_Maps,Attack,Raze,1.23,263,28,19,5,+9,72%,183,23%,4,5,-1
+Alfajer,FNC,All_Maps,Attack,"Breach, Gekko, Killjoy",0.98,167,17,16,10,+1,76%,105,38%,5,0,+5
+hiro,FNC,All_Maps,Attack,"Cypher, Fade",0.86,133,13,17,8,-4,59%,89,19%,2,1,+1
+Boaster,FNC,All_Maps,Attack,"Astra, Omen",0.97,161,16,16,6,0,69%,106,31%,3,2,+1
+johnqt,SEN,All_Maps,Defend,"Cypher, Viper",1.22,212,25,15,1,+10,72%,140,24%,1,1,0
+zekken,SEN,All_Maps,Defend,Raze,1.21,245,23,20,12,+3,66%,159,17%,3,9,-6
+Sacy,SEN,All_Maps,Defend,"Gekko, Fade",0.95,173,16,19,11,-3,69%,107,17%,3,4,-1
+Zellsis,SEN,All_Maps,Defend,"Kayo, Brimstone, Killjoy",0.68,119,11,20,14,-9,66%,73,20%,0,1,-1
+TenZ,SEN,All_Maps,Defend,"Omen, Gekko",0.49,111,8,23,15,-15,62%,71,15%,3,4,-1
+Chronicle,FNC,All_Maps,Defend,"Sova, Viper",1.56,309,36,24,16,+12,81%,195,38%,5,3,+2
+Derke,FNC,All_Maps,Defend,Raze,1.14,253,33,28,5,+5,67%,166,22%,7,4,+3
+Alfajer,FNC,All_Maps,Defend,"Breach, Gekko, Killjoy",1.06,198,26,28,10,-2,83%,145,35%,2,3,-1
+hiro,FNC,All_Maps,Defend,"Cypher, Fade",0.77,178,22,29,10,-7,61%,110,32%,1,2,-1
+Boaster,FNC,All_Maps,Defend,"Astra, Omen",0.50,94,11,26,11,-15,64%,55,19%,2,7,-5

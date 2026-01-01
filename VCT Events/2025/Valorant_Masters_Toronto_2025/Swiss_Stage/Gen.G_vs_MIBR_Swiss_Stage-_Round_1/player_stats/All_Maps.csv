@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+t3xture,GEN,All_Maps,All,Neon,1.48,301,35,17,9,+18,78%,196,29%,10,0,+10
+Karon,GEN,All_Maps,All,Omen,1.44,276,34,16,10,+18,88%,198,40%,3,3,0
+Ash,GEN,All_Maps,All,Sova,1.43,217,26,12,5,+14,88%,152,32%,3,0,+3
+Foxy9,GEN,All_Maps,All,"Deadlock, Killjoy",1.31,215,29,14,5,+15,88%,142,33%,3,3,0
+Munchkin,GEN,All_Maps,All,Viper,1.22,207,23,13,10,+10,91%,137,29%,4,3,+1
+Verno,MIBR,All_Maps,All,Sova,1.03,204,21,27,6,-6,56%,135,29%,0,2,-2
+cortezia,MIBR,All_Maps,All,Cypher,0.58,161,17,31,5,-14,50%,107,32%,3,3,0
+xenom,MIBR,All_Maps,All,Omen,0.50,114,12,30,3,-18,50%,82,40%,3,3,0
+aspas,MIBR,All_Maps,All,"Neon, Jett",0.48,107,12,29,5,-17,53%,72,24%,2,9,-7
+artzin,MIBR,All_Maps,All,Breach,0.30,80,10,30,4,-20,56%,53,31%,1,6,-5
+t3xture,GEN,All_Maps,Attack,Neon,0.91,224,5,6,3,-1,63%,160,25%,3,0,+3
+Karon,GEN,All_Maps,Attack,Omen,1.41,348,10,6,3,+4,75%,245,36%,0,2,-2
+Ash,GEN,All_Maps,Attack,Sova,0.92,94,3,4,2,-1,88%,72,22%,0,0,0
+Foxy9,GEN,All_Maps,Attack,"Deadlock, Killjoy",2.01,346,12,3,3,+9,100%,208,28%,0,1,-1
+Munchkin,GEN,All_Maps,Attack,Viper,0.89,166,5,5,2,0,88%,103,71%,1,1,0
+Verno,MIBR,All_Maps,Attack,Sova,1.00,204,15,21,2,-6,50%,131,33%,0,1,-1
+cortezia,MIBR,All_Maps,Attack,Cypher,0.60,155,13,23,3,-10,50%,102,45%,1,1,0
+xenom,MIBR,All_Maps,Attack,Omen,0.48,116,9,23,2,-14,54%,81,43%,2,2,0
+aspas,MIBR,All_Maps,Attack,"Neon, Jett",0.38,97,7,22,2,-15,46%,67,21%,2,9,-7
+artzin,MIBR,All_Maps,Attack,Breach,0.15,51,4,23,4,-19,54%,34,29%,0,6,-6
+t3xture,GEN,All_Maps,Defend,Neon,1.68,320,30,11,6,+19,83%,208,30%,7,0,+7
+Karon,GEN,All_Maps,Defend,Omen,1.45,257,24,10,7,+14,92%,182,43%,3,1,+2
+Ash,GEN,All_Maps,Defend,Sova,1.60,256,23,8,3,+15,88%,179,33%,3,0,+3
+Foxy9,GEN,All_Maps,Defend,"Deadlock, Killjoy",1.08,175,17,11,2,+6,83%,120,36%,3,2,+1
+Munchkin,GEN,All_Maps,Defend,Viper,1.32,216,18,8,8,+10,92%,148,25%,3,2,+1
+Verno,MIBR,All_Maps,Defend,Sova,1.10,231,6,6,4,0,75%,147,18%,0,1,-1
+cortezia,MIBR,All_Maps,Defend,Cypher,0.51,175,4,8,2,-4,50%,124,16%,2,2,0
+xenom,MIBR,All_Maps,Defend,Omen,0.63,117,3,7,1,-4,38%,87,33%,1,1,0
+aspas,MIBR,All_Maps,Defend,"Neon, Jett",0.78,144,5,7,3,-2,75%,86,31%,0,0,0
+artzin,MIBR,All_Maps,Defend,Breach,0.74,185,6,7,0,-1,63%,111,33%,1,0,+1

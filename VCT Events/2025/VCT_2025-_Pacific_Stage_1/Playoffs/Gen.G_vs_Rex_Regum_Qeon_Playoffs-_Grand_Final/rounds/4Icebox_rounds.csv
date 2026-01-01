@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+4Icebox,1,"""1-0""",GEN,Defenders,Defuse
+4Icebox,2,"""2-0""",GEN,Defenders,Defuse
+4Icebox,3,"""3-0""",GEN,Defenders,Elimination
+4Icebox,4,"""3-1""",RRQ,Attackers,Elimination
+4Icebox,5,"""3-2""",RRQ,Attackers,Elimination
+4Icebox,6,"""3-3""",RRQ,Attackers,Elimination
+4Icebox,7,"""3-4""",RRQ,Attackers,Elimination
+4Icebox,8,"""3-5""",RRQ,Attackers,Elimination
+4Icebox,9,"""3-6""",RRQ,Attackers,Elimination
+4Icebox,10,"""4-6""",GEN,Defenders,Elimination
+4Icebox,11,"""5-6""",GEN,Defenders,Elimination
+4Icebox,12,"""6-6""",GEN,Defenders,Elimination
+4Icebox,13,"""7-6""",RRQ,Attackers,Elimination
+4Icebox,14,"""8-6""",RRQ,Attackers,Elimination
+4Icebox,15,"""8-7""",GEN,Defenders,Elimination
+4Icebox,16,"""9-7""",RRQ,Attackers,Spike Detonation
+4Icebox,17,"""9-8""",GEN,Defenders,Defuse
+4Icebox,18,"""10-8""",RRQ,Attackers,Elimination
+4Icebox,19,"""10-9""",GEN,Defenders,Defuse
+4Icebox,20,"""10-10""",GEN,Defenders,Elimination
+4Icebox,21,"""11-10""",RRQ,Attackers,Elimination
+4Icebox,22,"""11-11""",GEN,Defenders,Elimination
+4Icebox,23,"""11-12""",GEN,Defenders,Elimination
+4Icebox,24,"""11-13""",GEN,Defenders,Defuse

@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+trent,G2,All_Maps,All,Tejo,1.39,248,57,37,23,+20,82%,168,22%,5,4,+1
+leaf,G2,All_Maps,All,"Viper, Killjoy, Vyse",1.16,235,57,44,11,+13,71%,146,23%,8,4,+4
+valyn,G2,All_Maps,All,"Omen, Harbor",1.07,220,54,44,18,+10,73%,138,32%,5,11,-6
+jawgemo,G2,All_Maps,All,"Yoru, Gekko, Waylay",0.87,175,37,46,23,-9,79%,117,17%,7,13,-6
+JonahP,G2,All_Maps,All,"Breach, Viper, Kayo",0.86,141,31,41,28,-10,77%,93,19%,4,5,-1
+bang,SEN,All_Maps,All,"Omen, Viper",1.15,214,51,44,20,+7,74%,141,34%,7,5,+2
+johnqt,SEN,All_Maps,All,"Tejo, Kayo",1.00,189,43,46,24,-3,73%,134,25%,2,1,+1
+Zellsis,SEN,All_Maps,All,"Viper, Killjoy, Vyse",0.97,181,40,48,19,-8,71%,130,22%,9,4,+5
+zekken,SEN,All_Maps,All,"Yoru, Omen, Jett",0.95,181,42,47,24,-5,74%,112,26%,12,8,+4
+N4RRATE,SEN,All_Maps,All,"Breach, Gekko, Tejo",0.72,160,36,51,19,-15,62%,110,25%,7,11,-4
+trent,G2,All_Maps,Attack,Tejo,1.67,298,38,21,13,+17,86%,198,23%,3,0,+3
+leaf,G2,All_Maps,Attack,"Viper, Killjoy, Vyse",0.58,153,20,30,3,-10,58%,93,20%,2,4,-2
+valyn,G2,All_Maps,Attack,"Omen, Harbor",1.03,223,29,27,10,+2,75%,151,33%,3,7,-4
+jawgemo,G2,All_Maps,Attack,"Yoru, Gekko, Waylay",0.60,152,16,31,16,-15,69%,113,26%,1,12,-11
+JonahP,G2,All_Maps,Attack,"Breach, Viper, Kayo",0.64,116,14,27,11,-13,75%,76,18%,2,2,0
+bang,SEN,All_Maps,Attack,"Omen, Viper",1.16,235,24,22,8,+2,67%,144,34%,5,3,+2
+johnqt,SEN,All_Maps,Attack,"Tejo, Kayo",0.52,139,13,27,6,-14,60%,94,22%,0,0,0
+Zellsis,SEN,All_Maps,Attack,"Viper, Killjoy, Vyse",0.77,142,12,22,7,-10,60%,90,24%,2,3,-1
+zekken,SEN,All_Maps,Attack,"Yoru, Omen, Jett",0.72,147,14,24,12,-10,57%,98,32%,4,7,-3
+N4RRATE,SEN,All_Maps,Attack,"Breach, Gekko, Tejo",0.57,135,13,24,6,-11,47%,96,22%,1,5,-4
+trent,G2,All_Maps,Defend,Tejo,1.06,189,19,16,10,+3,77%,132,21%,2,4,-2
+leaf,G2,All_Maps,Defend,"Viper, Killjoy, Vyse",1.85,337,37,14,8,+23,87%,208,25%,6,0,+6
+valyn,G2,All_Maps,Defend,"Omen, Harbor",1.13,210,25,17,8,+8,70%,122,31%,2,4,-2
+jawgemo,G2,All_Maps,Defend,"Yoru, Gekko, Waylay",1.19,195,21,15,7,+6,90%,121,9%,6,1,+5
+JonahP,G2,All_Maps,Defend,"Breach, Viper, Kayo",1.11,171,17,14,17,+3,80%,113,21%,2,3,-1
+bang,SEN,All_Maps,Defend,"Omen, Viper",1.14,210,27,22,12,+5,81%,139,34%,2,2,0
+johnqt,SEN,All_Maps,Defend,"Tejo, Kayo",1.40,234,30,19,18,+11,83%,168,27%,2,1,+1
+Zellsis,SEN,All_Maps,Defend,"Viper, Killjoy, Vyse",1.17,224,28,26,12,+2,81%,163,21%,7,1,+6
+zekken,SEN,All_Maps,Defend,"Yoru, Omen, Jett",1.14,207,28,23,12,+5,89%,125,22%,8,1,+7
+N4RRATE,SEN,All_Maps,Defend,"Breach, Gekko, Tejo",0.84,183,23,27,13,-4,75%,122,28%,6,6,0

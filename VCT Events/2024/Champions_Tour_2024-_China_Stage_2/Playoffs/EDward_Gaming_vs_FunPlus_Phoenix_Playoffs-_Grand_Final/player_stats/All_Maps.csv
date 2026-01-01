@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Smoggy,EDG,All_Maps,All,"Omen, Jett, Viper, Brimstone",,210,77,69,41,+8,,143,27%,9,9,0
+CHICHOO,EDG,All_Maps,All,"Cypher, Omen, Killjoy, Viper",,206,80,75,22,+5,,130,35%,3,6,-3
+S1Mon,EDG,All_Maps,All,"Kayo, Gekko, Breach, Fade",,205,79,68,34,+11,,136,37%,6,5,+1
+ZmjjKK,EDG,All_Maps,All,"Neon, Yoru, Jett, Raze",,204,77,82,20,-5,,131,24%,18,25,-7
+nobody,EDG,All_Maps,All,"Sova, Gekko",,187,65,79,33,-14,,128,25%,8,17,-9
+Autumn,FPX,All_Maps,All,"Viper, Cypher, Clove",,220,88,75,29,+13,,148,32%,11,3,+8
+Life,FPX,All_Maps,All,"Yoru, Jett",,214,76,80,16,-4,,132,28%,25,16,+9
+AAAAY,FPX,All_Maps,All,"Fade, Breach, Kayo, Gekko",,200,77,76,34,+1,,129,43%,11,9,+2
+Lysoar,FPX,All_Maps,All,"Cypher, Omen, Killjoy, Brimstone",,183,67,69,34,-2,,121,24%,4,8,-4
+BerLIN,FPX,All_Maps,All,"Omen, Kayo, Viper, Sova",,182,65,78,34,-13,,122,32%,11,8,+3
+Smoggy,EDG,All_Maps,Attack,"Omen, Jett, Viper, Brimstone",,,,,,,
+CHICHOO,EDG,All_Maps,Attack,"Cypher, Omen, Killjoy, Viper",,,,,,,
+S1Mon,EDG,All_Maps,Attack,"Kayo, Gekko, Breach, Fade",,,,,,,
+ZmjjKK,EDG,All_Maps,Attack,"Neon, Yoru, Jett, Raze",,,,,,,
+nobody,EDG,All_Maps,Attack,"Sova, Gekko",,,,,,,
+Autumn,FPX,All_Maps,Attack,"Viper, Cypher, Clove",,,,,,,
+Life,FPX,All_Maps,Attack,"Yoru, Jett",,,,,,,
+AAAAY,FPX,All_Maps,Attack,"Fade, Breach, Kayo, Gekko",,,,,,,
+Lysoar,FPX,All_Maps,Attack,"Cypher, Omen, Killjoy, Brimstone",,,,,,,
+BerLIN,FPX,All_Maps,Attack,"Omen, Kayo, Viper, Sova",,,,,,,
+Smoggy,EDG,All_Maps,Defend,"Omen, Jett, Viper, Brimstone",,,,,,,
+CHICHOO,EDG,All_Maps,Defend,"Cypher, Omen, Killjoy, Viper",,,,,,,
+S1Mon,EDG,All_Maps,Defend,"Kayo, Gekko, Breach, Fade",,,,,,,
+ZmjjKK,EDG,All_Maps,Defend,"Neon, Yoru, Jett, Raze",,,,,,,
+nobody,EDG,All_Maps,Defend,"Sova, Gekko",,,,,,,
+Autumn,FPX,All_Maps,Defend,"Viper, Cypher, Clove",,,,,,,
+Life,FPX,All_Maps,Defend,"Yoru, Jett",,,,,,,
+AAAAY,FPX,All_Maps,Defend,"Fade, Breach, Kayo, Gekko",,,,,,,
+Lysoar,FPX,All_Maps,Defend,"Cypher, Omen, Killjoy, Brimstone",,,,,,,
+BerLIN,FPX,All_Maps,Defend,"Omen, Kayo, Viper, Sova",,,,,,,

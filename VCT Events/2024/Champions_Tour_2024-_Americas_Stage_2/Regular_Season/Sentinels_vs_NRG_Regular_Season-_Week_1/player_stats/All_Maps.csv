@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+zekken,SEN,All_Maps,All,Raze,1.41,317,46,33,21,+13,77%,213,29%,12,8,+4
+Zellsis,SEN,All_Maps,All,"Cypher, Breach",1.28,212,37,24,22,+13,83%,135,22%,2,1,+1
+TenZ,SEN,All_Maps,All,Omen,1.22,209,36,29,24,+7,77%,134,20%,5,3,+2
+Sacy,SEN,All_Maps,All,"Fade, Gekko",1.22,218,38,26,17,+12,81%,145,36%,3,5,-2
+johnqt,SEN,All_Maps,All,"Deadlock, Cypher",0.87,150,25,28,9,-3,70%,102,33%,3,4,-1
+Ethan,NRG,All_Maps,All,"Breach, Kayo",0.98,195,32,34,23,-2,74%,118,24%,5,3,+2
+s0m,NRG,All_Maps,All,"Clove, Omen",0.94,195,30,35,21,-5,74%,131,23%,4,6,-2
+Victor,NRG,All_Maps,All,Neon,0.84,219,34,41,10,-7,62%,150,24%,9,13,-4
+crashies,NRG,All_Maps,All,"Gekko, Sova",0.70,138,23,35,14,-12,57%,92,26%,1,3,-2
+FiNESSE,NRG,All_Maps,All,Cypher,0.64,133,21,38,8,-17,53%,90,16%,3,1,+2
+zekken,SEN,All_Maps,Attack,Raze,1.61,391,32,19,9,+13,88%,253,30%,9,3,+6
+Zellsis,SEN,All_Maps,Attack,"Cypher, Breach",1.39,238,22,12,11,+10,80%,158,20%,2,0,+2
+TenZ,SEN,All_Maps,Attack,Omen,1.35,205,20,12,12,+8,80%,139,27%,2,1,+1
+Sacy,SEN,All_Maps,Attack,"Fade, Gekko",1.34,219,22,10,6,+12,88%,150,41%,1,2,-1
+johnqt,SEN,All_Maps,Attack,"Deadlock, Cypher",0.67,106,9,14,6,-5,64%,75,30%,1,4,-3
+Ethan,NRG,All_Maps,Attack,"Breach, Kayo",0.78,198,15,16,12,-1,73%,113,20%,5,2,+3
+s0m,NRG,All_Maps,Attack,"Clove, Omen",1.22,214,16,14,17,+2,86%,140,14%,0,1,-1
+Victor,NRG,All_Maps,Attack,Neon,1.20,279,20,16,7,+4,68%,187,19%,4,6,-2
+crashies,NRG,All_Maps,Attack,"Gekko, Sova",0.77,153,12,15,10,-3,68%,95,33%,1,1,0
+FiNESSE,NRG,All_Maps,Attack,Cypher,0.59,124,11,16,2,-5,55%,76,23%,2,0,+2
+zekken,SEN,All_Maps,Defend,Raze,1.17,228,14,14,12,0,64%,167,28%,3,5,-2
+Zellsis,SEN,All_Maps,Defend,"Cypher, Breach",1.15,185,15,12,11,+3,86%,109,24%,0,1,-1
+TenZ,SEN,All_Maps,Defend,Omen,1.08,219,16,17,12,-1,73%,129,13%,3,2,+1
+Sacy,SEN,All_Maps,Defend,"Fade, Gekko",1.09,212,16,16,11,0,73%,139,30%,2,3,-1
+johnqt,SEN,All_Maps,Defend,"Deadlock, Cypher",1.11,205,16,14,3,+2,77%,133,35%,2,0,+2
+Ethan,NRG,All_Maps,Defend,"Breach, Kayo",1.15,193,17,18,11,-1,76%,123,30%,0,1,-1
+s0m,NRG,All_Maps,Defend,"Clove, Omen",0.69,176,14,21,4,-7,64%,124,37%,4,5,-1
+Victor,NRG,All_Maps,Defend,Neon,0.52,178,14,25,3,-11,56%,118,34%,5,7,-2
+crashies,NRG,All_Maps,Defend,"Gekko, Sova",0.64,125,11,20,4,-9,48%,89,19%,0,2,-2
+FiNESSE,NRG,All_Maps,Defend,Cypher,0.67,143,10,22,6,-12,52%,103,13%,1,1,0

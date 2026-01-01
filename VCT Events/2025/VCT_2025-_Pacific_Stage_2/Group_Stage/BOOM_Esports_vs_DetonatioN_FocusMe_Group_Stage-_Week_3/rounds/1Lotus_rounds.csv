@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+1Lotus,1,"""0-1""",DFM,Attackers,Elimination
+1Lotus,2,"""1-1""",BME,Defenders,Elimination
+1Lotus,3,"""2-1""",BME,Defenders,Defuse
+1Lotus,4,"""3-1""",BME,Defenders,Time Expired
+1Lotus,5,"""4-1""",BME,Defenders,Elimination
+1Lotus,6,"""4-2""",DFM,Attackers,Elimination
+1Lotus,7,"""4-3""",DFM,Attackers,Elimination
+1Lotus,8,"""4-4""",DFM,Attackers,Spike Detonation
+1Lotus,9,"""5-4""",BME,Defenders,Defuse
+1Lotus,10,"""5-5""",DFM,Attackers,Spike Detonation
+1Lotus,11,"""5-6""",DFM,Attackers,Elimination
+1Lotus,12,"""6-6""",BME,Defenders,Defuse
+1Lotus,13,"""7-6""",DFM,Attackers,Elimination
+1Lotus,14,"""8-6""",DFM,Attackers,Elimination
+1Lotus,15,"""8-7""",BME,Defenders,Elimination
+1Lotus,16,"""9-7""",DFM,Attackers,Elimination
+1Lotus,17,"""9-8""",BME,Defenders,Defuse
+1Lotus,18,"""9-9""",BME,Defenders,Defuse
+1Lotus,19,"""9-10""",BME,Defenders,Defuse
+1Lotus,20,"""9-11""",BME,Defenders,Elimination
+1Lotus,21,"""9-12""",BME,Defenders,Defuse
+1Lotus,22,"""10-12""",DFM,Attackers,Elimination
+1Lotus,23,"""10-13""",BME,Defenders,Defuse
+1Lotus,24,"""""",,,

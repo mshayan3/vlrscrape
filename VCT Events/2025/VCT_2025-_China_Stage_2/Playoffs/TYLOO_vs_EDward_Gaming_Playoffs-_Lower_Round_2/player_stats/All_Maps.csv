@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+slowly,TYL,All_Maps,All,"Yoru, Killjoy",1.18,229,34,31,5,+3,65%,164,39%,4,7,-3
+Scales,TYL,All_Maps,All,"Iso, Omen",1.02,224,26,31,7,-5,63%,128,33%,5,6,-1
+sword9,TYL,All_Maps,All,"Omen, Sova",0.98,182,28,32,15,-4,75%,140,23%,0,1,-1
+Yoyo,TYL,All_Maps,All,"Sova, Kayo",0.73,141,17,34,17,-17,70%,104,31%,0,0,0
+Ninebody,TYL,All_Maps,All,"Cypher, Jett",0.71,191,25,34,7,-9,48%,122,26%,6,11,-5
+ZmjjKK,EDG,All_Maps,All,"Yoru, Jett",1.41,282,39,25,12,+14,78%,173,23%,10,2,+8
+Jieni7,EDG,All_Maps,All,"Neon, Kayo",1.15,278,38,29,15,+9,78%,160,21%,4,3,+1
+nobody,EDG,All_Maps,All,Sova,1.08,198,30,27,13,+3,73%,150,26%,4,4,0
+CHICHOO,EDG,All_Maps,All,Cypher,1.03,188,28,21,9,+7,73%,123,20%,3,2,+1
+Smoggy,EDG,All_Maps,All,Omen,0.84,179,27,28,11,-1,73%,124,30%,4,4,0
+slowly,TYL,All_Maps,Attack,"Yoru, Killjoy",1.27,259,15,12,2,+3,56%,172,45%,1,3,-2
+Scales,TYL,All_Maps,Attack,"Iso, Omen",0.62,140,7,12,3,-5,63%,86,44%,0,2,-2
+sword9,TYL,All_Maps,Attack,"Omen, Sova",1.16,234,14,13,4,+1,75%,171,28%,0,0,0
+Yoyo,TYL,All_Maps,Attack,"Sova, Kayo",0.78,138,6,12,8,-6,69%,107,23%,0,0,0
+Ninebody,TYL,All_Maps,Attack,"Cypher, Jett",0.33,133,7,14,1,-7,31%,73,12%,2,8,-6
+ZmjjKK,EDG,All_Maps,Attack,"Yoru, Jett",1.25,275,24,17,8,+7,83%,170,18%,5,1,+4
+Jieni7,EDG,All_Maps,Attack,"Neon, Kayo",1.01,224,18,17,11,+1,83%,148,20%,2,3,-1
+nobody,EDG,All_Maps,Attack,Sova,0.89,179,16,17,7,-1,67%,137,30%,0,4,-4
+CHICHOO,EDG,All_Maps,Attack,Cypher,1.28,251,23,14,7,+9,71%,178,22%,2,2,0
+Smoggy,EDG,All_Maps,Attack,Omen,0.96,193,18,16,8,+2,75%,140,31%,3,2,+1
+slowly,TYL,All_Maps,Defend,"Yoru, Killjoy",1.12,214,19,19,3,0,71%,159,37%,3,4,-1
+Scales,TYL,All_Maps,Defend,"Iso, Omen",1.29,234,19,19,4,0,63%,157,30%,5,4,+1
+sword9,TYL,All_Maps,Defend,"Omen, Sova",0.86,171,14,19,11,-5,75%,119,24%,0,1,-1
+Yoyo,TYL,All_Maps,Defend,"Sova, Kayo",0.71,150,11,22,9,-11,71%,103,30%,0,0,0
+Ninebody,TYL,All_Maps,Defend,"Cypher, Jett",0.95,234,18,20,6,-2,58%,156,23%,4,3,+1
+ZmjjKK,EDG,All_Maps,Defend,"Yoru, Jett",1.65,265,15,8,4,+7,69%,178,27%,5,1,+4
+Jieni7,EDG,All_Maps,Defend,"Neon, Kayo",1.36,326,20,12,4,+8,69%,179,21%,2,0,+2
+nobody,EDG,All_Maps,Defend,Sova,1.37,267,14,10,6,+4,81%,170,23%,4,0,+4
+CHICHOO,EDG,All_Maps,Defend,Cypher,0.66,74,5,7,2,-2,75%,40,10%,1,0,+1
+Smoggy,EDG,All_Maps,Defend,Omen,0.66,157,9,12,3,-3,69%,100,28%,1,2,-1

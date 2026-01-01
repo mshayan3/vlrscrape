@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+1Bind,1,"""1-0""",PRX,Attackers,Elimination
+1Bind,2,"""2-0""",PRX,Attackers,Spike Detonation
+1Bind,3,"""2-1""",BME,Defenders,Defuse
+1Bind,4,"""3-1""",PRX,Attackers,Spike Detonation
+1Bind,5,"""3-2""",BME,Defenders,Defuse
+1Bind,6,"""3-3""",BME,Defenders,Elimination
+1Bind,7,"""3-4""",BME,Defenders,Elimination
+1Bind,8,"""3-5""",BME,Defenders,Elimination
+1Bind,9,"""3-6""",BME,Defenders,Time Expired
+1Bind,10,"""3-7""",BME,Defenders,Defuse
+1Bind,11,"""3-8""",BME,Defenders,Defuse
+1Bind,12,"""3-9""",BME,Defenders,Elimination
+1Bind,13,"""4-9""",BME,Defenders,Defuse
+1Bind,14,"""5-9""",BME,Defenders,Elimination
+1Bind,15,"""6-9""",BME,Defenders,Defuse
+1Bind,16,"""7-9""",BME,Defenders,Elimination
+1Bind,17,"""7-10""",PRX,Attackers,Spike Detonation
+1Bind,18,"""7-11""",PRX,Attackers,Elimination
+1Bind,19,"""7-12""",PRX,Attackers,Spike Detonation
+1Bind,20,"""8-12""",BME,Defenders,Elimination
+1Bind,21,"""8-13""",PRX,Attackers,Elimination
+1Bind,22,"""""",,,
+1Bind,23,"""""",,,
+1Bind,24,"""""",,,

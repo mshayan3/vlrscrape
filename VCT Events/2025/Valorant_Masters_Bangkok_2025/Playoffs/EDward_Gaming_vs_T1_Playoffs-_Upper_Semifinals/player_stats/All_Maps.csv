@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+CHICHOO,EDG,All_Maps,All,"Viper, Vyse",1.66,322,72,43,28,+29,87%,217,29%,8,1,+7
+nobody,EDG,All_Maps,All,Tejo,1.00,182,44,41,9,+3,78%,128,34%,6,4,+2
+ZmjjKK,EDG,All_Maps,All,"Jett, Raze, Yoru",0.96,227,49,47,13,+2,73%,133,21%,15,17,-2
+Smoggy,EDG,All_Maps,All,"Omen, Brimstone, Astra",0.92,171,38,41,29,-3,79%,108,28%,2,6,-4
+S1Mon,EDG,All_Maps,All,"Breach, Kayo, Fade",0.81,153,37,43,30,-6,83%,105,35%,0,4,-4
+BuZz,T1,All_Maps,All,"Raze, Neon",1.08,215,48,48,13,0,65%,145,23%,7,8,-1
+Sylvan,T1,All_Maps,All,"Omen, Brimstone, Astra",1.06,236,52,52,22,0,65%,150,35%,6,2,+4
+iZu,T1,All_Maps,All,"Yoru, Fade",1.05,190,43,41,12,+2,71%,120,30%,12,9,+3
+stax,T1,All_Maps,All,"Fade, Kayo, Sova",0.83,152,33,47,31,-14,60%,107,27%,1,6,-5
+Meteor,T1,All_Maps,All,"Viper, Vyse, Killjoy",0.75,181,39,52,14,-13,68%,120,32%,6,6,0
+CHICHOO,EDG,All_Maps,Attack,"Viper, Vyse",1.60,294,38,22,17,+16,86%,192,23%,4,0,+4
+nobody,EDG,All_Maps,Attack,Tejo,0.92,178,25,24,7,+1,86%,120,33%,1,2,-1
+ZmjjKK,EDG,All_Maps,Attack,"Jett, Raze, Yoru",1.03,254,31,27,12,+4,81%,156,23%,12,12,0
+Smoggy,EDG,All_Maps,Attack,"Omen, Brimstone, Astra",1.01,178,24,22,21,+2,81%,108,27%,0,3,-3
+S1Mon,EDG,All_Maps,Attack,"Breach, Kayo, Fade",0.96,165,23,22,20,+1,89%,107,41%,0,2,-2
+BuZz,T1,All_Maps,Attack,"Raze, Neon",1.15,232,23,20,6,+3,70%,156,25%,4,5,-1
+Sylvan,T1,All_Maps,Attack,"Omen, Brimstone, Astra",0.98,204,20,20,11,0,67%,127,22%,2,0,+2
+iZu,T1,All_Maps,Attack,"Yoru, Fade",1.02,225,20,20,8,0,74%,155,28%,3,3,0
+stax,T1,All_Maps,Attack,"Fade, Kayo, Sova",1.02,160,16,17,17,-1,67%,109,37%,0,3,-3
+Meteor,T1,All_Maps,Attack,"Viper, Vyse, Killjoy",0.72,181,19,22,4,-3,67%,114,34%,4,3,+1
+CHICHOO,EDG,All_Maps,Defend,"Viper, Vyse",1.73,367,34,21,11,+13,89%,249,39%,4,1,+3
+nobody,EDG,All_Maps,Defend,Tejo,1.12,198,19,17,2,+2,67%,138,36%,5,2,+3
+ZmjjKK,EDG,All_Maps,Defend,"Jett, Raze, Yoru",0.87,174,18,20,1,-2,63%,102,19%,3,5,-2
+Smoggy,EDG,All_Maps,Defend,"Omen, Brimstone, Astra",0.81,158,14,19,8,-5,78%,108,29%,2,3,-1
+S1Mon,EDG,All_Maps,Defend,"Breach, Kayo, Fade",0.62,150,14,21,10,-7,74%,102,28%,0,2,-2
+BuZz,T1,All_Maps,Defend,"Raze, Neon",1.03,202,25,28,7,-3,61%,137,23%,3,3,0
+Sylvan,T1,All_Maps,Defend,"Omen, Brimstone, Astra",1.11,265,32,32,11,0,64%,168,46%,4,2,+2
+iZu,T1,All_Maps,Defend,"Yoru, Fade",1.07,166,23,21,4,+2,69%,95,34%,9,6,+3
+stax,T1,All_Maps,Defend,"Fade, Kayo, Sova",0.68,148,17,30,14,-13,56%,105,20%,1,3,-2
+Meteor,T1,All_Maps,Defend,"Viper, Vyse, Killjoy",0.76,179,20,30,10,-10,69%,125,31%,2,3,-1

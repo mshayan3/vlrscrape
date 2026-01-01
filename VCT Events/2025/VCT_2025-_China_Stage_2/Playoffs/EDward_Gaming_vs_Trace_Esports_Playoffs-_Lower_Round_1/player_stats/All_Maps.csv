@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+CHICHOO,EDG,All_Maps,All,"Vyse, Cypher",1.19,222,53,40,12,+13,76%,135,29%,7,2,+5
+Jieni7,EDG,All_Maps,All,"Omen, Breach, Kayo",0.99,189,45,46,23,-1,72%,124,26%,7,2,+5
+nobody,EDG,All_Maps,All,"Yoru, Sova",0.99,190,46,44,18,+2,61%,132,41%,5,11,-6
+Smoggy,EDG,All_Maps,All,"Fade, Omen",0.89,170,42,47,18,-5,72%,111,34%,5,4,+1
+ZmjjKK,EDG,All_Maps,All,"Raze, Neon, Jett",0.88,208,51,50,10,+1,63%,128,18%,9,15,-6
+MarT1n,TE,All_Maps,All,"Viper, Deadlock",1.13,193,46,43,18,+3,69%,123,33%,6,5,+1
+Kai,TE,All_Maps,All,"Killjoy, Neon, Yoru",1.10,234,57,50,13,+7,70%,148,24%,9,13,-4
+Biank,TE,All_Maps,All,"Fade, Sova",1.08,210,45,47,30,-2,67%,142,20%,4,3,+1
+FengF,TE,All_Maps,All,"Raze, Cypher",0.93,177,40,47,17,-7,75%,117,26%,7,4,+3
+LuoK1ng,TE,All_Maps,All,Omen,0.82,169,39,50,37,-11,72%,101,35%,8,8,0
+CHICHOO,EDG,All_Maps,Attack,"Vyse, Cypher",0.94,167,22,22,3,0,67%,108,39%,3,1,+2
+Jieni7,EDG,All_Maps,Attack,"Omen, Breach, Kayo",1.13,202,27,25,12,+2,61%,131,28%,2,1,+1
+nobody,EDG,All_Maps,Attack,"Yoru, Sova",0.90,174,21,26,12,-5,56%,125,34%,1,6,-5
+Smoggy,EDG,All_Maps,Attack,"Fade, Omen",0.85,167,22,27,10,-5,72%,105,33%,2,3,-1
+ZmjjKK,EDG,All_Maps,Attack,"Raze, Neon, Jett",0.76,195,24,29,5,-5,56%,119,24%,5,12,-7
+MarT1n,TE,All_Maps,Attack,"Viper, Deadlock",1.22,189,23,19,7,+4,68%,122,29%,3,3,0
+Kai,TE,All_Maps,Attack,"Killjoy, Neon, Yoru",0.83,209,22,27,7,-5,65%,125,29%,4,10,-6
+Biank,TE,All_Maps,Attack,"Fade, Sova",1.07,215,21,23,11,-2,68%,142,29%,0,1,-1
+FengF,TE,All_Maps,Attack,"Raze, Cypher",0.68,148,15,25,8,-10,74%,100,20%,3,3,0
+LuoK1ng,TE,All_Maps,Attack,Omen,0.75,153,17,27,19,-10,74%,88,26%,1,3,-2
+CHICHOO,EDG,All_Maps,Defend,"Vyse, Cypher",1.49,279,31,18,9,+13,87%,168,22%,4,1,+3
+Jieni7,EDG,All_Maps,Defend,"Omen, Breach, Kayo",0.84,174,18,21,11,-3,84%,117,23%,5,1,+4
+nobody,EDG,All_Maps,Defend,"Yoru, Sova",1.10,216,25,18,6,+7,68%,139,45%,4,5,-1
+Smoggy,EDG,All_Maps,Defend,"Fade, Omen",0.94,180,20,20,8,0,71%,117,38%,3,1,+2
+ZmjjKK,EDG,All_Maps,Defend,"Raze, Neon, Jett",1.06,218,27,21,5,+6,71%,138,13%,4,3,+1
+MarT1n,TE,All_Maps,Defend,"Viper, Deadlock",1.06,189,23,24,11,-1,69%,124,35%,3,2,+1
+Kai,TE,All_Maps,Defend,"Killjoy, Neon, Yoru",1.34,259,35,23,6,+12,75%,167,18%,5,3,+2
+Biank,TE,All_Maps,Defend,"Fade, Sova",1.09,206,24,24,19,0,67%,142,13%,4,2,+2
+FengF,TE,All_Maps,Defend,"Raze, Cypher",1.15,203,25,22,9,+3,75%,133,32%,4,1,+3
+LuoK1ng,TE,All_Maps,Defend,Omen,0.87,181,22,23,18,-1,69%,111,42%,7,5,+2

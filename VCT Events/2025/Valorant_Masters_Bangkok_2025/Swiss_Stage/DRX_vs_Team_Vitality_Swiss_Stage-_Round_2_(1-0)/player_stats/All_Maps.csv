@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+HYUNMIN,DRX,All_Maps,All,Yoru,1.07,252,59,55,15,+4,74%,160,30%,12,10,+2
+free1ng,DRX,All_Maps,All,Tejo,1.04,207,49,47,20,+2,75%,142,29%,6,7,-1
+BeYN,DRX,All_Maps,All,"Breach, Sova",1.02,176,43,46,28,-3,77%,113,29%,7,2,+5
+MaKo,DRX,All_Maps,All,"Brimstone, Omen",0.98,195,47,50,33,-3,75%,138,26%,4,7,-3
+Flashback,DRX,All_Maps,All,Cypher,0.84,171,42,52,11,-10,65%,120,29%,8,6,+2
+Derke,VIT,All_Maps,All,"Raze, Jett",1.45,315,78,54,10,+24,75%,205,23%,19,11,+8
+trexx,VIT,All_Maps,All,"Brimstone, Sova, Fade",1.08,199,43,45,34,-2,74%,135,20%,4,4,0
+Kicks,VIT,All_Maps,All,"Skye, Breach",1.01,185,46,45,22,+1,71%,119,25%,2,3,-1
+Less,VIT,All_Maps,All,"Viper, Astra",0.97,193,50,49,20,+1,68%,130,26%,2,9,-7
+Sayf,VIT,All_Maps,All,"Tejo, Omen",0.74,143,33,47,24,-14,67%,91,17%,5,10,-5
+HYUNMIN,DRX,All_Maps,Attack,Yoru,1.29,292,37,27,5,+10,81%,179,32%,9,5,+4
+free1ng,DRX,All_Maps,Attack,Tejo,1.03,202,24,23,12,+1,81%,140,25%,2,1,+1
+BeYN,DRX,All_Maps,Attack,"Breach, Sova",0.73,113,14,23,18,-9,78%,73,20%,0,2,-2
+MaKo,DRX,All_Maps,Attack,"Brimstone, Omen",1.11,209,26,24,22,+2,83%,141,20%,2,6,-4
+Flashback,DRX,All_Maps,Attack,Cypher,0.96,199,27,27,4,0,67%,148,37%,5,4,+1
+Derke,VIT,All_Maps,Attack,"Raze, Jett",1.09,281,35,28,1,+7,73%,174,27%,10,8,+2
+trexx,VIT,All_Maps,Attack,"Brimstone, Sova, Fade",1.25,231,25,20,16,+5,82%,157,26%,2,3,-1
+Kicks,VIT,All_Maps,Attack,"Skye, Breach",1.26,205,26,18,10,+8,79%,139,28%,0,1,-1
+Less,VIT,All_Maps,Attack,"Viper, Astra",1.10,209,26,22,9,+4,76%,144,30%,0,2,-2
+Sayf,VIT,All_Maps,Attack,"Tejo, Omen",0.63,128,14,24,11,-10,67%,79,17%,2,5,-3
+HYUNMIN,DRX,All_Maps,Defend,Yoru,0.83,201,22,28,10,-6,67%,139,26%,3,5,-2
+free1ng,DRX,All_Maps,Defend,Tejo,1.06,216,25,24,8,+1,70%,144,33%,4,6,-2
+BeYN,DRX,All_Maps,Defend,"Breach, Sova",1.33,246,29,23,10,+6,76%,157,34%,7,0,+7
+MaKo,DRX,All_Maps,Defend,"Brimstone, Omen",0.85,186,21,26,11,-5,67%,134,35%,2,1,+1
+Flashback,DRX,All_Maps,Defend,Cypher,0.70,142,15,25,7,-10,64%,90,18%,3,2,+1
+Derke,VIT,All_Maps,Defend,"Raze, Jett",1.77,351,43,26,9,+17,78%,233,21%,9,3,+6
+trexx,VIT,All_Maps,Defend,"Brimstone, Sova, Fade",0.93,167,18,25,18,-7,67%,116,15%,2,1,+1
+Kicks,VIT,All_Maps,Defend,"Skye, Breach",0.77,164,20,27,12,-7,64%,100,22%,2,2,0
+Less,VIT,All_Maps,Defend,"Viper, Astra",0.85,180,24,27,11,-3,61%,118,23%,2,7,-5
+Sayf,VIT,All_Maps,Defend,"Tejo, Omen",0.85,158,19,23,13,-4,67%,103,18%,3,5,-2

@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Smoggy,EDG,All_Maps,All,"Omen, Viper",1.64,308,70,39,17,+31,80%,181,41%,5,3,+2
+CHICHOO,EDG,All_Maps,All,"Viper, Killjoy, Cypher",1.13,203,43,38,17,+5,77%,137,33%,6,2,+4
+ZmjjKK,EDG,All_Maps,All,"Neon, Jett, Yoru",0.96,231,51,49,12,+2,74%,147,26%,13,14,-1
+Jieni7,EDG,All_Maps,All,"Breach, Kayo",0.76,166,35,48,28,-13,77%,108,29%,3,2,+1
+nobody,EDG,All_Maps,All,Tejo,0.69,128,27,43,19,-16,70%,97,21%,4,9,-5
+Abo,TEC,All_Maps,All,"Deadlock, Vyse",1.16,236,51,45,16,+6,66%,148,43%,7,9,-2
+Rb,TEC,All_Maps,All,"Fade, Tejo",1.01,201,44,45,13,-1,70%,133,37%,3,4,-1
+TvirusLuke,TEC,All_Maps,All,"Raze, Jett",0.94,236,49,50,6,-1,72%,154,27%,17,12,+5
+Coco,TEC,All_Maps,All,"Breach, Gekko",0.90,178,36,42,23,-6,69%,126,41%,1,2,-1
+Haodong,TEC,All_Maps,All,"Omen, Viper",0.85,171,37,44,15,-7,70%,113,25%,2,4,-2
+Smoggy,EDG,All_Maps,Attack,"Omen, Viper",1.54,273,35,20,6,+15,79%,171,35%,1,1,0
+CHICHOO,EDG,All_Maps,Attack,"Viper, Killjoy, Cypher",0.94,200,22,23,9,-1,76%,131,34%,5,0,+5
+ZmjjKK,EDG,All_Maps,Attack,"Neon, Jett, Yoru",0.83,232,27,28,7,-1,76%,140,27%,9,9,0
+Jieni7,EDG,All_Maps,Attack,"Breach, Kayo",0.88,203,22,27,19,-5,91%,137,27%,1,1,0
+nobody,EDG,All_Maps,Attack,Tejo,0.76,155,20,24,7,-4,70%,110,25%,2,4,-2
+Abo,TEC,All_Maps,Attack,"Deadlock, Vyse",1.42,284,29,19,8,+10,68%,187,44%,2,2,0
+Rb,TEC,All_Maps,Attack,"Fade, Tejo",0.66,112,11,18,6,-7,61%,71,29%,2,2,0
+TvirusLuke,TEC,All_Maps,Attack,"Raze, Jett",0.73,201,18,23,4,-5,68%,135,27%,9,7,+2
+Coco,TEC,All_Maps,Attack,"Breach, Gekko",0.97,194,19,19,8,0,64%,135,36%,1,1,0
+Haodong,TEC,All_Maps,Attack,"Omen, Viper",0.78,161,18,21,4,-3,57%,109,29%,1,1,0
+Smoggy,EDG,All_Maps,Defend,"Omen, Viper",1.75,337,35,19,11,+16,82%,193,48%,4,2,+2
+CHICHOO,EDG,All_Maps,Defend,"Viper, Killjoy, Cypher",1.35,198,21,15,8,+6,79%,144,33%,1,2,-1
+ZmjjKK,EDG,All_Maps,Defend,"Neon, Jett, Yoru",1.12,235,24,21,5,+3,71%,154,25%,4,5,-1
+Jieni7,EDG,All_Maps,Defend,"Breach, Kayo",0.61,122,13,21,9,-8,61%,73,34%,2,1,+1
+nobody,EDG,All_Maps,Defend,Tejo,0.60,103,7,19,12,-12,71%,83,14%,2,5,-3
+Abo,TEC,All_Maps,Defend,"Deadlock, Vyse",0.94,193,22,26,8,-4,64%,115,42%,5,7,-2
+Rb,TEC,All_Maps,Defend,"Fade, Tejo",1.31,275,33,27,7,+6,79%,186,39%,1,2,-1
+TvirusLuke,TEC,All_Maps,Defend,"Raze, Jett",1.12,267,31,27,2,+4,76%,170,26%,8,5,+3
+Coco,TEC,All_Maps,Defend,"Breach, Gekko",0.84,165,17,23,15,-6,73%,118,46%,0,1,-1
+Haodong,TEC,All_Maps,Defend,"Omen, Viper",0.90,174,19,23,11,-4,82%,116,22%,1,3,-2

@@ -2,66 +2,63 @@ import csv
 import requests
 from bs4 import BeautifulSoup
 
-# Match URL
-MATCH_URL = "https://www.vlr.gg/428005/100-thieves-vs-nrg-esports-champions-tour-2025-americas-kickoff-lr1"
-
-# Headers to mimic a real browser request
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
-}
-
 
 def fetch_html(url):
+    """Fetch the HTML content of a given URL."""
+    HEADERS = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    }
     response = requests.get(url, headers=HEADERS)
-    if response.status_code == 200:
-        return response.text
-    else:
+    return response.text if response.status_code == 200 else None
+
+
+def scrape_player_stats(match_url, output_file='player_stats.csv'):
+    """Scrapes player statistics from a VLR.gg match page and saves them to a CSV file."""
+    html = fetch_html(match_url)
+    if not html:
         print("Failed to fetch the webpage.")
-        return None
+        return
 
+    soup = BeautifulSoup(html, 'html.parser')
 
-# Parse the HTML
-soup = BeautifulSoup(fetch_html(MATCH_URL), 'html.parser')
+    # Extract maps played and their respective numbers
+    maps = {}
+    for idx, map_item in enumerate(soup.select('.vm-stats-gamesnav-item.js-map-switch')):
+        map_name = map_item.text.strip()
+        game_id = map_item.get("data-game-id")
+        if game_id:
+            maps[game_id] = f"Map {idx} - {map_name}" if idx else "All Maps"
 
-# Extract teams from the match header
-teams = [team.text.strip() for team in soup.select('.match-header-link-name div.wf-title-med')]
+    # Define side classes and labels
+    side_classes = {
+        "All": ".mod-stat .side.mod-both",
+        "Attack": ".mod-stat .side.mod-t",
+        "Defend": ".mod-stat .side.mod-ct"
+    }
 
-# Extract maps played and their respective numbers
-maps = {}
-for idx, map_item in enumerate(soup.select('.vm-stats-gamesnav-item.js-map-switch')):
-    map_name = map_item.text.strip()
-    game_id = map_item.get("data-game-id")
-    if game_id:
-        maps[game_id] = f"Map {idx} - {map_name}" if idx else "All Maps"
+    rows = []
+    for map_id, map_name in maps.items():
+        for side_label, side_class in side_classes.items():
+            for row in soup.select(f'.vm-stats-game[data-game-id="{map_id}"] tbody tr'):
+                player_name = row.select_one('.text-of').text.strip()
+                team_name = row.select_one('.ge-text-light').text.strip()
+                agents = ', '.join(img['title'] for img in row.select('.mod-agent img'))
+                stats = [span.text.strip() for span in row.select(side_class)]
 
-# Extract table headers
-headers = [th.text.strip() for th in soup.select('thead th')]
+                if not stats:
+                    continue
 
-# Extract table rows for each map
-rows = []
-for map_id, map_name in maps.items():
-    for row in soup.select(f'.vm-stats-game[data-game-id="{map_id}"] tbody tr'):
-        # Extract player name
-        player_name = row.select_one('.text-of').text.strip()
+                row_data = [player_name, team_name, map_name, side_label, agents] + stats
+                rows.append(row_data)
 
-        # Extract player team (found in the smaller text below player name)
-        team_name = row.select_one('.ge-text-light').text.strip()
+    # Save data to CSV
+    with open(output_file, 'w', newline='', encoding='utf-8') as file:
+        writer = csv.writer(file)
+        writer.writerow(['Player', 'Team', 'Map', 'Side', 'Agents', 'R2.0', 'ACS', 'K', 'D', 'A', 'K/D', 'KAST', 'ADR',
+                         'HS%', 'FK', 'FD', 'FK/FD'])
+        writer.writerows(rows)
 
-        # Extract agent(s)
-        agents = [img['title'] for img in row.select('.mod-agent img')]
-        agents_str = ', '.join(agents)
+    print(f"Data saved to {output_file}")
 
-        # Extract stats
-        stats = [span.text.strip() for span in row.select('.mod-stat .side.mod-both')]
-
-        # Combine all data for the row
-        row_data = [player_name, team_name, map_name, agents_str] + stats
-        rows.append(row_data)
-
-# Save to CSV
-with open('player_stats.csv', 'w', newline='', encoding='utf-8') as file:
-    writer = csv.writer(file)
-    writer.writerow(['Player', 'Team', 'Map', 'Agents'] + headers[2:])  # Write headers
-    writer.writerows(rows)  # Write rows
-
-print("Data saved to player_stats.csv")
+# Example usage
+scrape_player_stats("https://www.vlr.gg/428005/100-thieves-vs-nrg-esports-champions-tour-2025-americas-kickoff-lr")

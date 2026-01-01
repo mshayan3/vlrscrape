@@ -1,0 +1,27 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+1Pearl,1,"""0-1""",BLG,Defenders,Elimination
+1Pearl,2,"""1-1""",EDG,Attackers,Elimination
+1Pearl,3,"""2-1""",EDG,Attackers,Spike Detonation
+1Pearl,4,"""3-1""",EDG,Attackers,Elimination
+1Pearl,5,"""4-1""",EDG,Attackers,Elimination
+1Pearl,6,"""4-2""",BLG,Defenders,Time Expired
+1Pearl,7,"""4-3""",BLG,Defenders,Defuse
+1Pearl,8,"""5-3""",EDG,Attackers,Elimination
+1Pearl,9,"""5-4""",BLG,Defenders,Defuse
+1Pearl,10,"""5-5""",BLG,Defenders,Defuse
+1Pearl,11,"""5-6""",BLG,Defenders,Elimination
+1Pearl,12,"""5-7""",BLG,Defenders,Elimination
+1Pearl,13,"""6-7""",BLG,Defenders,Elimination
+1Pearl,14,"""7-7""",BLG,Defenders,Elimination
+1Pearl,15,"""7-8""",EDG,Attackers,Elimination
+1Pearl,16,"""8-8""",BLG,Defenders,Elimination
+1Pearl,17,"""9-8""",BLG,Defenders,Defuse
+1Pearl,18,"""10-8""",BLG,Defenders,Defuse
+1Pearl,19,"""11-8""",BLG,Defenders,Elimination
+1Pearl,20,"""11-9""",EDG,Attackers,Spike Detonation
+1Pearl,21,"""11-10""",EDG,Attackers,Spike Detonation
+1Pearl,22,"""12-10""",BLG,Defenders,Elimination
+1Pearl,23,"""12-11""",EDG,Attackers,Elimination
+1Pearl,24,"""12-12""",EDG,Attackers,Elimination
+1Pearl,25,"""12-13""",BLG,Defenders,Elimination
+1Pearl,26,"""12-14""",EDG,Attackers,Elimination

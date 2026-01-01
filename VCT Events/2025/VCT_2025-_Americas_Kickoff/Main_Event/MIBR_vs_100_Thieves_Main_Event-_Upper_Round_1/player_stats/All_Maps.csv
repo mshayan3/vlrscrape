@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+aspas,MIBR,All_Maps,All,Raze,1.16,232,30,29,6,+1,72%,166,24%,4,5,-1
+nzr,MIBR,All_Maps,All,"Breach, Skye",0.87,167,21,28,8,-7,54%,111,31%,2,4,-2
+xenom,MIBR,All_Maps,All,"Omen, Brimstone",0.73,197,25,34,16,-9,67%,121,28%,3,4,-1
+artzin,MIBR,All_Maps,All,"Tejo, Deadlock",0.57,135,17,33,8,-16,56%,100,31%,1,8,-7
+cortezia,MIBR,All_Maps,All,"Killjoy, Cypher",0.55,113,17,30,3,-13,46%,79,38%,1,7,-6
+Cryocells,100T,All_Maps,All,"Clove, Brimstone",1.46,275,38,22,9,+16,87%,193,21%,6,2,+4
+Asuna,100T,All_Maps,All,"Neon, Raze",1.41,305,41,24,11,+17,82%,187,25%,14,4,+10
+eeiu,100T,All_Maps,All,Fade,1.29,193,30,19,14,+11,77%,132,43%,3,0,+3
+Boostio,100T,All_Maps,All,"Breach, Gekko",1.02,158,24,20,18,+4,85%,101,33%,0,2,-2
+zander,100T,All_Maps,All,"Omen, Viper",0.87,159,21,25,13,-4,79%,100,23%,5,3,+2
+aspas,MIBR,All_Maps,Attack,Raze,1.08,213,12,11,3,+1,65%,151,32%,0,1,-1
+nzr,MIBR,All_Maps,Attack,"Breach, Skye",0.95,144,9,11,3,-2,47%,98,20%,1,2,-1
+xenom,MIBR,All_Maps,Attack,"Omen, Brimstone",1.47,312,19,12,8,+7,82%,186,32%,2,1,+1
+artzin,MIBR,All_Maps,Attack,"Tejo, Deadlock",0.64,172,9,14,6,-5,71%,118,35%,1,6,-5
+cortezia,MIBR,All_Maps,Attack,"Killjoy, Cypher",0.62,136,9,12,0,-3,41%,90,40%,0,3,-3
+Cryocells,100T,All_Maps,Attack,"Clove, Brimstone",1.62,301,24,11,5,+13,86%,220,21%,1,2,-1
+Asuna,100T,All_Maps,Attack,"Neon, Raze",1.48,318,25,14,8,+11,91%,201,24%,9,2,+7
+eeiu,100T,All_Maps,Attack,Fade,1.72,224,21,6,9,+15,95%,160,53%,3,0,+3
+Boostio,100T,All_Maps,Attack,"Breach, Gekko",1.04,140,11,8,14,+3,86%,91,26%,0,1,-1
+zander,100T,All_Maps,Attack,"Omen, Viper",0.90,161,13,13,8,0,86%,97,24%,2,2,0
+aspas,MIBR,All_Maps,Defend,Raze,1.22,264,18,18,3,0,77%,178,19%,4,4,0
+nzr,MIBR,All_Maps,Defend,"Breach, Skye",0.81,174,12,17,5,-5,59%,121,41%,1,2,-1
+xenom,MIBR,All_Maps,Defend,"Omen, Brimstone",0.25,102,6,22,8,-16,55%,71,22%,1,3,-2
+artzin,MIBR,All_Maps,Defend,"Tejo, Deadlock",0.56,115,8,19,2,-11,45%,86,28%,0,2,-2
+cortezia,MIBR,All_Maps,Defend,"Killjoy, Cypher",0.51,108,8,18,3,-10,50%,71,37%,1,4,-3
+Cryocells,100T,All_Maps,Defend,"Clove, Brimstone",1.26,245,14,11,4,+3,88%,158,22%,5,0,+5
+Asuna,100T,All_Maps,Defend,"Neon, Raze",1.33,272,16,10,3,+6,71%,169,25%,5,2,+3
+eeiu,100T,All_Maps,Defend,Fade,0.74,156,9,13,5,-4,53%,95,30%,0,0,0
+Boostio,100T,All_Maps,Defend,"Breach, Gekko",1.00,185,13,12,4,+1,82%,114,42%,0,1,-1
+zander,100T,All_Maps,Defend,"Omen, Viper",0.83,157,8,12,5,-4,71%,104,21%,3,1,+2

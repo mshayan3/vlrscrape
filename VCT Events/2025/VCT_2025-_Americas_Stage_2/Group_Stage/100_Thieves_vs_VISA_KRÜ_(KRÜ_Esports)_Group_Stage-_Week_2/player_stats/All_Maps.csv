@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Asuna,100T,All_Maps,All,"Yoru, Raze",1.45,286,34,19,14,+15,83%,190,21%,5,5,0
+Kess,100T,All_Maps,All,"Fade, Brimstone",1.29,178,23,13,15,+10,83%,104,29%,1,0,+1
+zander,100T,All_Maps,All,"Omen, Viper",1.29,243,28,19,17,+9,80%,150,22%,6,3,+3
+eeiu,100T,All_Maps,All,"Sova, Fade",1.25,213,27,17,11,+10,83%,140,38%,2,1,+1
+Cryocells,100T,All_Maps,All,"Chamber, Yoru",1.12,188,26,16,6,+10,83%,114,13%,9,3,+6
+Dantedeu5,KRÜ,All_Maps,All,"Neon, Raze",0.83,193,21,29,7,-8,63%,125,27%,6,10,-4
+Shyy,KRÜ,All_Maps,All,Vyse,0.78,171,18,27,6,-9,60%,123,24%,2,3,-1
+keznit,KRÜ,All_Maps,All,"Omen, Skye",0.75,157,17,26,11,-9,57%,98,25%,2,5,-3
+Melser,KRÜ,All_Maps,All,"Fade, Brimstone",0.74,131,15,27,11,-12,54%,90,21%,2,2,0
+Mazino,KRÜ,All_Maps,All,Viper,0.50,122,13,29,9,-16,57%,75,28%,0,3,-3
+Asuna,100T,All_Maps,Attack,"Yoru, Raze",1.49,303,17,9,6,+8,76%,203,28%,2,4,-2
+Kess,100T,All_Maps,Attack,"Fade, Brimstone",1.38,151,10,5,9,+5,82%,93,32%,0,0,0
+zander,100T,All_Maps,Attack,"Omen, Viper",1.68,310,18,7,6,+11,88%,187,27%,3,1,+2
+eeiu,100T,All_Maps,Attack,"Sova, Fade",1.22,178,11,8,7,+3,82%,112,38%,1,0,+1
+Cryocells,100T,All_Maps,Attack,"Chamber, Yoru",0.96,187,12,9,3,+3,82%,113,5%,3,3,0
+Dantedeu5,KRÜ,All_Maps,Attack,"Neon, Raze",0.87,205,12,15,4,-3,72%,122,20%,3,5,-2
+Shyy,KRÜ,All_Maps,Attack,Vyse,0.63,146,8,14,3,-6,44%,105,33%,0,3,-3
+keznit,KRÜ,All_Maps,Attack,"Omen, Skye",0.90,187,11,13,4,-2,67%,120,24%,1,2,-1
+Melser,KRÜ,All_Maps,Attack,"Fade, Brimstone",0.77,122,7,13,7,-6,61%,78,24%,0,1,-1
+Mazino,KRÜ,All_Maps,Attack,Viper,0.59,144,8,15,6,-7,61%,79,37%,0,3,-3
+Asuna,100T,All_Maps,Defend,"Yoru, Raze",1.42,272,17,10,8,+7,89%,178,15%,3,1,+2
+Kess,100T,All_Maps,Defend,"Fade, Brimstone",1.21,201,13,8,6,+5,83%,114,28%,1,0,+1
+zander,100T,All_Maps,Defend,"Omen, Viper",0.91,183,10,12,11,-2,72%,115,15%,3,2,+1
+eeiu,100T,All_Maps,Defend,"Sova, Fade",1.28,243,16,9,4,+7,83%,167,38%,1,1,0
+Cryocells,100T,All_Maps,Defend,"Chamber, Yoru",1.28,187,14,7,3,+7,83%,115,29%,6,0,+6
+Dantedeu5,KRÜ,All_Maps,Defend,"Neon, Raze",0.78,180,9,14,3,-5,53%,128,41%,3,5,-2
+Shyy,KRÜ,All_Maps,Defend,Vyse,0.93,196,10,13,3,-3,76%,142,18%,2,0,+2
+keznit,KRÜ,All_Maps,Defend,"Omen, Skye",0.60,125,6,13,7,-7,47%,74,29%,1,3,-2
+Melser,KRÜ,All_Maps,Defend,"Fade, Brimstone",0.71,144,8,14,4,-6,47%,103,19%,2,1,+1
+Mazino,KRÜ,All_Maps,Defend,Viper,0.42,99,5,14,3,-9,53%,72,21%,0,0,0

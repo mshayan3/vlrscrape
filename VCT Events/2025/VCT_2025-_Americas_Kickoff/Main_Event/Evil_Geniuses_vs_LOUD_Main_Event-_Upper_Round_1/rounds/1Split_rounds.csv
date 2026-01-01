@@ -1,0 +1,27 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+1Split,1,"""0-1""",LOUD,Attackers,Elimination
+1Split,2,"""0-2""",LOUD,Attackers,Elimination
+1Split,3,"""1-2""",EG,Defenders,Elimination
+1Split,4,"""2-2""",EG,Defenders,Time Expired
+1Split,5,"""3-2""",EG,Defenders,Elimination
+1Split,6,"""3-3""",LOUD,Attackers,Spike Detonation
+1Split,7,"""4-3""",EG,Defenders,Time Expired
+1Split,8,"""5-3""",EG,Defenders,Elimination
+1Split,9,"""5-4""",LOUD,Attackers,Elimination
+1Split,10,"""6-4""",EG,Defenders,Elimination
+1Split,11,"""7-4""",EG,Defenders,Elimination
+1Split,12,"""8-4""",EG,Defenders,Elimination
+1Split,13,"""8-5""",EG,Defenders,Elimination
+1Split,14,"""8-6""",EG,Defenders,Elimination
+1Split,15,"""9-6""",LOUD,Attackers,Elimination
+1Split,16,"""9-7""",EG,Defenders,Defuse
+1Split,17,"""10-7""",LOUD,Attackers,Spike Detonation
+1Split,18,"""11-7""",LOUD,Attackers,Spike Detonation
+1Split,19,"""11-8""",EG,Defenders,Elimination
+1Split,20,"""11-9""",EG,Defenders,Defuse
+1Split,21,"""11-10""",EG,Defenders,Defuse
+1Split,22,"""11-11""",EG,Defenders,Elimination
+1Split,23,"""12-11""",LOUD,Attackers,Spike Detonation
+1Split,24,"""12-12""",EG,Defenders,Elimination
+1Split,25,"""12-13""",LOUD,Attackers,Elimination
+1Split,26,"""12-14""",EG,Defenders,Elimination

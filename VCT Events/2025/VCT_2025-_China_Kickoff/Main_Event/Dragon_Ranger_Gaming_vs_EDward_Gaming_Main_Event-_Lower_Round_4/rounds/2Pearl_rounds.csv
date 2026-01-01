@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+2Pearl,1,"""0-1""",EDG,Attackers,Elimination
+2Pearl,2,"""0-2""",EDG,Attackers,Elimination
+2Pearl,3,"""1-2""",DRG,Defenders,Elimination
+2Pearl,4,"""1-3""",EDG,Attackers,Elimination
+2Pearl,5,"""1-4""",EDG,Attackers,Elimination
+2Pearl,6,"""1-5""",EDG,Attackers,Elimination
+2Pearl,7,"""2-5""",DRG,Defenders,Elimination
+2Pearl,8,"""3-5""",DRG,Defenders,Time Expired
+2Pearl,9,"""3-6""",EDG,Attackers,Elimination
+2Pearl,10,"""4-6""",DRG,Defenders,Elimination
+2Pearl,11,"""4-7""",EDG,Attackers,Elimination
+2Pearl,12,"""5-7""",DRG,Defenders,Elimination
+2Pearl,13,"""6-7""",EDG,Attackers,Elimination
+2Pearl,14,"""7-7""",EDG,Attackers,Elimination
+2Pearl,15,"""7-8""",DRG,Defenders,Defuse
+2Pearl,16,"""7-9""",DRG,Defenders,Elimination
+2Pearl,17,"""8-9""",EDG,Attackers,Elimination
+2Pearl,18,"""9-9""",EDG,Attackers,Elimination
+2Pearl,19,"""9-10""",DRG,Defenders,Defuse
+2Pearl,20,"""9-11""",DRG,Defenders,Elimination
+2Pearl,21,"""9-12""",DRG,Defenders,Elimination
+2Pearl,22,"""9-13""",DRG,Defenders,Elimination
+2Pearl,23,"""""",,,
+2Pearl,24,"""""",,,

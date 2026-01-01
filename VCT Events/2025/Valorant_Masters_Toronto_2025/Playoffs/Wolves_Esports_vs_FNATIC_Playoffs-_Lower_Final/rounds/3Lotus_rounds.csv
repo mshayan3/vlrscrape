@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+3Lotus,1,"""0-1""",FNC,Attackers,Elimination
+3Lotus,2,"""0-2""",FNC,Attackers,Spike Detonation
+3Lotus,3,"""1-2""",WOL,Defenders,Elimination
+3Lotus,4,"""2-2""",WOL,Defenders,Defuse
+3Lotus,5,"""3-2""",WOL,Defenders,Defuse
+3Lotus,6,"""4-2""",WOL,Defenders,Elimination
+3Lotus,7,"""4-3""",FNC,Attackers,Elimination
+3Lotus,8,"""5-3""",WOL,Defenders,Defuse
+3Lotus,9,"""6-3""",WOL,Defenders,Defuse
+3Lotus,10,"""6-4""",FNC,Attackers,Elimination
+3Lotus,11,"""6-5""",FNC,Attackers,Elimination
+3Lotus,12,"""6-6""",FNC,Attackers,Elimination
+3Lotus,13,"""6-7""",WOL,Defenders,Elimination
+3Lotus,14,"""6-8""",WOL,Defenders,Elimination
+3Lotus,15,"""7-8""",FNC,Attackers,Spike Detonation
+3Lotus,16,"""8-8""",FNC,Attackers,Spike Detonation
+3Lotus,17,"""8-9""",WOL,Defenders,Defuse
+3Lotus,18,"""9-9""",FNC,Attackers,Elimination
+3Lotus,19,"""10-9""",FNC,Attackers,Elimination
+3Lotus,20,"""10-10""",WOL,Defenders,Elimination
+3Lotus,21,"""11-10""",FNC,Attackers,Elimination
+3Lotus,22,"""12-10""",FNC,Attackers,Spike Detonation
+3Lotus,23,"""13-10""",FNC,Attackers,Elimination
+3Lotus,24,"""""",,,

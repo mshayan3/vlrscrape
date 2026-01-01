@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+2Split,1,"""1-0""",TLN,Defenders,Elimination
+2Split,2,"""1-1""",ZETA,Attackers,Elimination
+2Split,3,"""1-2""",ZETA,Attackers,Spike Detonation
+2Split,4,"""2-2""",TLN,Defenders,Defuse
+2Split,5,"""3-2""",TLN,Defenders,Elimination
+2Split,6,"""4-2""",TLN,Defenders,Defuse
+2Split,7,"""5-2""",TLN,Defenders,Elimination
+2Split,8,"""5-3""",ZETA,Attackers,Elimination
+2Split,9,"""6-3""",TLN,Defenders,Time Expired
+2Split,10,"""7-3""",TLN,Defenders,Elimination
+2Split,11,"""7-4""",ZETA,Attackers,Elimination
+2Split,12,"""7-5""",ZETA,Attackers,Elimination
+2Split,13,"""7-6""",TLN,Defenders,Defuse
+2Split,14,"""7-7""",TLN,Defenders,Defuse
+2Split,15,"""8-7""",ZETA,Attackers,Elimination
+2Split,16,"""8-8""",TLN,Defenders,Elimination
+2Split,17,"""8-9""",TLN,Defenders,Elimination
+2Split,18,"""9-9""",ZETA,Attackers,Elimination
+2Split,19,"""10-9""",ZETA,Attackers,Elimination
+2Split,20,"""10-10""",TLN,Defenders,Elimination
+2Split,21,"""10-11""",TLN,Defenders,Defuse
+2Split,22,"""10-12""",TLN,Defenders,Elimination
+2Split,23,"""10-13""",TLN,Defenders,Defuse
+2Split,24,"""""",,,

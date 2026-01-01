@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+3Split,1,"""1-0""",BBL,Attackers,Elimination
+3Split,2,"""2-0""",BBL,Attackers,Elimination
+3Split,3,"""3-0""",BBL,Attackers,Elimination
+3Split,4,"""3-1""",FNC,Defenders,Elimination
+3Split,5,"""4-1""",BBL,Attackers,Elimination
+3Split,6,"""5-1""",BBL,Attackers,Elimination
+3Split,7,"""5-2""",FNC,Defenders,Defuse
+3Split,8,"""5-3""",FNC,Defenders,Elimination
+3Split,9,"""6-3""",BBL,Attackers,Spike Detonation
+3Split,10,"""7-3""",BBL,Attackers,Spike Detonation
+3Split,11,"""8-3""",BBL,Attackers,Elimination
+3Split,12,"""9-3""",BBL,Attackers,Elimination
+3Split,13,"""9-4""",BBL,Attackers,Elimination
+3Split,14,"""9-5""",BBL,Attackers,Spike Detonation
+3Split,15,"""9-6""",BBL,Attackers,Spike Detonation
+3Split,16,"""9-7""",BBL,Attackers,Spike Detonation
+3Split,17,"""9-8""",BBL,Attackers,Spike Detonation
+3Split,18,"""9-9""",BBL,Attackers,Elimination
+3Split,19,"""9-10""",BBL,Attackers,Spike Detonation
+3Split,20,"""9-11""",BBL,Attackers,Elimination
+3Split,21,"""9-12""",BBL,Attackers,Elimination
+3Split,22,"""10-12""",FNC,Defenders,Elimination
+3Split,23,"""10-13""",BBL,Attackers,Elimination
+3Split,24,"""""",,,

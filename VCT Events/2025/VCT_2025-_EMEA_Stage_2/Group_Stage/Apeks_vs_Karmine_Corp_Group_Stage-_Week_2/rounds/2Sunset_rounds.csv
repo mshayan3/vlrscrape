@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+2Sunset,1,"""0-1""",KC,Attackers,Elimination
+2Sunset,2,"""0-2""",KC,Attackers,Elimination
+2Sunset,3,"""1-2""",APK,Defenders,Defuse
+2Sunset,4,"""1-3""",KC,Attackers,Elimination
+2Sunset,5,"""1-4""",KC,Attackers,Spike Detonation
+2Sunset,6,"""1-5""",KC,Attackers,Elimination
+2Sunset,7,"""2-5""",APK,Defenders,Time Expired
+2Sunset,8,"""3-5""",APK,Defenders,Defuse
+2Sunset,9,"""3-6""",KC,Attackers,Elimination
+2Sunset,10,"""3-7""",KC,Attackers,Elimination
+2Sunset,11,"""4-7""",APK,Defenders,Defuse
+2Sunset,12,"""5-7""",APK,Defenders,Defuse
+2Sunset,13,"""6-7""",KC,Attackers,Elimination
+2Sunset,14,"""7-7""",KC,Attackers,Elimination
+2Sunset,15,"""8-7""",KC,Attackers,Elimination
+2Sunset,16,"""9-7""",KC,Attackers,Elimination
+2Sunset,17,"""10-7""",KC,Attackers,Elimination
+2Sunset,18,"""10-8""",APK,Defenders,Defuse
+2Sunset,19,"""11-8""",KC,Attackers,Elimination
+2Sunset,20,"""12-8""",KC,Attackers,Elimination
+2Sunset,21,"""12-9""",APK,Defenders,Elimination
+2Sunset,22,"""12-10""",APK,Defenders,Elimination
+2Sunset,23,"""12-11""",APK,Defenders,Defuse
+2Sunset,24,"""13-11""",KC,Attackers,Elimination

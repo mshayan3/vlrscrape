@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+kaajak,FNC,All_Maps,All,"Raze, Jett",1.29,271,65,48,11,+17,76%,172,33%,12,5,+7
+crashies,FNC,All_Maps,All,"Fade, Sova",1.25,241,58,45,19,+13,78%,176,34%,3,1,+2
+Chronicle,FNC,All_Maps,All,"Viper, Sage",0.93,214,51,51,12,0,69%,134,26%,9,6,+3
+Alfajer,FNC,All_Maps,All,"Tejo, Killjoy",0.69,156,39,51,8,-12,61%,108,27%,9,10,-1
+Boaster,FNC,All_Maps,All,"Astra, Omen, Viper",0.67,131,31,46,21,-15,63%,92,22%,5,7,-2
+Avez,KC,All_Maps,All,"Gekko, Raze, Sova",1.35,263,65,48,14,+17,70%,168,29%,5,5,0
+SUYGETSU,KC,All_Maps,All,"Astra, Omen, Viper",1.00,196,49,47,18,+2,67%,130,35%,6,10,-4
+Elite,KC,All_Maps,All,"Vyse, Cypher, Killjoy",0.95,186,44,49,10,-5,67%,125,47%,5,7,-2
+marteen,KC,All_Maps,All,"Yoru, Omen",0.91,204,44,51,26,-7,75%,135,35%,8,10,-2
+saadhak,KC,All_Maps,All,"Deadlock, Fade, Kayo",0.87,164,39,49,27,-10,70%,107,28%,5,6,-1
+kaajak,FNC,All_Maps,Attack,"Raze, Jett",0.95,207,23,23,5,0,68%,132,30%,6,3,+3
+crashies,FNC,All_Maps,Attack,"Fade, Sova",1.35,272,30,22,13,+8,81%,198,43%,0,1,-1
+Chronicle,FNC,All_Maps,Attack,"Viper, Sage",0.96,221,25,23,6,+2,71%,148,31%,4,4,0
+Alfajer,FNC,All_Maps,Attack,"Tejo, Killjoy",0.78,178,20,24,4,-4,71%,113,29%,5,3,+2
+Boaster,FNC,All_Maps,Attack,"Astra, Omen, Viper",0.70,140,15,21,8,-6,61%,86,18%,3,2,+1
+Avez,KC,All_Maps,Attack,"Gekko, Raze, Sova",1.31,246,34,24,7,+10,67%,157,31%,3,0,+3
+SUYGETSU,KC,All_Maps,Attack,"Astra, Omen, Viper",0.68,153,19,26,6,-7,61%,101,33%,2,6,-4
+Elite,KC,All_Maps,Attack,"Vyse, Cypher, Killjoy",1.07,216,27,26,6,+1,72%,140,53%,3,4,-1
+marteen,KC,All_Maps,Attack,"Yoru, Omen",0.82,197,23,29,16,-6,69%,127,39%,5,7,-2
+saadhak,KC,All_Maps,Attack,"Deadlock, Fade, Kayo",1.03,200,25,26,13,-1,69%,125,27%,3,3,0
+kaajak,FNC,All_Maps,Defend,"Raze, Jett",1.59,323,42,25,6,+17,83%,208,36%,6,2,+4
+crashies,FNC,All_Maps,Defend,"Fade, Sova",1.17,212,28,23,6,+5,75%,157,26%,3,0,+3
+Chronicle,FNC,All_Maps,Defend,"Viper, Sage",0.90,201,26,28,6,-2,67%,123,21%,5,2,+3
+Alfajer,FNC,All_Maps,Defend,"Tejo, Killjoy",0.61,142,19,27,4,-8,53%,104,25%,4,7,-3
+Boaster,FNC,All_Maps,Defend,"Astra, Omen, Viper",0.65,128,16,25,13,-9,64%,97,25%,2,5,-3
+Avez,KC,All_Maps,Defend,"Gekko, Raze, Sova",1.39,290,31,24,7,+7,74%,180,27%,2,5,-3
+SUYGETSU,KC,All_Maps,Defend,"Astra, Omen, Viper",1.37,250,30,21,12,+9,74%,163,38%,4,4,0
+Elite,KC,All_Maps,Defend,"Vyse, Cypher, Killjoy",0.81,151,17,23,4,-6,61%,107,40%,2,3,-1
+marteen,KC,All_Maps,Defend,"Yoru, Omen",1.01,212,21,22,10,-1,81%,144,31%,3,3,0
+saadhak,KC,All_Maps,Defend,"Deadlock, Fade, Kayo",0.69,131,14,23,14,-9,71%,86,30%,2,3,-1

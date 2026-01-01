@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+RieNs,TH,All_Maps,All,"Fade, Sova",1.13,220,30,32,15,-2,71%,145,24%,3,2,+1
+Wo0t,TH,All_Maps,All,Viper,0.77,187,27,39,6,-12,67%,124,28%,6,4,+2
+MiniBoo,TH,All_Maps,All,Yoru,0.72,154,26,35,2,-9,47%,115,34%,5,11,-6
+benjyfishy,TH,All_Maps,All,Vyse,0.72,154,23,37,11,-14,62%,99,30%,1,1,0
+Boo,TH,All_Maps,All,"Astra, Omen",0.59,114,17,33,9,-16,58%,74,41%,4,8,-4
+artzin,MIBR,All_Maps,All,"Kayo, Viper",1.43,262,39,24,25,+15,80%,171,22%,8,3,+5
+aspas,MIBR,All_Maps,All,"Waylay, Neon",1.19,238,38,25,9,+13,87%,145,26%,8,4,+4
+cortezia,MIBR,All_Maps,All,"Viper, Cypher",1.07,180,33,22,7,+11,80%,119,32%,4,4,0
+Verno,MIBR,All_Maps,All,Sova,1.07,224,36,27,17,+9,78%,150,27%,3,4,-1
+xenom,MIBR,All_Maps,All,Omen,1.04,181,30,25,22,+5,80%,117,26%,3,4,-1
+RieNs,TH,All_Maps,Attack,"Fade, Sova",1.26,271,21,19,7,+2,72%,177,19%,3,1,+2
+Wo0t,TH,All_Maps,Attack,Viper,0.92,217,17,21,5,-4,84%,146,22%,4,0,+4
+MiniBoo,TH,All_Maps,Attack,Yoru,0.58,137,12,19,1,-7,40%,100,34%,2,8,-6
+benjyfishy,TH,All_Maps,Attack,Vyse,0.66,132,12,21,8,-9,64%,84,19%,0,0,0
+Boo,TH,All_Maps,Attack,"Astra, Omen",0.34,66,5,20,4,-15,52%,38,26%,2,5,-3
+artzin,MIBR,All_Maps,Attack,"Kayo, Viper",1.59,275,18,10,13,+8,80%,183,24%,5,1,+4
+aspas,MIBR,All_Maps,Attack,"Waylay, Neon",1.14,225,16,11,6,+5,85%,146,33%,5,2,+3
+cortezia,MIBR,All_Maps,Attack,"Viper, Cypher",0.93,157,14,11,3,+3,75%,98,25%,0,3,-3
+Verno,MIBR,All_Maps,Attack,Sova,1.01,213,16,12,6,+4,85%,146,36%,2,2,0
+xenom,MIBR,All_Maps,Attack,Omen,0.99,164,12,12,10,0,75%,102,26%,0,0,0
+RieNs,TH,All_Maps,Defend,"Fade, Sova",0.97,156,9,13,8,-4,70%,105,35%,0,1,-1
+Wo0t,TH,All_Maps,Defend,Viper,0.59,153,10,18,1,-8,45%,97,39%,2,4,-2
+MiniBoo,TH,All_Maps,Defend,Yoru,0.90,191,14,16,1,-2,55%,135,33%,3,3,0
+benjyfishy,TH,All_Maps,Defend,Vyse,0.79,173,11,16,3,-5,60%,117,43%,1,1,0
+Boo,TH,All_Maps,Defend,"Astra, Omen",0.90,179,12,13,5,-1,65%,120,50%,2,3,-1
+artzin,MIBR,All_Maps,Defend,"Kayo, Viper",1.30,258,21,14,12,+7,80%,162,20%,3,2,+1
+aspas,MIBR,All_Maps,Defend,"Waylay, Neon",1.22,237,22,14,3,+8,88%,145,21%,3,2,+1
+cortezia,MIBR,All_Maps,Defend,"Viper, Cypher",1.18,186,19,11,4,+8,84%,136,35%,4,1,+3
+Verno,MIBR,All_Maps,Defend,Sova,1.12,231,20,15,11,+5,72%,154,20%,1,2,-1
+xenom,MIBR,All_Maps,Defend,Omen,1.09,197,18,13,12,+5,84%,129,26%,3,4,-1

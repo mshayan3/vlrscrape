@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+t3xture,GEN,All_Maps,All,"Raze, Neon, Jett",1.02,211,55,46,9,+9,66%,135,28%,11,12,-1
+Munchkin,GEN,All_Maps,All,Viper,1.00,229,51,51,16,0,74%,154,30%,10,9,+1
+Ash,GEN,All_Maps,All,"Fade, Sova",0.95,182,45,45,15,0,65%,122,28%,3,3,0
+Karon,GEN,All_Maps,All,Omen,0.80,148,36,48,14,-12,68%,100,32%,5,6,-1
+Foxy9,GEN,All_Maps,All,"Vyse, Killjoy",0.68,147,34,50,14,-16,65%,99,31%,7,2,+5
+leaf,G2,All_Maps,All,"Viper, Vyse, Killjoy",1.28,220,55,42,21,+13,81%,154,23%,3,3,0
+trent,G2,All_Maps,All,"Tejo, Fade, Sova",1.08,201,49,45,16,+4,78%,133,39%,5,5,0
+jawgemo,G2,All_Maps,All,"Yoru, Sage",1.07,214,49,47,20,+2,78%,141,22%,14,11,+3
+valyn,G2,All_Maps,All,Omen,1.01,185,44,43,23,+1,75%,115,25%,7,7,0
+JonahP,G2,All_Maps,All,"Fade, Viper",1.00,180,43,44,25,-1,74%,121,23%,3,10,-7
+t3xture,GEN,All_Maps,Attack,"Raze, Neon, Jett",0.84,203,26,28,3,-2,61%,130,38%,6,9,-3
+Munchkin,GEN,All_Maps,Attack,Viper,0.92,212,26,29,4,-3,58%,142,32%,6,5,+1
+Ash,GEN,All_Maps,Attack,"Fade, Sova",0.78,172,20,27,8,-7,58%,115,21%,1,0,+1
+Karon,GEN,All_Maps,Attack,Omen,0.79,160,20,29,9,-9,64%,109,30%,1,4,-3
+Foxy9,GEN,All_Maps,Attack,"Vyse, Killjoy",0.56,109,13,26,7,-13,61%,73,32%,2,2,0
+leaf,G2,All_Maps,Attack,"Viper, Vyse, Killjoy",1.47,253,29,19,7,+10,78%,176,26%,2,0,+2
+trent,G2,All_Maps,Attack,"Tejo, Fade, Sova",0.97,198,24,25,7,-1,75%,136,40%,1,3,-2
+jawgemo,G2,All_Maps,Attack,"Yoru, Sage",0.66,153,15,27,9,-12,69%,98,14%,6,7,-1
+valyn,G2,All_Maps,Attack,Omen,0.85,158,18,24,10,-6,63%,96,19%,2,5,-3
+JonahP,G2,All_Maps,Attack,"Fade, Viper",0.90,149,15,21,12,-6,72%,108,19%,1,5,-4
+t3xture,GEN,All_Maps,Defend,"Raze, Neon, Jett",1.23,229,29,18,6,+11,72%,140,16%,5,3,+2
+Munchkin,GEN,All_Maps,Defend,Viper,1.09,249,25,22,12,+3,91%,168,28%,4,4,0
+Ash,GEN,All_Maps,Defend,"Fade, Sova",1.14,197,25,18,7,+7,72%,130,35%,2,3,-1
+Karon,GEN,All_Maps,Defend,Omen,0.82,136,16,19,5,-3,72%,90,37%,4,2,+2
+Foxy9,GEN,All_Maps,Defend,"Vyse, Killjoy",0.81,191,21,24,7,-3,69%,128,31%,5,0,+5
+leaf,G2,All_Maps,Defend,"Viper, Vyse, Killjoy",1.12,195,26,23,14,+3,83%,135,20%,1,3,-2
+trent,G2,All_Maps,Defend,"Tejo, Fade, Sova",1.18,205,25,20,9,+5,81%,130,38%,4,2,+2
+jawgemo,G2,All_Maps,Defend,"Yoru, Sage",1.43,261,34,20,11,+14,86%,179,26%,8,4,+4
+valyn,G2,All_Maps,Defend,Omen,1.16,205,26,19,13,+7,86%,132,30%,5,2,+3
+JonahP,G2,All_Maps,Defend,"Fade, Viper",1.08,208,28,23,13,+5,75%,133,27%,2,5,-3

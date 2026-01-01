@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+valyn,G2,All_Maps,All,Omen,1.17,248,37,37,21,0,70%,159,25%,8,4,+4
+leaf,G2,All_Maps,All,"Cypher, Viper",1.10,217,36,33,10,+3,65%,144,19%,1,7,-6
+trent,G2,All_Maps,All,"Fade, Tejo",0.90,154,26,30,9,-4,70%,95,31%,0,3,-3
+jawgemo,G2,All_Maps,All,"Raze, Yoru",0.67,153,23,36,12,-13,57%,98,22%,5,9,-4
+JonahP,G2,All_Maps,All,"Sage, Fade",0.60,133,20,35,17,-15,63%,86,16%,3,6,-3
+RieNs,TH,All_Maps,All,Fade,1.32,242,41,29,19,+12,85%,164,34%,4,2,+2
+benjyfishy,TH,All_Maps,All,"Vyse, Deadlock",1.27,251,39,29,18,+10,80%,167,24%,4,3,+1
+MiniBoo,TH,All_Maps,All,"Yoru, Raze",1.17,243,40,32,10,+8,74%,161,32%,16,6,+10
+Boo,TH,All_Maps,All,"Astra, Omen",1.09,150,23,25,41,-2,78%,92,26%,2,2,0
+Wo0t,TH,All_Maps,All,"Viper, Chamber",0.97,175,28,27,8,+1,74%,124,34%,3,4,-1
+valyn,G2,All_Maps,Attack,Omen,0.72,159,10,20,6,-10,45%,99,15%,2,2,0
+leaf,G2,All_Maps,Attack,"Cypher, Viper",0.88,187,14,19,5,-5,50%,116,13%,0,4,-4
+trent,G2,All_Maps,Attack,"Fade, Tejo",0.44,109,7,18,2,-11,59%,68,38%,0,2,-2
+jawgemo,G2,All_Maps,Attack,"Raze, Yoru",0.54,155,11,20,4,-9,50%,96,24%,2,6,-4
+JonahP,G2,All_Maps,Attack,"Sage, Fade",0.23,101,6,21,7,-15,55%,75,25%,0,4,-4
+RieNs,TH,All_Maps,Attack,Fade,1.03,184,14,17,8,-3,75%,127,39%,2,1,+1
+benjyfishy,TH,All_Maps,Attack,"Vyse, Deadlock",1.13,218,19,17,6,+2,75%,142,18%,1,1,0
+MiniBoo,TH,All_Maps,Attack,"Yoru, Raze",0.79,214,18,21,2,-3,58%,135,37%,7,6,+1
+Boo,TH,All_Maps,Attack,"Astra, Omen",0.70,127,9,19,12,-10,71%,92,33%,0,1,-1
+Wo0t,TH,All_Maps,Attack,"Viper, Chamber",0.59,161,13,20,4,-7,58%,112,28%,1,4,-3
+valyn,G2,All_Maps,Defend,Omen,1.59,331,27,17,15,+10,92%,214,34%,6,2,+4
+leaf,G2,All_Maps,Defend,"Cypher, Viper",1.31,245,22,14,5,+8,79%,169,22%,1,3,-2
+trent,G2,All_Maps,Defend,"Fade, Tejo",1.31,195,19,12,7,+7,79%,121,29%,0,1,-1
+jawgemo,G2,All_Maps,Defend,"Raze, Yoru",0.79,152,12,16,8,-4,63%,100,21%,3,3,0
+JonahP,G2,All_Maps,Defend,"Sage, Fade",0.93,164,14,14,10,0,71%,97,12%,3,2,+1
+RieNs,TH,All_Maps,Defend,Fade,1.64,306,27,12,11,+15,95%,204,31%,2,1,+1
+benjyfishy,TH,All_Maps,Defend,"Vyse, Deadlock",1.43,288,20,12,12,+8,86%,195,29%,3,2,+1
+MiniBoo,TH,All_Maps,Defend,"Yoru, Raze",1.59,276,22,11,8,+11,91%,189,29%,9,0,+9
+Boo,TH,All_Maps,Defend,"Astra, Omen",1.53,176,14,6,29,+8,86%,92,20%,2,1,+1
+Wo0t,TH,All_Maps,Defend,"Viper, Chamber",1.39,190,15,7,4,+8,91%,137,41%,2,0,+2

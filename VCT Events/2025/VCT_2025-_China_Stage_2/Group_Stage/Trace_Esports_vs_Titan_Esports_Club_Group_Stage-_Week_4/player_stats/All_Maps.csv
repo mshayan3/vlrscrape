@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Kai,TE,All_Maps,All,"Neon, Yoru",1.05,257,41,35,4,+6,57%,159,29%,7,5,+2
+MarT1n,TE,All_Maps,All,Deadlock,0.90,189,29,31,7,-2,69%,119,43%,4,4,0
+FengF,TE,All_Maps,All,Cypher,0.81,168,23,34,9,-11,62%,117,28%,6,4,+2
+LuoK1ng,TE,All_Maps,All,Omen,0.80,175,23,33,15,-10,69%,108,29%,6,2,+4
+Biank,TE,All_Maps,All,Sova,0.51,120,16,36,6,-20,67%,79,26%,1,3,-2
+Abo,TEC,All_Maps,All,"Deadlock, Killjoy",1.42,240,39,23,4,+16,79%,163,43%,2,4,-2
+lucas,TEC,All_Maps,All,Sova,1.22,225,33,27,15,+6,71%,152,27%,5,4,+1
+Coco,TEC,All_Maps,All,Viper,1.17,262,37,31,13,+6,74%,171,43%,5,3,+2
+Haodong,TEC,All_Maps,All,Omen,1.17,208,33,23,19,+10,76%,132,27%,1,3,-2
+TvirusLuke,TEC,All_Maps,All,Neon,0.87,176,27,28,7,-1,76%,116,18%,5,10,-5
+Kai,TE,All_Maps,Attack,"Neon, Yoru",1.14,273,23,20,4,+3,54%,169,31%,3,4,-1
+MarT1n,TE,All_Maps,Attack,Deadlock,0.72,160,13,18,3,-5,63%,103,35%,3,2,+1
+FengF,TE,All_Maps,Attack,Cypher,0.53,125,10,21,3,-11,46%,91,26%,3,4,-1
+LuoK1ng,TE,All_Maps,Attack,Omen,0.56,127,10,20,7,-10,58%,79,34%,0,2,-2
+Biank,TE,All_Maps,Attack,Sova,0.53,130,10,21,3,-11,58%,88,29%,1,2,-1
+Abo,TEC,All_Maps,Attack,"Deadlock, Killjoy",1.12,263,18,15,2,+3,78%,171,65%,1,3,-2
+lucas,TEC,All_Maps,Attack,Sova,1.31,202,13,10,5,+3,67%,136,26%,0,2,-2
+Coco,TEC,All_Maps,Attack,Viper,1.23,273,18,14,3,+4,67%,177,46%,2,0,+2
+Haodong,TEC,All_Maps,Attack,Omen,0.72,158,9,13,11,-4,72%,107,19%,0,2,-2
+TvirusLuke,TEC,All_Maps,Attack,Neon,0.73,174,11,14,4,-3,67%,118,21%,1,7,-6
+Kai,TE,All_Maps,Defend,"Neon, Yoru",0.94,248,18,15,0,+3,61%,145,29%,4,1,+3
+MarT1n,TE,All_Maps,Defend,Deadlock,1.14,226,16,13,4,+3,78%,142,49%,1,2,-1
+FengF,TE,All_Maps,Defend,Cypher,1.17,226,13,13,6,0,83%,151,29%,3,0,+3
+LuoK1ng,TE,All_Maps,Defend,Omen,1.12,233,13,13,8,0,83%,147,25%,6,0,+6
+Biank,TE,All_Maps,Defend,Sova,0.48,103,6,15,3,-9,78%,68,23%,0,1,-1
+Abo,TEC,All_Maps,Defend,"Deadlock, Killjoy",1.65,225,21,8,2,+13,79%,157,33%,1,1,0
+lucas,TEC,All_Maps,Defend,Sova,1.14,241,20,17,10,+3,75%,164,28%,5,2,+3
+Coco,TEC,All_Maps,Defend,Viper,1.12,251,19,17,10,+2,79%,166,39%,3,3,0
+Haodong,TEC,All_Maps,Defend,Omen,1.51,244,24,10,8,+14,79%,151,29%,1,1,0
+TvirusLuke,TEC,All_Maps,Defend,Neon,0.97,178,16,14,3,+2,83%,114,15%,4,3,+1

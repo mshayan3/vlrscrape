@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+MiniBoo,TH,All_Maps,All,"Waylay, Raze, Neon",1.25,268,57,41,8,+16,69%,165,29%,14,11,+3
+RieNs,TH,All_Maps,All,"Sova, Fade",1.12,219,44,38,14,+6,83%,148,43%,6,4,+2
+Wo0t,TH,All_Maps,All,"Kayo, Iso, Tejo",1.06,197,43,39,17,+4,72%,131,27%,5,6,-1
+Boo,TH,All_Maps,All,"Omen, Viper",0.99,165,33,35,26,-2,79%,103,29%,3,2,+1
+benjyfishy,TH,All_Maps,All,"Cypher, Viper, Vyse",0.96,191,43,41,16,+2,74%,136,30%,3,4,-1
+AvovA,APK,All_Maps,All,"Omen, Viper",1.28,222,44,37,29,+7,76%,143,35%,5,0,+5
+MOLSI,APK,All_Maps,All,"Deadlock, Breach",1.02,198,40,45,28,-5,71%,121,32%,2,4,-2
+batujnax,APK,All_Maps,All,"Cypher, Viper, Killjoy",0.80,194,39,45,11,-6,64%,126,23%,4,9,-5
+florescent,APK,All_Maps,All,"Yoru, Waylay",0.71,203,40,49,6,-9,59%,133,34%,9,9,0
+Governor,APK,All_Maps,All,"Sova, Tejo",0.66,152,31,44,10,-13,55%,100,32%,7,9,-2
+MiniBoo,TH,All_Maps,Attack,"Waylay, Raze, Neon",1.01,244,28,24,3,+4,67%,146,29%,10,8,+2
+RieNs,TH,All_Maps,Attack,"Sova, Fade",1.32,241,28,19,7,+9,82%,164,45%,3,3,0
+Wo0t,TH,All_Maps,Attack,"Kayo, Iso, Tejo",1.11,204,26,20,8,+6,64%,128,29%,1,4,-3
+Boo,TH,All_Maps,Attack,"Omen, Viper",1.05,158,19,17,14,+2,79%,100,27%,1,0,+1
+benjyfishy,TH,All_Maps,Attack,"Cypher, Viper, Vyse",0.83,186,22,27,11,-5,76%,133,33%,1,2,-1
+AvovA,APK,All_Maps,Attack,"Omen, Viper",1.55,261,23,15,16,+8,80%,171,29%,0,0,0
+MOLSI,APK,All_Maps,Attack,"Deadlock, Breach",1.31,247,22,19,11,+3,76%,153,33%,2,1,+1
+batujnax,APK,All_Maps,Attack,"Cypher, Viper, Killjoy",0.69,182,17,21,4,-4,56%,101,21%,2,6,-4
+florescent,APK,All_Maps,Attack,"Yoru, Waylay",0.46,164,13,22,1,-9,44%,112,45%,3,6,-3
+Governor,APK,All_Maps,Attack,"Sova, Tejo",0.47,136,12,20,4,-8,56%,93,34%,3,2,+1
+MiniBoo,TH,All_Maps,Defend,"Waylay, Raze, Neon",1.57,303,29,17,5,+12,72%,190,29%,4,3,+1
+RieNs,TH,All_Maps,Defend,"Sova, Fade",0.86,190,16,19,7,-3,84%,126,41%,3,1,+2
+Wo0t,TH,All_Maps,Defend,"Kayo, Iso, Tejo",1.00,194,17,19,9,-2,84%,135,25%,4,2,+2
+Boo,TH,All_Maps,Defend,"Omen, Viper",0.92,174,14,18,12,-4,80%,106,31%,2,2,0
+benjyfishy,TH,All_Maps,Defend,"Cypher, Viper, Vyse",1.13,200,21,14,5,+7,72%,139,27%,2,2,0
+AvovA,APK,All_Maps,Defend,"Omen, Viper",1.07,193,21,22,13,-1,73%,121,43%,5,0,+5
+MOLSI,APK,All_Maps,Defend,"Deadlock, Breach",0.81,162,18,26,17,-8,67%,98,31%,0,3,-3
+batujnax,APK,All_Maps,Defend,"Cypher, Viper, Killjoy",0.88,205,22,24,7,-2,70%,144,23%,2,3,-1
+florescent,APK,All_Maps,Defend,"Yoru, Waylay",0.89,234,27,27,5,0,70%,149,28%,6,3,+3
+Governor,APK,All_Maps,Defend,"Sova, Tejo",0.81,161,19,24,6,-5,55%,106,29%,4,7,-3

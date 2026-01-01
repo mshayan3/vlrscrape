@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+xeus,FUT,All_Maps,All,Raze,0.97,257,34,34,5,0,59%,151,32%,6,7,-1
+MrFaliN,FUT,All_Maps,All,"Tejo, Breach",0.77,154,19,28,9,-9,59%,104,17%,1,6,-5
+yetujey,FUT,All_Maps,All,"Viper, Cypher",0.76,178,22,31,6,-9,76%,121,23%,4,3,+1
+qRaxs,FUT,All_Maps,All,"Kayo, Fade",0.66,151,18,29,7,-11,65%,107,21%,1,5,-4
+AtaKaptan,FUT,All_Maps,All,"Brimstone, Astra",0.66,123,16,31,15,-15,68%,78,32%,0,4,-4
+Derke,VIT,All_Maps,All,Raze,1.54,349,44,25,7,+19,76%,225,24%,14,6,+8
+Kicks,VIT,All_Maps,All,"Skye, Breach",1.46,264,36,23,22,+13,89%,166,28%,4,0,+4
+Sayf,VIT,All_Maps,All,"Tejo, Omen",1.20,199,29,19,11,+10,78%,139,34%,3,1,+2
+Less,VIT,All_Maps,All,Viper,1.14,204,27,20,9,+7,70%,137,27%,1,3,-2
+trexx,VIT,All_Maps,All,"Brimstone, Fade",0.93,149,17,22,17,-5,73%,99,14%,3,2,+1
+xeus,FUT,All_Maps,Attack,Raze,0.81,237,16,18,2,-2,55%,155,30%,4,4,0
+MrFaliN,FUT,All_Maps,Attack,"Tejo, Breach",0.77,177,12,16,1,-4,50%,106,18%,1,3,-2
+yetujey,FUT,All_Maps,Attack,"Viper, Cypher",0.65,180,12,19,3,-7,75%,112,23%,3,1,+2
+qRaxs,FUT,All_Maps,Attack,"Kayo, Fade",0.44,112,6,16,4,-10,65%,91,15%,0,3,-3
+AtaKaptan,FUT,All_Maps,Attack,"Brimstone, Astra",0.65,116,8,17,6,-9,60%,70,27%,0,1,-1
+Derke,VIT,All_Maps,Attack,Raze,1.45,366,20,13,4,+7,71%,243,17%,7,3,+4
+Kicks,VIT,All_Maps,Attack,"Skye, Breach",0.98,195,12,13,9,-1,88%,132,29%,1,0,+1
+Sayf,VIT,All_Maps,Attack,"Tejo, Omen",1.13,208,13,10,4,+3,71%,131,38%,3,0,+3
+Less,VIT,All_Maps,Attack,Viper,1.19,202,14,9,2,+5,65%,124,24%,1,0,+1
+trexx,VIT,All_Maps,Attack,"Brimstone, Fade",0.92,146,8,10,8,-2,76%,90,8%,1,1,0
+xeus,FUT,All_Maps,Defend,Raze,1.15,285,18,16,3,+2,65%,146,34%,2,3,-1
+MrFaliN,FUT,All_Maps,Defend,"Tejo, Breach",0.77,122,7,12,8,-5,71%,101,15%,0,3,-3
+yetujey,FUT,All_Maps,Defend,"Viper, Cypher",0.90,185,10,12,3,-2,76%,132,24%,1,2,-1
+qRaxs,FUT,All_Maps,Defend,"Kayo, Fade",0.93,198,12,13,3,-1,65%,126,27%,1,2,-1
+AtaKaptan,FUT,All_Maps,Defend,"Brimstone, Astra",0.68,135,8,14,9,-6,76%,87,36%,0,3,-3
+Derke,VIT,All_Maps,Defend,Raze,1.62,324,24,12,3,+12,80%,209,34%,7,3,+4
+Kicks,VIT,All_Maps,Defend,"Skye, Breach",1.86,323,24,10,13,+14,90%,194,27%,3,0,+3
+Sayf,VIT,All_Maps,Defend,"Tejo, Omen",1.26,196,16,9,7,+7,85%,146,31%,0,1,-1
+Less,VIT,All_Maps,Defend,Viper,1.11,205,13,11,7,+2,75%,148,29%,0,3,-3
+trexx,VIT,All_Maps,Defend,"Brimstone, Fade",0.94,149,9,12,9,-3,70%,106,18%,2,1,+1

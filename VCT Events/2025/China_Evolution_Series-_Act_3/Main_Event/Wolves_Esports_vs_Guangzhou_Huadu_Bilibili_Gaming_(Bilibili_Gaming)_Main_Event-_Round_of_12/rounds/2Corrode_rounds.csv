@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+2Corrode,1,"""0-1""",BLG,Attackers,Elimination
+2Corrode,2,"""0-2""",BLG,Attackers,Elimination
+2Corrode,3,"""0-3""",BLG,Attackers,Spike Detonation
+2Corrode,4,"""0-4""",BLG,Attackers,Spike Detonation
+2Corrode,5,"""1-4""",WOL,Defenders,Elimination
+2Corrode,6,"""2-4""",WOL,Defenders,Defuse
+2Corrode,7,"""3-4""",WOL,Defenders,Elimination
+2Corrode,8,"""4-4""",WOL,Defenders,Elimination
+2Corrode,9,"""5-4""",WOL,Defenders,Defuse
+2Corrode,10,"""6-4""",WOL,Defenders,Elimination
+2Corrode,11,"""7-4""",WOL,Defenders,Defuse
+2Corrode,12,"""7-5""",BLG,Attackers,Elimination
+2Corrode,13,"""7-6""",WOL,Defenders,Defuse
+2Corrode,14,"""8-6""",BLG,Attackers,Elimination
+2Corrode,15,"""9-6""",BLG,Attackers,Elimination
+2Corrode,16,"""9-7""",WOL,Defenders,Defuse
+2Corrode,17,"""9-8""",WOL,Defenders,Elimination
+2Corrode,18,"""10-8""",BLG,Attackers,Spike Detonation
+2Corrode,19,"""11-8""",BLG,Attackers,Elimination
+2Corrode,20,"""12-8""",BLG,Attackers,Spike Detonation
+2Corrode,21,"""12-9""",WOL,Defenders,Defuse
+2Corrode,22,"""13-9""",BLG,Attackers,Elimination
+2Corrode,23,"""""",,,
+2Corrode,24,"""""",,,

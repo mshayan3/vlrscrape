@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Knight,BLG,All_Maps,All,Tejo,1.26,252,38,30,12,+8,81%,173,24%,2,3,-1
+nephh,BLG,All_Maps,All,Breach,0.97,182,25,33,24,-8,81%,115,19%,2,4,-2
+Levius,BLG,All_Maps,All,"Viper, Cypher",0.92,154,25,28,8,-3,60%,101,20%,2,7,-5
+whzy,BLG,All_Maps,All,Yoru,0.91,235,34,37,9,-3,71%,141,32%,9,6,+3
+rushia,BLG,All_Maps,All,Omen,0.79,158,21,35,25,-14,79%,95,22%,4,3,+1
+Lysoar,WOL,All_Maps,All,"Omen, Cypher",1.28,231,39,27,15,+12,81%,154,26%,5,3,+2
+SiuFatBB,WOL,All_Maps,All,"Tejo, Sova",1.22,218,34,24,12,+10,74%,154,34%,1,4,-3
+Juicy,WOL,All_Maps,All,"Raze, Omen",1.15,248,36,29,13,+7,74%,163,28%,5,4,+1
+Yuicaw,WOL,All_Maps,All,"Cypher, Breach",1.15,208,31,27,15,+4,81%,151,39%,7,6,+1
+Spring,WOL,All_Maps,All,"Viper, Neon",0.58,172,23,36,11,-13,64%,108,24%,5,2,+3
+Knight,BLG,All_Maps,Attack,Tejo,1.42,264,22,14,4,+8,81%,164,26%,2,1,+1
+nephh,BLG,All_Maps,Attack,Breach,0.86,159,10,16,15,-6,81%,102,22%,1,3,-2
+Levius,BLG,All_Maps,Attack,"Viper, Cypher",1.15,187,15,12,1,+3,67%,110,30%,2,2,0
+whzy,BLG,All_Maps,Attack,Yoru,0.51,181,13,20,7,-7,71%,108,12%,2,5,-3
+rushia,BLG,All_Maps,Attack,Omen,0.90,167,11,16,14,-5,90%,104,23%,2,1,+1
+Lysoar,WOL,All_Maps,Attack,"Omen, Cypher",1.29,215,19,14,5,+5,71%,198,25%,2,1,+1
+SiuFatBB,WOL,All_Maps,Attack,"Tejo, Sova",1.41,244,20,11,7,+9,81%,197,31%,0,3,-3
+Juicy,WOL,All_Maps,Attack,"Raze, Omen",1.15,260,19,14,9,+5,76%,128,24%,1,2,-1
+Yuicaw,WOL,All_Maps,Attack,"Cypher, Breach",1.22,208,15,14,12,+1,86%,193,35%,5,4,+1
+Spring,WOL,All_Maps,Attack,"Viper, Neon",0.46,170,12,19,4,-7,57%,78,41%,3,0,+3
+Knight,BLG,All_Maps,Defend,Tejo,1.10,239,16,16,8,0,81%,181,26%,0,2,-2
+nephh,BLG,All_Maps,Defend,Breach,1.08,204,15,17,9,-2,81%,128,28%,1,1,0
+Levius,BLG,All_Maps,Defend,"Viper, Cypher",0.70,121,10,16,7,-6,52%,92,38%,0,5,-5
+whzy,BLG,All_Maps,Defend,Yoru,1.31,289,21,17,2,+4,71%,173,30%,7,1,+6
+rushia,BLG,All_Maps,Defend,Omen,0.69,149,10,19,11,-9,67%,85,13%,2,2,0
+Lysoar,WOL,All_Maps,Defend,"Omen, Cypher",1.28,246,20,13,10,+7,90%,109,27%,3,2,+1
+SiuFatBB,WOL,All_Maps,Defend,"Tejo, Sova",1.02,192,14,13,5,+1,67%,110,35%,1,1,0
+Juicy,WOL,All_Maps,Defend,"Raze, Omen",1.15,236,17,15,4,+2,71%,198,22%,4,2,+2
+Yuicaw,WOL,All_Maps,Defend,"Cypher, Breach",1.07,208,16,13,3,+3,76%,108,40%,2,2,0
+Spring,WOL,All_Maps,Defend,"Viper, Neon",0.70,173,11,17,7,-6,71%,137,27%,2,2,0

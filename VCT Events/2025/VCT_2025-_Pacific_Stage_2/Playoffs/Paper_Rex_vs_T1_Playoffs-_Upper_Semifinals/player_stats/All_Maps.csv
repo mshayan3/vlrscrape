@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Jinggg,PRX,All_Maps,All,Raze,1.61,320,44,25,9,+19,88%,205,25%,9,3,+6
+f0rsakeN,PRX,All_Maps,All,"Omen, Brimstone",1.38,236,35,22,16,+13,78%,158,37%,4,5,-1
+d4v41,PRX,All_Maps,All,"Sage, Viper",1.10,172,27,24,10,+3,80%,111,36%,5,2,+3
+something,PRX,All_Maps,All,"Sova, Yoru",1.05,193,26,25,14,+1,73%,131,42%,5,3,+2
+PatMen,PRX,All_Maps,All,"Viper, Fade",0.84,148,21,24,10,-3,75%,97,38%,0,4,-4
+Meteor,T1,All_Maps,All,"Cypher, Viper",0.98,243,33,30,8,+3,63%,147,21%,7,6,+1
+stax,T1,All_Maps,All,"Sova, Kayo",0.91,172,24,30,13,-6,73%,107,27%,4,2,+2
+BuZz,T1,All_Maps,All,"Yoru, Raze",0.84,201,28,32,4,-4,68%,136,24%,2,6,-4
+DH,T1,All_Maps,All,"Omen, Brimstone",0.78,131,18,29,17,-11,70%,91,39%,2,5,-3
+iZu,T1,All_Maps,All,"Neon, Gekko",0.56,151,17,32,12,-15,63%,103,18%,2,4,-2
+Jinggg,PRX,All_Maps,Attack,Raze,1.54,312,17,10,5,+7,88%,194,25%,2,3,-1
+f0rsakeN,PRX,All_Maps,Attack,"Omen, Brimstone",1.32,212,13,8,6,+5,75%,130,25%,1,2,-1
+d4v41,PRX,All_Maps,Attack,"Sage, Viper",1.08,149,10,9,2,+1,81%,89,35%,1,1,0
+something,PRX,All_Maps,Attack,"Sova, Yoru",1.09,228,13,11,3,+2,75%,143,33%,4,0,+4
+PatMen,PRX,All_Maps,Attack,"Viper, Fade",1.01,165,9,8,2,+1,81%,114,45%,0,2,-2
+Meteor,T1,All_Maps,Attack,"Cypher, Viper",0.96,270,21,19,4,+2,63%,168,26%,4,5,-1
+stax,T1,All_Maps,Attack,"Sova, Kayo",1.20,213,18,17,10,+1,88%,126,30%,2,0,+2
+BuZz,T1,All_Maps,Attack,"Yoru, Raze",0.60,161,12,20,2,-8,63%,115,20%,1,5,-4
+DH,T1,All_Maps,Attack,"Omen, Brimstone",0.96,152,14,16,10,-2,75%,104,46%,1,4,-3
+iZu,T1,All_Maps,Attack,"Neon, Gekko",0.54,137,9,19,8,-10,71%,90,21%,1,1,0
+Jinggg,PRX,All_Maps,Defend,Raze,1.67,323,27,15,4,+12,88%,212,25%,7,0,+7
+f0rsakeN,PRX,All_Maps,Defend,"Omen, Brimstone",1.42,254,22,14,10,+8,79%,177,47%,3,3,0
+d4v41,PRX,All_Maps,Defend,"Sage, Viper",1.11,189,17,15,8,+2,79%,126,36%,4,1,+3
+something,PRX,All_Maps,Defend,"Sova, Yoru",1.03,170,13,14,11,-1,71%,123,50%,1,3,-2
+PatMen,PRX,All_Maps,Defend,"Viper, Fade",0.73,136,12,16,8,-4,71%,86,32%,0,2,-2
+Meteor,T1,All_Maps,Defend,"Cypher, Viper",1.02,205,12,11,4,+1,63%,115,12%,3,1,+2
+stax,T1,All_Maps,Defend,"Sova, Kayo",0.48,106,6,13,3,-7,50%,77,20%,2,2,0
+BuZz,T1,All_Maps,Defend,"Yoru, Raze",1.19,266,16,12,2,+4,75%,167,31%,1,1,0
+DH,T1,All_Maps,Defend,"Omen, Brimstone",0.52,102,4,13,7,-9,63%,71,28%,1,1,0
+iZu,T1,All_Maps,Defend,"Neon, Gekko",0.60,174,8,13,4,-5,50%,124,16%,1,3,-2

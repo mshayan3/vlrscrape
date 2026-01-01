@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Biank,TE,All_Maps,All,"Sova, Skye",,224,25,29,7,-4,,146,17%,6,4,+2
+FengF,TE,All_Maps,All,Raze,,216,22,28,11,-6,,161,30%,3,3,0
+heybay,TE,All_Maps,All,"Breach, Viper",,149,18,29,4,-11,,98,30%,4,2,+2
+Kai,TE,All_Maps,All,Cypher,,123,12,30,11,-18,,90,36%,2,7,-5
+LuoK1ng,TE,All_Maps,All,Omen,,100,12,31,4,-19,,76,24%,0,2,-2
+ZmjjKK,EDG,All_Maps,All,"Neon, Yoru",,327,39,20,15,+19,,209,31%,11,7,+4
+CHICHOO,EDG,All_Maps,All,"Cypher, Omen",,274,37,17,12,+20,,170,35%,5,0,+5
+nobody,EDG,All_Maps,All,Sova,,225,27,18,14,+9,,152,35%,0,2,-2
+Smoggy,EDG,All_Maps,All,"Omen, Jett",,185,26,15,11,+11,,136,30%,1,4,-3
+S1Mon,EDG,All_Maps,All,"Kayo, Gekko",,166,18,19,19,-1,,105,19%,1,2,-1
+Biank,TE,All_Maps,Attack,"Sova, Skye",,,,,,,
+FengF,TE,All_Maps,Attack,Raze,,,,,,,
+heybay,TE,All_Maps,Attack,"Breach, Viper",,,,,,,
+Kai,TE,All_Maps,Attack,Cypher,,,,,,,
+LuoK1ng,TE,All_Maps,Attack,Omen,,,,,,,
+ZmjjKK,EDG,All_Maps,Attack,"Neon, Yoru",,,,,,,
+CHICHOO,EDG,All_Maps,Attack,"Cypher, Omen",,,,,,,
+nobody,EDG,All_Maps,Attack,Sova,,,,,,,
+Smoggy,EDG,All_Maps,Attack,"Omen, Jett",,,,,,,
+S1Mon,EDG,All_Maps,Attack,"Kayo, Gekko",,,,,,,
+Biank,TE,All_Maps,Defend,"Sova, Skye",,,,,,,
+FengF,TE,All_Maps,Defend,Raze,,,,,,,
+heybay,TE,All_Maps,Defend,"Breach, Viper",,,,,,,
+Kai,TE,All_Maps,Defend,Cypher,,,,,,,
+LuoK1ng,TE,All_Maps,Defend,Omen,,,,,,,
+ZmjjKK,EDG,All_Maps,Defend,"Neon, Yoru",,,,,,,
+CHICHOO,EDG,All_Maps,Defend,"Cypher, Omen",,,,,,,
+nobody,EDG,All_Maps,Defend,Sova,,,,,,,
+Smoggy,EDG,All_Maps,Defend,"Omen, Jett",,,,,,,
+S1Mon,EDG,All_Maps,Defend,"Kayo, Gekko",,,,,,,

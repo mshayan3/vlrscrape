@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+trent,G2,All_Maps,All,Tejo,1.40,244,61,40,23,+21,81%,158,36%,2,2,0
+leaf,G2,All_Maps,All,"Vyse, Viper",1.12,231,59,51,26,+8,70%,160,17%,17,9,+8
+jawgemo,G2,All_Maps,All,Yoru,1.05,224,54,51,25,+3,73%,143,22%,15,9,+6
+valyn,G2,All_Maps,All,"Astra, Omen",1.00,200,55,49,24,+6,78%,113,22%,8,4,+4
+JonahP,G2,All_Maps,All,"Breach, Fade",0.97,158,41,45,36,-4,75%,103,20%,3,4,-1
+Cryocells,100T,All_Maps,All,"Iso, Sage, Yoru",1.06,206,61,56,15,+5,67%,144,23%,5,8,-3
+eeiu,100T,All_Maps,All,"Sova, Tejo, Fade",1.01,197,46,49,20,-3,68%,130,39%,3,7,-4
+zander,100T,All_Maps,All,"Omen, Astra",1.00,183,48,49,25,-1,75%,125,24%,3,7,-4
+Asuna,100T,All_Maps,All,"Neon, Raze",0.73,180,44,60,19,-16,66%,124,20%,12,14,-2
+Boostio,100T,All_Maps,All,"Cypher, Breach, Killjoy",0.71,149,37,56,12,-19,63%,107,35%,5,9,-4
+trent,G2,All_Maps,Attack,Tejo,1.39,246,33,23,12,+10,85%,163,35%,2,0,+2
+leaf,G2,All_Maps,Attack,"Vyse, Viper",1.13,236,32,27,12,+5,70%,161,20%,8,6,+2
+jawgemo,G2,All_Maps,Attack,Yoru,0.99,241,32,31,15,+1,73%,146,21%,8,5,+3
+valyn,G2,All_Maps,Attack,"Astra, Omen",0.90,166,28,26,12,+2,83%,94,21%,5,4,+1
+JonahP,G2,All_Maps,Attack,"Breach, Fade",1.04,162,23,23,20,0,75%,103,17%,0,2,-2
+Cryocells,100T,All_Maps,Attack,"Iso, Sage, Yoru",1.08,204,27,25,6,+2,64%,135,23%,2,4,-2
+eeiu,100T,All_Maps,Attack,"Sova, Tejo, Fade",0.79,134,15,21,9,-6,64%,100,35%,2,3,-1
+zander,100T,All_Maps,Attack,"Omen, Astra",1.19,202,25,22,11,+3,73%,134,21%,1,2,-1
+Asuna,100T,All_Maps,Attack,"Neon, Raze",0.72,205,20,28,13,-8,70%,131,15%,5,8,-3
+Boostio,100T,All_Maps,Attack,"Cypher, Breach, Killjoy",0.79,175,19,26,6,-7,70%,120,32%,1,5,-4
+trent,G2,All_Maps,Defend,Tejo,1.41,219,28,17,11,+11,76%,151,36%,0,2,-2
+leaf,G2,All_Maps,Defend,"Vyse, Viper",1.11,249,27,24,14,+3,70%,157,15%,9,3,+6
+jawgemo,G2,All_Maps,Defend,Yoru,1.13,214,22,20,10,+2,73%,140,25%,7,4,+3
+valyn,G2,All_Maps,Defend,"Astra, Omen",1.12,225,27,23,12,+4,73%,136,23%,3,0,+3
+JonahP,G2,All_Maps,Defend,"Breach, Fade",0.87,155,18,22,16,-4,76%,104,23%,3,2,+1
+Cryocells,100T,All_Maps,Defend,"Iso, Sage, Yoru",1.06,230,34,31,9,+3,70%,151,23%,3,4,-1
+eeiu,100T,All_Maps,Defend,"Sova, Tejo, Fade",1.22,226,31,28,11,+3,73%,154,41%,1,4,-3
+zander,100T,All_Maps,Defend,"Omen, Astra",0.85,183,23,27,14,-4,78%,117,26%,2,5,-3
+Asuna,100T,All_Maps,Defend,"Neon, Raze",0.73,174,24,32,6,-8,63%,117,25%,7,6,+1
+Boostio,100T,All_Maps,Defend,"Cypher, Breach, Killjoy",0.65,141,18,30,6,-12,58%,96,38%,4,4,0

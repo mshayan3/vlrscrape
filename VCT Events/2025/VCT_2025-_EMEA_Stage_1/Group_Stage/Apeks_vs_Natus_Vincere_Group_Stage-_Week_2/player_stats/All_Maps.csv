@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+florescent,APK,All_Maps,All,"Yoru, Neon",1.43,282,70,44,15,+26,74%,174,36%,12,10,+2
+MOLSI,APK,All_Maps,All,Breach,0.95,191,43,48,30,-5,77%,129,22%,2,6,-4
+batujnax,APK,All_Maps,All,"Viper, Cypher",0.87,162,38,45,16,-7,73%,102,23%,8,8,0
+AvovA,APK,All_Maps,All,Omen,0.79,160,33,48,20,-15,68%,102,25%,4,3,+1
+Governor,APK,All_Maps,All,"Tejo, Sova",0.73,148,34,48,13,-14,61%,100,26%,3,10,-7
+Shao,NAVI,All_Maps,All,"Astra, Sova",1.21,236,56,42,12,+14,82%,153,34%,6,1,+5
+hiro,NAVI,All_Maps,All,"Raze, Cypher, Vyse",1.12,219,52,45,17,+7,67%,149,31%,6,6,0
+Ruxic,NAVI,All_Maps,All,Omen,1.07,214,47,44,26,+3,83%,138,33%,6,7,-1
+koalanoob,NAVI,All_Maps,All,"Chamber, Yoru, Raze",0.95,188,47,47,9,0,71%,138,26%,13,10,+3
+ANGE1,NAVI,All_Maps,All,"Fade, Vyse",0.83,137,31,41,18,-10,71%,98,39%,6,5,+1
+florescent,APK,All_Maps,Attack,"Yoru, Neon",1.51,299,35,18,7,+17,81%,182,37%,6,3,+3
+MOLSI,APK,All_Maps,Attack,Breach,0.91,199,23,23,12,0,71%,128,20%,2,3,-1
+batujnax,APK,All_Maps,Attack,"Viper, Cypher",1.08,192,21,18,8,+3,77%,120,25%,7,2,+5
+AvovA,APK,All_Maps,Attack,Omen,0.88,162,17,19,7,-2,81%,100,33%,2,2,0
+Governor,APK,All_Maps,Attack,"Tejo, Sova",0.75,141,16,21,5,-5,74%,94,27%,1,3,-2
+Shao,NAVI,All_Maps,Attack,"Astra, Sova",1.46,281,38,20,2,+18,86%,182,41%,5,0,+5
+hiro,NAVI,All_Maps,Attack,"Raze, Cypher, Vyse",1.30,253,33,20,8,+13,66%,170,32%,3,2,+1
+Ruxic,NAVI,All_Maps,Attack,Omen,1.22,212,28,21,15,+7,89%,139,33%,4,3,+1
+koalanoob,NAVI,All_Maps,Attack,"Chamber, Yoru, Raze",0.99,210,26,24,5,+2,80%,150,28%,9,3,+6
+ANGE1,NAVI,All_Maps,Attack,"Fade, Vyse",0.53,85,10,21,11,-11,69%,60,41%,3,3,0
+florescent,APK,All_Maps,Defend,"Yoru, Neon",1.36,265,35,26,8,+9,69%,166,34%,6,7,-1
+MOLSI,APK,All_Maps,Defend,Breach,0.98,187,20,25,18,-5,83%,130,24%,0,3,-3
+batujnax,APK,All_Maps,Defend,"Viper, Cypher",0.68,137,17,27,8,-10,69%,86,22%,1,6,-5
+AvovA,APK,All_Maps,Defend,Omen,0.72,156,16,29,13,-13,57%,104,19%,2,1,+1
+Governor,APK,All_Maps,Defend,"Tejo, Sova",0.71,162,18,27,8,-9,49%,105,24%,2,7,-5
+Shao,NAVI,All_Maps,Defend,"Astra, Sova",0.92,180,18,22,10,-4,77%,120,26%,1,1,0
+hiro,NAVI,All_Maps,Defend,"Raze, Cypher, Vyse",0.92,192,19,25,9,-6,68%,125,29%,3,4,-1
+Ruxic,NAVI,All_Maps,Defend,Omen,0.90,199,19,23,11,-4,77%,136,33%,2,4,-2
+koalanoob,NAVI,All_Maps,Defend,"Chamber, Yoru, Raze",0.90,166,21,23,4,-2,61%,125,24%,4,7,-3
+ANGE1,NAVI,All_Maps,Defend,"Fade, Vyse",1.18,200,21,20,7,+1,74%,141,38%,3,2,+1

@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+invy,TS,All_Maps,All,"Breach, Kayo",1.51,268,45,30,29,+15,89%,177,24%,4,3,+1
+JessieVash,TS,All_Maps,All,"Cypher, Killjoy",0.98,190,33,32,6,+1,68%,123,31%,3,4,-1
+Wild0reoo,TS,All_Maps,All,"Tejo, Gekko",0.92,214,36,37,6,-1,74%,143,28%,4,6,-2
+Jremy,TS,All_Maps,All,Waylay,0.87,213,32,37,10,-5,57%,144,33%,6,10,-4
+2GE,TS,All_Maps,All,"Omen, Viper",0.69,154,24,36,14,-12,72%,103,22%,1,6,-5
+CLZ,ZETA,All_Maps,All,Sova,1.42,244,42,27,9,+15,74%,171,39%,4,1,+3
+SugarZ3ro,ZETA,All_Maps,All,"Omen, Viper",1.02,192,33,32,13,+1,77%,127,30%,1,2,-1
+Dep,ZETA,All_Maps,All,"Raze, Reyna",1.00,220,37,35,4,+2,66%,151,29%,9,5,+4
+SyouTa,ZETA,All_Maps,All,Vyse,0.96,175,30,31,9,-1,66%,111,36%,5,4,+1
+Xdll,ZETA,All_Maps,All,Iso,0.62,192,30,45,7,-15,64%,126,33%,10,6,+4
+invy,TS,All_Maps,Attack,"Breach, Kayo",1.15,232,19,18,10,+1,87%,168,23%,1,2,-1
+JessieVash,TS,All_Maps,Attack,"Cypher, Killjoy",1.32,223,21,14,2,+7,74%,137,29%,1,2,-1
+Wild0reoo,TS,All_Maps,Attack,"Tejo, Gekko",0.96,222,18,20,2,-2,78%,137,31%,1,2,-1
+Jremy,TS,All_Maps,Attack,Waylay,0.51,149,11,21,5,-10,48%,107,32%,4,7,-3
+2GE,TS,All_Maps,Attack,"Omen, Viper",0.66,188,15,21,7,-6,70%,114,22%,1,2,-1
+CLZ,ZETA,All_Maps,Attack,Sova,1.37,214,19,13,2,+6,67%,150,45%,1,0,+1
+SugarZ3ro,ZETA,All_Maps,Attack,"Omen, Viper",0.92,163,13,15,5,-2,67%,115,30%,0,1,-1
+Dep,ZETA,All_Maps,Attack,"Raze, Reyna",1.18,252,22,18,2,+4,71%,178,33%,5,4,+1
+SyouTa,ZETA,All_Maps,Attack,Vyse,0.60,96,9,16,1,-7,58%,57,35%,2,2,0
+Xdll,ZETA,All_Maps,Attack,Iso,0.66,194,15,24,5,-9,71%,131,34%,6,3,+3
+invy,TS,All_Maps,Defend,"Breach, Kayo",1.84,305,26,12,19,+14,92%,186,25%,3,1,+2
+JessieVash,TS,All_Maps,Defend,"Cypher, Killjoy",0.65,159,12,18,4,-6,63%,110,33%,2,2,0
+Wild0reoo,TS,All_Maps,Defend,"Tejo, Gekko",0.89,210,18,17,4,+1,71%,149,25%,3,4,-1
+Jremy,TS,All_Maps,Defend,Waylay,1.22,273,21,16,5,+5,67%,179,34%,2,3,-1
+2GE,TS,All_Maps,Defend,"Omen, Viper",0.71,117,9,15,7,-6,75%,93,22%,0,4,-4
+CLZ,ZETA,All_Maps,Defend,Sova,1.47,276,23,14,7,+9,83%,194,33%,3,1,+2
+SugarZ3ro,ZETA,All_Maps,Defend,"Omen, Viper",1.12,222,20,17,8,+3,87%,139,31%,1,1,0
+Dep,ZETA,All_Maps,Defend,"Raze, Reyna",0.81,184,15,17,2,-2,61%,123,26%,4,1,+3
+SyouTa,ZETA,All_Maps,Defend,Vyse,1.34,258,21,15,8,+6,74%,168,37%,3,2,+1
+Xdll,ZETA,All_Maps,Defend,Iso,0.58,192,15,21,2,-6,57%,120,32%,4,3,+1

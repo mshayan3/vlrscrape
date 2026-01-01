@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+3Pearl,1,"""0-1""",BLG,Attackers,Elimination
+3Pearl,2,"""0-2""",BLG,Attackers,Elimination
+3Pearl,3,"""1-2""",EDG,Defenders,Defuse
+3Pearl,4,"""1-3""",BLG,Attackers,Elimination
+3Pearl,5,"""1-4""",BLG,Attackers,Elimination
+3Pearl,6,"""2-4""",EDG,Defenders,Defuse
+3Pearl,7,"""2-5""",BLG,Attackers,Elimination
+3Pearl,8,"""3-5""",EDG,Defenders,Defuse
+3Pearl,9,"""3-6""",BLG,Attackers,Elimination
+3Pearl,10,"""3-7""",BLG,Attackers,Elimination
+3Pearl,11,"""4-7""",EDG,Defenders,Defuse
+3Pearl,12,"""5-7""",EDG,Defenders,Defuse
+3Pearl,13,"""5-8""",EDG,Defenders,Defuse
+3Pearl,14,"""5-9""",EDG,Defenders,Elimination
+3Pearl,15,"""6-9""",BLG,Attackers,Elimination
+3Pearl,16,"""6-10""",EDG,Defenders,Elimination
+3Pearl,17,"""7-10""",BLG,Attackers,Elimination
+3Pearl,18,"""8-10""",BLG,Attackers,Elimination
+3Pearl,19,"""9-10""",BLG,Attackers,Elimination
+3Pearl,20,"""9-11""",EDG,Defenders,Elimination
+3Pearl,21,"""9-12""",EDG,Defenders,Defuse
+3Pearl,22,"""10-12""",BLG,Attackers,Elimination
+3Pearl,23,"""11-12""",BLG,Attackers,Elimination
+3Pearl,24,"""11-13""",EDG,Defenders,Elimination

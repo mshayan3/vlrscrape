@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+4Split,1,"""0-1""",EDG,Defenders,Elimination
+4Split,2,"""0-2""",EDG,Defenders,Elimination
+4Split,3,"""1-2""",T1,Attackers,Elimination
+4Split,4,"""1-3""",EDG,Defenders,Elimination
+4Split,5,"""2-3""",T1,Attackers,Spike Detonation
+4Split,6,"""3-3""",T1,Attackers,Elimination
+4Split,7,"""3-4""",EDG,Defenders,Elimination
+4Split,8,"""3-5""",EDG,Defenders,Elimination
+4Split,9,"""3-6""",EDG,Defenders,Elimination
+4Split,10,"""4-6""",T1,Attackers,Elimination
+4Split,11,"""4-7""",EDG,Defenders,Elimination
+4Split,12,"""5-7""",T1,Attackers,Elimination
+4Split,13,"""5-8""",T1,Attackers,Elimination
+4Split,14,"""5-9""",T1,Attackers,Elimination
+4Split,15,"""5-10""",T1,Attackers,Spike Detonation
+4Split,16,"""5-11""",T1,Attackers,Elimination
+4Split,17,"""5-12""",T1,Attackers,Spike Detonation
+4Split,18,"""5-13""",T1,Attackers,Elimination
+4Split,19,"""""",,,
+4Split,20,"""""",,,
+4Split,21,"""""",,,
+4Split,22,"""""",,,
+4Split,23,"""""",,,
+4Split,24,"""""",,,

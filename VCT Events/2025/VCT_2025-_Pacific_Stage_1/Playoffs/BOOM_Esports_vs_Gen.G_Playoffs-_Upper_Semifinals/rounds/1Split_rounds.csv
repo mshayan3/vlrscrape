@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+1Split,1,"""0-1""",GEN,Attackers,Elimination
+1Split,2,"""0-2""",GEN,Attackers,Elimination
+1Split,3,"""0-3""",GEN,Attackers,Spike Detonation
+1Split,4,"""0-4""",GEN,Attackers,Spike Detonation
+1Split,5,"""0-5""",GEN,Attackers,Elimination
+1Split,6,"""0-6""",GEN,Attackers,Elimination
+1Split,7,"""1-6""",BME,Defenders,Elimination
+1Split,8,"""1-7""",GEN,Attackers,Elimination
+1Split,9,"""2-7""",BME,Defenders,Elimination
+1Split,10,"""2-8""",GEN,Attackers,Elimination
+1Split,11,"""2-9""",GEN,Attackers,Elimination
+1Split,12,"""2-10""",GEN,Attackers,Elimination
+1Split,13,"""3-10""",GEN,Attackers,Elimination
+1Split,14,"""4-10""",GEN,Attackers,Elimination
+1Split,15,"""4-11""",BME,Defenders,Elimination
+1Split,16,"""4-12""",BME,Defenders,Defuse
+1Split,17,"""5-12""",GEN,Attackers,Spike Detonation
+1Split,18,"""6-12""",GEN,Attackers,Spike Detonation
+1Split,19,"""7-12""",GEN,Attackers,Elimination
+1Split,20,"""8-12""",GEN,Attackers,Spike Detonation
+1Split,21,"""8-13""",BME,Defenders,Defuse
+1Split,22,"""""",,,
+1Split,23,"""""",,,
+1Split,24,"""""",,,

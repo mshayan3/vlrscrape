@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Killua,TLN,All_Maps,All,"Breach, Vyse",1.06,189,27,26,8,+1,69%,129,31%,2,5,-3
+JitBoyS,TLN,All_Maps,All,"Vyse, Deadlock",0.92,213,27,32,12,-5,72%,145,37%,5,4,+1
+Crws,TLN,All_Maps,All,Tejo,0.89,175,23,30,11,-7,69%,123,25%,4,2,+2
+primmie,TLN,All_Maps,All,"Neon, Yoru",0.79,171,25,31,4,-6,67%,117,40%,5,9,-4
+thyy,TLN,All_Maps,All,"Omen, Astra",0.69,136,19,30,11,-11,62%,93,41%,1,2,-1
+Jemkin,RRQ,All_Maps,All,Yoru,1.39,287,40,24,4,+16,74%,184,43%,8,6,+2
+Kushy,RRQ,All_Maps,All,"Tejo, Sova",1.23,226,31,24,8,+7,79%,153,29%,3,0,+3
+xffero,RRQ,All_Maps,All,"Viper, Cypher",1.10,186,25,21,11,+4,64%,130,24%,4,4,0
+Monyet,RRQ,All_Maps,All,Omen,0.99,172,24,24,18,0,77%,106,33%,2,4,-2
+crazyguy,RRQ,All_Maps,All,"Breach, Tejo",0.91,199,29,28,10,+1,72%,122,24%,5,3,+2
+Killua,TLN,All_Maps,Attack,"Breach, Vyse",1.35,234,16,11,4,+5,72%,159,31%,1,3,-2
+JitBoyS,TLN,All_Maps,Attack,"Vyse, Deadlock",0.93,207,13,14,4,-1,78%,144,30%,3,2,+1
+Crws,TLN,All_Maps,Attack,Tejo,0.70,155,9,15,5,-6,72%,107,24%,1,2,-1
+primmie,TLN,All_Maps,Attack,"Neon, Yoru",0.64,151,10,14,3,-4,61%,114,37%,0,6,-6
+thyy,TLN,All_Maps,Attack,"Omen, Astra",0.67,128,9,14,5,-5,67%,86,29%,0,0,0
+Jemkin,RRQ,All_Maps,Attack,Yoru,1.29,264,21,13,1,+8,71%,180,57%,3,5,-2
+Kushy,RRQ,All_Maps,Attack,"Tejo, Sova",1.55,284,21,12,5,+9,90%,181,27%,3,0,+3
+xffero,RRQ,All_Maps,Attack,"Viper, Cypher",0.95,183,12,13,8,-1,67%,124,16%,2,3,-1
+Monyet,RRQ,All_Maps,Attack,Omen,1.04,162,13,11,11,+2,81%,98,39%,0,3,-3
+crazyguy,RRQ,All_Maps,Attack,"Breach, Tejo",0.74,172,14,15,4,-1,62%,112,25%,1,1,0
+Killua,TLN,All_Maps,Defend,"Breach, Vyse",0.80,156,11,15,4,-4,67%,103,31%,1,2,-1
+JitBoyS,TLN,All_Maps,Defend,"Vyse, Deadlock",0.92,217,14,18,8,-4,67%,146,44%,2,2,0
+Crws,TLN,All_Maps,Defend,Tejo,1.06,190,14,15,6,-1,67%,137,26%,3,0,+3
+primmie,TLN,All_Maps,Defend,"Neon, Yoru",0.92,193,15,17,1,-2,71%,121,43%,5,3,+2
+thyy,TLN,All_Maps,Defend,"Omen, Astra",0.70,138,10,16,6,-6,57%,98,52%,1,2,-1
+Jemkin,RRQ,All_Maps,Defend,Yoru,1.51,305,19,11,3,+8,78%,189,32%,5,1,+4
+Kushy,RRQ,All_Maps,Defend,"Tejo, Sova",0.86,156,10,12,3,-2,67%,120,33%,0,0,0
+xffero,RRQ,All_Maps,Defend,"Viper, Cypher",1.27,197,13,8,3,+5,61%,137,38%,2,1,+1
+Monyet,RRQ,All_Maps,Defend,Omen,0.93,182,11,13,7,-2,72%,116,28%,2,1,+1
+crazyguy,RRQ,All_Maps,Defend,"Breach, Tejo",1.10,236,15,13,6,+2,83%,134,23%,4,2,+2

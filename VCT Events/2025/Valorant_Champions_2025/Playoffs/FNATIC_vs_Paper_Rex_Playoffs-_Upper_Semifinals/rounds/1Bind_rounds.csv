@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+1Bind,1,"""0-1""",PRX,Attackers,Elimination
+1Bind,2,"""0-2""",PRX,Attackers,Elimination
+1Bind,3,"""0-3""",PRX,Attackers,Elimination
+1Bind,4,"""0-4""",PRX,Attackers,Elimination
+1Bind,5,"""1-4""",FNC,Defenders,Elimination
+1Bind,6,"""2-4""",FNC,Defenders,Defuse
+1Bind,7,"""3-4""",FNC,Defenders,Defuse
+1Bind,8,"""3-5""",PRX,Attackers,Elimination
+1Bind,9,"""4-5""",FNC,Defenders,Elimination
+1Bind,10,"""5-5""",FNC,Defenders,Elimination
+1Bind,11,"""6-5""",FNC,Defenders,Elimination
+1Bind,12,"""7-5""",FNC,Defenders,Elimination
+1Bind,13,"""7-6""",FNC,Defenders,Elimination
+1Bind,14,"""7-7""",FNC,Defenders,Defuse
+1Bind,15,"""7-8""",FNC,Defenders,Time Expired
+1Bind,16,"""8-8""",PRX,Attackers,Elimination
+1Bind,17,"""9-8""",PRX,Attackers,Elimination
+1Bind,18,"""10-8""",PRX,Attackers,Elimination
+1Bind,19,"""10-9""",FNC,Defenders,Elimination
+1Bind,20,"""10-10""",FNC,Defenders,Defuse
+1Bind,21,"""10-11""",FNC,Defenders,Defuse
+1Bind,22,"""10-12""",FNC,Defenders,Time Expired
+1Bind,23,"""10-13""",FNC,Defenders,Elimination
+1Bind,24,"""""",,,

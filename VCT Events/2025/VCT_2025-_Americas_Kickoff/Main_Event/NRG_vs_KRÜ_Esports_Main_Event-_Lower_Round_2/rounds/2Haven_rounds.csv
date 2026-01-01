@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+2Haven,1,"""0-1""",NRG,Defenders,Defuse
+2Haven,2,"""0-2""",NRG,Defenders,Defuse
+2Haven,3,"""0-3""",NRG,Defenders,Elimination
+2Haven,4,"""0-4""",NRG,Defenders,Defuse
+2Haven,5,"""1-4""",KRÜ,Attackers,Elimination
+2Haven,6,"""1-5""",NRG,Defenders,Defuse
+2Haven,7,"""1-6""",NRG,Defenders,Elimination
+2Haven,8,"""1-7""",NRG,Defenders,Elimination
+2Haven,9,"""2-7""",KRÜ,Attackers,Elimination
+2Haven,10,"""2-8""",NRG,Defenders,Defuse
+2Haven,11,"""3-8""",KRÜ,Attackers,Elimination
+2Haven,12,"""4-8""",KRÜ,Attackers,Elimination
+2Haven,13,"""5-8""",NRG,Defenders,Defuse
+2Haven,14,"""6-8""",NRG,Defenders,Defuse
+2Haven,15,"""7-8""",NRG,Defenders,Defuse
+2Haven,16,"""8-8""",NRG,Defenders,Elimination
+2Haven,17,"""9-8""",NRG,Defenders,Elimination
+2Haven,18,"""10-8""",NRG,Defenders,Elimination
+2Haven,19,"""11-8""",NRG,Defenders,Time Expired
+2Haven,20,"""12-8""",NRG,Defenders,Time Expired
+2Haven,21,"""12-9""",KRÜ,Attackers,Spike Detonation
+2Haven,22,"""12-10""",KRÜ,Attackers,Spike Detonation
+2Haven,23,"""13-10""",NRG,Defenders,Elimination
+2Haven,24,"""""",,,

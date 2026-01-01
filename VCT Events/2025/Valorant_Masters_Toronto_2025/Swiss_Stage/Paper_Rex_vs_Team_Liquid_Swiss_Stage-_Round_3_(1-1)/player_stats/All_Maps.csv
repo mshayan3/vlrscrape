@@ -1,0 +1,34 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Jinggg,PRX,All_Maps,All,Raze,1.16,258,66,52,13,+14,75%,172,22%,11,12,-1
+f0rsakeN,PRX,All_Maps,All,Omen,1.12,202,52,47,30,+5,74%,129,24%,7,5,+2
+PatMen,PRX,All_Maps,All,"Fade, Viper",1.02,208,52,50,27,+2,75%,138,42%,9,6,+3
+d4v41,PRX,All_Maps,All,"Viper, Sage, Vyse",0.99,177,47,45,18,+2,75%,121,27%,4,3,+1
+something,PRX,All_Maps,All,"Yoru, Sova",0.97,160,43,45,14,-2,74%,118,29%,3,12,-9
+keiko,TL,All_Maps,All,"Raze, Omen",1.06,215,56,51,9,+5,72%,139,42%,7,3,+4
+paTiTek,TL,All_Maps,All,"Fade, Sova",1.05,198,51,49,13,+2,78%,128,33%,10,6,+4
+kamo,TL,All_Maps,All,"Yoru, Neon, Waylay",0.97,223,57,55,8,+2,67%,151,36%,13,13,0
+penny,TL,All_Maps,All,Raze,0.83,196,17,20,6,-3,69%,128,10%,2,4,-2
+Serial,TL,All_Maps,All,"Astra, Cypher",0.72,117,20,31,10,-11,72%,74,45%,2,4,-2
+nAts,TL,All_Maps,All,"Viper, Cypher",0.72,150,38,54,10,-16,72%,99,28%,4,4,0
+Jinggg,PRX,All_Maps,Attack,Raze,0.99,232,31,31,6,0,67%,161,27%,7,10,-3
+f0rsakeN,PRX,All_Maps,Attack,Omen,0.87,180,23,29,13,-6,62%,118,23%,4,3,+1
+PatMen,PRX,All_Maps,Attack,"Fade, Viper",0.76,158,22,31,11,-9,69%,115,41%,3,4,-1
+d4v41,PRX,All_Maps,Attack,"Viper, Sage, Vyse",0.86,160,23,29,8,-6,69%,112,24%,1,1,0
+something,PRX,All_Maps,Attack,"Yoru, Sova",0.68,135,17,30,4,-13,64%,97,32%,0,6,-6
+keiko,TL,All_Maps,Attack,"Raze, Omen",1.04,236,27,28,3,-1,73%,149,39%,2,1,+1
+paTiTek,TL,All_Maps,Attack,"Fade, Sova",0.73,150,17,28,6,-11,70%,98,28%,2,3,-1
+kamo,TL,All_Maps,Attack,"Yoru, Neon, Waylay",0.71,190,21,30,4,-9,67%,119,38%,9,8,+1
+penny,TL,All_Maps,Attack,Raze,0.22,100,4,13,1,-9,54%,58,4%,0,3,-3
+Serial,TL,All_Maps,Attack,"Astra, Cypher",0.33,54,4,16,3,-12,50%,39,44%,0,1,-1
+nAts,TL,All_Maps,Attack,"Viper, Cypher",0.58,144,16,29,5,-13,64%,96,37%,1,3,-2
+Jinggg,PRX,All_Maps,Defend,Raze,1.35,288,35,21,7,+14,85%,186,18%,4,2,+2
+f0rsakeN,PRX,All_Maps,Defend,Omen,1.42,228,29,18,17,+11,88%,141,24%,3,2,+1
+PatMen,PRX,All_Maps,Defend,"Fade, Viper",1.32,261,30,19,16,+11,82%,164,43%,6,2,+4
+d4v41,PRX,All_Maps,Defend,"Viper, Sage, Vyse",1.13,196,24,16,10,+8,82%,131,30%,3,2,+1
+something,PRX,All_Maps,Defend,"Yoru, Sova",1.31,202,26,15,10,+11,85%,144,27%,3,6,-3
+keiko,TL,All_Maps,Defend,"Raze, Omen",1.08,210,29,23,6,+6,72%,131,45%,5,2,+3
+paTiTek,TL,All_Maps,Defend,"Fade, Sova",1.32,238,34,21,7,+13,85%,154,37%,8,3,+5
+kamo,TL,All_Maps,Defend,"Yoru, Neon, Waylay",1.19,265,36,25,4,+11,67%,179,35%,4,5,-1
+penny,TL,All_Maps,Defend,Raze,1.45,293,13,7,5,+6,85%,198,13%,2,1,+1
+Serial,TL,All_Maps,Defend,"Astra, Cypher",1.02,164,16,15,7,+1,88%,100,45%,2,3,-1
+nAts,TL,All_Maps,Defend,"Viper, Cypher",0.84,159,22,25,5,-3,79%,102,22%,3,1,+2

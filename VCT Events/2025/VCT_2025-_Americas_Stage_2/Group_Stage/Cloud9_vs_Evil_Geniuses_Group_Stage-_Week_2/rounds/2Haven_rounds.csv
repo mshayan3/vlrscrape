@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+2Haven,1,"""0-1""",EG,Attackers,Elimination
+2Haven,2,"""0-2""",EG,Attackers,Elimination
+2Haven,3,"""0-3""",EG,Attackers,Elimination
+2Haven,4,"""0-4""",EG,Attackers,Elimination
+2Haven,5,"""1-4""",C9,Defenders,Elimination
+2Haven,6,"""2-4""",C9,Defenders,Elimination
+2Haven,7,"""2-5""",EG,Attackers,Spike Detonation
+2Haven,8,"""2-6""",EG,Attackers,Spike Detonation
+2Haven,9,"""3-6""",C9,Defenders,Elimination
+2Haven,10,"""3-7""",EG,Attackers,Elimination
+2Haven,11,"""4-7""",C9,Defenders,Defuse
+2Haven,12,"""4-8""",EG,Attackers,Elimination
+2Haven,13,"""4-9""",C9,Defenders,Defuse
+2Haven,14,"""5-9""",EG,Attackers,Elimination
+2Haven,15,"""6-9""",EG,Attackers,Spike Detonation
+2Haven,16,"""7-9""",EG,Attackers,Spike Detonation
+2Haven,17,"""8-9""",EG,Attackers,Elimination
+2Haven,18,"""9-9""",EG,Attackers,Elimination
+2Haven,19,"""10-9""",EG,Attackers,Elimination
+2Haven,20,"""11-9""",EG,Attackers,Spike Detonation
+2Haven,21,"""12-9""",EG,Attackers,Spike Detonation
+2Haven,22,"""12-10""",C9,Defenders,Elimination
+2Haven,23,"""13-10""",EG,Attackers,Elimination
+2Haven,24,"""""",,,

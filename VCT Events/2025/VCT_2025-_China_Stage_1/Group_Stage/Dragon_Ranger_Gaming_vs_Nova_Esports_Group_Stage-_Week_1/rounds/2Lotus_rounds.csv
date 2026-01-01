@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+2Lotus,1,"""0-1""",DRG,Defenders,Defuse
+2Lotus,2,"""0-2""",DRG,Defenders,Elimination
+2Lotus,3,"""1-2""",NOVA,Attackers,Elimination
+2Lotus,4,"""2-2""",NOVA,Attackers,Elimination
+2Lotus,5,"""3-2""",NOVA,Attackers,Elimination
+2Lotus,6,"""3-3""",DRG,Defenders,Elimination
+2Lotus,7,"""4-3""",NOVA,Attackers,Elimination
+2Lotus,8,"""5-3""",NOVA,Attackers,Elimination
+2Lotus,9,"""5-4""",DRG,Defenders,Defuse
+2Lotus,10,"""6-4""",NOVA,Attackers,Elimination
+2Lotus,11,"""7-4""",NOVA,Attackers,Elimination
+2Lotus,12,"""7-5""",DRG,Defenders,Elimination
+2Lotus,13,"""7-6""",NOVA,Attackers,Elimination
+2Lotus,14,"""8-6""",DRG,Defenders,Elimination
+2Lotus,15,"""8-7""",NOVA,Attackers,Elimination
+2Lotus,16,"""8-8""",NOVA,Attackers,Elimination
+2Lotus,17,"""9-8""",DRG,Defenders,Defuse
+2Lotus,18,"""10-8""",DRG,Defenders,Defuse
+2Lotus,19,"""11-8""",DRG,Defenders,Elimination
+2Lotus,20,"""11-9""",NOVA,Attackers,Elimination
+2Lotus,21,"""12-9""",DRG,Defenders,Elimination
+2Lotus,22,"""12-10""",NOVA,Attackers,Elimination
+2Lotus,23,"""13-10""",DRG,Defenders,Elimination
+2Lotus,24,"""""",,,

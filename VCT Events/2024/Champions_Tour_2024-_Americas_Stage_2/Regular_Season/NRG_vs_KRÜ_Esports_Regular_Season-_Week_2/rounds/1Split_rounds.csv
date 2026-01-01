@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+1Split,1,"""0-1""",KRÜ,Attackers,Elimination
+1Split,2,"""0-2""",KRÜ,Attackers,Elimination
+1Split,3,"""1-2""",NRG,Defenders,Elimination
+1Split,4,"""1-3""",KRÜ,Attackers,Elimination
+1Split,5,"""1-4""",KRÜ,Attackers,Elimination
+1Split,6,"""1-5""",KRÜ,Attackers,Spike Detonation
+1Split,7,"""1-6""",KRÜ,Attackers,Elimination
+1Split,8,"""2-6""",NRG,Defenders,Defuse
+1Split,9,"""3-6""",NRG,Defenders,Time Expired
+1Split,10,"""4-6""",NRG,Defenders,Defuse
+1Split,11,"""4-7""",KRÜ,Attackers,Elimination
+1Split,12,"""5-7""",NRG,Defenders,Elimination
+1Split,13,"""6-7""",KRÜ,Attackers,Elimination
+1Split,14,"""7-7""",KRÜ,Attackers,Elimination
+1Split,15,"""7-8""",NRG,Defenders,Elimination
+1Split,16,"""7-9""",NRG,Defenders,Defuse
+1Split,17,"""8-9""",KRÜ,Attackers,Elimination
+1Split,18,"""8-10""",NRG,Defenders,Elimination
+1Split,19,"""8-11""",NRG,Defenders,Defuse
+1Split,20,"""8-12""",NRG,Defenders,Defuse
+1Split,21,"""8-13""",NRG,Defenders,Defuse
+1Split,22,"""""",,,
+1Split,23,"""""",,,
+1Split,24,"""""",,,

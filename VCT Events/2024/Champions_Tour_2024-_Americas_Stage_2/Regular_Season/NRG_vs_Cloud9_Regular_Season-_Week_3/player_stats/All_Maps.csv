@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+s0m,NRG,All_Maps,All,"Omen, Viper",1.25,243,56,40,29,+16,77%,152,25%,7,5,+2
+Ethan,NRG,All_Maps,All,"Kayo, Breach",1.15,199,45,41,33,+4,78%,127,24%,2,4,-2
+FiNESSE,NRG,All_Maps,All,"Cypher, Killjoy",0.99,203,45,48,28,-3,74%,132,17%,7,2,+5
+Victor,NRG,All_Maps,All,"Jett, Neon",0.92,209,48,46,10,+2,71%,129,23%,15,13,+2
+crashies,NRG,All_Maps,All,"Sova, Fade",0.88,170,37,42,22,-5,80%,110,25%,3,7,-4
+OXY,C9,All_Maps,All,"Jett, Reyna, Raze",1.23,265,64,52,10,+12,75%,175,26%,13,10,+3
+vanity,C9,All_Maps,All,"Omen, Viper",1.03,210,49,46,20,+3,77%,146,23%,8,10,-2
+moose,C9,All_Maps,All,"Killjoy, Cypher",0.91,156,36,41,10,-5,69%,109,21%,6,2,+4
+Xeppaa,C9,All_Maps,All,"Kayo, Gekko, Skye",0.83,165,31,45,22,-14,74%,105,25%,2,7,-5
+runi,C9,All_Maps,All,"Sova, Clove",0.82,153,37,47,16,-10,65%,104,33%,2,5,-3
+s0m,NRG,All_Maps,Attack,"Omen, Viper",1.55,297,38,20,16,+18,84%,186,26%,4,2,+2
+Ethan,NRG,All_Maps,Attack,"Kayo, Breach",1.41,238,31,22,22,+9,86%,158,29%,1,2,-1
+FiNESSE,NRG,All_Maps,Attack,"Cypher, Killjoy",0.84,177,24,26,10,-2,73%,110,20%,4,2,+2
+Victor,NRG,All_Maps,Attack,"Jett, Neon",0.80,166,22,26,5,-4,76%,112,24%,9,10,-1
+crashies,NRG,All_Maps,Attack,"Sova, Fade",0.81,146,18,22,13,-4,81%,90,20%,0,3,-3
+OXY,C9,All_Maps,Attack,"Jett, Reyna, Raze",1.12,257,26,23,3,+3,75%,162,34%,7,6,+1
+vanity,C9,All_Maps,Attack,"Omen, Viper",1.20,203,20,17,10,+3,79%,144,23%,2,4,-2
+moose,C9,All_Maps,Attack,"Killjoy, Cypher",1.13,193,19,17,4,+2,75%,127,24%,1,1,0
+Xeppaa,C9,All_Maps,Attack,"Kayo, Gekko, Skye",0.86,167,17,19,6,-2,79%,101,33%,0,2,-2
+runi,C9,All_Maps,Attack,"Sova, Clove",0.88,188,19,22,10,-3,71%,115,44%,2,3,-1
+s0m,NRG,All_Maps,Defend,"Omen, Viper",0.85,176,18,20,13,-2,68%,108,22%,3,3,0
+Ethan,NRG,All_Maps,Defend,"Kayo, Breach",0.81,141,14,19,11,-5,68%,87,16%,1,2,-1
+FiNESSE,NRG,All_Maps,Defend,"Cypher, Killjoy",1.19,238,21,22,18,-1,75%,160,15%,3,0,+3
+Victor,NRG,All_Maps,Defend,"Jett, Neon",1.09,255,26,20,5,+6,64%,153,22%,6,3,+3
+crashies,NRG,All_Maps,Defend,"Sova, Fade",0.98,202,19,20,9,-1,79%,136,30%,3,4,-1
+OXY,C9,All_Maps,Defend,"Jett, Reyna, Raze",1.32,290,38,29,7,+9,76%,185,22%,6,4,+2
+vanity,C9,All_Maps,Defend,"Omen, Viper",0.91,227,29,29,10,0,76%,146,23%,6,6,0
+moose,C9,All_Maps,Defend,"Killjoy, Cypher",0.75,139,17,24,6,-7,65%,95,19%,5,1,+4
+Xeppaa,C9,All_Maps,Defend,"Kayo, Gekko, Skye",0.81,148,14,26,16,-12,70%,108,22%,2,5,-3
+runi,C9,All_Maps,Defend,"Sova, Clove",0.77,135,18,25,6,-7,59%,95,25%,0,2,-2

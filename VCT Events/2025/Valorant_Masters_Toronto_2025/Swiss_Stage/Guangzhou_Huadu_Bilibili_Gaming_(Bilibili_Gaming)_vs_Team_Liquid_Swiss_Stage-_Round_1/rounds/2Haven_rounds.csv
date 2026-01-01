@@ -1,0 +1,31 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+2Haven,1,"""0-1""",BLG,Defenders,Defuse
+2Haven,2,"""0-2""",BLG,Defenders,Elimination
+2Haven,3,"""1-2""",TL,Attackers,Elimination
+2Haven,4,"""2-2""",TL,Attackers,Spike Detonation
+2Haven,5,"""3-2""",TL,Attackers,Elimination
+2Haven,6,"""3-3""",BLG,Defenders,Defuse
+2Haven,7,"""4-3""",TL,Attackers,Elimination
+2Haven,8,"""5-3""",TL,Attackers,Elimination
+2Haven,9,"""5-4""",BLG,Defenders,Defuse
+2Haven,10,"""6-4""",TL,Attackers,Elimination
+2Haven,11,"""7-4""",TL,Attackers,Elimination
+2Haven,12,"""8-4""",TL,Attackers,Elimination
+2Haven,13,"""8-5""",TL,Attackers,Elimination
+2Haven,14,"""8-6""",TL,Attackers,Spike Detonation
+2Haven,15,"""8-7""",TL,Attackers,Spike Detonation
+2Haven,16,"""9-7""",BLG,Defenders,Defuse
+2Haven,17,"""10-7""",BLG,Defenders,Defuse
+2Haven,18,"""10-8""",TL,Attackers,Elimination
+2Haven,19,"""11-8""",BLG,Defenders,Elimination
+2Haven,20,"""11-9""",TL,Attackers,Elimination
+2Haven,21,"""12-9""",BLG,Defenders,Elimination
+2Haven,22,"""12-10""",TL,Attackers,Spike Detonation
+2Haven,23,"""12-11""",TL,Attackers,Elimination
+2Haven,24,"""12-12""",TL,Attackers,Elimination
+2Haven,25,"""12-13""",BLG,Defenders,Elimination
+2Haven,26,"""13-13""",BLG,Defenders,Elimination
+2Haven,27,"""14-13""",TL,Attackers,Elimination
+2Haven,28,"""14-14""",TL,Attackers,Elimination
+2Haven,29,"""14-15""",BLG,Defenders,Elimination
+2Haven,30,"""14-16""",TL,Attackers,Elimination

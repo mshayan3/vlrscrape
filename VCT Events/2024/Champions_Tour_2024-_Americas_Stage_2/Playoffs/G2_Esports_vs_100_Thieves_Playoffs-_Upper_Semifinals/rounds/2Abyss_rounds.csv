@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+2Abyss,1,"""1-0""",G2,Defenders,Defuse
+2Abyss,2,"""2-0""",G2,Defenders,Defuse
+2Abyss,3,"""3-0""",G2,Defenders,Defuse
+2Abyss,4,"""4-0""",G2,Defenders,Defuse
+2Abyss,5,"""4-1""",100T,Attackers,Elimination
+2Abyss,6,"""4-2""",100T,Attackers,Elimination
+2Abyss,7,"""4-3""",100T,Attackers,Elimination
+2Abyss,8,"""5-3""",G2,Defenders,Defuse
+2Abyss,9,"""6-3""",G2,Defenders,Defuse
+2Abyss,10,"""6-4""",100T,Attackers,Spike Detonation
+2Abyss,11,"""7-4""",G2,Defenders,Elimination
+2Abyss,12,"""7-5""",100T,Attackers,Elimination
+2Abyss,13,"""8-5""",100T,Attackers,Elimination
+2Abyss,14,"""9-5""",100T,Attackers,Spike Detonation
+2Abyss,15,"""9-6""",G2,Defenders,Defuse
+2Abyss,16,"""9-7""",G2,Defenders,Elimination
+2Abyss,17,"""9-8""",G2,Defenders,Defuse
+2Abyss,18,"""9-9""",G2,Defenders,Elimination
+2Abyss,19,"""10-9""",100T,Attackers,Spike Detonation
+2Abyss,20,"""11-9""",100T,Attackers,Elimination
+2Abyss,21,"""12-9""",100T,Attackers,Elimination
+2Abyss,22,"""12-10""",G2,Defenders,Defuse
+2Abyss,23,"""13-10""",100T,Attackers,Elimination
+2Abyss,24,"""""",,,

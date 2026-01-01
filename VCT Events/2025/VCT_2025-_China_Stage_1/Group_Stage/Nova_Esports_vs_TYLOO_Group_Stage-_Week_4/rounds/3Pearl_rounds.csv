@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+3Pearl,1,"""0-1""",TYL,Attackers,Elimination
+3Pearl,2,"""0-2""",TYL,Attackers,Elimination
+3Pearl,3,"""1-2""",NOVA,Defenders,Elimination
+3Pearl,4,"""2-2""",NOVA,Defenders,Time Expired
+3Pearl,5,"""3-2""",NOVA,Defenders,Defuse
+3Pearl,6,"""4-2""",NOVA,Defenders,Elimination
+3Pearl,7,"""4-3""",TYL,Attackers,Elimination
+3Pearl,8,"""5-3""",NOVA,Defenders,Elimination
+3Pearl,9,"""6-3""",NOVA,Defenders,Defuse
+3Pearl,10,"""7-3""",NOVA,Defenders,Elimination
+3Pearl,11,"""7-4""",TYL,Attackers,Spike Detonation
+3Pearl,12,"""8-4""",NOVA,Defenders,Defuse
+3Pearl,13,"""8-5""",NOVA,Defenders,Elimination
+3Pearl,14,"""9-5""",TYL,Attackers,Elimination
+3Pearl,15,"""10-5""",TYL,Attackers,Elimination
+3Pearl,16,"""11-5""",TYL,Attackers,Elimination
+3Pearl,17,"""12-5""",TYL,Attackers,Elimination
+3Pearl,18,"""13-5""",TYL,Attackers,Elimination
+3Pearl,19,"""""",,,
+3Pearl,20,"""""",,,
+3Pearl,21,"""""",,,
+3Pearl,22,"""""",,,
+3Pearl,23,"""""",,,
+3Pearl,24,"""""",,,

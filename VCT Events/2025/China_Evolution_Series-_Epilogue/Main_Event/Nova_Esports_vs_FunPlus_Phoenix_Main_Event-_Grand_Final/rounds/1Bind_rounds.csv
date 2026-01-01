@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+1Bind,1,"""0-1""",NOVA,Defenders,Elimination
+1Bind,2,"""0-2""",NOVA,Defenders,Elimination
+1Bind,3,"""0-3""",NOVA,Defenders,Elimination
+1Bind,4,"""0-4""",NOVA,Defenders,Elimination
+1Bind,5,"""0-5""",NOVA,Defenders,Elimination
+1Bind,6,"""0-6""",NOVA,Defenders,Elimination
+1Bind,7,"""0-7""",NOVA,Defenders,Elimination
+1Bind,8,"""0-8""",NOVA,Defenders,Elimination
+1Bind,9,"""0-9""",NOVA,Defenders,Elimination
+1Bind,10,"""0-10""",NOVA,Defenders,Elimination
+1Bind,11,"""1-10""",FPX,Attackers,Elimination
+1Bind,12,"""2-10""",FPX,Attackers,Elimination
+1Bind,13,"""2-11""",FPX,Attackers,Elimination
+1Bind,14,"""2-12""",FPX,Attackers,Elimination
+1Bind,15,"""3-12""",NOVA,Defenders,Elimination
+1Bind,16,"""4-12""",NOVA,Defenders,Defuse
+1Bind,17,"""5-12""",NOVA,Defenders,Elimination
+1Bind,18,"""6-12""",NOVA,Defenders,Time Expired
+1Bind,19,"""7-12""",NOVA,Defenders,Defuse
+1Bind,20,"""7-13""",FPX,Attackers,Elimination
+1Bind,21,"""""",,,
+1Bind,22,"""""",,,
+1Bind,23,"""""",,,
+1Bind,24,"""""",,,

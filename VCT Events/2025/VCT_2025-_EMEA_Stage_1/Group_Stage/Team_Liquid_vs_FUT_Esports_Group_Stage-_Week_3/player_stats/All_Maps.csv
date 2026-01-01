@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+kamo,TL,All_Maps,All,"Waylay, Yoru",1.59,358,43,21,9,+22,81%,213,34%,7,6,+1
+nAts,TL,All_Maps,All,"Cypher, Viper",1.24,252,32,22,7,+10,78%,156,24%,5,0,+5
+Serial,TL,All_Maps,All,"Deadlock, Astra",1.22,165,23,16,19,+7,83%,122,42%,3,1,+2
+keiko,TL,All_Maps,All,"Omen, Raze",1.21,215,31,22,10,+9,78%,140,39%,4,5,-1
+paTiTek,TL,All_Maps,All,"Tejo, Fade",1.03,141,16,18,11,-2,72%,93,14%,4,1,+3
+AtaKaptan,FUT,All_Maps,All,Omen,0.90,184,23,29,15,-6,67%,111,32%,2,2,0
+xeus,FUT,All_Maps,All,"Jett, Chamber",0.87,201,27,30,4,-3,64%,141,32%,5,7,-2
+MrFaliN,FUT,All_Maps,All,"Breach, Skye",0.76,148,15,27,13,-12,61%,99,20%,1,6,-5
+yetujey,FUT,All_Maps,All,"Cypher, Viper",0.66,111,16,27,8,-11,50%,85,26%,2,3,-1
+qRaxs,FUT,All_Maps,All,"Fade, Raze",0.60,164,18,32,11,-14,64%,118,27%,3,5,-2
+kamo,TL,All_Maps,Attack,"Waylay, Yoru",1.30,301,15,10,2,+5,71%,175,42%,2,4,-2
+nAts,TL,All_Maps,Attack,"Cypher, Viper",1.05,210,9,9,3,0,57%,146,10%,1,0,+1
+Serial,TL,All_Maps,Attack,"Deadlock, Astra",1.03,155,8,7,5,+1,86%,115,45%,0,0,0
+keiko,TL,All_Maps,Attack,"Omen, Raze",0.82,147,8,10,3,-2,50%,90,35%,2,3,-1
+paTiTek,TL,All_Maps,Attack,"Tejo, Fade",1.10,158,7,7,3,0,79%,101,20%,1,1,0
+AtaKaptan,FUT,All_Maps,Attack,Omen,0.85,190,14,19,9,-5,64%,107,23%,1,2,-1
+xeus,FUT,All_Maps,Attack,"Jett, Chamber",0.84,204,15,19,3,-4,64%,143,31%,3,5,-2
+MrFaliN,FUT,All_Maps,Attack,"Breach, Skye",0.55,132,8,20,8,-12,55%,89,19%,0,5,-5
+yetujey,FUT,All_Maps,Attack,"Cypher, Viper",0.47,91,7,18,3,-11,45%,69,24%,0,2,-2
+qRaxs,FUT,All_Maps,Attack,"Fade, Raze",0.52,169,12,22,6,-10,64%,123,29%,1,3,-2
+kamo,TL,All_Maps,Defend,"Waylay, Yoru",1.77,355,28,11,7,+17,86%,237,30%,5,2,+3
+nAts,TL,All_Maps,Defend,"Cypher, Viper",1.36,274,23,13,4,+10,91%,163,31%,4,0,+4
+Serial,TL,All_Maps,Defend,"Deadlock, Astra",1.34,178,15,9,14,+6,82%,126,40%,3,1,+2
+keiko,TL,All_Maps,Defend,"Omen, Raze",1.47,256,23,12,7,+11,95%,172,40%,2,2,0
+paTiTek,TL,All_Maps,Defend,"Tejo, Fade",0.99,137,9,11,8,-2,68%,87,11%,3,0,+3
+AtaKaptan,FUT,All_Maps,Defend,Omen,0.99,186,9,10,6,-1,71%,117,48%,1,0,+1
+xeus,FUT,All_Maps,Defend,"Jett, Chamber",0.99,215,12,11,1,+1,64%,138,35%,2,2,0
+MrFaliN,FUT,All_Maps,Defend,"Breach, Skye",1.09,171,7,7,5,0,71%,116,22%,1,1,0
+yetujey,FUT,All_Maps,Defend,"Cypher, Viper",0.97,190,9,9,5,0,57%,109,29%,2,1,+1
+qRaxs,FUT,All_Maps,Defend,"Fade, Raze",0.74,154,6,10,5,-4,64%,110,24%,2,2,0

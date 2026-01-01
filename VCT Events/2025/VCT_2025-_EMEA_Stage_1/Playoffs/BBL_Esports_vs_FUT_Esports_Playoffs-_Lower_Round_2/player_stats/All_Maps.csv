@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+PROFEK,BBL,All_Maps,All,Omen,1.56,280,53,43,38,+10,79%,178,31%,6,2,+4
+LewN,BBL,All_Maps,All,"Jett, Raze",1.26,206,43,40,9,+3,72%,136,34%,8,4,+4
+sociablEE,BBL,All_Maps,All,"Tejo, Sova",1.19,227,51,37,13,+14,84%,149,20%,1,4,-3
+Jamppi,BBL,All_Maps,All,"Kayo, Breach",1.07,175,42,41,38,+1,85%,101,19%,1,5,-4
+MAGNUM,BBL,All_Maps,All,"Fade, Cypher",1.02,186,54,40,15,+14,80%,119,27%,6,1,+5
+MrFaliN,FUT,All_Maps,All,"Sova, Tejo",0.92,175,38,42,15,-4,74%,114,26%,3,4,-1
+xeus,FUT,All_Maps,All,"Yoru, Chamber",0.89,184,50,53,10,-3,69%,118,41%,6,4,+2
+yetujey,FUT,All_Maps,All,"Killjoy, Viper, Cypher",0.83,172,50,45,14,+5,70%,134,25%,4,4,0
+AtaKaptan,FUT,All_Maps,All,Omen,0.73,145,28,50,27,-22,56%,98,24%,2,5,-3
+qRaxs,FUT,All_Maps,All,"Kayo, Fade, Neon",0.59,132,35,53,13,-18,57%,103,33%,1,5,-4
+PROFEK,BBL,All_Maps,Attack,Omen,1.44,247,19,14,13,+5,80%,166,42%,2,1,+1
+LewN,BBL,All_Maps,Attack,"Jett, Raze",1.77,288,20,11,5,+9,84%,188,40%,5,1,+4
+sociablEE,BBL,All_Maps,Attack,"Tejo, Sova",0.85,155,17,15,5,+2,80%,121,22%,0,0,0
+Jamppi,BBL,All_Maps,Attack,"Kayo, Breach",0.78,137,16,14,13,+2,88%,76,17%,0,2,-2
+MAGNUM,BBL,All_Maps,Attack,"Fade, Cypher",0.86,208,19,16,4,+3,76%,124,25%,2,1,+1
+MrFaliN,FUT,All_Maps,Attack,"Sova, Tejo",1.15,239,29,22,8,+7,78%,149,27%,3,2,+1
+xeus,FUT,All_Maps,Attack,"Yoru, Chamber",0.87,186,29,30,5,-1,72%,116,48%,4,3,+1
+yetujey,FUT,All_Maps,Attack,"Killjoy, Viper, Cypher",0.59,134,22,26,5,-4,64%,98,21%,2,1,+1
+AtaKaptan,FUT,All_Maps,Attack,Omen,0.55,125,13,29,15,-16,58%,90,24%,1,3,-2
+qRaxs,FUT,All_Maps,Attack,"Kayo, Fade, Neon",0.59,139,21,29,11,-8,61%,105,41%,1,4,-3
+PROFEK,BBL,All_Maps,Defend,Omen,1.63,298,34,29,25,+5,78%,185,26%,4,1,+3
+LewN,BBL,All_Maps,Defend,"Jett, Raze",0.96,158,23,29,4,-6,64%,106,28%,3,3,0
+sociablEE,BBL,All_Maps,Defend,"Tejo, Sova",1.39,251,34,22,8,+12,86%,166,19%,1,4,-3
+Jamppi,BBL,All_Maps,Defend,"Kayo, Breach",1.23,189,26,27,25,-1,83%,116,20%,1,3,-2
+MAGNUM,BBL,All_Maps,Defend,"Fade, Cypher",1.11,181,35,24,11,+11,83%,117,28%,4,0,+4
+MrFaliN,FUT,All_Maps,Defend,"Sova, Tejo",0.53,80,9,20,7,-11,68%,55,23%,0,2,-2
+xeus,FUT,All_Maps,Defend,"Yoru, Chamber",0.93,206,21,23,5,-2,64%,122,33%,2,1,+1
+yetujey,FUT,All_Maps,Defend,"Killjoy, Viper, Cypher",1.23,268,28,19,9,+9,80%,196,29%,2,3,-1
+AtaKaptan,FUT,All_Maps,Defend,Omen,1.03,171,15,21,12,-6,52%,112,24%,1,2,-1
+qRaxs,FUT,All_Maps,Defend,"Kayo, Fade, Neon",0.57,157,14,24,2,-10,52%,99,23%,0,1,-1

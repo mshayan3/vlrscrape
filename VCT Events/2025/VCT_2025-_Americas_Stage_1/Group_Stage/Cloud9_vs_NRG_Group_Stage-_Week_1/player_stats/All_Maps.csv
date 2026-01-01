@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Xeppaa,C9,All_Maps,All,"Tejo, Yoru",1.19,238,50,40,13,+10,73%,156,29%,6,6,0
+mitch,C9,All_Maps,All,"Breach, Sova",1.05,206,45,42,24,+3,78%,133,24%,4,4,0
+neT,C9,All_Maps,All,"Deadlock, Cypher",0.99,177,39,38,11,+1,64%,113,46%,7,4,+3
+OXY,C9,All_Maps,All,"Raze, Neon, Jett",0.99,239,48,51,9,-3,69%,159,27%,9,7,+2
+v1c,C9,All_Maps,All,"Omen, Brimstone, Astra",0.97,147,32,39,35,-7,71%,92,27%,5,7,-2
+s0m,NRG,All_Maps,All,"Omen, Brimstone, Astra",1.33,257,52,40,37,+12,83%,167,28%,6,4,+2
+brawk,NRG,All_Maps,All,"Tejo, Sova",1.05,183,44,40,14,+4,71%,120,25%,2,4,-2
+mada,NRG,All_Maps,All,"Neon, Raze",0.95,222,44,46,16,-2,68%,143,23%,11,11,0
+FiNESSE,NRG,All_Maps,All,"Vyse, Cypher, Killjoy",0.80,165,32,41,12,-9,73%,123,21%,4,7,-3
+Ethan,NRG,All_Maps,All,"Breach, Yoru",0.77,189,38,48,20,-10,69%,114,17%,5,5,0
+Xeppaa,C9,All_Maps,Attack,"Tejo, Yoru",1.04,214,22,21,3,+1,68%,144,36%,3,4,-1
+mitch,C9,All_Maps,Attack,"Breach, Sova",0.78,147,15,22,8,-7,71%,95,22%,2,3,-1
+neT,C9,All_Maps,Attack,"Deadlock, Cypher",1.07,200,20,20,4,0,64%,128,63%,2,2,0
+OXY,C9,All_Maps,Attack,"Raze, Neon, Jett",1.13,260,25,24,4,+1,71%,173,32%,3,4,-1
+v1c,C9,All_Maps,Attack,"Omen, Brimstone, Astra",0.81,133,14,20,11,-6,57%,84,28%,0,5,-5
+s0m,NRG,All_Maps,Attack,"Omen, Brimstone, Astra",1.36,264,27,23,24,+4,81%,171,24%,2,3,-1
+brawk,NRG,All_Maps,Attack,"Tejo, Sova",0.89,151,18,22,7,-4,71%,104,20%,0,2,-2
+mada,NRG,All_Maps,Attack,"Neon, Raze",0.91,205,21,25,8,-4,58%,124,21%,4,8,-4
+FiNESSE,NRG,All_Maps,Attack,"Vyse, Cypher, Killjoy",0.77,170,19,23,2,-4,68%,120,25%,3,6,-3
+Ethan,NRG,All_Maps,Attack,"Breach, Yoru",0.73,172,18,25,8,-7,68%,105,15%,1,2,-1
+Xeppaa,C9,All_Maps,Defend,"Tejo, Yoru",1.32,258,28,19,10,+9,77%,167,25%,3,2,+1
+mitch,C9,All_Maps,Defend,"Breach, Sova",1.29,260,30,20,16,+10,84%,167,25%,2,1,+1
+neT,C9,All_Maps,Defend,"Deadlock, Cypher",0.92,154,19,18,7,+1,65%,99,32%,5,2,+3
+OXY,C9,All_Maps,Defend,"Raze, Neon, Jett",0.86,228,23,27,5,-4,68%,147,21%,6,3,+3
+v1c,C9,All_Maps,Defend,"Omen, Brimstone, Astra",1.12,160,18,19,24,-1,84%,100,26%,5,2,+3
+s0m,NRG,All_Maps,Defend,"Omen, Brimstone, Astra",1.30,255,25,17,13,+8,86%,162,34%,4,1,+3
+brawk,NRG,All_Maps,Defend,"Tejo, Sova",1.23,220,26,18,7,+8,71%,138,30%,2,2,0
+mada,NRG,All_Maps,Defend,"Neon, Raze",1.00,246,23,21,8,+2,79%,163,25%,7,3,+4
+FiNESSE,NRG,All_Maps,Defend,"Vyse, Cypher, Killjoy",0.82,163,13,18,10,-5,79%,126,18%,1,1,0
+Ethan,NRG,All_Maps,Defend,"Breach, Yoru",0.82,197,20,23,12,-3,71%,124,20%,4,3,+1

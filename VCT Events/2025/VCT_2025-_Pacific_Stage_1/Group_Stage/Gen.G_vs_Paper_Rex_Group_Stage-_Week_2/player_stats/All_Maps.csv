@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Karon,GEN,All_Maps,All,"Omen, Brimstone",1.31,276,58,41,21,+17,78%,178,34%,6,6,0
+t3xture,GEN,All_Maps,All,"Raze, Neon",1.20,274,57,43,11,+14,71%,174,33%,8,11,-3
+Munchkin,GEN,All_Maps,All,"Viper, Breach",1.15,217,42,34,16,+8,78%,144,22%,1,6,-5
+Ash,GEN,All_Maps,All,"Fade, Tejo",0.93,154,32,34,15,-2,76%,109,29%,2,5,-3
+Suggest,GEN,All_Maps,All,"Vyse, Cypher, Killjoy",0.70,150,35,40,6,-5,73%,100,32%,6,7,-1
+f0rsakeN,PRX,All_Maps,All,"Waylay, Neon, Yoru",1.11,227,48,44,10,+4,73%,154,24%,15,13,+2
+something,PRX,All_Maps,All,Breach,0.95,179,36,45,25,-9,73%,121,33%,3,3,0
+Jinggg,PRX,All_Maps,All,"Omen, Brimstone, Tejo",0.91,191,37,46,22,-9,63%,112,25%,10,4,+6
+mindfreak,PRX,All_Maps,All,"Viper, Vyse, Omen",0.91,181,37,43,12,-6,61%,130,24%,4,2,+2
+d4v41,PRX,All_Maps,All,"Tejo, Cypher",0.76,180,34,47,17,-13,78%,121,18%,4,2,+2
+Karon,GEN,All_Maps,Attack,"Omen, Brimstone",1.19,262,32,28,11,+4,71%,160,30%,3,5,-2
+t3xture,GEN,All_Maps,Attack,"Raze, Neon",1.04,244,31,25,5,+6,66%,161,30%,2,8,-6
+Munchkin,GEN,All_Maps,Attack,"Viper, Breach",1.30,253,31,21,9,+10,77%,168,27%,1,2,-1
+Ash,GEN,All_Maps,Attack,"Fade, Tejo",0.96,161,20,21,9,-1,66%,115,31%,2,4,-2
+Suggest,GEN,All_Maps,Attack,"Vyse, Cypher, Killjoy",0.61,154,21,25,3,-4,69%,98,35%,4,4,0
+f0rsakeN,PRX,All_Maps,Attack,"Waylay, Neon, Yoru",0.97,207,19,18,3,+1,71%,124,21%,6,6,0
+something,PRX,All_Maps,Attack,Breach,0.88,201,15,19,9,-4,75%,145,40%,0,1,-1
+Jinggg,PRX,All_Maps,Attack,"Omen, Brimstone, Tejo",0.58,142,11,20,11,-9,42%,80,24%,3,2,+1
+mindfreak,PRX,All_Maps,Attack,"Viper, Vyse, Omen",1.04,165,13,14,5,-1,58%,117,20%,1,1,0
+d4v41,PRX,All_Maps,Attack,"Tejo, Cypher",0.71,166,15,18,5,-3,79%,119,15%,3,1,+2
+Karon,GEN,All_Maps,Defend,"Omen, Brimstone",1.47,296,26,13,10,+13,88%,206,39%,3,1,+2
+t3xture,GEN,All_Maps,Defend,"Raze, Neon",1.44,305,26,18,6,+8,79%,193,39%,6,3,+3
+Munchkin,GEN,All_Maps,Defend,"Viper, Breach",0.92,152,11,13,7,-2,79%,108,16%,0,4,-4
+Ash,GEN,All_Maps,Defend,"Fade, Tejo",0.90,137,12,13,6,-1,92%,100,27%,0,1,-1
+Suggest,GEN,All_Maps,Defend,"Vyse, Cypher, Killjoy",0.82,161,14,15,3,-1,79%,104,28%,2,3,-1
+f0rsakeN,PRX,All_Maps,Defend,"Waylay, Neon, Yoru",1.20,248,29,26,7,+3,74%,174,27%,9,7,+2
+something,PRX,All_Maps,Defend,Breach,1.00,166,21,26,16,-5,71%,105,28%,3,2,+1
+Jinggg,PRX,All_Maps,Defend,"Omen, Brimstone, Tejo",1.15,217,26,26,11,0,77%,134,25%,7,2,+5
+mindfreak,PRX,All_Maps,Defend,"Viper, Vyse, Omen",0.83,201,24,29,7,-5,63%,138,28%,3,1,+2
+d4v41,PRX,All_Maps,Defend,"Tejo, Cypher",0.79,184,19,29,12,-10,77%,123,21%,1,1,0

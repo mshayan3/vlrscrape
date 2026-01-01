@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Ruxic,NAVI,All_Maps,All,"Omen, Viper",1.34,287,50,34,14,+16,77%,188,31%,7,5,+2
+alexiiik,NAVI,All_Maps,All,Raze,1.21,253,44,33,6,+11,68%,153,29%,9,5,+4
+hiro,NAVI,All_Maps,All,"Cypher, Omen",1.21,269,43,37,19,+6,74%,191,39%,4,7,-3
+Shao,NAVI,All_Maps,All,Fade,1.02,141,26,26,12,0,72%,100,28%,2,1,+1
+ANGE1,NAVI,All_Maps,All,"Breach, Gekko",0.75,141,23,31,17,-8,70%,86,47%,3,4,-1
+marteen,KC,All_Maps,All,"Yoru, Waylay",1.01,219,40,37,4,+3,70%,148,39%,7,8,-1
+Elite,KC,All_Maps,All,Cypher,0.98,215,33,36,11,-3,64%,140,40%,5,2,+3
+Avez,KC,All_Maps,All,"Phoenix, Yoru",0.92,206,35,37,12,-2,62%,142,43%,6,6,0
+SUYGETSU,KC,All_Maps,All,Omen,0.87,185,29,38,20,-9,72%,115,42%,2,3,-1
+saadhak,KC,All_Maps,All,"Sova, Fade",0.67,150,24,38,10,-14,55%,97,36%,2,6,-4
+Ruxic,NAVI,All_Maps,Attack,"Omen, Viper",1.34,281,21,16,10,+5,82%,184,33%,4,3,+1
+alexiiik,NAVI,All_Maps,Attack,Raze,1.09,276,22,20,4,+2,68%,170,31%,4,3,+1
+hiro,NAVI,All_Maps,Attack,"Cypher, Omen",1.19,243,19,16,6,+3,73%,175,46%,0,2,-2
+Shao,NAVI,All_Maps,Attack,Fade,1.05,150,13,13,7,0,73%,109,39%,1,1,0
+ANGE1,NAVI,All_Maps,Attack,"Breach, Gekko",0.50,110,9,16,4,-7,55%,70,48%,0,4,-4
+marteen,KC,All_Maps,Attack,"Yoru, Waylay",1.03,247,24,20,1,+4,64%,157,33%,4,6,-2
+Elite,KC,All_Maps,Attack,Cypher,0.93,201,17,20,5,-3,60%,130,40%,3,1,+2
+Avez,KC,All_Maps,Attack,"Phoenix, Yoru",0.65,170,14,21,6,-7,52%,120,42%,2,4,-2
+SUYGETSU,KC,All_Maps,Attack,Omen,0.73,152,12,21,9,-9,64%,98,36%,0,1,-1
+saadhak,KC,All_Maps,Attack,"Sova, Fade",0.67,153,13,20,6,-7,56%,97,36%,0,4,-4
+Ruxic,NAVI,All_Maps,Defend,"Omen, Viper",1.35,300,29,18,4,+11,72%,191,30%,3,2,+1
+alexiiik,NAVI,All_Maps,Defend,Raze,1.31,234,22,13,2,+9,68%,138,26%,5,2,+3
+hiro,NAVI,All_Maps,Defend,"Cypher, Omen",1.24,294,24,21,13,+3,76%,206,34%,4,5,-1
+Shao,NAVI,All_Maps,Defend,Fade,1.00,127,13,13,5,0,72%,93,21%,1,0,+1
+ANGE1,NAVI,All_Maps,Defend,"Breach, Gekko",0.97,166,14,15,13,-1,84%,101,46%,3,0,+3
+marteen,KC,All_Maps,Defend,"Yoru, Waylay",0.98,194,16,17,3,-1,77%,137,50%,3,2,+1
+Elite,KC,All_Maps,Defend,Cypher,1.03,231,16,16,6,0,68%,152,41%,2,1,+1
+Avez,KC,All_Maps,Defend,"Phoenix, Yoru",1.23,250,21,16,6,+5,73%,167,45%,4,2,+2
+SUYGETSU,KC,All_Maps,Defend,Omen,1.02,217,17,17,11,0,82%,134,48%,2,2,0
+saadhak,KC,All_Maps,Defend,"Sova, Fade",0.66,148,11,18,4,-7,55%,98,36%,2,2,0

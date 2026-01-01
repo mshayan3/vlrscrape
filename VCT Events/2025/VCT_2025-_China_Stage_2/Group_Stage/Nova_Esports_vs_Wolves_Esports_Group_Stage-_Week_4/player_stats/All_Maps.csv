@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+cb,NOVA,All_Maps,All,"Sova, Fade, Deadlock",1.41,263,69,44,32,+25,81%,174,31%,10,6,+4
+Ezeir,NOVA,All_Maps,All,"Omen, Brimstone",1.38,259,62,43,38,+19,85%,166,22%,9,2,+7
+GuanG,NOVA,All_Maps,All,"Killjoy, Vyse",1.00,185,48,41,7,+7,72%,123,29%,5,2,+3
+SWERL,NOVA,All_Maps,All,"Neon, Raze",1.00,218,57,52,16,+5,79%,148,29%,16,9,+7
+o0o0o,NOVA,All_Maps,All,"Viper, Skye",0.80,133,34,41,24,-7,71%,83,24%,6,7,-1
+Juicy,WOL,All_Maps,All,Yoru,0.92,194,50,57,17,-7,67%,125,24%,9,12,-3
+SiuFatBB,WOL,All_Maps,All,"Sova, Fade",0.91,156,39,49,22,-10,67%,108,29%,5,8,-3
+Lysoar,WOL,All_Maps,All,"Cypher, Vyse, Viper",0.91,189,49,53,12,-4,69%,117,27%,5,6,-1
+Yuicaw,WOL,All_Maps,All,"Omen, Astra, Brimstone",0.90,160,38,52,32,-14,69%,109,39%,4,9,-5
+Spring,WOL,All_Maps,All,"Iso, Neon, Raze",0.87,185,45,59,20,-14,63%,126,30%,3,11,-8
+cb,NOVA,All_Maps,Attack,"Sova, Fade, Deadlock",1.57,291,36,19,11,+17,82%,199,33%,3,2,+1
+Ezeir,NOVA,All_Maps,Attack,"Omen, Brimstone",1.22,236,26,22,21,+4,88%,148,15%,5,2,+3
+GuanG,NOVA,All_Maps,Attack,"Killjoy, Vyse",1.12,176,24,18,4,+6,76%,124,29%,1,0,+1
+SWERL,NOVA,All_Maps,Attack,"Neon, Raze",0.98,211,25,23,8,+2,82%,144,27%,10,4,+6
+o0o0o,NOVA,All_Maps,Attack,"Viper, Skye",0.96,131,16,18,16,-2,79%,86,22%,3,3,0
+Juicy,WOL,All_Maps,Attack,Yoru,0.94,202,28,31,12,-3,72%,126,28%,6,8,-2
+SiuFatBB,WOL,All_Maps,Attack,"Sova, Fade",0.79,115,14,24,14,-10,62%,79,19%,2,5,-3
+Lysoar,WOL,All_Maps,Attack,"Cypher, Vyse, Viper",1.05,229,32,30,6,+2,69%,135,32%,4,3,+1
+Yuicaw,WOL,All_Maps,Attack,"Omen, Astra, Brimstone",1.06,180,23,26,18,-3,69%,120,33%,2,2,0
+Spring,WOL,All_Maps,Attack,"Iso, Neon, Raze",0.87,176,24,32,12,-8,64%,124,28%,1,6,-5
+cb,NOVA,All_Maps,Defend,"Sova, Fade, Deadlock",1.27,251,33,25,21,+8,79%,154,30%,7,4,+3
+Ezeir,NOVA,All_Maps,Defend,"Omen, Brimstone",1.53,280,36,21,17,+15,82%,181,25%,4,0,+4
+GuanG,NOVA,All_Maps,Defend,"Killjoy, Vyse",0.91,179,24,23,3,+1,69%,122,21%,4,2,+2
+SWERL,NOVA,All_Maps,Defend,"Neon, Raze",1.03,227,32,29,8,+3,77%,151,30%,6,5,+1
+o0o0o,NOVA,All_Maps,Defend,"Viper, Skye",0.67,125,18,23,8,-5,64%,80,27%,3,4,-1
+Juicy,WOL,All_Maps,Defend,Yoru,0.89,181,22,26,5,-4,61%,124,18%,3,4,-1
+SiuFatBB,WOL,All_Maps,Defend,"Sova, Fade",1.05,227,25,25,8,0,73%,142,39%,3,3,0
+Lysoar,WOL,All_Maps,Defend,"Cypher, Vyse, Viper",0.74,153,17,23,6,-6,70%,96,20%,1,3,-2
+Yuicaw,WOL,All_Maps,Defend,"Omen, Astra, Brimstone",0.71,152,15,26,14,-11,70%,96,44%,2,7,-5
+Spring,WOL,All_Maps,Defend,"Iso, Neon, Raze",0.88,191,21,27,8,-6,61%,128,30%,2,5,-3

@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+yoman,GEN,All_Maps,All,"Sova, Fade",0.99,167,30,33,10,-3,64%,112,31%,2,4,-2
+Karon,GEN,All_Maps,All,"Omen, Brimstone",0.92,165,27,34,26,-7,70%,102,34%,1,3,-2
+Foxy9,GEN,All_Maps,All,"Cypher, Gekko",0.91,185,33,38,6,-5,60%,126,43%,6,3,+3
+Munchkin,GEN,All_Maps,All,"Kayo, Viper",0.78,170,26,38,22,-12,74%,115,18%,2,6,-4
+t3xture,GEN,All_Maps,All,"Jett, Raze",0.76,205,36,42,3,-6,54%,121,24%,9,14,-5
+free1ng,DRX,All_Maps,All,Tejo,1.40,250,47,28,10,+19,84%,153,32%,8,3,+5
+BeYN,DRX,All_Maps,All,"Sova, Kayo",1.21,217,40,30,20,+10,80%,147,43%,4,3,+1
+MaKo,DRX,All_Maps,All,"Astra, Brimstone",1.14,184,31,30,27,+1,76%,128,28%,1,3,-2
+Flashback,DRX,All_Maps,All,"Cypher, Viper",1.01,192,32,31,14,+1,76%,128,28%,9,6,+3
+HYUNMIN,DRX,All_Maps,All,"Jett, Raze",0.97,206,35,33,12,+2,78%,145,35%,8,5,+3
+yoman,GEN,All_Maps,Attack,"Sova, Fade",1.21,200,17,15,7,+2,71%,131,43%,0,1,-1
+Karon,GEN,All_Maps,Attack,"Omen, Brimstone",1.12,208,16,15,13,+1,83%,124,39%,1,0,+1
+Foxy9,GEN,All_Maps,Attack,"Cypher, Gekko",0.91,196,17,18,3,-1,63%,124,36%,3,0,+3
+Munchkin,GEN,All_Maps,Attack,"Kayo, Viper",0.74,136,12,17,7,-5,71%,87,19%,0,2,-2
+t3xture,GEN,All_Maps,Attack,"Jett, Raze",0.38,160,13,22,2,-9,54%,104,30%,6,11,-5
+free1ng,DRX,All_Maps,Attack,Tejo,1.31,233,23,14,6,+9,81%,136,26%,6,3,+3
+BeYN,DRX,All_Maps,Attack,"Sova, Kayo",1.20,200,20,15,14,+5,85%,139,42%,3,1,+2
+MaKo,DRX,All_Maps,Attack,"Astra, Brimstone",1.23,216,19,15,13,+4,73%,139,25%,0,0,0
+Flashback,DRX,All_Maps,Attack,"Cypher, Viper",0.89,145,12,15,7,-3,77%,108,27%,1,4,-3
+HYUNMIN,DRX,All_Maps,Attack,"Jett, Raze",1.16,264,24,18,5,+6,77%,180,42%,6,2,+4
+yoman,GEN,All_Maps,Defend,"Sova, Fade",0.79,142,13,18,3,-5,58%,94,21%,2,3,-1
+Karon,GEN,All_Maps,Defend,"Omen, Brimstone",0.72,120,11,19,13,-8,58%,81,29%,0,3,-3
+Foxy9,GEN,All_Maps,Defend,"Cypher, Gekko",0.90,188,16,20,3,-4,58%,128,50%,3,3,0
+Munchkin,GEN,All_Maps,Defend,"Kayo, Viper",0.82,202,14,21,15,-7,77%,141,18%,2,4,-2
+t3xture,GEN,All_Maps,Defend,"Jett, Raze",1.12,238,23,20,1,+3,54%,137,20%,3,3,0
+free1ng,DRX,All_Maps,Defend,Tejo,1.50,270,24,14,4,+10,88%,172,38%,2,0,+2
+BeYN,DRX,All_Maps,Defend,"Sova, Kayo",1.22,223,20,15,6,+5,75%,155,43%,1,2,-1
+MaKo,DRX,All_Maps,Defend,"Astra, Brimstone",1.03,155,12,15,14,-3,79%,117,31%,1,3,-2
+Flashback,DRX,All_Maps,Defend,"Cypher, Viper",1.15,255,20,16,7,+4,75%,150,29%,8,2,+6
+HYUNMIN,DRX,All_Maps,Defend,"Jett, Raze",0.75,144,11,15,7,-4,79%,107,26%,2,3,-1

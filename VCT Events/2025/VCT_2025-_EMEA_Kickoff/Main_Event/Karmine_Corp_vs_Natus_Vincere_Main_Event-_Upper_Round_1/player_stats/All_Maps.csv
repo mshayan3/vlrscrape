@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Avez,KC,All_Maps,All,"Fade, Gekko",1.43,252,50,31,19,+19,82%,168,35%,4,5,-1
+SUYGETSU,KC,All_Maps,All,"Astra, Omen",1.17,187,38,32,21,+6,82%,121,38%,5,6,-1
+saadhak,KC,All_Maps,All,"Harbor, Deadlock",0.99,164,35,32,21,+3,77%,96,26%,3,7,-4
+Elite,KC,All_Maps,All,Vyse,0.98,190,38,37,12,+1,82%,128,47%,4,3,+1
+marteen,KC,All_Maps,All,Yoru,0.95,210,41,42,14,-1,72%,142,31%,10,10,0
+Shao,NAVI,All_Maps,All,"Sova, Gekko, Astra",1.05,160,36,34,15,+2,79%,108,30%,6,3,+3
+Ruxic,NAVI,All_Maps,All,"Astra, Brimstone, Omen",1.04,218,40,43,25,-3,82%,136,26%,7,5,+2
+koalanoob,NAVI,All_Maps,All,"Jett, Raze, Sage",0.93,205,43,42,12,+1,65%,137,24%,10,11,-1
+hiro,NAVI,All_Maps,All,"Omen, Vyse",0.83,138,30,39,24,-9,65%,108,27%,1,2,-1
+ANGE1,NAVI,All_Maps,All,"Kayo, Tejo",0.55,150,24,44,23,-20,65%,92,23%,7,5,+2
+Avez,KC,All_Maps,Attack,"Fade, Gekko",1.24,218,26,20,12,+6,81%,137,33%,3,3,0
+SUYGETSU,KC,All_Maps,Attack,"Astra, Omen",1.15,173,22,18,10,+4,83%,114,35%,5,3,+2
+saadhak,KC,All_Maps,Attack,"Harbor, Deadlock",0.90,171,24,21,10,+3,72%,97,28%,2,5,-3
+Elite,KC,All_Maps,Attack,Vyse,1.08,199,26,23,7,+3,81%,132,51%,2,2,0
+marteen,KC,All_Maps,Attack,Yoru,0.86,207,26,27,6,-1,64%,140,32%,4,7,-3
+Shao,NAVI,All_Maps,Attack,"Sova, Gekko, Astra",1.05,174,14,13,4,+1,76%,113,32%,2,1,+1
+Ruxic,NAVI,All_Maps,Attack,"Astra, Brimstone, Omen",0.80,186,14,18,10,-4,90%,118,33%,2,1,+1
+koalanoob,NAVI,All_Maps,Attack,"Jett, Raze, Sage",0.82,209,15,17,5,-2,67%,140,31%,4,6,-2
+hiro,NAVI,All_Maps,Attack,"Omen, Vyse",0.85,163,12,15,8,-3,67%,118,23%,0,1,-1
+ANGE1,NAVI,All_Maps,Attack,"Kayo, Tejo",0.56,141,9,15,5,-6,71%,89,29%,3,1,+2
+Avez,KC,All_Maps,Defend,"Fade, Gekko",1.77,301,24,11,7,+13,86%,222,38%,1,2,-1
+SUYGETSU,KC,All_Maps,Defend,"Astra, Omen",1.21,210,16,14,11,+2,81%,134,43%,0,3,-3
+saadhak,KC,All_Maps,Defend,"Harbor, Deadlock",1.14,153,11,11,11,0,86%,96,22%,1,2,-1
+Elite,KC,All_Maps,Defend,Vyse,0.81,172,12,14,5,-2,86%,121,41%,2,1,+1
+marteen,KC,All_Maps,Defend,Yoru,1.10,206,15,15,8,0,86%,146,29%,6,3,+3
+Shao,NAVI,All_Maps,Defend,"Sova, Gekko, Astra",1.04,165,22,21,11,+1,81%,105,29%,4,2,+2
+Ruxic,NAVI,All_Maps,Defend,"Astra, Brimstone, Omen",1.17,227,26,25,15,+1,78%,147,23%,5,4,+1
+koalanoob,NAVI,All_Maps,Defend,"Jett, Raze, Sage",1.02,219,28,25,7,+3,64%,135,20%,6,5,+1
+hiro,NAVI,All_Maps,Defend,"Omen, Vyse",0.81,139,18,24,16,-6,64%,103,30%,1,1,0
+ANGE1,NAVI,All_Maps,Defend,"Kayo, Tejo",0.55,151,15,29,18,-14,61%,94,20%,4,4,0

@@ -1,0 +1,27 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+1Ascent,1,"""1-0""",TL,Defenders,Defuse
+1Ascent,2,"""2-0""",TL,Defenders,Defuse
+1Ascent,3,"""2-1""",APK,Attackers,Elimination
+1Ascent,4,"""2-2""",APK,Attackers,Spike Detonation
+1Ascent,5,"""2-3""",APK,Attackers,Elimination
+1Ascent,6,"""2-4""",APK,Attackers,Elimination
+1Ascent,7,"""2-5""",APK,Attackers,Spike Detonation
+1Ascent,8,"""3-5""",TL,Defenders,Defuse
+1Ascent,9,"""3-6""",APK,Attackers,Spike Detonation
+1Ascent,10,"""4-6""",TL,Defenders,Elimination
+1Ascent,11,"""4-7""",APK,Attackers,Elimination
+1Ascent,12,"""4-8""",APK,Attackers,Elimination
+1Ascent,13,"""5-8""",APK,Attackers,Elimination
+1Ascent,14,"""6-8""",APK,Attackers,Spike Detonation
+1Ascent,15,"""6-9""",TL,Defenders,Elimination
+1Ascent,16,"""7-9""",APK,Attackers,Elimination
+1Ascent,17,"""8-9""",APK,Attackers,Elimination
+1Ascent,18,"""8-10""",TL,Defenders,Elimination
+1Ascent,19,"""9-10""",APK,Attackers,Spike Detonation
+1Ascent,20,"""9-11""",TL,Defenders,Elimination
+1Ascent,21,"""10-11""",APK,Attackers,Spike Detonation
+1Ascent,22,"""11-11""",APK,Attackers,Spike Detonation
+1Ascent,23,"""11-12""",TL,Defenders,Elimination
+1Ascent,24,"""12-12""",APK,Attackers,Elimination
+1Ascent,25,"""13-12""",TL,Defenders,Elimination
+1Ascent,26,"""14-12""",APK,Attackers,Elimination

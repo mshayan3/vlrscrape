@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+2Icebox,1,"""1-0""",RRQ,Attackers,Elimination
+2Icebox,2,"""2-0""",RRQ,Attackers,Elimination
+2Icebox,3,"""2-1""",T1,Defenders,Elimination
+2Icebox,4,"""3-1""",RRQ,Attackers,Elimination
+2Icebox,5,"""4-1""",RRQ,Attackers,Elimination
+2Icebox,6,"""4-2""",T1,Defenders,Elimination
+2Icebox,7,"""4-3""",T1,Defenders,Elimination
+2Icebox,8,"""4-4""",T1,Defenders,Defuse
+2Icebox,9,"""5-4""",RRQ,Attackers,Elimination
+2Icebox,10,"""5-5""",T1,Defenders,Defuse
+2Icebox,11,"""6-5""",RRQ,Attackers,Elimination
+2Icebox,12,"""6-6""",T1,Defenders,Defuse
+2Icebox,13,"""7-6""",T1,Defenders,Elimination
+2Icebox,14,"""8-6""",T1,Defenders,Elimination
+2Icebox,15,"""8-7""",RRQ,Attackers,Elimination
+2Icebox,16,"""8-8""",RRQ,Attackers,Elimination
+2Icebox,17,"""8-9""",RRQ,Attackers,Elimination
+2Icebox,18,"""9-9""",T1,Defenders,Elimination
+2Icebox,19,"""9-10""",RRQ,Attackers,Elimination
+2Icebox,20,"""9-11""",RRQ,Attackers,Elimination
+2Icebox,21,"""10-11""",T1,Defenders,Defuse
+2Icebox,22,"""10-12""",RRQ,Attackers,Elimination
+2Icebox,23,"""10-13""",RRQ,Attackers,Elimination
+2Icebox,24,"""""",,,

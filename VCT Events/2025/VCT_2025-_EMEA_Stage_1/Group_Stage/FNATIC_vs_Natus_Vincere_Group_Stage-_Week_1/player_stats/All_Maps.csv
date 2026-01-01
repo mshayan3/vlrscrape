@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+crashies,FNC,All_Maps,All,"Fade, Tejo",1.66,298,46,22,14,+24,88%,201,39%,4,1,+3
+Chronicle,FNC,All_Maps,All,"Viper, Breach",1.13,187,29,24,14,+5,69%,119,23%,5,3,+2
+Boaster,FNC,All_Maps,All,"Astra, Brimstone",1.04,166,23,22,13,+1,62%,103,38%,5,4,+1
+kaajak,FNC,All_Maps,All,"Yoru, Neon",0.84,183,28,30,8,-2,64%,117,22%,5,6,-1
+Alfajer,FNC,All_Maps,All,"Raze, Cypher",0.82,176,26,27,9,-1,67%,118,23%,5,4,+1
+koalanoob,NAVI,All_Maps,All,Raze,1.28,272,38,30,4,+8,76%,162,15%,13,5,+8
+Shao,NAVI,All_Maps,All,"Astra, Breach",1.15,198,28,26,18,+2,74%,137,48%,0,1,-1
+Ruxic,NAVI,All_Maps,All,"Omen, Brimstone",0.75,146,19,30,21,-11,67%,98,23%,3,5,-2
+hiro,NAVI,All_Maps,All,"Vyse, Cypher",0.68,146,23,32,2,-9,57%,103,29%,1,8,-7
+ANGE1,NAVI,All_Maps,All,Fade,0.50,112,17,34,11,-17,64%,83,35%,1,5,-4
+crashies,FNC,All_Maps,Attack,"Fade, Tejo",1.69,303,26,12,8,+14,83%,202,39%,1,1,0
+Chronicle,FNC,All_Maps,Attack,"Viper, Breach",0.93,172,15,16,6,-1,63%,112,26%,3,3,0
+Boaster,FNC,All_Maps,Attack,"Astra, Brimstone",1.00,168,14,14,7,0,58%,95,40%,3,2,+1
+kaajak,FNC,All_Maps,Attack,"Yoru, Neon",0.57,136,12,18,4,-6,63%,93,25%,1,3,-2
+Alfajer,FNC,All_Maps,Attack,"Raze, Cypher",0.79,187,16,18,5,-2,58%,127,27%,4,3,+1
+koalanoob,NAVI,All_Maps,Attack,Raze,1.06,216,13,13,3,0,78%,126,17%,4,3,+1
+Shao,NAVI,All_Maps,Attack,"Astra, Breach",1.17,202,12,12,5,0,78%,148,47%,0,0,0
+Ruxic,NAVI,All_Maps,Attack,"Omen, Brimstone",0.37,86,3,15,12,-12,56%,61,17%,1,3,-2
+hiro,NAVI,All_Maps,Attack,"Vyse, Cypher",0.73,163,11,14,0,-3,50%,114,32%,1,3,-2
+ANGE1,NAVI,All_Maps,Attack,Fade,0.49,124,8,15,4,-7,50%,76,50%,0,3,-3
+crashies,FNC,All_Maps,Defend,"Fade, Tejo",1.62,292,20,10,6,+10,94%,201,39%,3,0,+3
+Chronicle,FNC,All_Maps,Defend,"Viper, Breach",1.38,203,14,8,8,+6,78%,130,19%,2,0,+2
+Boaster,FNC,All_Maps,Defend,"Astra, Brimstone",1.09,159,9,8,6,+1,67%,114,35%,2,2,0
+kaajak,FNC,All_Maps,Defend,"Yoru, Neon",1.22,233,16,12,4,+4,67%,149,17%,4,3,+1
+Alfajer,FNC,All_Maps,Defend,"Raze, Cypher",0.85,160,10,9,4,+1,78%,105,18%,1,1,0
+koalanoob,NAVI,All_Maps,Defend,Raze,1.45,312,25,17,1,+8,75%,189,14%,9,2,+7
+Shao,NAVI,All_Maps,Defend,"Astra, Breach",1.13,195,16,14,13,+2,71%,128,49%,0,1,-1
+Ruxic,NAVI,All_Maps,Defend,"Omen, Brimstone",1.04,195,16,15,9,+1,75%,126,26%,2,2,0
+hiro,NAVI,All_Maps,Defend,"Vyse, Cypher",0.65,144,12,18,2,-6,63%,95,26%,0,5,-5
+ANGE1,NAVI,All_Maps,Defend,Fade,0.53,114,9,19,7,-10,75%,88,28%,1,2,-1

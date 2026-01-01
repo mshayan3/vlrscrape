@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Spring,WOL,All_Maps,All,"Astra, Viper",1.31,282,63,47,22,+16,74%,180,31%,9,5,+4
+Lysoar,WOL,All_Maps,All,"Vyse, Omen, Killjoy",0.88,209,46,54,18,-8,71%,138,39%,7,5,+2
+Yuicaw,WOL,All_Maps,All,"Chamber, Breach, Gekko",0.86,138,35,46,17,-11,65%,95,39%,3,5,-2
+Juicy,WOL,All_Maps,All,"Yoru, Neon, Jett",0.82,189,43,52,15,-9,68%,123,25%,10,16,-6
+SiuFatBB,WOL,All_Maps,All,Tejo,0.68,133,30,50,13,-20,67%,99,21%,1,5,-4
+whzy,BLG,All_Maps,All,"Yoru, Neon, Jett",1.31,280,67,48,13,+19,79%,175,37%,17,6,+11
+rushia,BLG,All_Maps,All,"Astra, Omen, Harbor",1.20,219,53,41,21,+12,68%,143,26%,6,7,-1
+nephh,BLG,All_Maps,All,"Tejo, Breach, Viper",1.18,208,51,41,15,+10,76%,121,29%,6,6,0
+Knight,BLG,All_Maps,All,"Fade, Tejo, Sova",0.92,175,40,44,20,-4,68%,123,17%,5,6,-1
+Levius,BLG,All_Maps,All,"Vyse, Viper, Killjoy",0.82,160,38,44,19,-6,68%,109,19%,2,5,-3
+Spring,WOL,All_Maps,Attack,"Astra, Viper",1.15,264,29,25,11,+4,71%,168,28%,8,3,+5
+Lysoar,WOL,All_Maps,Attack,"Vyse, Omen, Killjoy",0.92,212,24,29,5,-5,62%,145,33%,3,3,0
+Yuicaw,WOL,All_Maps,Attack,"Chamber, Breach, Gekko",0.62,128,14,29,10,-15,59%,80,40%,1,2,-1
+Juicy,WOL,All_Maps,Attack,"Yoru, Neon, Jett",0.65,159,19,29,8,-10,62%,113,23%,4,9,-5
+SiuFatBB,WOL,All_Maps,Attack,Tejo,0.56,108,12,28,6,-16,62%,80,23%,0,1,-1
+whzy,BLG,All_Maps,Attack,"Yoru, Neon, Jett",1.00,241,27,27,5,0,69%,150,28%,7,4,+3
+rushia,BLG,All_Maps,Attack,"Astra, Omen, Harbor",1.17,214,27,22,10,+5,69%,142,32%,4,3,+1
+nephh,BLG,All_Maps,Attack,"Tejo, Breach, Viper",1.22,214,27,22,7,+5,72%,126,39%,4,3,+1
+Knight,BLG,All_Maps,Attack,"Fade, Tejo, Sova",0.61,146,15,26,8,-11,59%,107,14%,2,3,-1
+Levius,BLG,All_Maps,Attack,"Vyse, Viper, Killjoy",0.70,126,13,23,8,-10,63%,98,27%,1,1,0
+Spring,WOL,All_Maps,Defend,"Astra, Viper",1.48,300,34,22,11,+12,78%,192,36%,1,2,-1
+Lysoar,WOL,All_Maps,Defend,"Vyse, Omen, Killjoy",0.84,199,22,25,13,-3,81%,131,39%,4,2,+2
+Yuicaw,WOL,All_Maps,Defend,"Chamber, Breach, Gekko",1.12,158,21,17,7,+4,72%,111,33%,2,3,-1
+Juicy,WOL,All_Maps,Defend,"Yoru, Neon, Jett",1.02,220,24,23,7,+1,75%,133,23%,6,7,-1
+SiuFatBB,WOL,All_Maps,Defend,Tejo,0.81,165,18,22,7,-4,72%,118,26%,1,4,-3
+whzy,BLG,All_Maps,Defend,"Yoru, Neon, Jett",1.61,317,40,21,8,+19,88%,198,37%,10,2,+8
+rushia,BLG,All_Maps,Defend,"Astra, Omen, Harbor",1.22,220,26,19,11,+7,68%,145,20%,2,4,-2
+nephh,BLG,All_Maps,Defend,"Tejo, Breach, Viper",1.15,199,24,19,8,+5,79%,117,24%,2,3,-1
+Knight,BLG,All_Maps,Defend,"Fade, Tejo, Sova",1.21,201,25,18,12,+7,76%,137,21%,3,3,0
+Levius,BLG,All_Maps,Defend,"Vyse, Viper, Killjoy",0.94,196,25,21,11,+4,74%,120,19%,1,4,-3

@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Jemkin,RRQ,All_Maps,All,"Waylay, Jett",1.41,270,61,32,8,+29,77%,156,31%,15,8,+7
+xffero,RRQ,All_Maps,All,"Omen, Killjoy, Cypher",1.29,249,53,38,23,+15,77%,159,28%,3,4,-1
+Kushy,RRQ,All_Maps,All,"Vyse, Sova, Fade",1.03,183,35,37,21,-2,72%,129,38%,1,5,-4
+Monyet,RRQ,All_Maps,All,"Neon, Viper, Omen",0.98,182,38,38,22,0,74%,122,20%,7,7,0
+crazyguy,RRQ,All_Maps,All,"Sova, Sage, Breach",0.89,200,40,43,24,-3,72%,123,25%,6,5,+1
+invy,TS,All_Maps,All,"Chamber, Sage, Breach",1.23,224,49,43,15,+6,72%,153,29%,8,4,+4
+kellyS,TS,All_Maps,All,"Vyse, Killjoy, Cypher",1.15,228,49,43,8,+6,64%,153,21%,5,3,+2
+n1zzy,TS,All_Maps,All,"Yoru, Jett, Neon",0.78,191,42,48,6,-6,54%,127,39%,10,14,-4
+JessieVash,TS,All_Maps,All,Sova,0.75,142,30,43,10,-13,59%,104,32%,2,2,0
+Wild0reoo,TS,All_Maps,All,"Omen, Viper",0.49,107,18,50,27,-32,61%,76,27%,4,9,-5
+Jemkin,RRQ,All_Maps,Attack,"Waylay, Jett",0.89,202,18,19,1,-1,65%,117,42%,6,6,0
+xffero,RRQ,All_Maps,Attack,"Omen, Killjoy, Cypher",1.03,188,14,19,6,-5,65%,122,29%,1,0,+1
+Kushy,RRQ,All_Maps,Attack,"Vyse, Sova, Fade",0.60,117,9,18,2,-9,43%,90,32%,0,4,-4
+Monyet,RRQ,All_Maps,Attack,"Neon, Viper, Omen",0.38,118,8,21,5,-13,57%,83,12%,1,4,-3
+crazyguy,RRQ,All_Maps,Attack,"Sova, Sage, Breach",0.55,136,10,20,8,-10,65%,91,21%,0,1,-1
+invy,TS,All_Maps,Attack,"Chamber, Sage, Breach",1.00,194,25,31,9,-6,61%,124,22%,3,3,0
+kellyS,TS,All_Maps,Attack,"Vyse, Killjoy, Cypher",0.97,208,26,31,3,-5,58%,142,19%,2,3,-1
+n1zzy,TS,All_Maps,Attack,"Yoru, Jett, Neon",0.43,157,19,36,1,-17,45%,98,39%,6,13,-7
+JessieVash,TS,All_Maps,Attack,Sova,0.45,102,11,34,6,-23,45%,76,26%,1,2,-1
+Wild0reoo,TS,All_Maps,Attack,"Omen, Viper",0.39,106,10,36,15,-26,53%,73,26%,2,3,-1
+Jemkin,RRQ,All_Maps,Defend,"Waylay, Jett",1.73,289,43,13,7,+30,84%,179,26%,9,2,+7
+xffero,RRQ,All_Maps,Defend,"Omen, Killjoy, Cypher",1.45,279,39,19,17,+20,84%,181,27%,2,4,-2
+Kushy,RRQ,All_Maps,Defend,"Vyse, Sova, Fade",1.29,203,26,19,19,+7,89%,153,40%,1,1,0
+Monyet,RRQ,All_Maps,Defend,"Neon, Viper, Omen",1.35,221,30,17,17,+13,84%,145,24%,6,3,+3
+crazyguy,RRQ,All_Maps,Defend,"Sova, Sage, Breach",1.10,225,30,23,16,+7,76%,142,27%,6,4,+2
+invy,TS,All_Maps,Defend,"Chamber, Sage, Breach",1.61,305,24,12,6,+12,91%,202,40%,5,1,+4
+kellyS,TS,All_Maps,Defend,"Vyse, Killjoy, Cypher",1.49,280,23,12,5,+11,74%,172,26%,3,0,+3
+n1zzy,TS,All_Maps,Defend,"Yoru, Jett, Neon",1.37,264,23,12,5,+11,70%,173,39%,4,1,+3
+JessieVash,TS,All_Maps,Defend,Sova,1.24,208,19,9,4,+10,83%,150,38%,1,0,+1
+Wild0reoo,TS,All_Maps,Defend,"Omen, Viper",0.65,115,8,14,12,-6,74%,81,30%,2,6,-4

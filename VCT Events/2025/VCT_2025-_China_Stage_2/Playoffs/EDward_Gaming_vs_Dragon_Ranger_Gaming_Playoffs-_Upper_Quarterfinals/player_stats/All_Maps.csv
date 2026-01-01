@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+ZmjjKK,EDG,All_Maps,All,"Raze, Neon",1.41,322,52,39,17,+13,86%,205,30%,12,7,+5
+Jieni7,EDG,All_Maps,All,Omen,1.17,197,35,34,20,+1,84%,123,37%,5,0,+5
+Smoggy,EDG,All_Maps,All,Fade,1.09,204,40,34,24,+6,80%,121,29%,6,1,+5
+CHICHOO,EDG,All_Maps,All,"Vyse, Viper",1.08,198,36,33,14,+3,71%,138,37%,1,3,-2
+nobody,EDG,All_Maps,All,Yoru,0.42,123,17,41,17,-24,76%,87,28%,5,9,-4
+SpiritZ1,DRG,All_Maps,All,Yoru,1.43,299,52,34,13,+18,71%,189,39%,7,9,-2
+Flex1n,DRG,All_Maps,All,Omen,1.13,238,41,36,23,+5,84%,140,42%,3,4,-1
+Nicc,DRG,All_Maps,All,"Breach, Gekko",1.06,208,35,36,16,-1,82%,141,41%,4,1,+3
+vo0kashu,DRG,All_Maps,All,Cypher,0.74,135,23,33,15,-10,71%,92,45%,1,5,-4
+Akeman,DRG,All_Maps,All,"Neon, Clove",0.73,184,30,41,17,-11,71%,130,25%,5,10,-5
+ZmjjKK,EDG,All_Maps,Attack,"Raze, Neon",1.04,247,19,20,10,-1,83%,165,32%,5,6,-1
+Jieni7,EDG,All_Maps,Attack,Omen,1.33,241,21,15,6,+6,92%,154,37%,2,0,+2
+Smoggy,EDG,All_Maps,Attack,Fade,1.30,232,24,16,10,+8,83%,143,34%,4,0,+4
+CHICHOO,EDG,All_Maps,Attack,"Vyse, Viper",1.13,197,17,14,8,+3,71%,147,38%,0,1,-1
+nobody,EDG,All_Maps,Attack,Yoru,0.32,95,6,20,11,-14,75%,61,20%,1,5,-4
+SpiritZ1,DRG,All_Maps,Attack,Yoru,1.71,331,31,16,7,+15,72%,207,32%,3,4,-1
+Flex1n,DRG,All_Maps,Attack,Omen,0.93,222,20,21,13,-1,88%,126,36%,1,3,-2
+Nicc,DRG,All_Maps,Attack,"Breach, Gekko",1.25,204,18,16,12,+2,80%,143,44%,1,0,+1
+vo0kashu,DRG,All_Maps,Attack,Cypher,0.83,164,15,17,7,-2,72%,115,47%,0,3,-3
+Akeman,DRG,All_Maps,Attack,"Neon, Clove",0.46,150,12,23,10,-11,76%,110,23%,3,7,-4
+ZmjjKK,EDG,All_Maps,Defend,"Raze, Neon",1.77,394,33,19,7,+14,88%,244,28%,7,1,+6
+Jieni7,EDG,All_Maps,Defend,Omen,1.01,161,14,19,14,-5,76%,93,36%,3,0,+3
+Smoggy,EDG,All_Maps,Defend,Fade,0.88,171,16,18,14,-2,76%,100,19%,2,1,+1
+CHICHOO,EDG,All_Maps,Defend,"Vyse, Viper",1.03,196,19,19,6,0,72%,128,36%,1,2,-1
+nobody,EDG,All_Maps,Defend,Yoru,0.51,151,11,21,6,-10,76%,113,32%,4,4,0
+SpiritZ1,DRG,All_Maps,Defend,Yoru,1.14,260,21,18,6,+3,71%,169,48%,4,5,-1
+Flex1n,DRG,All_Maps,Defend,Omen,1.35,251,21,15,10,+6,79%,155,45%,2,1,+1
+Nicc,DRG,All_Maps,Defend,"Breach, Gekko",0.87,214,17,20,4,-3,83%,139,37%,3,1,+2
+vo0kashu,DRG,All_Maps,Defend,Cypher,0.65,104,8,16,8,-8,71%,68,40%,1,2,-1
+Akeman,DRG,All_Maps,Defend,"Neon, Clove",1.09,226,18,18,7,0,67%,150,32%,2,3,-1

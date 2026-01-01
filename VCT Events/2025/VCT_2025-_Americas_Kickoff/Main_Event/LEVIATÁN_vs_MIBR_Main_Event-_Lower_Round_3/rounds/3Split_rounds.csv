@@ -1,0 +1,28 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+3Split,1,"""0-1""",MIBR,Attackers,Elimination
+3Split,2,"""0-2""",MIBR,Attackers,Spike Detonation
+3Split,3,"""1-2""",LEV,Defenders,Elimination
+3Split,4,"""2-2""",LEV,Defenders,Elimination
+3Split,5,"""2-3""",MIBR,Attackers,Elimination
+3Split,6,"""2-4""",MIBR,Attackers,Spike Detonation
+3Split,7,"""2-5""",MIBR,Attackers,Elimination
+3Split,8,"""3-5""",LEV,Defenders,Defuse
+3Split,9,"""4-5""",LEV,Defenders,Defuse
+3Split,10,"""5-5""",LEV,Defenders,Elimination
+3Split,11,"""5-6""",MIBR,Attackers,Spike Detonation
+3Split,12,"""5-7""",MIBR,Attackers,Elimination
+3Split,13,"""6-7""",MIBR,Attackers,Elimination
+3Split,14,"""7-7""",MIBR,Attackers,Spike Detonation
+3Split,15,"""7-8""",LEV,Defenders,Defuse
+3Split,16,"""8-8""",MIBR,Attackers,Elimination
+3Split,17,"""9-8""",MIBR,Attackers,Elimination
+3Split,18,"""9-9""",LEV,Defenders,Elimination
+3Split,19,"""9-10""",LEV,Defenders,Elimination
+3Split,20,"""9-11""",LEV,Defenders,Elimination
+3Split,21,"""9-12""",LEV,Defenders,Defuse
+3Split,22,"""10-12""",MIBR,Attackers,Spike Detonation
+3Split,23,"""11-12""",MIBR,Attackers,Elimination
+3Split,24,"""12-12""",MIBR,Attackers,Elimination
+3Split,25,"""12-13""",MIBR,Attackers,Elimination
+3Split,26,"""12-14""",LEV,Defenders,Defuse
+3Split,27,"""""",,,

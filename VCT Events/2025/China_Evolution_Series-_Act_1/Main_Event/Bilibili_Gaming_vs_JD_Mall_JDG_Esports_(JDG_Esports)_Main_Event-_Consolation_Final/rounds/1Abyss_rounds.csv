@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+1Abyss,1,"""0-1""",JDG,Attackers,Elimination
+1Abyss,2,"""0-2""",JDG,Attackers,Elimination
+1Abyss,3,"""0-3""",JDG,Attackers,Elimination
+1Abyss,4,"""0-4""",JDG,Attackers,Elimination
+1Abyss,5,"""1-4""",BLG,Defenders,Time Expired
+1Abyss,6,"""1-5""",JDG,Attackers,Elimination
+1Abyss,7,"""1-6""",JDG,Attackers,Elimination
+1Abyss,8,"""1-7""",JDG,Attackers,Elimination
+1Abyss,9,"""2-7""",BLG,Defenders,Defuse
+1Abyss,10,"""3-7""",BLG,Defenders,Defuse
+1Abyss,11,"""4-7""",BLG,Defenders,Elimination
+1Abyss,12,"""5-7""",BLG,Defenders,Defuse
+1Abyss,13,"""6-7""",JDG,Attackers,Elimination
+1Abyss,14,"""7-7""",JDG,Attackers,Elimination
+1Abyss,15,"""8-7""",JDG,Attackers,Spike Detonation
+1Abyss,16,"""9-7""",JDG,Attackers,Elimination
+1Abyss,17,"""9-8""",BLG,Defenders,Elimination
+1Abyss,18,"""9-9""",BLG,Defenders,Time Expired
+1Abyss,19,"""10-9""",JDG,Attackers,Elimination
+1Abyss,20,"""11-9""",JDG,Attackers,Elimination
+1Abyss,21,"""12-9""",JDG,Attackers,Elimination
+1Abyss,22,"""13-9""",JDG,Attackers,Elimination
+1Abyss,23,"""""",,,
+1Abyss,24,"""""",,,

@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+3Icebox,1,"""0-1""",FPX,Attackers,Elimination
+3Icebox,2,"""0-2""",FPX,Attackers,Elimination
+3Icebox,3,"""1-2""",AG,Defenders,Defuse
+3Icebox,4,"""2-2""",AG,Defenders,Defuse
+3Icebox,5,"""3-2""",AG,Defenders,Defuse
+3Icebox,6,"""4-2""",AG,Defenders,Defuse
+3Icebox,7,"""5-2""",AG,Defenders,Defuse
+3Icebox,8,"""5-3""",FPX,Attackers,Elimination
+3Icebox,9,"""6-3""",AG,Defenders,Elimination
+3Icebox,10,"""7-3""",AG,Defenders,Elimination
+3Icebox,11,"""8-3""",AG,Defenders,Defuse
+3Icebox,12,"""8-4""",FPX,Attackers,Elimination
+3Icebox,13,"""9-4""",FPX,Attackers,Elimination
+3Icebox,14,"""10-4""",FPX,Attackers,Elimination
+3Icebox,15,"""10-5""",AG,Defenders,Defuse
+3Icebox,16,"""10-6""",AG,Defenders,Time Expired
+3Icebox,17,"""11-6""",FPX,Attackers,Spike Detonation
+3Icebox,18,"""12-6""",FPX,Attackers,Elimination
+3Icebox,19,"""13-6""",FPX,Attackers,Elimination
+3Icebox,20,"""""",,,
+3Icebox,21,"""""",,,
+3Icebox,22,"""""",,,
+3Icebox,23,"""""",,,
+3Icebox,24,"""""",,,

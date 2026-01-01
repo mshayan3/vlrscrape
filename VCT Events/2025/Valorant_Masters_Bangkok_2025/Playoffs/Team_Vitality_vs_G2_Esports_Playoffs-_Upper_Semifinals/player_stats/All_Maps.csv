@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Kicks,VIT,All_Maps,All,"Skye, Omen",1.07,214,38,36,18,+2,72%,140,27%,5,8,-3
+Less,VIT,All_Maps,All,Viper,0.95,199,34,37,17,-3,70%,122,24%,4,5,-1
+Derke,VIT,All_Maps,All,Raze,0.92,233,38,39,10,-1,66%,153,20%,9,11,-2
+trexx,VIT,All_Maps,All,"Brimstone, Fade",0.89,171,29,35,20,-6,68%,116,19%,2,3,-1
+Sayf,VIT,All_Maps,All,"Tejo, Vyse",0.85,195,34,38,11,-4,76%,114,28%,1,2,-1
+leaf,G2,All_Maps,All,"Vyse, Viper",1.53,304,52,35,28,+17,84%,194,23%,8,3,+5
+trent,G2,All_Maps,All,Tejo,1.33,237,43,34,17,+9,78%,159,23%,4,3,+1
+JonahP,G2,All_Maps,All,Breach,1.05,186,35,34,25,+1,78%,123,32%,4,3,+1
+jawgemo,G2,All_Maps,All,Yoru,0.80,170,30,37,11,-7,66%,115,20%,9,10,-1
+valyn,G2,All_Maps,All,"Brimstone, Omen",0.80,135,24,33,21,-9,70%,88,18%,4,2,+2
+Kicks,VIT,All_Maps,Attack,"Skye, Omen",1.28,258,22,17,11,+5,75%,162,29%,3,3,0
+Less,VIT,All_Maps,Attack,Viper,0.64,141,12,19,8,-7,71%,85,19%,1,4,-3
+Derke,VIT,All_Maps,Attack,Raze,1.06,275,22,20,3,+2,63%,176,24%,6,4,+2
+trexx,VIT,All_Maps,Attack,"Brimstone, Fade",0.87,183,14,19,17,-5,79%,120,18%,1,2,-1
+Sayf,VIT,All_Maps,Attack,"Tejo, Vyse",0.66,149,13,19,5,-6,71%,94,28%,0,0,0
+leaf,G2,All_Maps,Attack,"Vyse, Viper",1.63,331,31,19,11,+12,88%,208,27%,5,0,+5
+trent,G2,All_Maps,Attack,Tejo,1.20,206,19,16,10,+3,73%,139,27%,2,1,+1
+JonahP,G2,All_Maps,Attack,Breach,1.12,173,18,16,14,+2,77%,115,35%,1,1,0
+jawgemo,G2,All_Maps,Attack,Yoru,0.64,177,14,22,7,-8,62%,105,18%,6,7,-1
+valyn,G2,All_Maps,Attack,"Brimstone, Omen",0.61,108,9,17,10,-8,58%,75,18%,2,1,+1
+Kicks,VIT,All_Maps,Defend,"Skye, Omen",0.88,170,16,19,7,-3,69%,118,25%,2,5,-3
+Less,VIT,All_Maps,Defend,Viper,1.25,252,22,18,9,+4,69%,156,28%,3,1,+2
+Derke,VIT,All_Maps,Defend,Raze,0.80,200,16,19,7,-3,69%,131,15%,3,7,-4
+trexx,VIT,All_Maps,Defend,"Brimstone, Fade",0.91,167,15,16,3,-1,58%,112,20%,1,1,0
+Sayf,VIT,All_Maps,Defend,"Tejo, Vyse",1.02,231,21,19,6,+2,81%,132,28%,1,2,-1
+leaf,G2,All_Maps,Defend,"Vyse, Viper",1.42,274,21,16,17,+5,79%,179,19%,3,3,0
+trent,G2,All_Maps,Defend,Tejo,1.47,274,24,18,7,+6,83%,181,20%,2,2,0
+JonahP,G2,All_Maps,Defend,Breach,0.97,198,17,18,11,-1,79%,133,29%,3,2,+1
+jawgemo,G2,All_Maps,Defend,Yoru,0.97,170,16,15,4,+1,71%,126,23%,3,3,0
+valyn,G2,All_Maps,Defend,"Brimstone, Omen",1.02,175,15,16,11,-1,83%,101,19%,2,1,+1

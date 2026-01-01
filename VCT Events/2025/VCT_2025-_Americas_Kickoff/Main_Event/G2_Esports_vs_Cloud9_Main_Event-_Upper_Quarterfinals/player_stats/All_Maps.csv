@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+leaf,G2,All_Maps,All,"Viper, Chamber",1.56,284,44,23,7,+21,75%,187,31%,7,2,+5
+JonahP,G2,All_Maps,All,Breach,1.37,203,30,20,27,+10,88%,132,37%,3,1,+2
+trent,G2,All_Maps,All,"Tejo, Sova",1.18,192,31,19,5,+12,75%,140,39%,3,5,-2
+jawgemo,G2,All_Maps,All,Yoru,1.12,213,29,26,17,+3,78%,142,21%,11,4,+7
+valyn,G2,All_Maps,All,"Omen, Astra",1.08,193,25,25,21,0,85%,120,17%,2,2,0
+Xeppaa,C9,All_Maps,All,"Tejo, Sova",1.09,203,27,28,13,-1,70%,144,23%,1,2,-1
+neT,C9,All_Maps,All,"Deadlock, Astra",0.74,179,25,32,4,-7,53%,116,43%,2,7,-5
+OXY,C9,All_Maps,All,"Raze, Jett",0.73,189,28,34,3,-6,55%,132,24%,5,11,-6
+v1c,C9,All_Maps,All,Omen,0.66,137,16,32,17,-16,60%,92,14%,3,3,0
+mitch,C9,All_Maps,All,"Breach, Kayo",0.63,143,17,33,18,-16,60%,86,24%,3,3,0
+leaf,G2,All_Maps,Attack,"Viper, Chamber",1.46,279,16,10,4,+6,69%,191,27%,2,1,+1
+JonahP,G2,All_Maps,Attack,Breach,1.23,175,10,10,14,0,81%,121,38%,1,0,+1
+trent,G2,All_Maps,Attack,"Tejo, Sova",0.90,111,8,8,1,0,63%,101,35%,2,2,0
+jawgemo,G2,All_Maps,Attack,Yoru,0.83,183,9,11,4,-2,69%,128,15%,4,2,+2
+valyn,G2,All_Maps,Attack,"Omen, Astra",1.42,269,14,11,11,+3,81%,158,23%,1,1,0
+Xeppaa,C9,All_Maps,Attack,"Tejo, Sova",1.00,198,15,19,7,-4,67%,145,24%,0,1,-1
+neT,C9,All_Maps,Attack,"Deadlock, Astra",0.50,159,13,22,3,-9,46%,104,38%,0,3,-3
+OXY,C9,All_Maps,Attack,"Raze, Jett",0.41,157,12,22,1,-10,46%,108,24%,3,9,-6
+v1c,C9,All_Maps,Attack,Omen,0.71,139,11,19,7,-8,58%,89,13%,2,0,+2
+mitch,C9,All_Maps,Attack,"Breach, Kayo",0.67,158,12,20,6,-8,54%,92,27%,3,3,0
+leaf,G2,All_Maps,Defend,"Viper, Chamber",1.62,286,28,13,3,+15,79%,185,33%,5,1,+4
+JonahP,G2,All_Maps,Defend,Breach,1.46,226,20,10,13,+10,92%,139,37%,2,1,+1
+trent,G2,All_Maps,Defend,"Tejo, Sova",1.37,249,23,11,4,+12,83%,165,41%,1,3,-2
+jawgemo,G2,All_Maps,Defend,Yoru,1.31,230,20,15,13,+5,83%,152,26%,7,2,+5
+valyn,G2,All_Maps,Defend,"Omen, Astra",0.85,139,11,14,10,-3,88%,94,11%,1,1,0
+Xeppaa,C9,All_Maps,Defend,"Tejo, Sova",1.22,208,12,9,6,+3,75%,143,20%,1,1,0
+neT,C9,All_Maps,Defend,"Deadlock, Astra",1.11,209,12,10,1,+2,63%,133,50%,2,4,-2
+OXY,C9,All_Maps,Defend,"Raze, Jett",1.19,244,16,12,2,+4,69%,168,24%,2,2,0
+v1c,C9,All_Maps,Defend,Omen,0.58,132,5,13,10,-8,63%,98,16%,1,3,-2
+mitch,C9,All_Maps,Defend,"Breach, Kayo",0.56,125,5,13,12,-8,69%,78,20%,0,0,0

@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+3Ascent,1,"""0-1""",KRÜ,Defenders,Elimination
+3Ascent,2,"""0-2""",KRÜ,Defenders,Elimination
+3Ascent,3,"""1-2""",100T,Attackers,Spike Detonation
+3Ascent,4,"""2-2""",100T,Attackers,Elimination
+3Ascent,5,"""3-2""",100T,Attackers,Elimination
+3Ascent,6,"""3-3""",KRÜ,Defenders,Elimination
+3Ascent,7,"""3-4""",KRÜ,Defenders,Elimination
+3Ascent,8,"""3-5""",KRÜ,Defenders,Defuse
+3Ascent,9,"""3-6""",KRÜ,Defenders,Defuse
+3Ascent,10,"""3-7""",KRÜ,Defenders,Elimination
+3Ascent,11,"""4-7""",100T,Attackers,Elimination
+3Ascent,12,"""5-7""",100T,Attackers,Spike Detonation
+3Ascent,13,"""6-7""",KRÜ,Defenders,Defuse
+3Ascent,14,"""7-7""",KRÜ,Defenders,Elimination
+3Ascent,15,"""7-8""",100T,Attackers,Elimination
+3Ascent,16,"""7-9""",100T,Attackers,Elimination
+3Ascent,17,"""7-10""",100T,Attackers,Elimination
+3Ascent,18,"""7-11""",100T,Attackers,Spike Detonation
+3Ascent,19,"""8-11""",KRÜ,Defenders,Elimination
+3Ascent,20,"""9-11""",KRÜ,Defenders,Defuse
+3Ascent,21,"""10-11""",KRÜ,Defenders,Defuse
+3Ascent,22,"""11-11""",KRÜ,Defenders,Time Expired
+3Ascent,23,"""12-11""",KRÜ,Defenders,Defuse
+3Ascent,24,"""13-11""",KRÜ,Defenders,Defuse

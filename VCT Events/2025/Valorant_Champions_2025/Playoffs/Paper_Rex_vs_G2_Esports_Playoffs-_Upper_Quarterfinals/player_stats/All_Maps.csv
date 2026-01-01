@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+something,PRX,All_Maps,All,Yoru,1.29,245,68,48,14,+20,76%,155,31%,13,13,0
+f0rsakeN,PRX,All_Maps,All,Omen,1.14,225,62,54,30,+8,72%,145,30%,6,12,-6
+Jinggg,PRX,All_Maps,All,"Raze, Sage",0.98,216,54,54,19,0,75%,138,15%,9,8,+1
+PatMen,PRX,All_Maps,All,"Fade, Sova",0.83,163,46,51,12,-5,63%,108,27%,0,4,-4
+d4v41,PRX,All_Maps,All,Vyse,0.83,183,44,54,23,-10,68%,127,31%,3,8,-5
+leaf,G2,All_Maps,All,"Viper, Chamber",1.26,273,71,56,16,+15,75%,181,21%,17,5,+12
+JonahP,G2,All_Maps,All,"Fade, Vyse",1.03,226,57,59,20,-2,71%,138,24%,11,8,+3
+jawgemo,G2,All_Maps,All,Yoru,0.97,205,53,56,8,-3,67%,132,25%,13,7,+6
+trent,G2,All_Maps,All,"Tejo, Sova",0.85,152,41,51,16,-10,67%,105,24%,2,5,-3
+valyn,G2,All_Maps,All,Omen,0.80,150,39,52,25,-13,70%,105,21%,2,6,-4
+something,PRX,All_Maps,Attack,Yoru,1.18,241,32,27,10,+5,71%,160,35%,2,5,-3
+f0rsakeN,PRX,All_Maps,Attack,Omen,1.08,226,31,29,17,+2,68%,140,25%,3,8,-5
+Jinggg,PRX,All_Maps,Attack,"Raze, Sage",1.10,243,32,28,12,+4,76%,148,14%,5,7,-2
+PatMen,PRX,All_Maps,Attack,"Fade, Sova",0.87,168,23,27,8,-4,66%,105,28%,0,2,-2
+d4v41,PRX,All_Maps,Attack,Vyse,0.82,154,19,25,10,-6,63%,110,40%,0,6,-6
+leaf,G2,All_Maps,Attack,"Viper, Chamber",1.40,285,38,27,5,+11,74%,186,26%,8,4,+4
+JonahP,G2,All_Maps,Attack,"Fade, Vyse",0.87,200,26,31,6,-5,66%,114,26%,2,5,-3
+jawgemo,G2,All_Maps,Attack,Yoru,1.12,228,31,28,5,+3,71%,151,27%,6,5,+1
+trent,G2,All_Maps,Attack,"Tejo, Sova",0.75,122,16,24,7,-8,74%,86,20%,0,3,-3
+valyn,G2,All_Maps,Attack,Omen,0.61,117,14,27,11,-13,68%,84,19%,1,4,-3
+something,PRX,All_Maps,Defend,Yoru,1.41,256,36,21,4,+15,82%,151,27%,11,8,+3
+f0rsakeN,PRX,All_Maps,Defend,Omen,1.21,220,31,25,13,+6,76%,151,37%,3,4,-1
+Jinggg,PRX,All_Maps,Defend,"Raze, Sage",0.85,188,22,26,7,-4,74%,127,19%,4,1,+3
+PatMen,PRX,All_Maps,Defend,"Fade, Sova",0.79,164,23,24,4,-1,61%,111,26%,0,2,-2
+d4v41,PRX,All_Maps,Defend,Vyse,0.85,209,25,29,13,-4,74%,145,26%,3,2,+1
+leaf,G2,All_Maps,Defend,"Viper, Chamber",1.13,256,33,29,11,+4,76%,175,17%,9,1,+8
+JonahP,G2,All_Maps,Defend,"Fade, Vyse",1.20,259,31,28,14,+3,76%,163,22%,9,3,+6
+jawgemo,G2,All_Maps,Defend,Yoru,0.81,177,22,28,3,-6,63%,112,22%,7,2,+5
+trent,G2,All_Maps,Defend,"Tejo, Sova",0.95,191,25,27,9,-2,61%,124,28%,2,2,0
+valyn,G2,All_Maps,Defend,Omen,0.99,184,25,25,14,0,71%,125,23%,1,2,-1

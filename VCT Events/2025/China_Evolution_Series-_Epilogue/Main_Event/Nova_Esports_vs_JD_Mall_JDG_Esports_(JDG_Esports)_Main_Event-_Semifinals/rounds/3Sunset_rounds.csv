@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+3Sunset,1,"""0-1""",JDG,Attackers,Elimination
+3Sunset,2,"""0-2""",JDG,Attackers,Elimination
+3Sunset,3,"""1-2""",NOVA,Defenders,Defuse
+3Sunset,4,"""2-2""",NOVA,Defenders,Elimination
+3Sunset,5,"""3-2""",NOVA,Defenders,Elimination
+3Sunset,6,"""3-3""",JDG,Attackers,Spike Detonation
+3Sunset,7,"""4-3""",NOVA,Defenders,Elimination
+3Sunset,8,"""5-3""",NOVA,Defenders,Elimination
+3Sunset,9,"""5-4""",JDG,Attackers,Elimination
+3Sunset,10,"""5-5""",JDG,Attackers,Elimination
+3Sunset,11,"""5-6""",JDG,Attackers,Elimination
+3Sunset,12,"""5-7""",JDG,Attackers,Elimination
+3Sunset,13,"""5-8""",NOVA,Defenders,Elimination
+3Sunset,14,"""5-9""",NOVA,Defenders,Elimination
+3Sunset,15,"""6-9""",JDG,Attackers,Elimination
+3Sunset,16,"""7-9""",JDG,Attackers,Spike Detonation
+3Sunset,17,"""8-9""",JDG,Attackers,Elimination
+3Sunset,18,"""9-9""",JDG,Attackers,Elimination
+3Sunset,19,"""9-10""",NOVA,Defenders,Defuse
+3Sunset,20,"""10-10""",JDG,Attackers,Elimination
+3Sunset,21,"""11-10""",JDG,Attackers,Elimination
+3Sunset,22,"""12-10""",JDG,Attackers,Elimination
+3Sunset,23,"""13-10""",JDG,Attackers,Elimination
+3Sunset,24,"""""",,,

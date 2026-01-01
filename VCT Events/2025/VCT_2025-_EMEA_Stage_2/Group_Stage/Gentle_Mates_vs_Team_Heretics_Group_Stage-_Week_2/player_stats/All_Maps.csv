@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Veqaj,M8,All_Maps,All,"Fade, Sova",1.20,235,63,49,22,+14,73%,159,33%,8,6,+2
+Minny,M8,All_Maps,All,"Vyse, Killjoy, Viper",1.05,194,47,47,18,0,64%,126,33%,3,8,-5
+ComeBack,M8,All_Maps,All,"Neon, Jett, Waylay",0.97,189,44,49,11,-5,76%,126,43%,9,6,+3
+Proxh,M8,All_Maps,All,"Omen, Astra",0.94,175,43,47,27,-4,73%,113,24%,4,7,-3
+kamyk,M8,All_Maps,All,"Viper, Kayo, Gekko",0.91,193,48,53,35,-5,76%,127,30%,7,12,-5
+Wo0t,TH,All_Maps,All,"Waylay, Jett, Fade",1.31,276,65,48,17,+17,70%,177,32%,16,7,+9
+RieNs,TH,All_Maps,All,"Fade, Sova, Gekko",1.14,214,53,49,24,+4,73%,151,37%,6,1,+5
+MiniBoo,TH,All_Maps,All,"Yoru, Raze",1.03,235,59,53,9,+6,69%,147,29%,11,11,0
+Boo,TH,All_Maps,All,"Omen, Brimstone",0.80,121,29,42,28,-13,64%,82,36%,2,4,-2
+benjyfishy,TH,All_Maps,All,"Viper, Cypher",0.68,171,39,53,11,-14,59%,104,32%,4,8,-4
+Veqaj,M8,All_Maps,Attack,"Fade, Sova",1.02,252,32,34,12,-2,63%,158,38%,3,4,-1
+Minny,M8,All_Maps,Attack,"Vyse, Killjoy, Viper",0.88,166,22,31,11,-9,53%,116,39%,0,6,-6
+ComeBack,M8,All_Maps,Attack,"Neon, Jett, Waylay",0.93,211,27,32,4,-5,63%,139,52%,5,5,0
+Proxh,M8,All_Maps,Attack,"Omen, Astra",0.59,123,16,32,11,-16,58%,82,40%,1,5,-4
+kamyk,M8,All_Maps,Attack,"Viper, Kayo, Gekko",0.54,135,15,35,20,-20,68%,79,22%,1,8,-7
+Wo0t,TH,All_Maps,Attack,"Waylay, Jett, Fade",0.80,192,17,27,9,-10,53%,133,30%,4,5,-1
+RieNs,TH,All_Maps,Attack,"Fade, Sova, Gekko",0.97,197,22,28,6,-6,59%,134,37%,2,0,+2
+MiniBoo,TH,All_Maps,Attack,"Yoru, Raze",0.64,166,17,28,3,-11,59%,105,26%,3,6,-3
+Boo,TH,All_Maps,Attack,"Omen, Brimstone",0.48,97,10,24,7,-14,47%,63,40%,0,3,-3
+benjyfishy,TH,All_Maps,Attack,"Viper, Cypher",0.57,128,15,26,2,-11,41%,80,33%,2,7,-5
+Veqaj,M8,All_Maps,Defend,"Fade, Sova",1.42,244,31,15,10,+16,84%,159,27%,5,2,+3
+Minny,M8,All_Maps,Defend,"Vyse, Killjoy, Viper",1.25,213,25,16,7,+9,78%,139,29%,3,2,+1
+ComeBack,M8,All_Maps,Defend,"Neon, Jett, Waylay",1.03,155,17,17,7,0,91%,110,33%,4,1,+3
+Proxh,M8,All_Maps,Defend,"Omen, Astra",1.36,234,27,15,16,+12,91%,150,18%,3,2,+1
+kamyk,M8,All_Maps,Defend,"Viper, Kayo, Gekko",1.36,281,33,18,15,+15,84%,183,36%,6,4,+2
+Wo0t,TH,All_Maps,Defend,"Waylay, Jett, Fade",1.74,350,48,21,8,+27,84%,215,32%,12,2,+10
+RieNs,TH,All_Maps,Defend,"Fade, Sova, Gekko",1.29,235,31,21,18,+10,84%,165,38%,4,1,+3
+MiniBoo,TH,All_Maps,Defend,"Yoru, Raze",1.35,286,42,25,6,+17,76%,182,31%,8,5,+3
+Boo,TH,All_Maps,Defend,"Omen, Brimstone",1.06,142,19,18,21,+1,79%,99,35%,2,1,+1
+benjyfishy,TH,All_Maps,Defend,"Viper, Cypher",0.77,176,24,27,9,-3,74%,124,32%,2,1,+1

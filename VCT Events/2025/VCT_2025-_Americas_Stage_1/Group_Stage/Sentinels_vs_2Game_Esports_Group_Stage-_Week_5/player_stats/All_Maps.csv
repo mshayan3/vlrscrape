@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+zekken,SEN,All_Maps,All,"Neon, Yoru",1.90,349,46,18,10,+28,91%,229,34%,9,2,+7
+bang,SEN,All_Maps,All,"Omen, Astra",1.58,268,35,19,18,+16,86%,163,38%,5,3,+2
+johnqt,SEN,All_Maps,All,"Breach, Tejo",1.39,179,22,14,26,+8,91%,126,33%,2,1,+1
+N4RRATE,SEN,All_Maps,All,"Sova, Fade",1.13,190,22,20,15,+2,83%,122,16%,5,3,+2
+Zellsis,SEN,All_Maps,All,"Cypher, Vyse",0.83,156,19,23,14,-4,74%,99,21%,2,3,-1
+Askia,2G,All_Maps,All,Yoru,0.76,166,21,28,3,-7,54%,112,35%,5,3,+2
+PxS,2G,All_Maps,All,"Sova, Fade",0.73,152,19,28,5,-9,66%,105,32%,3,4,-1
+gobera,2G,All_Maps,All,"Cypher, Tejo",0.67,189,21,31,4,-10,57%,127,41%,1,4,-3
+silentzz,2G,All_Maps,All,"Iso, Vyse",0.62,161,18,29,9,-11,57%,115,40%,1,7,-6
+lz,2G,All_Maps,All,"Omen, Astra",0.54,142,15,28,17,-13,66%,88,38%,2,5,-3
+zekken,SEN,All_Maps,Attack,"Neon, Yoru",1.80,339,23,8,6,+15,89%,222,39%,4,2,+2
+bang,SEN,All_Maps,Attack,"Omen, Astra",1.62,255,17,8,10,+9,89%,158,48%,3,2,+1
+johnqt,SEN,All_Maps,Attack,"Breach, Tejo",1.55,200,13,6,15,+7,94%,125,33%,2,1,+1
+N4RRATE,SEN,All_Maps,Attack,"Sova, Fade",1.11,164,10,9,7,+1,83%,106,22%,2,0,+2
+Zellsis,SEN,All_Maps,Attack,"Cypher, Vyse",1.20,197,13,9,6,+4,83%,132,26%,2,0,+2
+Askia,2G,All_Maps,Attack,Yoru,0.94,232,14,14,3,0,53%,146,37%,3,2,+1
+PxS,2G,All_Maps,Attack,"Sova, Fade",1.01,201,13,13,2,0,82%,143,43%,1,2,-1
+gobera,2G,All_Maps,Attack,"Cypher, Tejo",0.50,120,7,14,1,-7,53%,92,35%,0,2,-2
+silentzz,2G,All_Maps,Attack,"Iso, Vyse",0.81,197,11,14,8,-3,76%,130,29%,1,2,-1
+lz,2G,All_Maps,Attack,"Omen, Astra",0.73,189,9,13,14,-4,76%,110,43%,2,2,0
+zekken,SEN,All_Maps,Defend,"Neon, Yoru",2.01,362,23,10,4,+13,94%,235,29%,5,0,+5
+bang,SEN,All_Maps,Defend,"Omen, Astra",1.54,277,18,11,8,+7,82%,169,31%,2,1,+1
+johnqt,SEN,All_Maps,Defend,"Breach, Tejo",1.22,155,9,8,11,+1,88%,128,33%,0,0,0
+N4RRATE,SEN,All_Maps,Defend,"Sova, Fade",1.14,220,12,11,8,+1,82%,140,13%,3,3,0
+Zellsis,SEN,All_Maps,Defend,"Cypher, Vyse",0.44,112,6,14,8,-8,65%,64,13%,0,3,-3
+Askia,2G,All_Maps,Defend,Yoru,0.59,108,7,14,0,-7,56%,79,30%,2,1,+1
+PxS,2G,All_Maps,Defend,"Sova, Fade",0.47,106,6,15,3,-9,50%,70,16%,2,2,0
+gobera,2G,All_Maps,Defend,"Cypher, Tejo",0.84,254,14,17,3,-3,61%,160,46%,1,2,-1
+silentzz,2G,All_Maps,Defend,"Iso, Vyse",0.44,127,7,15,1,-8,39%,102,59%,0,5,-5
+lz,2G,All_Maps,Defend,"Omen, Astra",0.40,100,6,15,3,-9,56%,67,32%,0,3,-3

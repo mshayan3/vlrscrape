@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+2Haven,1,"""1-0""",APK,Defenders,Defuse
+2Haven,2,"""2-0""",APK,Defenders,Elimination
+2Haven,3,"""2-1""",NAVI,Attackers,Elimination
+2Haven,4,"""3-1""",APK,Defenders,Defuse
+2Haven,5,"""3-2""",NAVI,Attackers,Elimination
+2Haven,6,"""3-3""",NAVI,Attackers,Elimination
+2Haven,7,"""3-4""",NAVI,Attackers,Spike Detonation
+2Haven,8,"""3-5""",NAVI,Attackers,Spike Detonation
+2Haven,9,"""3-6""",NAVI,Attackers,Elimination
+2Haven,10,"""3-7""",NAVI,Attackers,Elimination
+2Haven,11,"""4-7""",APK,Defenders,Elimination
+2Haven,12,"""4-8""",NAVI,Attackers,Elimination
+2Haven,13,"""4-9""",APK,Defenders,Defuse
+2Haven,14,"""5-9""",NAVI,Attackers,Elimination
+2Haven,15,"""6-9""",NAVI,Attackers,Spike Detonation
+2Haven,16,"""6-10""",APK,Defenders,Elimination
+2Haven,17,"""7-10""",NAVI,Attackers,Elimination
+2Haven,18,"""7-11""",APK,Defenders,Time Expired
+2Haven,19,"""8-11""",NAVI,Attackers,Elimination
+2Haven,20,"""8-12""",APK,Defenders,Defuse
+2Haven,21,"""9-12""",NAVI,Attackers,Elimination
+2Haven,22,"""10-12""",NAVI,Attackers,Elimination
+2Haven,23,"""11-12""",NAVI,Attackers,Elimination
+2Haven,24,"""11-13""",APK,Defenders,Elimination

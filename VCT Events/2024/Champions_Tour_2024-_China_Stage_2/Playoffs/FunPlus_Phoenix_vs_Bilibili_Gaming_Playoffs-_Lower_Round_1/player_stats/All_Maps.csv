@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Autumn,FPX,All_Maps,All,"Kayo, Clove, Viper",,270,61,40,22,+21,,174,34%,12,5,+7
+Life,FPX,All_Maps,All,"Jett, Raze",,260,60,48,8,+12,,155,27%,18,5,+13
+Lysoar,FPX,All_Maps,All,"Omen, Killjoy",,195,43,37,16,+6,,120,27%,5,6,-1
+BerLIN,FPX,All_Maps,All,"Astra, Viper",,193,42,42,25,0,,134,27%,4,7,-3
+AAAAY,FPX,All_Maps,All,"Sova, Kayo, Gekko",,170,42,40,21,+2,,122,40%,0,3,-3
+whzy,BLG,All_Maps,All,"Jett, Raze",,211,51,51,7,0,,136,23%,13,15,-2
+Flex1n,BLG,All_Maps,All,"Omen, Viper",,208,47,48,24,-1,,138,25%,3,6,-3
+nephh,BLG,All_Maps,All,"Kayo, Fade",,173,39,51,32,-12,,112,23%,5,9,-4
+Knight,BLG,All_Maps,All,"Sova, Sage, Breach",,158,35,46,29,-11,,95,20%,2,2,0
+yosemite,BLG,All_Maps,All,"Killjoy, Cypher",,148,34,52,13,-18,,108,30%,3,7,-4
+Autumn,FPX,All_Maps,Attack,"Kayo, Clove, Viper",,,,,,,
+Life,FPX,All_Maps,Attack,"Jett, Raze",,,,,,,
+Lysoar,FPX,All_Maps,Attack,"Omen, Killjoy",,,,,,,
+BerLIN,FPX,All_Maps,Attack,"Astra, Viper",,,,,,,
+AAAAY,FPX,All_Maps,Attack,"Sova, Kayo, Gekko",,,,,,,
+whzy,BLG,All_Maps,Attack,"Jett, Raze",,,,,,,
+Flex1n,BLG,All_Maps,Attack,"Omen, Viper",,,,,,,
+nephh,BLG,All_Maps,Attack,"Kayo, Fade",,,,,,,
+Knight,BLG,All_Maps,Attack,"Sova, Sage, Breach",,,,,,,
+yosemite,BLG,All_Maps,Attack,"Killjoy, Cypher",,,,,,,
+Autumn,FPX,All_Maps,Defend,"Kayo, Clove, Viper",,,,,,,
+Life,FPX,All_Maps,Defend,"Jett, Raze",,,,,,,
+Lysoar,FPX,All_Maps,Defend,"Omen, Killjoy",,,,,,,
+BerLIN,FPX,All_Maps,Defend,"Astra, Viper",,,,,,,
+AAAAY,FPX,All_Maps,Defend,"Sova, Kayo, Gekko",,,,,,,
+whzy,BLG,All_Maps,Defend,"Jett, Raze",,,,,,,
+Flex1n,BLG,All_Maps,Defend,"Omen, Viper",,,,,,,
+nephh,BLG,All_Maps,Defend,"Kayo, Fade",,,,,,,
+Knight,BLG,All_Maps,Defend,"Sova, Sage, Breach",,,,,,,
+yosemite,BLG,All_Maps,Defend,"Killjoy, Cypher",,,,,,,

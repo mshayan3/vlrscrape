@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+N4RRATE,SEN,All_Maps,All,"Fade, Tejo, Gekko",1.13,250,53,48,17,+5,67%,163,24%,6,8,-2
+Zellsis,SEN,All_Maps,All,"Cypher, Vyse, Killjoy",1.10,176,41,40,16,+1,75%,125,24%,2,3,-1
+bang,SEN,All_Maps,All,"Omen, Viper",0.96,189,45,47,18,-2,67%,113,33%,4,7,-3
+zekken,SEN,All_Maps,All,"Neon, Waylay, Omen",0.95,195,41,47,22,-6,69%,116,20%,7,18,-11
+johnqt,SEN,All_Maps,All,"Breach, Kayo",0.65,112,25,43,20,-18,77%,75,26%,2,7,-5
+Alfajer,FNC,All_Maps,All,"Cypher, Chamber, Killjoy",1.31,273,66,41,6,+25,77%,177,33%,11,4,+7
+kaajak,FNC,All_Maps,All,"Neon, Yoru, Jett",1.07,221,50,45,5,+5,69%,142,39%,15,12,+3
+Chronicle,FNC,All_Maps,All,"Viper, Vyse, Sage",0.98,193,42,42,21,0,72%,135,27%,7,4,+3
+crashies,FNC,All_Maps,All,Sova,0.94,165,40,37,11,+3,70%,125,29%,3,1,+2
+Boaster,FNC,All_Maps,All,"Omen, Viper",0.77,136,27,41,24,-14,72%,85,22%,7,0,+7
+N4RRATE,SEN,All_Maps,Attack,"Fade, Tejo, Gekko",1.41,304,32,23,9,+9,70%,184,25%,3,3,0
+Zellsis,SEN,All_Maps,Attack,"Cypher, Vyse, Killjoy",1.20,200,22,19,12,+3,80%,141,22%,0,0,0
+bang,SEN,All_Maps,Attack,"Omen, Viper",0.71,156,17,24,10,-7,63%,97,30%,0,3,-3
+zekken,SEN,All_Maps,Attack,"Neon, Waylay, Omen",0.61,152,15,25,12,-10,63%,91,15%,3,11,-8
+johnqt,SEN,All_Maps,Attack,"Breach, Kayo",0.80,170,18,22,13,-4,77%,113,28%,2,5,-3
+Alfajer,FNC,All_Maps,Attack,"Cypher, Chamber, Killjoy",1.25,268,35,21,1,+14,71%,170,40%,5,3,+2
+kaajak,FNC,All_Maps,Attack,"Neon, Yoru, Jett",0.98,213,26,23,2,+3,68%,133,42%,8,7,+1
+Chronicle,FNC,All_Maps,Attack,"Viper, Vyse, Sage",1.10,188,21,18,10,+3,71%,137,33%,4,3,+1
+crashies,FNC,All_Maps,Attack,Sova,0.72,116,16,20,5,-4,76%,86,28%,1,0,+1
+Boaster,FNC,All_Maps,Attack,"Omen, Viper",0.82,134,15,19,12,-4,76%,84,24%,3,0,+3
+N4RRATE,SEN,All_Maps,Defend,"Fade, Tejo, Gekko",0.89,205,21,25,8,-4,65%,145,24%,3,5,-2
+Zellsis,SEN,All_Maps,Defend,"Cypher, Vyse, Killjoy",1.00,160,19,21,4,-2,71%,112,27%,2,3,-1
+bang,SEN,All_Maps,Defend,"Omen, Viper",1.18,218,28,23,8,+5,71%,127,36%,4,4,0
+zekken,SEN,All_Maps,Defend,"Neon, Waylay, Omen",1.25,231,26,22,10,+4,74%,138,25%,4,7,-3
+johnqt,SEN,All_Maps,Defend,"Breach, Kayo",0.52,65,7,21,7,-14,76%,42,23%,0,2,-2
+Alfajer,FNC,All_Maps,Defend,"Cypher, Chamber, Killjoy",1.37,281,31,20,5,+11,83%,185,28%,6,1,+5
+kaajak,FNC,All_Maps,Defend,"Neon, Yoru, Jett",1.17,232,24,22,3,+2,70%,151,35%,7,5,+2
+Chronicle,FNC,All_Maps,Defend,"Viper, Vyse, Sage",0.85,198,21,24,11,-3,73%,132,21%,3,1,+2
+crashies,FNC,All_Maps,Defend,Sova,1.19,217,24,17,6,+7,63%,168,30%,2,1,+1
+Boaster,FNC,All_Maps,Defend,"Omen, Viper",0.72,137,12,22,12,-10,67%,86,20%,4,0,+4

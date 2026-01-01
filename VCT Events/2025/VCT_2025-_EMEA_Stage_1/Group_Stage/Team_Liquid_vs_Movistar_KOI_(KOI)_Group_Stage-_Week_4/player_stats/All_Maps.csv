@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+keiko,TL,All_Maps,All,"Raze, Omen",1.33,254,38,29,11,+9,80%,170,34%,3,1,+2
+kamo,TL,All_Maps,All,"Yoru, Waylay",1.14,218,37,24,5,+13,83%,142,30%,6,7,-1
+nAts,TL,All_Maps,All,"Viper, Cypher",1.12,224,34,26,7,+8,78%,145,27%,4,5,-1
+paTiTek,TL,All_Maps,All,"Fade, Tejo",0.82,146,23,25,16,-2,78%,89,20%,5,2,+3
+Serial,TL,All_Maps,All,"Astra, Deadlock",0.74,152,24,27,19,-3,75%,98,37%,1,3,-2
+soulcas,MKOI,All_Maps,All,"Tejo, Killjoy",1.17,219,33,28,3,+5,80%,144,43%,4,3,+1
+sheydos,MKOI,All_Maps,All,"Breach, Fade",1.08,185,24,28,13,-4,73%,133,33%,1,2,-1
+flyuh,MKOI,All_Maps,All,Viper,0.85,189,25,31,12,-6,70%,116,21%,4,8,-4
+Filu,MKOI,All_Maps,All,"Yoru, Raze",0.76,195,30,36,5,-6,63%,123,26%,8,2,+6
+grubinho,MKOI,All_Maps,All,Omen,0.69,136,19,33,12,-14,78%,87,27%,1,4,-3
+keiko,TL,All_Maps,Attack,"Raze, Omen",1.33,271,22,16,7,+6,82%,179,34%,1,1,0
+kamo,TL,All_Maps,Attack,"Yoru, Waylay",1.27,251,21,13,2,+8,77%,162,25%,4,6,-2
+nAts,TL,All_Maps,Attack,"Viper, Cypher",0.91,198,16,14,1,+2,73%,134,26%,3,4,-1
+paTiTek,TL,All_Maps,Attack,"Fade, Tejo",0.87,157,11,14,9,-3,82%,102,26%,3,0,+3
+Serial,TL,All_Maps,Attack,"Astra, Deadlock",0.94,175,13,14,8,-1,77%,123,47%,0,0,0
+soulcas,MKOI,All_Maps,Attack,"Tejo, Killjoy",1.17,186,14,10,1,+4,78%,127,44%,1,1,0
+sheydos,MKOI,All_Maps,Attack,"Breach, Fade",0.89,146,8,11,6,-3,78%,106,23%,1,1,0
+flyuh,MKOI,All_Maps,Attack,Viper,0.91,182,11,11,4,0,78%,127,26%,1,4,-3
+Filu,MKOI,All_Maps,Attack,"Yoru, Raze",0.93,223,14,14,1,0,72%,130,29%,4,1,+3
+grubinho,MKOI,All_Maps,Attack,Omen,0.77,135,9,12,4,-3,83%,88,38%,0,1,-1
+keiko,TL,All_Maps,Defend,"Raze, Omen",1.34,233,16,13,4,+3,78%,160,33%,2,0,+2
+kamo,TL,All_Maps,Defend,"Yoru, Waylay",0.98,168,16,11,3,+5,89%,117,40%,2,1,+1
+nAts,TL,All_Maps,Defend,"Viper, Cypher",1.37,247,18,12,6,+6,83%,158,27%,1,1,0
+paTiTek,TL,All_Maps,Defend,"Fade, Tejo",0.77,123,12,11,7,+1,72%,74,12%,2,2,0
+Serial,TL,All_Maps,Defend,"Astra, Deadlock",0.51,121,11,13,11,-2,72%,67,23%,1,3,-2
+soulcas,MKOI,All_Maps,Defend,"Tejo, Killjoy",1.16,247,19,18,2,+1,82%,159,43%,3,2,+1
+sheydos,MKOI,All_Maps,Defend,"Breach, Fade",1.23,212,16,17,7,-1,68%,155,41%,0,1,-1
+flyuh,MKOI,All_Maps,Defend,Viper,0.80,189,14,20,8,-6,64%,107,17%,3,4,-1
+Filu,MKOI,All_Maps,Defend,"Yoru, Raze",0.61,177,16,22,4,-6,55%,118,24%,4,1,+3
+grubinho,MKOI,All_Maps,Defend,Omen,0.63,137,10,21,8,-11,73%,87,20%,1,3,-2

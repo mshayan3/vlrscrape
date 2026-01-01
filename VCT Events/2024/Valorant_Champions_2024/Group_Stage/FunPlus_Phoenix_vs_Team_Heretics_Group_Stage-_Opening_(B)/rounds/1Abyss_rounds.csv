@@ -1,0 +1,27 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+1Abyss,1,"""0-1""",FPX,Defenders,Defuse
+1Abyss,2,"""0-2""",FPX,Defenders,Defuse
+1Abyss,3,"""1-2""",TH,Attackers,Elimination
+1Abyss,4,"""1-3""",FPX,Defenders,Elimination
+1Abyss,5,"""1-4""",FPX,Defenders,Elimination
+1Abyss,6,"""2-4""",TH,Attackers,Elimination
+1Abyss,7,"""3-4""",TH,Attackers,Elimination
+1Abyss,8,"""4-4""",TH,Attackers,Elimination
+1Abyss,9,"""5-4""",TH,Attackers,Elimination
+1Abyss,10,"""6-4""",TH,Attackers,Elimination
+1Abyss,11,"""7-4""",TH,Attackers,Elimination
+1Abyss,12,"""8-4""",TH,Attackers,Elimination
+1Abyss,13,"""8-5""",TH,Attackers,Elimination
+1Abyss,14,"""8-6""",TH,Attackers,Spike Detonation
+1Abyss,15,"""8-7""",TH,Attackers,Elimination
+1Abyss,16,"""9-7""",FPX,Defenders,Elimination
+1Abyss,17,"""9-8""",TH,Attackers,Spike Detonation
+1Abyss,18,"""9-9""",TH,Attackers,Elimination
+1Abyss,19,"""9-10""",TH,Attackers,Elimination
+1Abyss,20,"""9-11""",TH,Attackers,Elimination
+1Abyss,21,"""9-12""",TH,Attackers,Elimination
+1Abyss,22,"""10-12""",FPX,Defenders,Defuse
+1Abyss,23,"""11-12""",FPX,Defenders,Defuse
+1Abyss,24,"""12-12""",FPX,Defenders,Elimination
+1Abyss,25,"""12-13""",FPX,Defenders,Defuse
+1Abyss,26,"""12-14""",TH,Attackers,Elimination

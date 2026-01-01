@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+qRaxs,FUT,All_Maps,All,"Kayo, Breach",1.27,237,51,41,30,+10,79%,145,34%,7,4,+3
+cNed,FUT,All_Maps,All,Omen,1.12,210,48,40,18,+8,75%,132,33%,8,3,+5
+MrFaliN,FUT,All_Maps,All,"Fade, Sova",1.06,182,38,38,27,0,70%,118,22%,1,5,-4
+yetujey,FUT,All_Maps,All,"Cypher, Viper",1.04,206,47,38,15,+9,74%,139,23%,8,7,+1
+xeus,FUT,All_Maps,All,"Raze, Neon",1.00,232,49,45,15,+4,66%,146,27%,9,9,0
+grubinho,GX,All_Maps,All,"Omen, Astra",1.19,235,50,46,28,+4,75%,154,30%,8,7,+1
+westside,GX,All_Maps,All,"Cypher, Deadlock",0.97,203,44,47,11,-3,74%,133,41%,7,5,+2
+Flickless,GX,All_Maps,All,"Breach, Viper",0.94,184,38,44,15,-6,66%,112,20%,3,7,-4
+Cloud,GX,All_Maps,All,"Sova, Gekko",0.90,192,41,47,14,-6,66%,138,35%,4,3,+1
+ara,GX,All_Maps,All,"Neon, Raze",0.53,131,29,49,5,-20,61%,83,31%,6,11,-5
+qRaxs,FUT,All_Maps,Attack,"Kayo, Breach",1.14,205,19,16,12,+3,76%,116,28%,3,4,-1
+cNed,FUT,All_Maps,Attack,Omen,1.06,200,19,16,9,+3,72%,127,30%,3,1,+2
+MrFaliN,FUT,All_Maps,Attack,"Fade, Sova",1.46,229,21,13,10,+8,76%,153,29%,0,1,-1
+yetujey,FUT,All_Maps,Attack,"Cypher, Viper",0.85,146,14,14,4,0,68%,101,18%,1,4,-3
+xeus,FUT,All_Maps,Attack,"Raze, Neon",1.24,259,23,17,9,+6,68%,150,31%,2,6,-4
+grubinho,GX,All_Maps,Attack,"Omen, Astra",1.06,219,26,29,21,-3,75%,138,33%,3,5,-2
+westside,GX,All_Maps,Attack,"Cypher, Deadlock",0.81,177,23,28,7,-5,75%,114,37%,4,4,0
+Flickless,GX,All_Maps,Attack,"Breach, Viper",1.28,237,32,25,5,+7,64%,140,20%,2,5,-3
+Cloud,GX,All_Maps,Attack,"Sova, Gekko",1.08,224,28,26,9,+2,72%,150,32%,1,1,0
+ara,GX,All_Maps,Attack,"Neon, Raze",0.51,132,17,29,4,-12,58%,89,28%,2,9,-7
+qRaxs,FUT,All_Maps,Defend,"Kayo, Breach",1.36,255,32,25,18,+7,81%,165,38%,4,0,+4
+cNed,FUT,All_Maps,Defend,Omen,1.15,209,29,24,9,+5,78%,135,34%,5,2,+3
+MrFaliN,FUT,All_Maps,Defend,"Fade, Sova",0.79,145,17,25,17,-8,67%,94,16%,1,4,-3
+yetujey,FUT,All_Maps,Defend,"Cypher, Viper",1.18,253,33,24,11,+9,78%,165,25%,7,3,+4
+xeus,FUT,All_Maps,Defend,"Raze, Neon",0.84,212,26,28,6,-2,64%,143,23%,7,3,+4
+grubinho,GX,All_Maps,Defend,"Omen, Astra",1.37,276,24,17,7,+7,76%,177,26%,5,2,+3
+westside,GX,All_Maps,Defend,"Cypher, Deadlock",1.20,251,21,19,4,+2,72%,162,45%,3,1,+2
+Flickless,GX,All_Maps,Defend,"Breach, Viper",0.45,94,6,19,10,-13,68%,72,20%,1,2,-1
+Cloud,GX,All_Maps,Defend,"Sova, Gekko",0.70,158,13,21,5,-8,56%,119,42%,3,2,+1
+ara,GX,All_Maps,Defend,"Neon, Raze",0.56,129,12,20,1,-8,64%,75,38%,4,2,+2

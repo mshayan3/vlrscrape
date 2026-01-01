@@ -1,0 +1,100 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #121212;
+    color: #e0e0e0;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max_width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+h1 {
+    margin: 0;
+    color: #ff4655; /* Valorant Red */
+}
+
+h2 {
+    border-bottom: 2px solid #ff4655;
+    padding-bottom: 10px;
+    margin-top: 40px;
+}
+
+.section {
+    background-color: #1e1e1e;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+/* Map Veto Styles */
+.veto-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.veto-card {
+    background-color: #2a2a2a;
+    padding: 15px;
+    border-radius: 5px;
+    text-align: center;
+    min-width: 120px;
+    border: 1px solid #333;
+}
+
+.veto-card.ban {
+    border-color: #662222;
+    color: #999;
+}
+
+.veto-card.pick {
+    border-color: #226622;
+    font-weight: bold;
+}
+
+/* Table Styles */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #333;
+}
+
+th {
+    background-color: #252525;
+    color: #ff4655;
+}
+
+tr:hover {
+    background-color: #2a2a2a;
+}
+
+.positive-kd {
+    color: #4caf50;
+}
+
+.negative-kd {
+    color: #f44336;
+}
+
+/* Chart Container */
+.chart-container {
+    position: relative;
+    height: 400px;
+    width: 100%;
+}

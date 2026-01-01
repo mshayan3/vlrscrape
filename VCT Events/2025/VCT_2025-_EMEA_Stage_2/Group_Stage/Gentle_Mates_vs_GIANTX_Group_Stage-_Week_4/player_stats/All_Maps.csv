@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Veqaj,M8,All_Maps,All,"Fade, Sova",1.07,187,42,43,26,-1,72%,133,35%,3,3,0
+kamyk,M8,All_Maps,All,"Viper, Kayo",1.05,227,51,47,20,+4,69%,144,39%,10,6,+4
+Proxh,M8,All_Maps,All,Omen,0.93,156,36,41,26,-5,69%,103,24%,2,5,-3
+Minny,M8,All_Maps,All,"Deadlock, Killjoy",0.90,165,36,42,8,-6,67%,110,37%,5,7,-2
+ComeBack,M8,All_Maps,All,"Neon, Jett",0.88,203,47,46,11,+1,58%,125,23%,12,11,+1
+ara,GX,All_Maps,All,"Neon, Jett",1.29,256,58,40,13,+18,75%,163,28%,11,9,+2
+westside,GX,All_Maps,All,Cypher,1.15,188,43,36,9,+7,67%,127,51%,3,5,-2
+grubinho,GX,All_Maps,All,Omen,0.99,196,43,45,32,-2,64%,129,24%,6,4,+2
+Flickless,GX,All_Maps,All,"Kayo, Breach",0.98,202,43,48,38,-5,73%,122,28%,8,6,+2
+Cloud,GX,All_Maps,All,"Fade, Sova",0.84,151,32,43,12,-11,72%,106,38%,4,8,-4
+Veqaj,M8,All_Maps,Attack,"Fade, Sova",0.96,171,19,24,12,-5,65%,122,33%,1,2,-1
+kamyk,M8,All_Maps,Attack,"Viper, Kayo",1.05,231,28,28,6,0,56%,143,35%,5,3,+2
+Proxh,M8,All_Maps,Attack,Omen,0.77,125,14,25,12,-11,56%,78,20%,1,2,-1
+Minny,M8,All_Maps,Attack,"Deadlock, Killjoy",0.68,121,13,26,4,-13,62%,83,33%,3,6,-3
+ComeBack,M8,All_Maps,Attack,"Neon, Jett",0.62,154,17,27,8,-10,41%,109,25%,3,8,-5
+ara,GX,All_Maps,Attack,"Neon, Jett",0.91,202,21,24,8,-3,67%,125,30%,3,6,-3
+westside,GX,All_Maps,Attack,Cypher,1.35,234,25,20,0,+5,60%,164,54%,0,3,-3
+grubinho,GX,All_Maps,Attack,Omen,0.69,161,15,26,14,-11,60%,101,26%,3,3,0
+Flickless,GX,All_Maps,Attack,"Kayo, Breach",0.85,170,16,26,17,-10,67%,100,33%,3,3,0
+Cloud,GX,All_Maps,Attack,"Fade, Sova",0.58,121,12,25,5,-13,63%,85,48%,2,4,-2
+Veqaj,M8,All_Maps,Defend,"Fade, Sova",1.18,219,23,19,14,+4,80%,146,38%,2,1,+1
+kamyk,M8,All_Maps,Defend,"Viper, Kayo",1.04,223,23,19,14,+4,83%,145,44%,5,3,+2
+Proxh,M8,All_Maps,Defend,Omen,1.10,198,22,16,14,+6,83%,130,27%,1,3,-2
+Minny,M8,All_Maps,Defend,"Deadlock, Killjoy",1.16,216,23,16,4,+7,73%,142,41%,2,1,+1
+ComeBack,M8,All_Maps,Defend,"Neon, Jett",1.17,259,30,19,3,+11,77%,143,20%,9,3,+6
+ara,GX,All_Maps,Defend,"Neon, Jett",1.63,294,37,16,5,+21,82%,196,28%,8,3,+5
+westside,GX,All_Maps,Defend,Cypher,0.98,143,18,16,9,+2,74%,94,48%,3,2,+1
+grubinho,GX,All_Maps,Defend,Omen,1.25,233,28,19,18,+9,68%,155,23%,3,1,+2
+Flickless,GX,All_Maps,Defend,"Kayo, Breach",1.09,234,27,22,21,+5,79%,142,26%,5,3,+2
+Cloud,GX,All_Maps,Defend,"Fade, Sova",1.07,174,20,18,7,+2,79%,125,32%,2,4,-2

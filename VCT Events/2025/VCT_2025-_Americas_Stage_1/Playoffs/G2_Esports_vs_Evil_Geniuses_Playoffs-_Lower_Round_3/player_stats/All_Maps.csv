@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+leaf,G2,All_Maps,All,"Viper, Vyse",1.25,259,59,41,22,+18,76%,156,20%,7,10,-3
+trent,G2,All_Maps,All,Tejo,1.17,215,55,43,16,+12,79%,144,30%,7,4,+3
+JonahP,G2,All_Maps,All,"Breach, Fade",1.11,204,45,45,40,0,77%,127,16%,2,7,-5
+jawgemo,G2,All_Maps,All,Yoru,0.93,249,55,54,10,+1,77%,151,23%,16,8,+8
+valyn,G2,All_Maps,All,"Omen, Astra",0.91,166,40,45,28,-5,71%,111,18%,2,3,-1
+supamen,EG,All_Maps,All,"Viper, Astra",1.06,199,46,47,20,-1,65%,128,43%,6,7,-1
+yay,EG,All_Maps,All,"Clove, Astra, Jett",1.01,243,58,56,16,+2,64%,159,41%,9,8,+1
+Derrek,EG,All_Maps,All,Tejo,0.92,179,41,48,15,-7,67%,122,29%,4,2,+2
+icy,EG,All_Maps,All,"Raze, Yoru",0.92,231,51,56,10,-5,65%,146,23%,12,12,0
+NaturE,EG,All_Maps,All,"Fade, Breach, Vyse",0.76,142,32,48,20,-16,71%,95,23%,1,5,-4
+leaf,G2,All_Maps,Attack,"Viper, Vyse",1.18,253,30,21,14,+9,71%,148,23%,4,7,-3
+trent,G2,All_Maps,Attack,Tejo,1.22,198,27,20,9,+7,82%,133,26%,4,1,+3
+JonahP,G2,All_Maps,Attack,"Breach, Fade",1.14,195,21,21,21,0,85%,134,16%,0,2,-2
+jawgemo,G2,All_Maps,Attack,Yoru,1.15,310,36,29,5,+7,79%,187,23%,9,4,+5
+valyn,G2,All_Maps,Attack,"Omen, Astra",0.68,148,17,25,16,-8,62%,84,16%,1,2,-1
+supamen,EG,All_Maps,Attack,"Viper, Astra",1.00,182,21,22,9,-1,59%,121,45%,2,4,-2
+yay,EG,All_Maps,Attack,"Clove, Astra, Jett",0.95,250,27,26,9,+1,63%,158,41%,6,3,+3
+Derrek,EG,All_Maps,Attack,Tejo,1.20,212,25,21,1,+4,69%,145,27%,2,0,+2
+icy,EG,All_Maps,Attack,"Raze, Yoru",0.83,222,25,29,5,-4,63%,142,27%,5,7,-2
+NaturE,EG,All_Maps,Attack,"Fade, Breach, Vyse",0.57,130,14,25,6,-11,66%,84,20%,1,2,-1
+leaf,G2,All_Maps,Defend,"Viper, Vyse",1.32,259,29,20,8,+9,81%,165,19%,3,3,0
+trent,G2,All_Maps,Defend,Tejo,1.12,236,28,23,7,+5,75%,157,35%,3,3,0
+JonahP,G2,All_Maps,Defend,"Breach, Fade",1.09,213,24,24,19,0,69%,119,15%,2,5,-3
+jawgemo,G2,All_Maps,Defend,Yoru,0.70,182,19,25,5,-6,75%,113,23%,7,4,+3
+valyn,G2,All_Maps,Defend,"Omen, Astra",1.15,193,23,20,12,+3,81%,139,20%,1,1,0
+supamen,EG,All_Maps,Defend,"Viper, Astra",1.13,220,25,25,11,0,71%,135,41%,4,3,+1
+yay,EG,All_Maps,Defend,"Clove, Astra, Jett",1.07,239,31,30,7,+1,65%,159,40%,3,5,-2
+Derrek,EG,All_Maps,Defend,Tejo,0.65,150,16,27,14,-11,65%,100,32%,2,2,0
+icy,EG,All_Maps,Defend,"Raze, Yoru",0.99,234,26,27,5,-1,68%,151,20%,7,5,+2
+NaturE,EG,All_Maps,Defend,"Fade, Breach, Vyse",0.93,160,18,23,14,-5,76%,106,25%,0,3,-3

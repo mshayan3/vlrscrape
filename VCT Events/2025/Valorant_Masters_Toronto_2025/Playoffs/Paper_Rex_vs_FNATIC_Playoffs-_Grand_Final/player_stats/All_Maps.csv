@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+d4v41,PRX,All_Maps,All,"Sage, Killjoy, Vyse",1.12,194,77,64,28,+13,75%,130,26%,8,12,-4
+f0rsakeN,PRX,All_Maps,All,"Omen, Sova, Astra",1.11,223,81,75,32,+6,70%,149,28%,7,8,-1
+Jinggg,PRX,All_Maps,All,"Raze, Omen",1.03,207,69,69,28,0,68%,144,23%,12,13,-1
+PatMen,PRX,All_Maps,All,"Viper, Fade",0.94,175,67,72,24,-5,67%,117,33%,5,10,-5
+something,PRX,All_Maps,All,"Sova, Jett, Yoru",0.90,185,68,77,18,-9,68%,121,25%,15,15,0
+Alfajer,FNC,All_Maps,All,"Cypher, Killjoy, Neon",1.17,270,99,79,13,+20,70%,174,32%,17,11,+6
+Chronicle,FNC,All_Maps,All,"Viper, Sage, Killjoy",1.10,198,75,64,25,+11,67%,135,24%,7,5,+2
+kaajak,FNC,All_Maps,All,"Neon, Jett, Yoru, Raze",0.96,205,81,80,10,+1,71%,133,31%,22,16,+6
+crashies,FNC,All_Maps,All,"Sova, Fade",0.93,165,61,68,27,-7,68%,118,35%,5,2,+3
+Boaster,FNC,All_Maps,All,"Omen, Viper, Astra",0.74,129,41,71,46,-30,70%,87,22%,7,13,-6
+d4v41,PRX,All_Maps,Attack,"Sage, Killjoy, Vyse",1.27,189,38,25,12,+13,77%,124,27%,3,3,0
+f0rsakeN,PRX,All_Maps,Attack,"Omen, Sova, Astra",1.28,226,43,35,17,+8,73%,155,32%,2,4,-2
+Jinggg,PRX,All_Maps,Attack,"Raze, Omen",1.03,208,33,34,11,-1,67%,144,21%,8,3,+5
+PatMen,PRX,All_Maps,Attack,"Viper, Fade",0.92,187,35,36,12,-1,63%,119,29%,2,8,-6
+something,PRX,All_Maps,Attack,"Sova, Jett, Yoru",0.77,176,32,40,11,-8,63%,118,27%,8,11,-3
+Alfajer,FNC,All_Maps,Attack,"Cypher, Killjoy, Neon",1.32,309,60,41,5,+19,72%,199,37%,12,4,+8
+Chronicle,FNC,All_Maps,Attack,"Viper, Sage, Killjoy",1.00,181,34,34,12,0,64%,121,21%,2,4,-2
+kaajak,FNC,All_Maps,Attack,"Neon, Jett, Yoru, Raze",0.89,214,41,43,6,-2,70%,136,36%,9,9,0
+crashies,FNC,All_Maps,Attack,"Sova, Fade",0.95,144,28,31,13,-3,66%,103,46%,2,0,+2
+Boaster,FNC,All_Maps,Attack,"Omen, Viper, Astra",0.86,138,24,32,21,-8,75%,96,33%,4,7,-3
+d4v41,PRX,All_Maps,Defend,"Sage, Killjoy, Vyse",0.97,203,39,39,16,0,74%,135,24%,5,9,-4
+f0rsakeN,PRX,All_Maps,Defend,"Omen, Sova, Astra",0.95,214,38,40,15,-2,66%,143,24%,5,4,+1
+Jinggg,PRX,All_Maps,Defend,"Raze, Omen",1.03,208,36,35,17,+1,68%,145,27%,4,10,-6
+PatMen,PRX,All_Maps,Defend,"Viper, Fade",0.96,165,32,36,12,-4,70%,114,38%,3,2,+1
+something,PRX,All_Maps,Defend,"Sova, Jett, Yoru",1.02,195,36,37,7,-1,72%,124,23%,7,4,+3
+Alfajer,FNC,All_Maps,Defend,"Cypher, Killjoy, Neon",1.01,226,39,38,8,+1,69%,149,26%,5,7,-2
+Chronicle,FNC,All_Maps,Defend,"Viper, Sage, Killjoy",1.20,221,41,30,13,+11,69%,149,27%,5,1,+4
+kaajak,FNC,All_Maps,Defend,"Neon, Jett, Yoru, Raze",1.03,209,40,37,4,+3,73%,131,26%,13,7,+6
+crashies,FNC,All_Maps,Defend,"Sova, Fade",0.90,191,33,37,14,-4,69%,133,28%,3,2,+1
+Boaster,FNC,All_Maps,Defend,"Omen, Viper, Astra",0.61,117,17,39,25,-22,63%,78,14%,3,6,-3

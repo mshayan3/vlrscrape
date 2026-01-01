@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+3Sunset,1,"""1-0""",FPX,Defenders,Elimination
+3Sunset,2,"""2-0""",FPX,Defenders,Defuse
+3Sunset,3,"""3-0""",FPX,Defenders,Elimination
+3Sunset,4,"""4-0""",FPX,Defenders,Defuse
+3Sunset,5,"""4-1""",DRG,Attackers,Elimination
+3Sunset,6,"""5-1""",FPX,Defenders,Elimination
+3Sunset,7,"""6-1""",FPX,Defenders,Elimination
+3Sunset,8,"""7-1""",FPX,Defenders,Defuse
+3Sunset,9,"""8-1""",FPX,Defenders,Elimination
+3Sunset,10,"""9-1""",FPX,Defenders,Elimination
+3Sunset,11,"""9-2""",DRG,Attackers,Elimination
+3Sunset,12,"""10-2""",FPX,Defenders,Defuse
+3Sunset,13,"""10-3""",FPX,Defenders,Elimination
+3Sunset,14,"""10-4""",FPX,Defenders,Elimination
+3Sunset,15,"""10-5""",FPX,Defenders,Defuse
+3Sunset,16,"""10-6""",FPX,Defenders,Elimination
+3Sunset,17,"""10-7""",FPX,Defenders,Defuse
+3Sunset,18,"""11-7""",DRG,Attackers,Elimination
+3Sunset,19,"""11-8""",FPX,Defenders,Time Expired
+3Sunset,20,"""11-9""",FPX,Defenders,Defuse
+3Sunset,21,"""12-9""",DRG,Attackers,Elimination
+3Sunset,22,"""12-10""",FPX,Defenders,Elimination
+3Sunset,23,"""12-11""",FPX,Defenders,Time Expired
+3Sunset,24,"""13-11""",DRG,Attackers,Elimination

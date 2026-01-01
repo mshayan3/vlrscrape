@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+ZmjjKK,EDG,All_Maps,All,"Neon, Jett",1.08,263,59,52,12,+7,68%,167,24%,13,14,-1
+Smoggy,EDG,All_Maps,All,"Brimstone, Viper, Astra",1.00,169,39,44,22,-5,64%,123,33%,4,4,0
+CHICHOO,EDG,All_Maps,All,"Vyse, Killjoy",0.94,197,47,53,12,-6,68%,139,30%,4,4,0
+nobody,EDG,All_Maps,All,"Tejo, Sova",0.79,165,38,50,15,-12,65%,113,26%,8,2,+6
+Jieni7,EDG,All_Maps,All,"Breach, Kayo, Yoru",0.73,168,36,53,29,-17,71%,106,28%,7,6,+1
+Knight,BLG,All_Maps,All,"Tejo, Sova, Fade",1.30,248,59,41,25,+18,79%,157,22%,7,4,+3
+rushia,BLG,All_Maps,All,"Brimstone, Harbor, Astra",1.28,237,58,44,35,+14,83%,144,27%,9,5,+4
+whzy,BLG,All_Maps,All,"Neon, Jett, Yoru",1.09,230,55,47,14,+8,68%,151,21%,8,16,-8
+Levius,BLG,All_Maps,All,"Cypher, Killjoy, Vyse",0.97,169,40,41,14,-1,71%,107,29%,0,3,-3
+nephh,BLG,All_Maps,All,"Breach, Viper, Tejo",0.92,179,40,46,19,-6,73%,127,22%,6,8,-2
+ZmjjKK,EDG,All_Maps,Attack,"Neon, Jett",1.12,276,32,25,7,+7,70%,179,21%,7,7,0
+Smoggy,EDG,All_Maps,Attack,"Brimstone, Viper, Astra",1.25,201,23,19,15,+4,73%,143,29%,2,0,+2
+CHICHOO,EDG,All_Maps,Attack,"Vyse, Killjoy",0.77,177,22,26,8,-4,73%,119,40%,2,3,-1
+nobody,EDG,All_Maps,Attack,"Tejo, Sova",0.88,183,21,23,8,-2,76%,133,31%,6,1,+5
+Jieni7,EDG,All_Maps,Attack,"Breach, Kayo, Yoru",0.71,159,18,25,15,-7,82%,98,20%,4,1,+3
+Knight,BLG,All_Maps,Attack,"Tejo, Sova, Fade",1.25,243,31,20,10,+11,79%,150,25%,5,1,+4
+rushia,BLG,All_Maps,Attack,"Brimstone, Harbor, Astra",1.37,248,30,20,17,+10,88%,152,32%,4,2,+2
+whzy,BLG,All_Maps,Attack,"Neon, Jett, Yoru",1.23,295,34,24,9,+10,79%,184,22%,6,6,0
+Levius,BLG,All_Maps,Attack,"Cypher, Killjoy, Vyse",0.78,121,17,18,3,-1,76%,77,37%,0,2,-2
+nephh,BLG,All_Maps,Attack,"Breach, Viper, Tejo",1.01,187,22,21,13,+1,82%,136,25%,3,4,-1
+ZmjjKK,EDG,All_Maps,Defend,"Neon, Jett",1.04,242,27,27,5,0,67%,154,28%,6,7,-1
+Smoggy,EDG,All_Maps,Defend,"Brimstone, Viper, Astra",0.76,140,16,25,7,-9,55%,104,39%,2,4,-2
+CHICHOO,EDG,All_Maps,Defend,"Vyse, Killjoy",1.11,229,25,27,4,-2,64%,158,27%,2,1,+1
+nobody,EDG,All_Maps,Defend,"Tejo, Sova",0.69,149,17,27,7,-10,55%,94,20%,2,1,+1
+Jieni7,EDG,All_Maps,Defend,"Breach, Kayo, Yoru",0.82,174,18,28,14,-10,61%,114,35%,3,5,-2
+Knight,BLG,All_Maps,Defend,"Tejo, Sova, Fade",1.36,255,28,21,15,+7,79%,164,20%,2,3,-1
+rushia,BLG,All_Maps,Defend,"Brimstone, Harbor, Astra",1.20,234,28,24,18,+4,79%,136,22%,5,3,+2
+whzy,BLG,All_Maps,Defend,"Neon, Jett, Yoru",0.95,168,21,23,5,-2,58%,119,18%,2,10,-8
+Levius,BLG,All_Maps,Defend,"Cypher, Killjoy, Vyse",1.17,211,23,23,11,0,67%,137,28%,0,1,-1
+nephh,BLG,All_Maps,Defend,"Breach, Viper, Tejo",0.82,171,18,25,6,-7,64%,119,19%,3,4,-1

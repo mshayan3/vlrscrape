@@ -1,0 +1,31 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+2Split,1,"""0-1""",FNC,Attackers,Elimination
+2Split,2,"""0-2""",FNC,Attackers,Spike Detonation
+2Split,3,"""1-2""",APK,Defenders,Elimination
+2Split,4,"""2-2""",APK,Defenders,Defuse
+2Split,5,"""2-3""",FNC,Attackers,Elimination
+2Split,6,"""3-3""",APK,Defenders,Defuse
+2Split,7,"""3-4""",FNC,Attackers,Elimination
+2Split,8,"""3-5""",FNC,Attackers,Elimination
+2Split,9,"""3-6""",FNC,Attackers,Spike Detonation
+2Split,10,"""3-7""",FNC,Attackers,Elimination
+2Split,11,"""4-7""",APK,Defenders,Defuse
+2Split,12,"""4-8""",FNC,Attackers,Elimination
+2Split,13,"""5-8""",FNC,Attackers,Elimination
+2Split,14,"""5-9""",APK,Defenders,Elimination
+2Split,15,"""5-10""",APK,Defenders,Defuse
+2Split,16,"""6-10""",FNC,Attackers,Elimination
+2Split,17,"""7-10""",FNC,Attackers,Elimination
+2Split,18,"""8-10""",FNC,Attackers,Elimination
+2Split,19,"""8-11""",APK,Defenders,Defuse
+2Split,20,"""9-11""",FNC,Attackers,Spike Detonation
+2Split,21,"""10-11""",FNC,Attackers,Spike Detonation
+2Split,22,"""11-11""",FNC,Attackers,Spike Detonation
+2Split,23,"""12-11""",FNC,Attackers,Spike Detonation
+2Split,24,"""12-12""",APK,Defenders,Elimination
+2Split,25,"""12-13""",FNC,Attackers,Elimination
+2Split,26,"""13-13""",FNC,Attackers,Elimination
+2Split,27,"""13-14""",FNC,Attackers,Elimination
+2Split,28,"""14-14""",FNC,Attackers,Elimination
+2Split,29,"""14-15""",FNC,Attackers,Elimination
+2Split,30,"""14-16""",APK,Defenders,Defuse

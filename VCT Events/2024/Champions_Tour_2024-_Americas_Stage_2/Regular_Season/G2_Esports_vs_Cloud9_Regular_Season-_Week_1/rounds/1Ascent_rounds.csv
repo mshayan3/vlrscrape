@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+1Ascent,1,"""1-0""",C9,Attackers,Elimination
+1Ascent,2,"""2-0""",C9,Attackers,Elimination
+1Ascent,3,"""2-1""",G2,Defenders,Elimination
+1Ascent,4,"""2-2""",G2,Defenders,Defuse
+1Ascent,5,"""2-3""",G2,Defenders,Defuse
+1Ascent,6,"""3-3""",C9,Attackers,Elimination
+1Ascent,7,"""3-4""",G2,Defenders,Time Expired
+1Ascent,8,"""3-5""",G2,Defenders,Elimination
+1Ascent,9,"""4-5""",C9,Attackers,Elimination
+1Ascent,10,"""4-6""",G2,Defenders,Elimination
+1Ascent,11,"""4-7""",G2,Defenders,Elimination
+1Ascent,12,"""4-8""",G2,Defenders,Defuse
+1Ascent,13,"""5-8""",G2,Defenders,Elimination
+1Ascent,14,"""6-8""",G2,Defenders,Elimination
+1Ascent,15,"""7-8""",G2,Defenders,Elimination
+1Ascent,16,"""8-8""",G2,Defenders,Elimination
+1Ascent,17,"""8-9""",C9,Attackers,Elimination
+1Ascent,18,"""9-9""",G2,Defenders,Elimination
+1Ascent,19,"""10-9""",G2,Defenders,Time Expired
+1Ascent,20,"""11-9""",G2,Defenders,Elimination
+1Ascent,21,"""12-9""",G2,Defenders,Defuse
+1Ascent,22,"""12-10""",C9,Attackers,Elimination
+1Ascent,23,"""12-11""",C9,Attackers,Elimination
+1Ascent,24,"""13-11""",G2,Defenders,Defuse

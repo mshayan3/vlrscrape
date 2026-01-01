@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+NcSlasher,BME,All_Maps,All,"Deadlock, Tejo",0.86,136,20,28,4,-8,63%,86,48%,5,4,+1
+dos9,BME,All_Maps,All,Omen,0.85,181,24,32,19,-8,68%,123,30%,1,5,-4
+BerserX,BME,All_Maps,All,"Viper, Vyse",0.85,185,26,32,5,-6,65%,131,30%,2,5,-3
+Shiro,BME,All_Maps,All,"Tejo, Sova",0.81,186,24,32,10,-8,63%,116,21%,3,5,-2
+Famouz,BME,All_Maps,All,Yoru,0.45,135,17,35,8,-18,53%,87,14%,1,9,-8
+Karon,GEN,All_Maps,All,Omen,1.41,245,36,21,20,+15,85%,176,39%,2,0,+2
+Munchkin,GEN,All_Maps,All,"Viper, Kayo",1.31,200,30,19,13,+11,80%,139,25%,5,3,+2
+t3xture,GEN,All_Maps,All,"Neon, Jett",1.30,274,40,24,6,+16,70%,178,29%,12,6,+6
+Ash,GEN,All_Maps,All,"Tejo, Sova",1.05,148,22,17,11,+5,75%,107,33%,2,1,+1
+Foxy9,GEN,All_Maps,All,"Deadlock, Killjoy",1.01,208,31,30,7,+1,80%,134,39%,7,2,+5
+NcSlasher,BME,All_Maps,Attack,"Deadlock, Tejo",0.52,94,7,18,2,-11,57%,67,44%,2,2,0
+dos9,BME,All_Maps,Attack,Omen,0.83,185,12,18,9,-6,67%,129,26%,0,4,-4
+BerserX,BME,All_Maps,Attack,"Viper, Vyse",0.79,188,14,18,2,-4,62%,131,38%,2,3,-1
+Shiro,BME,All_Maps,Attack,"Tejo, Sova",0.73,178,13,18,4,-5,67%,112,26%,0,3,-3
+Famouz,BME,All_Maps,Attack,Yoru,0.17,91,6,21,1,-15,43%,54,22%,1,4,-3
+Karon,GEN,All_Maps,Attack,Omen,1.45,240,17,10,12,+7,79%,175,37%,1,0,+1
+Munchkin,GEN,All_Maps,Attack,"Viper, Kayo",1.18,175,11,10,7,+1,79%,120,24%,3,2,+1
+t3xture,GEN,All_Maps,Attack,"Neon, Jett",0.94,221,15,14,2,+1,63%,157,42%,3,4,-1
+Ash,GEN,All_Maps,Attack,"Tejo, Sova",0.84,104,8,10,6,-2,68%,78,20%,0,0,0
+Foxy9,GEN,All_Maps,Attack,"Deadlock, Killjoy",1.03,219,15,15,3,0,74%,136,45%,5,1,+4
+NcSlasher,BME,All_Maps,Defend,"Deadlock, Tejo",1.24,183,13,10,2,+3,68%,107,50%,3,2,+1
+dos9,BME,All_Maps,Defend,Omen,0.88,181,12,14,10,-2,68%,116,35%,1,1,0
+BerserX,BME,All_Maps,Defend,"Viper, Vyse",0.92,186,12,14,3,-2,68%,131,24%,0,2,-2
+Shiro,BME,All_Maps,Defend,"Tejo, Sova",0.90,189,11,14,6,-3,58%,121,17%,3,2,+1
+Famouz,BME,All_Maps,Defend,Yoru,0.77,184,11,14,7,-3,63%,125,11%,0,5,-5
+Karon,GEN,All_Maps,Defend,Omen,1.37,255,19,11,8,+8,90%,176,40%,1,0,+1
+Munchkin,GEN,All_Maps,Defend,"Viper, Kayo",1.42,224,19,9,6,+10,81%,156,25%,2,1,+1
+t3xture,GEN,All_Maps,Defend,"Neon, Jett",1.62,320,25,10,4,+15,76%,198,21%,9,2,+7
+Ash,GEN,All_Maps,Defend,"Tejo, Sova",1.25,186,14,7,5,+7,81%,133,41%,2,1,+1
+Foxy9,GEN,All_Maps,Defend,"Deadlock, Killjoy",1.00,203,16,15,4,+1,86%,131,34%,2,1,+1

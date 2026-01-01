@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Smoggy,EDG,All_Maps,All,"Brimstone, Omen",0.99,198,54,64,47,-10,73%,129,35%,9,9,0
+ZmjjKK,EDG,All_Maps,All,"Raze, Jett, Neon",0.99,225,69,71,11,-2,68%,154,24%,15,19,-4
+CHICHOO,EDG,All_Maps,All,"Vyse, Cypher, Viper",0.89,176,53,61,16,-8,61%,115,28%,5,9,-4
+nobody,EDG,All_Maps,All,Tejo,0.80,158,44,65,27,-21,65%,116,25%,4,7,-3
+S1Mon,EDG,All_Maps,All,"Kayo, Breach",0.75,143,43,70,37,-27,64%,95,23%,2,5,-3
+iZu,T1,All_Maps,All,"Fade, Cypher, Tejo, Yoru",1.34,221,71,46,12,+25,83%,149,30%,10,4,+6
+BuZz,T1,All_Maps,All,"Raze, Yoru",1.20,268,78,58,24,+20,75%,165,17%,13,12,+1
+stax,T1,All_Maps,All,"Kayo, Sova, Breach, Fade",1.15,195,61,46,31,+15,77%,128,34%,4,4,0
+Meteor,T1,All_Maps,All,"Vyse, Iso, Viper",1.10,260,75,60,22,+15,76%,163,34%,17,10,+7
+Sylvan,T1,All_Maps,All,"Brimstone, Omen",1.04,176,46,53,80,-7,76%,111,23%,5,5,0
+Smoggy,EDG,All_Maps,Attack,"Brimstone, Omen",1.02,189,30,36,28,-6,71%,131,36%,4,3,+1
+ZmjjKK,EDG,All_Maps,Attack,"Raze, Jett, Neon",0.87,212,37,41,7,-4,61%,141,26%,7,13,-6
+CHICHOO,EDG,All_Maps,Attack,"Vyse, Cypher, Viper",1.10,198,34,31,10,+3,61%,126,32%,4,6,-2
+nobody,EDG,All_Maps,Attack,Tejo,0.86,166,26,37,18,-11,71%,120,27%,2,5,-3
+S1Mon,EDG,All_Maps,Attack,"Kayo, Breach",0.94,171,32,39,21,-7,67%,104,22%,2,3,-1
+iZu,T1,All_Maps,Attack,"Fade, Cypher, Tejo, Yoru",1.31,192,27,16,2,+11,80%,134,32%,4,3,+1
+BuZz,T1,All_Maps,Attack,"Raze, Yoru",1.36,319,40,26,12,+14,86%,193,20%,5,5,0
+stax,T1,All_Maps,Attack,"Kayo, Sova, Breach, Fade",1.11,172,23,19,18,+4,86%,115,46%,1,2,-1
+Meteor,T1,All_Maps,Attack,"Vyse, Iso, Viper",1.11,248,30,24,7,+6,83%,159,37%,7,5,+2
+Sylvan,T1,All_Maps,Attack,"Brimstone, Omen",1.48,232,27,19,41,+8,86%,146,21%,2,1,+1
+Smoggy,EDG,All_Maps,Defend,"Brimstone, Omen",0.95,210,24,28,19,-4,74%,128,33%,5,6,-1
+ZmjjKK,EDG,All_Maps,Defend,"Raze, Jett, Neon",1.17,264,32,30,4,+2,77%,171,22%,8,6,+2
+CHICHOO,EDG,All_Maps,Defend,"Vyse, Cypher, Viper",0.59,157,19,30,6,-11,60%,99,23%,1,3,-2
+nobody,EDG,All_Maps,Defend,Tejo,0.73,162,18,28,9,-10,57%,110,22%,2,2,0
+S1Mon,EDG,All_Maps,Defend,"Kayo, Breach",0.49,114,11,31,16,-20,60%,81,25%,0,2,-2
+iZu,T1,All_Maps,Defend,"Fade, Cypher, Tejo, Yoru",1.35,240,44,30,10,+14,86%,160,28%,6,1,+5
+BuZz,T1,All_Maps,Defend,"Raze, Yoru",1.08,235,38,32,12,+6,67%,145,13%,8,7,+1
+stax,T1,All_Maps,Defend,"Kayo, Sova, Breach, Fade",1.18,210,38,27,13,+11,71%,138,29%,3,2,+1
+Meteor,T1,All_Maps,Defend,"Vyse, Iso, Viper",1.08,259,45,36,15,+9,71%,166,32%,10,5,+5
+Sylvan,T1,All_Maps,Defend,"Brimstone, Omen",0.73,139,19,34,39,-15,69%,87,26%,3,4,-1

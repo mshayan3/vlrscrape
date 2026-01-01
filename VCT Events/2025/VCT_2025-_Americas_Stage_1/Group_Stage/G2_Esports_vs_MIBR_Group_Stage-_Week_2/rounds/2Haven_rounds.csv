@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+2Haven,1,"""1-0""",G2,Defenders,Elimination
+2Haven,2,"""2-0""",G2,Defenders,Defuse
+2Haven,3,"""3-0""",G2,Defenders,Defuse
+2Haven,4,"""4-0""",G2,Defenders,Elimination
+2Haven,5,"""4-1""",MIBR,Attackers,Spike Detonation
+2Haven,6,"""4-2""",MIBR,Attackers,Spike Detonation
+2Haven,7,"""5-2""",G2,Defenders,Elimination
+2Haven,8,"""5-3""",MIBR,Attackers,Spike Detonation
+2Haven,9,"""5-4""",MIBR,Attackers,Elimination
+2Haven,10,"""6-4""",G2,Defenders,Defuse
+2Haven,11,"""7-4""",G2,Defenders,Time Expired
+2Haven,12,"""7-5""",MIBR,Attackers,Elimination
+2Haven,13,"""7-6""",G2,Defenders,Defuse
+2Haven,14,"""8-6""",MIBR,Attackers,Spike Detonation
+2Haven,15,"""9-6""",MIBR,Attackers,Spike Detonation
+2Haven,16,"""9-7""",G2,Defenders,Defuse
+2Haven,17,"""10-7""",MIBR,Attackers,Spike Detonation
+2Haven,18,"""11-7""",MIBR,Attackers,Elimination
+2Haven,19,"""11-8""",G2,Defenders,Defuse
+2Haven,20,"""11-9""",G2,Defenders,Elimination
+2Haven,21,"""12-9""",MIBR,Attackers,Spike Detonation
+2Haven,22,"""12-10""",G2,Defenders,Defuse
+2Haven,23,"""12-11""",G2,Defenders,Elimination
+2Haven,24,"""13-11""",MIBR,Attackers,Elimination

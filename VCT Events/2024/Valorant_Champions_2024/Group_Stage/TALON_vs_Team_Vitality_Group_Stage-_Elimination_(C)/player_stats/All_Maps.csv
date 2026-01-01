@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+primmie,TLN,All_Maps,All,"Clove, Raze",1.14,237,35,30,8,+5,70%,156,34%,4,2,+2
+ban,TLN,All_Maps,All,"Deadlock, Cypher",0.92,208,30,30,5,0,73%,138,40%,4,4,0
+JitBoyS,TLN,All_Maps,All,Omen,0.66,171,22,34,11,-12,73%,110,30%,4,0,+4
+Governor,TLN,All_Maps,All,"Raze, Deadlock",0.63,173,22,33,8,-11,60%,113,24%,5,10,-5
+Crws,TLN,All_Maps,All,Fade,0.52,138,18,33,10,-15,63%,90,27%,3,4,-1
+Kicks,VIT,All_Maps,All,"Breach, Kayo",1.58,273,40,23,23,+17,85%,163,26%,4,2,+2
+Sayf,VIT,All_Maps,All,"Raze, Neon",1.20,227,33,25,10,+8,73%,155,25%,4,5,-1
+trexx,VIT,All_Maps,All,"Fade, Sova",1.10,209,28,26,20,+2,83%,141,21%,2,2,0
+runneR,VIT,All_Maps,All,Cypher,1.07,216,31,27,7,+4,75%,138,20%,7,3,+4
+ceNder,VIT,All_Maps,All,Omen,0.97,192,28,26,16,+2,70%,117,25%,3,8,-5
+primmie,TLN,All_Maps,Attack,"Clove, Raze",1.03,211,13,13,3,0,69%,146,34%,0,1,-1
+ban,TLN,All_Maps,Attack,"Deadlock, Cypher",0.62,221,12,14,1,-2,69%,147,46%,2,3,-1
+JitBoyS,TLN,All_Maps,Attack,Omen,0.81,184,10,13,4,-3,81%,119,31%,2,0,+2
+Governor,TLN,All_Maps,Attack,"Raze, Deadlock",0.23,111,6,15,2,-9,56%,77,32%,1,6,-5
+Crws,TLN,All_Maps,Attack,Fade,0.74,161,9,13,5,-4,69%,96,36%,1,0,+1
+Kicks,VIT,All_Maps,Attack,"Breach, Kayo",1.42,231,20,12,12,+8,83%,141,34%,2,1,+1
+Sayf,VIT,All_Maps,Attack,"Raze, Neon",1.13,229,19,15,6,+4,67%,149,25%,3,3,0
+trexx,VIT,All_Maps,Attack,"Fade, Sova",1.42,266,25,15,10,+10,83%,171,22%,2,1,+1
+runneR,VIT,All_Maps,Attack,Cypher,0.94,201,18,17,0,+1,67%,129,18%,2,2,0
+ceNder,VIT,All_Maps,Attack,Omen,0.52,138,10,18,10,-8,54%,89,28%,1,7,-6
+primmie,TLN,All_Maps,Defend,"Clove, Raze",1.22,258,22,17,5,+5,71%,163,35%,4,1,+3
+ban,TLN,All_Maps,Defend,"Deadlock, Cypher",1.12,202,18,16,4,+2,75%,131,35%,2,1,+1
+JitBoyS,TLN,All_Maps,Defend,Omen,0.56,162,12,21,7,-9,67%,105,30%,2,0,+2
+Governor,TLN,All_Maps,Defend,"Raze, Deadlock",0.92,213,16,18,6,-2,63%,138,22%,4,4,0
+Crws,TLN,All_Maps,Defend,Fade,0.37,126,9,20,5,-11,58%,86,22%,2,4,-2
+Kicks,VIT,All_Maps,Defend,"Breach, Kayo",1.83,332,20,11,11,+9,88%,197,19%,2,1,+1
+Sayf,VIT,All_Maps,Defend,"Raze, Neon",1.31,230,14,10,4,+4,81%,164,25%,1,2,-1
+trexx,VIT,All_Maps,Defend,"Fade, Sova",0.61,115,3,11,10,-8,81%,95,19%,0,1,-1
+runneR,VIT,All_Maps,Defend,Cypher,1.27,247,13,10,7,+3,88%,152,22%,5,1,+4
+ceNder,VIT,All_Maps,Defend,Omen,1.66,273,18,8,6,+10,94%,161,23%,2,1,+1

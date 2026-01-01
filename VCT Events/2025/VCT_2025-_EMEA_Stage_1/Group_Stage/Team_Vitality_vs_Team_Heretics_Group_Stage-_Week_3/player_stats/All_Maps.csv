@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Sayf,VIT,All_Maps,All,Sova,1.04,173,28,28,10,0,71%,118,31%,0,1,-1
+Less,VIT,All_Maps,All,"Cypher, Viper",0.93,198,26,27,9,-1,76%,117,33%,3,3,0
+Derke,VIT,All_Maps,All,"Yoru, Jett",0.92,212,29,32,11,-3,62%,145,25%,8,12,-4
+CyvOph,VIT,All_Maps,All,"Iso, Killjoy",0.74,173,25,36,6,-11,52%,110,29%,5,4,+1
+Kicks,VIT,All_Maps,All,"Omen, Kayo",0.74,150,19,32,18,-13,64%,105,23%,1,4,-3
+MiniBoo,TH,All_Maps,All,"Yoru, Neon",1.40,275,42,26,9,+16,76%,179,35%,7,4,+3
+Wo0t,TH,All_Maps,All,"Iso, Tejo",1.38,281,42,26,6,+16,76%,175,43%,8,4,+4
+Boo,TH,All_Maps,All,"Omen, Viper",0.93,137,20,22,12,-2,71%,85,29%,5,3,+2
+RieNs,TH,All_Maps,All,Sova,0.86,185,27,28,12,-1,79%,122,59%,3,2,+1
+benjyfishy,TH,All_Maps,All,"Cypher, Vyse",0.80,153,24,25,5,-1,76%,101,45%,1,4,-3
+Sayf,VIT,All_Maps,Attack,Sova,1.36,216,17,11,2,+6,74%,126,39%,0,1,-1
+Less,VIT,All_Maps,Attack,"Cypher, Viper",0.81,146,8,12,5,-4,79%,93,18%,0,1,-1
+Derke,VIT,All_Maps,Attack,"Yoru, Jett",0.36,129,7,16,3,-9,58%,91,14%,3,7,-4
+CyvOph,VIT,All_Maps,Attack,"Iso, Killjoy",0.80,197,12,16,4,-4,37%,124,29%,3,1,+2
+Kicks,VIT,All_Maps,Attack,"Omen, Kayo",0.88,168,9,14,9,-5,47%,112,30%,1,2,-1
+MiniBoo,TH,All_Maps,Attack,"Yoru, Neon",1.39,271,24,15,5,+9,78%,181,42%,3,2,+1
+Wo0t,TH,All_Maps,Attack,"Iso, Tejo",1.01,233,19,16,4,+3,74%,138,39%,3,4,-1
+Boo,TH,All_Maps,Attack,"Omen, Viper",1.00,154,12,12,7,0,78%,93,33%,3,0,+3
+RieNs,TH,All_Maps,Attack,Sova,0.91,204,17,16,7,+1,87%,127,76%,2,2,0
+benjyfishy,TH,All_Maps,Attack,"Cypher, Vyse",0.76,168,14,15,4,-1,74%,111,41%,1,2,-1
+Sayf,VIT,All_Maps,Defend,Sova,0.77,141,11,17,8,-6,70%,111,23%,0,0,0
+Less,VIT,All_Maps,Defend,"Cypher, Viper",1.03,234,18,15,4,+3,74%,137,48%,3,2,+1
+Derke,VIT,All_Maps,Defend,"Yoru, Jett",1.44,282,22,16,8,+6,65%,189,33%,5,5,0
+CyvOph,VIT,All_Maps,Defend,"Iso, Killjoy",0.69,147,13,20,2,-7,65%,98,28%,2,3,-1
+Kicks,VIT,All_Maps,Defend,"Omen, Kayo",0.63,145,10,18,9,-8,78%,98,19%,0,2,-2
+MiniBoo,TH,All_Maps,Defend,"Yoru, Neon",1.41,275,18,11,4,+7,74%,176,28%,4,2,+2
+Wo0t,TH,All_Maps,Defend,"Iso, Tejo",1.82,337,23,10,2,+13,79%,220,47%,5,0,+5
+Boo,TH,All_Maps,Defend,"Omen, Viper",0.83,118,8,10,5,-2,63%,75,24%,2,3,-1
+RieNs,TH,All_Maps,Defend,Sova,0.80,166,10,12,5,-2,68%,117,43%,1,0,+1
+benjyfishy,TH,All_Maps,Defend,"Cypher, Vyse",0.84,135,10,10,1,0,79%,89,53%,0,2,-2

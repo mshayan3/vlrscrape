@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+MiniBoo,TH,All_Maps,All,"Jett, Raze",1.14,223,42,32,7,+10,65%,138,39%,12,6,+6
+RieNs,TH,All_Maps,All,"Sova, Skye, Tejo",1.13,199,39,33,13,+6,76%,144,46%,4,5,-1
+Wo0t,TH,All_Maps,All,"Astra, Tejo",1.10,183,35,33,26,+2,72%,117,32%,6,5,+1
+benjyfishy,TH,All_Maps,All,"Cypher, Killjoy",1.02,173,37,30,4,+7,69%,124,37%,2,8,-6
+Boo,TH,All_Maps,All,"Kayo, Astra",0.81,165,29,37,33,-8,78%,100,39%,3,3,0
+Zyppan,M8,All_Maps,All,"Omen, Brimstone, Kayo",1.03,208,38,40,18,-2,67%,136,32%,5,5,0
+Kada,M8,All_Maps,All,"Astra, Cypher",0.96,153,28,33,23,-5,63%,98,33%,2,3,-1
+Minny,M8,All_Maps,All,"Yoru, Breach, Killjoy",0.93,192,33,37,9,-4,65%,121,39%,6,6,0
+RobbieBk,M8,All_Maps,All,"Sova, Fade",0.92,144,27,33,13,-6,61%,101,30%,3,3,0
+Click,M8,All_Maps,All,"Jett, Raze",0.86,178,39,39,2,0,61%,113,41%,11,10,+1
+MiniBoo,TH,All_Maps,Attack,"Jett, Raze",0.74,185,15,20,2,-5,48%,114,38%,1,5,-4
+RieNs,TH,All_Maps,Attack,"Sova, Skye, Tejo",1.15,227,21,18,1,+3,64%,152,48%,2,3,-1
+Wo0t,TH,All_Maps,Attack,"Astra, Tejo",0.83,144,11,18,12,-7,64%,93,35%,2,3,-1
+benjyfishy,TH,All_Maps,Attack,"Cypher, Killjoy",0.44,93,8,19,0,-11,48%,61,44%,2,4,-2
+Boo,TH,All_Maps,Attack,"Kayo, Astra",0.57,131,10,20,12,-10,72%,79,44%,1,2,-1
+Zyppan,M8,All_Maps,Attack,"Omen, Brimstone, Kayo",0.85,177,16,23,7,-7,55%,118,36%,0,4,-4
+Kada,M8,All_Maps,Attack,"Astra, Cypher",0.84,134,12,21,10,-9,55%,95,28%,1,1,0
+Minny,M8,All_Maps,Attack,"Yoru, Breach, Killjoy",0.72,168,16,26,5,-10,52%,115,37%,2,3,-1
+RobbieBk,M8,All_Maps,Attack,"Sova, Fade",0.56,94,9,22,6,-13,48%,64,31%,0,3,-3
+Click,M8,All_Maps,Attack,"Jett, Raze",0.61,160,17,25,1,-8,48%,90,44%,7,8,-1
+MiniBoo,TH,All_Maps,Defend,"Jett, Raze",1.49,254,27,12,5,+15,79%,159,40%,11,1,+10
+RieNs,TH,All_Maps,Defend,"Sova, Skye, Tejo",1.11,174,18,15,12,+3,86%,137,43%,2,2,0
+Wo0t,TH,All_Maps,Defend,"Astra, Tejo",1.34,220,24,15,14,+9,79%,138,30%,4,2,+2
+benjyfishy,TH,All_Maps,Defend,"Cypher, Killjoy",1.53,255,29,11,4,+18,86%,178,35%,0,4,-4
+Boo,TH,All_Maps,Defend,"Kayo, Astra",1.01,192,19,17,21,+2,83%,119,36%,2,1,+1
+Zyppan,M8,All_Maps,Defend,"Omen, Brimstone, Kayo",1.23,258,22,17,11,+5,80%,157,28%,5,1,+4
+Kada,M8,All_Maps,Defend,"Astra, Cypher",1.09,167,16,12,13,+4,72%,101,39%,1,2,-1
+Minny,M8,All_Maps,Defend,"Yoru, Breach, Killjoy",1.18,204,17,11,4,+6,80%,128,42%,4,3,+1
+RobbieBk,M8,All_Maps,Defend,"Sova, Fade",1.33,207,18,11,7,+7,76%,144,29%,3,0,+3
+Click,M8,All_Maps,Defend,"Jett, Raze",1.17,209,22,14,1,+8,76%,140,38%,4,2,+2

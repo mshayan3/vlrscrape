@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+rushia,BLG,All_Maps,All,"Brimstone, Viper",1.43,254,36,23,11,+13,75%,165,37%,6,3,+3
+nephh,BLG,All_Maps,All,"Kayo, Omen",1.33,208,31,23,19,+8,83%,137,28%,5,3,+2
+Levius,BLG,All_Maps,All,"Viper, Vyse",1.20,216,29,22,17,+7,73%,138,21%,1,1,0
+whzy,BLG,All_Maps,All,Raze,0.99,218,33,29,8,+4,70%,151,18%,7,7,0
+Knight,BLG,All_Maps,All,Fade,0.98,188,28,26,11,+2,80%,124,27%,3,4,-1
+Scales,TYL,All_Maps,All,Viper,0.96,203,29,29,5,0,73%,118,31%,5,0,+5
+Yoyo,TYL,All_Maps,All,Fade,0.92,196,26,30,6,-4,63%,130,28%,2,2,0
+sword9,TYL,All_Maps,All,Omen,0.87,192,26,31,13,-5,73%,122,27%,3,2,+1
+Ninebody,TYL,All_Maps,All,"Neon, Vyse",0.73,193,25,35,6,-10,50%,133,38%,5,7,-2
+slowly,TYL,All_Maps,All,"Yoru, Raze",0.63,132,17,32,11,-15,58%,94,24%,3,11,-8
+rushia,BLG,All_Maps,Attack,"Brimstone, Viper",1.52,271,21,13,6,+8,68%,175,38%,4,3,+1
+nephh,BLG,All_Maps,Attack,"Kayo, Omen",1.19,172,14,13,9,+1,77%,124,30%,3,2,+1
+Levius,BLG,All_Maps,Attack,"Viper, Vyse",1.06,201,15,14,6,+1,64%,131,25%,1,1,0
+whzy,BLG,All_Maps,Attack,Raze,0.61,154,12,18,5,-6,55%,113,18%,3,4,-1
+Knight,BLG,All_Maps,Attack,Fade,1.23,247,20,15,8,+5,77%,149,33%,1,0,+1
+Scales,TYL,All_Maps,Attack,Viper,0.71,167,10,14,2,-4,72%,99,25%,2,0,+2
+Yoyo,TYL,All_Maps,Attack,Fade,0.88,171,11,14,2,-3,50%,119,33%,0,1,-1
+sword9,TYL,All_Maps,Attack,Omen,0.94,200,12,15,6,-3,78%,124,30%,3,0,+3
+Ninebody,TYL,All_Maps,Attack,"Neon, Vyse",0.81,186,11,15,1,-4,44%,126,48%,3,2,+1
+slowly,TYL,All_Maps,Attack,"Yoru, Raze",0.37,103,6,17,3,-11,61%,77,30%,0,7,-7
+rushia,BLG,All_Maps,Defend,"Brimstone, Viper",1.32,235,15,10,5,+5,83%,153,30%,2,0,+2
+nephh,BLG,All_Maps,Defend,"Kayo, Omen",1.50,248,17,10,10,+7,89%,152,25%,2,1,+1
+Levius,BLG,All_Maps,Defend,"Viper, Vyse",1.36,228,14,8,11,+6,83%,146,16%,0,0,0
+whzy,BLG,All_Maps,Defend,Raze,1.45,295,21,11,3,+10,89%,198,19%,4,3,+1
+Knight,BLG,All_Maps,Defend,Fade,0.68,126,8,11,3,-3,83%,95,21%,2,4,-2
+Scales,TYL,All_Maps,Defend,Viper,1.16,236,19,15,3,+4,73%,133,34%,3,0,+3
+Yoyo,TYL,All_Maps,Defend,Fade,0.96,205,15,16,4,-1,73%,140,24%,2,1,+1
+sword9,TYL,All_Maps,Defend,Omen,0.80,188,14,16,7,-2,68%,121,24%,0,2,-2
+Ninebody,TYL,All_Maps,Defend,"Neon, Vyse",0.67,200,14,20,5,-6,55%,138,31%,2,5,-3
+slowly,TYL,All_Maps,Defend,"Yoru, Raze",0.88,159,11,15,8,-4,55%,108,22%,3,4,-1

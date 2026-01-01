@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+trent,G2,All_Maps,All,Tejo,1.41,235,60,39,18,+21,79%,156,25%,4,4,0
+valyn,G2,All_Maps,All,"Omen, Brimstone, Astra",1.24,234,56,46,25,+10,81%,145,19%,7,2,+5
+leaf,G2,All_Maps,All,"Viper, Cypher, Vyse",1.02,230,52,50,23,+2,67%,152,27%,11,10,+1
+jawgemo,G2,All_Maps,All,"Yoru, Waylay",0.85,183,44,48,12,-4,73%,117,21%,9,9,0
+JonahP,G2,All_Maps,All,Breach,0.71,142,32,50,33,-18,70%,87,17%,5,6,-1
+Demon1,LEV,All_Maps,All,"Neon, Brimstone, Jett",1.16,261,62,53,16,+9,73%,171,34%,9,13,-4
+Rossy,LEV,All_Maps,All,Breach,1.04,207,50,49,27,+1,79%,127,28%,3,4,-1
+tex,LEV,All_Maps,All,"Viper, Vyse",0.97,199,46,47,18,-1,72%,129,40%,9,6,+3
+C0M,LEV,All_Maps,All,Tejo,0.92,159,39,44,18,-5,73%,109,28%,4,1,+3
+kiNgg,LEV,All_Maps,All,"Omen, Neon",0.69,169,36,51,27,-15,69%,109,26%,6,12,-6
+trent,G2,All_Maps,Attack,Tejo,1.13,163,20,20,11,0,74%,122,31%,2,2,0
+valyn,G2,All_Maps,Attack,"Omen, Brimstone, Astra",1.08,246,27,27,10,0,71%,142,16%,2,1,+1
+leaf,G2,All_Maps,Attack,"Viper, Cypher, Vyse",0.99,199,21,22,7,-1,68%,131,19%,3,5,-2
+jawgemo,G2,All_Maps,Attack,"Yoru, Waylay",0.67,171,18,26,6,-8,65%,114,21%,4,4,0
+JonahP,G2,All_Maps,Attack,Breach,0.57,122,12,25,15,-13,58%,70,25%,4,4,0
+Demon1,LEV,All_Maps,Attack,"Neon, Brimstone, Jett",1.11,286,33,32,8,+1,72%,189,33%,5,7,-2
+Rossy,LEV,All_Maps,Attack,Breach,0.74,167,20,30,14,-10,72%,105,32%,1,3,-2
+tex,LEV,All_Maps,Attack,"Viper, Vyse",0.81,191,24,29,5,-5,64%,121,42%,6,2,+4
+C0M,LEV,All_Maps,Attack,Tejo,0.76,117,16,25,8,-9,67%,76,22%,2,1,+1
+kiNgg,LEV,All_Maps,Attack,"Omen, Neon",0.56,170,20,30,8,-10,67%,108,33%,1,8,-7
+trent,G2,All_Maps,Defend,Tejo,1.65,296,40,19,7,+21,83%,185,22%,2,2,0
+valyn,G2,All_Maps,Defend,"Omen, Brimstone, Astra",1.39,226,29,19,15,+10,89%,148,21%,5,1,+4
+leaf,G2,All_Maps,Defend,"Viper, Cypher, Vyse",1.04,253,31,28,16,+3,67%,170,34%,8,5,+3
+jawgemo,G2,All_Maps,Defend,"Yoru, Waylay",1.01,194,26,22,6,+4,81%,120,20%,5,5,0
+JonahP,G2,All_Maps,Defend,Breach,0.84,159,20,25,18,-5,81%,101,13%,1,2,-1
+Demon1,LEV,All_Maps,Defend,"Neon, Brimstone, Jett",1.21,235,29,21,8,+8,74%,151,35%,4,6,-2
+Rossy,LEV,All_Maps,Defend,Breach,1.37,252,30,19,13,+11,87%,153,25%,2,1,+1
+tex,LEV,All_Maps,Defend,"Viper, Vyse",1.16,215,22,18,13,+4,81%,138,37%,3,4,-1
+C0M,LEV,All_Maps,Defend,Tejo,1.12,211,23,19,10,+4,81%,147,32%,2,0,+2
+kiNgg,LEV,All_Maps,Defend,"Omen, Neon",0.85,172,16,21,19,-5,71%,110,19%,5,4,+1

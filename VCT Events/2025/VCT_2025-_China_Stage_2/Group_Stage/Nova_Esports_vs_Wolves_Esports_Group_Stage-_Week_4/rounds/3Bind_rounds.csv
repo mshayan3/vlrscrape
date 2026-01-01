@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+3Bind,1,"""1-0""",NOVA,Defenders,Elimination
+3Bind,2,"""2-0""",NOVA,Defenders,Elimination
+3Bind,3,"""3-0""",NOVA,Defenders,Elimination
+3Bind,4,"""3-1""",WOL,Attackers,Elimination
+3Bind,5,"""3-2""",WOL,Attackers,Elimination
+3Bind,6,"""4-2""",NOVA,Defenders,Defuse
+3Bind,7,"""4-3""",WOL,Attackers,Spike Detonation
+3Bind,8,"""4-4""",WOL,Attackers,Spike Detonation
+3Bind,9,"""4-5""",WOL,Attackers,Elimination
+3Bind,10,"""4-6""",WOL,Attackers,Elimination
+3Bind,11,"""4-7""",WOL,Attackers,Elimination
+3Bind,12,"""5-7""",NOVA,Defenders,Elimination
+3Bind,13,"""6-7""",WOL,Attackers,Elimination
+3Bind,14,"""7-7""",WOL,Attackers,Elimination
+3Bind,15,"""7-8""",NOVA,Defenders,Elimination
+3Bind,16,"""7-9""",NOVA,Defenders,Time Expired
+3Bind,17,"""8-9""",WOL,Attackers,Elimination
+3Bind,18,"""9-9""",WOL,Attackers,Elimination
+3Bind,19,"""10-9""",WOL,Attackers,Elimination
+3Bind,20,"""11-9""",WOL,Attackers,Spike Detonation
+3Bind,21,"""11-10""",NOVA,Defenders,Time Expired
+3Bind,22,"""12-10""",WOL,Attackers,Elimination
+3Bind,23,"""13-10""",WOL,Attackers,Elimination
+3Bind,24,"""""",,,

@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+1Bind,1,"""1-0""",100T,Defenders,Defuse
+1Bind,2,"""2-0""",100T,Defenders,Elimination
+1Bind,3,"""2-1""",NRG,Attackers,Spike Detonation
+1Bind,4,"""2-2""",NRG,Attackers,Spike Detonation
+1Bind,5,"""3-2""",100T,Defenders,Defuse
+1Bind,6,"""4-2""",100T,Defenders,Defuse
+1Bind,7,"""5-2""",100T,Defenders,Time Expired
+1Bind,8,"""5-3""",NRG,Attackers,Spike Detonation
+1Bind,9,"""6-3""",100T,Defenders,Elimination
+1Bind,10,"""7-3""",100T,Defenders,Elimination
+1Bind,11,"""8-3""",100T,Defenders,Defuse
+1Bind,12,"""9-3""",100T,Defenders,Elimination
+1Bind,13,"""9-4""",100T,Defenders,Elimination
+1Bind,14,"""9-5""",100T,Defenders,Elimination
+1Bind,15,"""9-6""",100T,Defenders,Elimination
+1Bind,16,"""9-7""",100T,Defenders,Elimination
+1Bind,17,"""10-7""",NRG,Attackers,Elimination
+1Bind,18,"""10-8""",100T,Defenders,Defuse
+1Bind,19,"""10-9""",100T,Defenders,Elimination
+1Bind,20,"""11-9""",NRG,Attackers,Spike Detonation
+1Bind,21,"""11-10""",100T,Defenders,Elimination
+1Bind,22,"""12-10""",NRG,Attackers,Elimination
+1Bind,23,"""13-10""",NRG,Attackers,Elimination
+1Bind,24,"""""",,,

@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+trent,G2,All_Maps,All,"Tejo, Sova",1.52,247,35,17,12,+18,76%,177,31%,4,5,-1
+leaf,G2,All_Maps,All,"Viper, Chamber",1.45,249,37,17,4,+20,86%,174,29%,3,1,+2
+valyn,G2,All_Maps,All,"Omen, Astra",1.18,179,23,18,17,+5,81%,105,16%,6,3,+3
+JonahP,G2,All_Maps,All,Breach,1.09,177,21,22,28,-1,81%,116,13%,0,1,-1
+jawgemo,G2,All_Maps,All,Yoru,0.97,203,26,26,9,0,70%,135,21%,7,7,0
+Biank,TE,All_Maps,All,"Fade, Sova",0.86,158,20,26,6,-6,65%,112,13%,4,2,+2
+LuoK1ng,TE,All_Maps,All,"Omen, Astra",0.82,170,22,28,11,-6,68%,118,38%,1,2,-1
+heybay,TE,All_Maps,All,"Viper, Kayo",0.75,134,16,28,13,-12,65%,93,21%,4,5,-1
+FengF,TE,All_Maps,All,"Raze, Omen",0.66,173,20,31,4,-11,54%,122,22%,4,7,-3
+Kai,TE,All_Maps,All,"Vyse, Jett",0.65,161,22,33,5,-11,57%,108,30%,4,4,0
+trent,G2,All_Maps,Attack,"Tejo, Sova",1.29,211,12,8,5,+4,75%,155,26%,2,3,-1
+leaf,G2,All_Maps,Attack,"Viper, Chamber",1.70,277,19,7,2,+12,94%,187,26%,0,0,0
+valyn,G2,All_Maps,Attack,"Omen, Astra",1.21,211,13,9,5,+4,81%,121,18%,4,2,+2
+JonahP,G2,All_Maps,Attack,Breach,1.03,184,9,10,13,-1,88%,123,8%,0,0,0
+jawgemo,G2,All_Maps,Attack,Yoru,0.71,171,9,13,6,-4,63%,104,19%,2,3,-1
+Biank,TE,All_Maps,Attack,"Fade, Sova",0.64,138,10,15,1,-5,71%,93,17%,2,1,+1
+LuoK1ng,TE,All_Maps,Attack,"Omen, Astra",0.69,144,10,17,7,-7,62%,94,33%,1,0,+1
+heybay,TE,All_Maps,Attack,"Viper, Kayo",0.95,161,11,14,5,-3,67%,107,23%,3,3,0
+FengF,TE,All_Maps,Attack,"Raze, Omen",0.79,209,13,15,2,-2,43%,141,25%,2,5,-3
+Kai,TE,All_Maps,Attack,"Vyse, Jett",0.31,106,9,19,0,-10,48%,72,47%,1,3,-2
+trent,G2,All_Maps,Defend,"Tejo, Sova",1.69,286,23,9,7,+14,76%,195,36%,2,2,0
+leaf,G2,All_Maps,Defend,"Viper, Chamber",1.25,231,18,10,2,+8,81%,163,32%,3,1,+2
+valyn,G2,All_Maps,Defend,"Omen, Astra",1.16,155,10,9,12,+1,81%,92,15%,2,1,+1
+JonahP,G2,All_Maps,Defend,Breach,1.13,163,12,12,15,0,76%,111,20%,0,1,-1
+jawgemo,G2,All_Maps,Defend,Yoru,1.17,221,17,13,3,+4,76%,159,23%,5,4,+1
+Biank,TE,All_Maps,Defend,"Fade, Sova",1.15,192,10,11,5,-1,56%,136,9%,2,1,+1
+LuoK1ng,TE,All_Maps,Defend,"Omen, Astra",1.00,205,12,11,4,+1,75%,148,41%,0,2,-2
+heybay,TE,All_Maps,Defend,"Viper, Kayo",0.50,111,5,14,8,-9,63%,75,17%,1,2,-1
+FengF,TE,All_Maps,Defend,"Raze, Omen",0.52,136,7,16,2,-9,69%,97,18%,2,2,0
+Kai,TE,All_Maps,Defend,"Vyse, Jett",1.11,243,13,14,5,-1,69%,155,22%,3,1,+2

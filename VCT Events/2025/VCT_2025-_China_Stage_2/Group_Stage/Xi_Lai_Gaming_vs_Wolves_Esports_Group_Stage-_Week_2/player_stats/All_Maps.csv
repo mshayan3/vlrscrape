@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+NoMan,XLG,All_Maps,All,"Killjoy, Raze",1.46,288,45,25,7,+20,74%,185,31%,9,4,+5
+happywei,XLG,All_Maps,All,Viper,1.32,237,35,25,14,+10,84%,177,34%,7,2,+5
+Rarga,XLG,All_Maps,All,"Neon, Yoru",1.27,250,40,25,9,+15,79%,162,32%,8,4,+4
+coconut,XLG,All_Maps,All,Omen,1.08,160,25,22,24,+3,77%,110,27%,2,3,-1
+Viva,XLG,All_Maps,All,"Sova, Fade",0.79,115,16,23,14,-7,84%,92,27%,0,4,-4
+Juicy,WOL,All_Maps,All,"Jett, Raze",0.95,198,28,32,6,-4,67%,121,26%,7,4,+3
+Lysoar,WOL,All_Maps,All,Omen,0.92,188,28,33,14,-5,70%,112,44%,1,6,-5
+Spring,WOL,All_Maps,All,Viper,0.87,194,26,33,11,-7,58%,130,28%,7,8,-1
+SiuFatBB,WOL,All_Maps,All,"Sova, Fade",0.86,139,21,31,10,-10,58%,110,25%,0,3,-3
+Yuicaw,WOL,All_Maps,All,Killjoy,0.55,111,17,32,2,-15,58%,86,34%,2,5,-3
+NoMan,XLG,All_Maps,Attack,"Killjoy, Raze",1.18,265,21,18,5,+3,75%,173,30%,5,3,+2
+happywei,XLG,All_Maps,Attack,Viper,1.35,246,21,14,6,+7,79%,180,26%,2,0,+2
+Rarga,XLG,All_Maps,Attack,"Neon, Yoru",0.89,180,16,16,3,0,63%,100,39%,5,3,+2
+coconut,XLG,All_Maps,Attack,Omen,1.10,178,16,13,12,+3,79%,109,32%,2,1,+1
+Viva,XLG,All_Maps,Attack,"Sova, Fade",0.78,118,9,13,8,-4,79%,95,29%,0,3,-3
+Juicy,WOL,All_Maps,Attack,"Jett, Raze",0.91,226,15,17,3,-2,53%,129,23%,4,1,+3
+Lysoar,WOL,All_Maps,Attack,Omen,0.47,86,6,16,6,-10,47%,49,40%,0,2,-2
+Spring,WOL,All_Maps,Attack,Viper,0.67,140,9,14,2,-5,42%,99,30%,2,7,-5
+SiuFatBB,WOL,All_Maps,Attack,"Sova, Fade",0.68,107,6,15,6,-9,53%,75,21%,0,1,-1
+Yuicaw,WOL,All_Maps,Attack,Killjoy,0.64,151,10,16,0,-6,58%,116,34%,1,1,0
+NoMan,XLG,All_Maps,Defend,"Killjoy, Raze",1.82,317,24,7,2,+17,74%,202,32%,4,1,+3
+happywei,XLG,All_Maps,Defend,Viper,1.29,227,14,11,8,+3,89%,172,44%,5,2,+3
+Rarga,XLG,All_Maps,Defend,"Neon, Yoru",1.76,338,24,9,6,+15,100%,242,27%,3,1,+2
+coconut,XLG,All_Maps,Defend,Omen,1.06,134,9,9,12,0,74%,111,16%,0,2,-2
+Viva,XLG,All_Maps,Defend,"Sova, Fade",0.80,110,7,10,6,-3,89%,88,27%,0,1,-1
+Juicy,WOL,All_Maps,Defend,"Jett, Raze",0.99,171,13,15,3,-2,79%,115,15%,3,3,0
+Lysoar,WOL,All_Maps,Defend,Omen,1.27,268,22,17,8,+5,88%,163,45%,1,4,-3
+Spring,WOL,All_Maps,Defend,Viper,1.02,238,17,19,9,-2,71%,155,25%,5,1,+4
+SiuFatBB,WOL,All_Maps,Defend,"Sova, Fade",1.01,163,15,16,4,-1,63%,137,27%,0,2,-2
+Yuicaw,WOL,All_Maps,Defend,Killjoy,0.48,80,7,16,2,-9,58%,62,28%,1,4,-3

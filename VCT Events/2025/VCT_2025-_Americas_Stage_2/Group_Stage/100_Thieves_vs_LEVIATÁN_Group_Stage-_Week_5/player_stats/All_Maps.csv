@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Cryocells,100T,All_Maps,All,Yoru,1.13,226,53,47,12,+6,66%,156,31%,10,5,+5
+zander,100T,All_Maps,All,Omen,0.86,207,42,51,23,-9,67%,140,28%,5,10,-5
+Kess,100T,All_Maps,All,"Cypher, Vyse",0.79,153,34,45,10,-11,69%,104,40%,3,4,-1
+Asuna,100T,All_Maps,All,"Neon, Raze",0.74,174,33,47,11,-14,66%,109,20%,5,8,-3
+eeiu,100T,All_Maps,All,"Sova, Fade",0.73,147,32,45,12,-13,67%,103,24%,5,6,-1
+Sato,LEV,All_Maps,All,"Yoru, Neon, Raze",1.34,312,63,43,16,+20,77%,187,37%,8,9,-1
+tex,LEV,All_Maps,All,"Cypher, Vyse",1.24,212,46,34,18,+12,84%,138,40%,8,6,+2
+C0M,LEV,All_Maps,All,"Sova, Fade",1.18,217,47,38,21,+9,75%,153,40%,8,4,+4
+Okeanos,LEV,All_Maps,All,"Neon, Kayo, Omen",1.09,205,45,39,29,+6,72%,145,28%,5,6,-1
+kiNgg,LEV,All_Maps,All,"Omen, Viper",1.01,160,34,40,30,-6,80%,100,22%,4,3,+1
+Cryocells,100T,All_Maps,Attack,Yoru,1.14,227,28,28,6,0,63%,149,32%,4,4,0
+zander,100T,All_Maps,Attack,Omen,0.63,186,20,33,12,-13,63%,119,25%,3,6,-3
+Kess,100T,All_Maps,Attack,"Cypher, Vyse",0.75,170,21,30,7,-9,63%,112,49%,2,2,0
+Asuna,100T,All_Maps,Attack,"Neon, Raze",0.57,169,18,31,3,-13,57%,111,19%,4,5,-1
+eeiu,100T,All_Maps,Attack,"Sova, Fade",0.42,99,12,29,3,-17,60%,70,33%,1,4,-3
+Sato,LEV,All_Maps,Attack,"Yoru, Neon, Raze",1.11,251,24,20,5,+4,73%,152,40%,6,4,+2
+tex,LEV,All_Maps,Attack,"Cypher, Vyse",1.10,178,16,16,6,0,81%,118,46%,4,3,+1
+C0M,LEV,All_Maps,Attack,"Sova, Fade",0.93,193,17,19,7,-2,73%,131,37%,1,1,0
+Okeanos,LEV,All_Maps,Attack,"Neon, Kayo, Omen",0.98,179,16,18,16,-2,73%,116,25%,1,5,-4
+kiNgg,LEV,All_Maps,Attack,"Omen, Viper",0.79,145,11,22,13,-11,73%,101,23%,0,1,-1
+Cryocells,100T,All_Maps,Defend,Yoru,1.12,248,25,19,6,+6,69%,166,29%,6,1,+5
+zander,100T,All_Maps,Defend,Omen,1.17,247,22,18,11,+4,73%,169,31%,2,4,-2
+Kess,100T,All_Maps,Defend,"Cypher, Vyse",0.84,143,13,15,3,-2,77%,95,33%,1,2,-1
+Asuna,100T,All_Maps,Defend,"Neon, Raze",0.95,173,15,16,8,-1,77%,106,21%,1,3,-2
+eeiu,100T,All_Maps,Defend,"Sova, Fade",1.14,218,20,16,9,+4,77%,148,19%,4,2,+2
+Sato,LEV,All_Maps,Defend,"Yoru, Neon, Raze",1.51,326,39,23,11,+16,80%,213,35%,2,5,-3
+tex,LEV,All_Maps,Defend,"Cypher, Vyse",1.34,242,30,18,12,+12,86%,154,38%,4,3,+1
+C0M,LEV,All_Maps,Defend,"Sova, Fade",1.37,241,30,19,14,+11,77%,170,41%,7,3,+4
+Okeanos,LEV,All_Maps,Defend,"Neon, Kayo, Omen",1.17,224,29,21,13,+8,71%,166,30%,4,1,+3
+kiNgg,LEV,All_Maps,Defend,"Omen, Viper",1.18,172,23,18,17,+5,86%,99,22%,4,2,+2

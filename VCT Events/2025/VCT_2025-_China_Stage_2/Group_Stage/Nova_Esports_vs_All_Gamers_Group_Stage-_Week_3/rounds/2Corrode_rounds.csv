@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+2Corrode,1,"""0-1""",AG,Attackers,Elimination
+2Corrode,2,"""0-2""",AG,Attackers,Elimination
+2Corrode,3,"""1-2""",NOVA,Defenders,Time Expired
+2Corrode,4,"""2-2""",NOVA,Defenders,Time Expired
+2Corrode,5,"""3-2""",NOVA,Defenders,Elimination
+2Corrode,6,"""3-3""",AG,Attackers,Elimination
+2Corrode,7,"""4-3""",NOVA,Defenders,Time Expired
+2Corrode,8,"""5-3""",NOVA,Defenders,Time Expired
+2Corrode,9,"""5-4""",AG,Attackers,Elimination
+2Corrode,10,"""6-4""",NOVA,Defenders,Time Expired
+2Corrode,11,"""6-5""",AG,Attackers,Spike Detonation
+2Corrode,12,"""6-6""",AG,Attackers,Elimination
+2Corrode,13,"""7-6""",AG,Attackers,Elimination
+2Corrode,14,"""8-6""",AG,Attackers,Elimination
+2Corrode,15,"""8-7""",NOVA,Defenders,Defuse
+2Corrode,16,"""8-8""",NOVA,Defenders,Defuse
+2Corrode,17,"""8-9""",NOVA,Defenders,Elimination
+2Corrode,18,"""9-9""",AG,Attackers,Spike Detonation
+2Corrode,19,"""9-10""",NOVA,Defenders,Defuse
+2Corrode,20,"""9-11""",NOVA,Defenders,Time Expired
+2Corrode,21,"""9-12""",NOVA,Defenders,Time Expired
+2Corrode,22,"""9-13""",NOVA,Defenders,Defuse
+2Corrode,23,"""""",,,
+2Corrode,24,"""""",,,

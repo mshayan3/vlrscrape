@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+4Abyss,1,"""1-0""",LEV,Defenders,Defuse
+4Abyss,2,"""2-0""",LEV,Defenders,Elimination
+4Abyss,3,"""3-0""",LEV,Defenders,Defuse
+4Abyss,4,"""4-0""",LEV,Defenders,Defuse
+4Abyss,5,"""5-0""",LEV,Defenders,Elimination
+4Abyss,6,"""6-0""",LEV,Defenders,Elimination
+4Abyss,7,"""6-1""",KRÜ,Attackers,Elimination
+4Abyss,8,"""7-1""",LEV,Defenders,Time Expired
+4Abyss,9,"""7-2""",KRÜ,Attackers,Elimination
+4Abyss,10,"""7-3""",KRÜ,Attackers,Elimination
+4Abyss,11,"""8-3""",LEV,Defenders,Time Expired
+4Abyss,12,"""8-4""",KRÜ,Attackers,Elimination
+4Abyss,13,"""9-4""",KRÜ,Attackers,Elimination
+4Abyss,14,"""10-4""",KRÜ,Attackers,Elimination
+4Abyss,15,"""10-5""",LEV,Defenders,Defuse
+4Abyss,16,"""11-5""",KRÜ,Attackers,Elimination
+4Abyss,17,"""11-6""",LEV,Defenders,Elimination
+4Abyss,18,"""11-7""",LEV,Defenders,Defuse
+4Abyss,19,"""11-8""",LEV,Defenders,Defuse
+4Abyss,20,"""12-8""",KRÜ,Attackers,Elimination
+4Abyss,21,"""12-9""",LEV,Defenders,Defuse
+4Abyss,22,"""12-10""",LEV,Defenders,Defuse
+4Abyss,23,"""13-10""",KRÜ,Attackers,Elimination
+4Abyss,24,"""""",,,

@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Akeman,DRG,All_Maps,All,"Neon, Clove",1.37,226,54,45,14,+9,82%,156,35%,10,7,+3
+SpiritZ1,DRG,All_Maps,All,"Yoru, Reyna",1.16,258,57,47,17,+10,66%,168,38%,9,12,-3
+vo0kashu,DRG,All_Maps,All,"Cypher, Killjoy, Vyse",1.12,224,54,36,13,+18,80%,152,33%,4,5,-1
+Flex1n,DRG,All_Maps,All,"Omen, Harbor",1.06,174,38,45,23,-7,80%,103,27%,6,6,0
+Nicc,DRG,All_Maps,All,"Breach, Gekko, Fade",0.83,179,43,42,26,+1,80%,127,35%,4,2,+2
+SWERL,NOVA,All_Maps,All,"Raze, Jett",1.01,235,49,48,18,+1,75%,161,23%,7,8,-1
+cb,NOVA,All_Maps,All,"Fade, Gekko, Sova",0.98,193,42,49,17,-7,66%,120,33%,8,9,-1
+Ezeir,NOVA,All_Maps,All,"Omen, Viper",0.93,186,43,49,23,-6,63%,116,22%,7,6,+1
+GuanG,NOVA,All_Maps,All,"Waylay, Killjoy",0.87,196,47,48,11,-1,69%,122,26%,6,5,+1
+monk,NOVA,All_Maps,All,"Vyse, Kayo",0.86,164,34,52,28,-18,63%,107,29%,4,5,-1
+Akeman,DRG,All_Maps,Attack,"Neon, Clove",1.62,231,24,18,6,+6,82%,161,39%,5,3,+2
+SpiritZ1,DRG,All_Maps,Attack,"Yoru, Reyna",1.35,269,27,17,10,+10,75%,177,40%,4,6,-2
+vo0kashu,DRG,All_Maps,Attack,"Cypher, Killjoy, Vyse",1.25,208,22,13,6,+9,86%,137,32%,2,1,+1
+Flex1n,DRG,All_Maps,Attack,"Omen, Harbor",1.32,180,19,15,7,+4,86%,112,39%,4,1,+3
+Nicc,DRG,All_Maps,Attack,"Breach, Gekko, Fade",1.01,174,19,12,12,+7,82%,117,38%,2,0,+2
+SWERL,NOVA,All_Maps,Attack,"Raze, Jett",1.04,246,30,28,11,+2,73%,174,24%,5,4,+1
+cb,NOVA,All_Maps,Attack,"Fade, Gekko, Sova",1.33,228,30,26,10,+4,73%,133,35%,5,2,+3
+Ezeir,NOVA,All_Maps,Attack,"Omen, Viper",1.08,220,28,27,15,+1,70%,137,17%,6,3,+3
+GuanG,NOVA,All_Maps,Attack,"Waylay, Killjoy",1.05,245,34,25,7,+9,78%,145,22%,3,4,-1
+monk,NOVA,All_Maps,Attack,"Vyse, Kayo",0.91,142,18,29,14,-11,65%,103,37%,2,3,-1
+Akeman,DRG,All_Maps,Defend,"Neon, Clove",1.21,220,30,27,8,+3,81%,152,32%,5,4,+1
+SpiritZ1,DRG,All_Maps,Defend,"Yoru, Reyna",1.04,245,30,30,7,0,59%,161,37%,5,6,-1
+vo0kashu,DRG,All_Maps,Defend,"Cypher, Killjoy, Vyse",1.03,241,32,23,7,+9,76%,163,32%,2,4,-2
+Flex1n,DRG,All_Maps,Defend,"Omen, Harbor",0.90,155,19,30,16,-11,76%,96,24%,2,5,-3
+Nicc,DRG,All_Maps,Defend,"Breach, Gekko, Fade",0.71,191,24,30,14,-6,78%,134,36%,2,2,0
+SWERL,NOVA,All_Maps,Defend,"Raze, Jett",0.96,223,19,20,7,-1,79%,144,24%,2,4,-2
+cb,NOVA,All_Maps,Defend,"Fade, Gekko, Sova",0.44,138,12,23,7,-11,57%,104,28%,3,7,-4
+Ezeir,NOVA,All_Maps,Defend,"Omen, Viper",0.69,148,15,22,8,-7,54%,88,40%,1,3,-2
+GuanG,NOVA,All_Maps,Defend,"Waylay, Killjoy",0.59,141,13,23,4,-10,57%,93,23%,3,1,+2
+monk,NOVA,All_Maps,Defend,"Vyse, Kayo",0.78,184,16,23,14,-7,61%,112,22%,2,2,0

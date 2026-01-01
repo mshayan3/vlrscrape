@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+3Corrode,1,"""0-1""",GEN,Defenders,Defuse
+3Corrode,2,"""0-2""",GEN,Defenders,Elimination
+3Corrode,3,"""1-2""",GE,Attackers,Elimination
+3Corrode,4,"""2-2""",GE,Attackers,Spike Detonation
+3Corrode,5,"""3-2""",GE,Attackers,Elimination
+3Corrode,6,"""3-3""",GEN,Defenders,Defuse
+3Corrode,7,"""4-3""",GE,Attackers,Spike Detonation
+3Corrode,8,"""5-3""",GE,Attackers,Elimination
+3Corrode,9,"""6-3""",GE,Attackers,Elimination
+3Corrode,10,"""7-3""",GE,Attackers,Spike Detonation
+3Corrode,11,"""8-3""",GE,Attackers,Elimination
+3Corrode,12,"""9-3""",GE,Attackers,Elimination
+3Corrode,13,"""10-3""",GEN,Defenders,Defuse
+3Corrode,14,"""10-4""",GE,Attackers,Elimination
+3Corrode,15,"""10-5""",GE,Attackers,Elimination
+3Corrode,16,"""11-5""",GEN,Defenders,Defuse
+3Corrode,17,"""11-6""",GE,Attackers,Spike Detonation
+3Corrode,18,"""12-6""",GEN,Defenders,Elimination
+3Corrode,19,"""12-7""",GE,Attackers,Spike Detonation
+3Corrode,20,"""13-7""",GEN,Defenders,Elimination
+3Corrode,21,"""""",,,
+3Corrode,22,"""""",,,
+3Corrode,23,"""""",,,
+3Corrode,24,"""""",,,

@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+2Haven,1,"""0-1""",JDG,Attackers,Elimination
+2Haven,2,"""0-2""",JDG,Attackers,Elimination
+2Haven,3,"""0-3""",JDG,Attackers,Elimination
+2Haven,4,"""0-4""",JDG,Attackers,Elimination
+2Haven,5,"""1-4""",WOL,Defenders,Elimination
+2Haven,6,"""1-5""",JDG,Attackers,Elimination
+2Haven,7,"""2-5""",WOL,Defenders,Time Expired
+2Haven,8,"""3-5""",WOL,Defenders,Elimination
+2Haven,9,"""3-6""",JDG,Attackers,Elimination
+2Haven,10,"""3-7""",JDG,Attackers,Elimination
+2Haven,11,"""4-7""",WOL,Defenders,Elimination
+2Haven,12,"""5-7""",WOL,Defenders,Defuse
+2Haven,13,"""5-8""",WOL,Defenders,Elimination
+2Haven,14,"""5-9""",WOL,Defenders,Defuse
+2Haven,15,"""6-9""",JDG,Attackers,Elimination
+2Haven,16,"""6-10""",WOL,Defenders,Defuse
+2Haven,17,"""7-10""",JDG,Attackers,Elimination
+2Haven,18,"""8-10""",JDG,Attackers,Elimination
+2Haven,19,"""8-11""",WOL,Defenders,Defuse
+2Haven,20,"""9-11""",JDG,Attackers,Elimination
+2Haven,21,"""10-11""",JDG,Attackers,Elimination
+2Haven,22,"""11-11""",JDG,Attackers,Elimination
+2Haven,23,"""12-11""",JDG,Attackers,Elimination
+2Haven,24,"""13-11""",JDG,Attackers,Elimination

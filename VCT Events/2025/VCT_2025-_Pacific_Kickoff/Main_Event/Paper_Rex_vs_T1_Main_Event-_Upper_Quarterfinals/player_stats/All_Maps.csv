@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Jinggg,PRX,All_Maps,All,Raze,1.09,233,51,47,12,+4,72%,152,16%,14,11,+3
+f0rsakeN,PRX,All_Maps,All,"Deadlock, Tejo, Skye",1.03,201,45,48,26,-3,75%,131,29%,5,5,0
+d4v41,PRX,All_Maps,All,"Clove, Killjoy, Sage",1.03,210,50,47,13,+3,80%,146,31%,5,6,-1
+mindfreak,PRX,All_Maps,All,"Brimstone, Omen",0.97,174,35,45,32,-10,66%,116,32%,1,3,-2
+something,PRX,All_Maps,All,"Fade, Breach, Jett",0.85,170,39,46,17,-7,73%,112,23%,6,8,-2
+stax,T1,All_Maps,All,"Kayo, Breach, Skye",1.25,217,46,37,32,+9,77%,151,24%,4,5,-1
+BuZz,T1,All_Maps,All,"Raze, Neon",1.11,238,55,46,11,+9,67%,153,22%,10,6,+4
+iZu,T1,All_Maps,All,"Gekko, Raze, Viper",0.99,193,42,46,19,-4,73%,136,24%,6,6,0
+Meteor,T1,All_Maps,All,"Vyse, Killjoy, Chamber",0.96,210,51,48,7,+3,70%,133,30%,9,6,+3
+Sylvan,T1,All_Maps,All,"Brimstone, Omen",0.93,177,38,43,39,-5,80%,115,27%,4,8,-4
+Jinggg,PRX,All_Maps,Attack,Raze,1.01,216,21,21,8,0,82%,155,18%,5,6,-1
+f0rsakeN,PRX,All_Maps,Attack,"Deadlock, Tejo, Skye",1.36,257,27,19,10,+8,86%,160,40%,1,2,-1
+d4v41,PRX,All_Maps,Attack,"Clove, Killjoy, Sage",1.04,194,21,19,9,+2,86%,128,37%,3,2,+1
+mindfreak,PRX,All_Maps,Attack,"Brimstone, Omen",1.03,161,15,18,15,-3,61%,96,40%,0,0,0
+something,PRX,All_Maps,Attack,"Fade, Breach, Jett",1.00,203,20,20,8,0,79%,132,35%,4,5,-1
+stax,T1,All_Maps,Attack,"Kayo, Breach, Skye",1.06,169,21,20,18,+1,81%,113,22%,2,2,0
+BuZz,T1,All_Maps,Attack,"Raze, Neon",1.34,261,35,24,9,+11,78%,168,23%,5,3,+2
+iZu,T1,All_Maps,Attack,"Gekko, Raze, Viper",1.36,242,31,22,10,+9,78%,162,25%,4,3,+1
+Meteor,T1,All_Maps,Attack,"Vyse, Killjoy, Chamber",0.78,193,26,28,5,-2,69%,126,29%,6,6,0
+Sylvan,T1,All_Maps,Attack,"Brimstone, Omen",1.05,185,22,22,25,0,86%,116,36%,1,4,-3
+Jinggg,PRX,All_Maps,Defend,Raze,1.16,242,30,26,4,+4,64%,150,15%,9,5,+4
+f0rsakeN,PRX,All_Maps,Defend,"Deadlock, Tejo, Skye",0.77,158,18,29,16,-11,67%,109,19%,4,3,+1
+d4v41,PRX,All_Maps,Defend,"Clove, Killjoy, Sage",1.02,231,29,28,4,+1,75%,161,28%,2,4,-2
+mindfreak,PRX,All_Maps,Defend,"Brimstone, Omen",0.92,187,20,27,17,-7,69%,131,28%,1,3,-2
+something,PRX,All_Maps,Defend,"Fade, Breach, Jett",0.73,150,19,26,9,-7,69%,96,15%,2,3,-1
+stax,T1,All_Maps,Defend,"Kayo, Breach, Skye",1.48,288,25,17,14,+8,71%,200,25%,2,3,-1
+BuZz,T1,All_Maps,Defend,"Raze, Neon",0.83,202,20,22,2,-2,54%,133,21%,5,3,+2
+iZu,T1,All_Maps,Defend,"Gekko, Raze, Viper",0.52,137,11,24,9,-13,68%,102,23%,2,3,-1
+Meteor,T1,All_Maps,Defend,"Vyse, Killjoy, Chamber",1.19,234,25,20,2,+5,71%,141,31%,3,0,+3
+Sylvan,T1,All_Maps,Defend,"Brimstone, Omen",0.77,169,16,21,14,-5,71%,114,18%,3,4,-1

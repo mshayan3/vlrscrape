@@ -1,0 +1,35 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+3Lotus,1,"""0-1""",DRG,Attackers,Elimination
+3Lotus,2,"""1-1""",TEC,Defenders,Elimination
+3Lotus,3,"""2-1""",TEC,Defenders,Defuse
+3Lotus,4,"""2-2""",DRG,Attackers,Spike Detonation
+3Lotus,5,"""3-2""",TEC,Defenders,Defuse
+3Lotus,6,"""4-2""",TEC,Defenders,Defuse
+3Lotus,7,"""5-2""",TEC,Defenders,Elimination
+3Lotus,8,"""6-2""",TEC,Defenders,Elimination
+3Lotus,9,"""7-2""",TEC,Defenders,Elimination
+3Lotus,10,"""7-3""",DRG,Attackers,Elimination
+3Lotus,11,"""8-3""",TEC,Defenders,Elimination
+3Lotus,12,"""8-4""",DRG,Attackers,Elimination
+3Lotus,13,"""8-5""",TEC,Defenders,Elimination
+3Lotus,14,"""8-6""",TEC,Defenders,Elimination
+3Lotus,15,"""8-7""",TEC,Defenders,Elimination
+3Lotus,16,"""8-8""",TEC,Defenders,Defuse
+3Lotus,17,"""9-8""",DRG,Attackers,Elimination
+3Lotus,18,"""9-9""",TEC,Defenders,Defuse
+3Lotus,19,"""10-9""",DRG,Attackers,Elimination
+3Lotus,20,"""11-9""",DRG,Attackers,Spike Detonation
+3Lotus,21,"""11-10""",TEC,Defenders,Time Expired
+3Lotus,22,"""11-11""",TEC,Defenders,Time Expired
+3Lotus,23,"""11-12""",TEC,Defenders,Elimination
+3Lotus,24,"""12-12""",DRG,Attackers,Elimination
+3Lotus,25,"""12-13""",DRG,Attackers,Elimination
+3Lotus,26,"""13-13""",DRG,Attackers,Elimination
+3Lotus,27,"""13-14""",DRG,Attackers,Elimination
+3Lotus,28,"""14-14""",DRG,Attackers,Elimination
+3Lotus,29,"""15-14""",TEC,Defenders,Elimination
+3Lotus,30,"""15-15""",TEC,Defenders,Defuse
+3Lotus,31,"""15-16""",DRG,Attackers,Elimination
+3Lotus,32,"""16-16""",DRG,Attackers,Elimination
+3Lotus,33,"""16-17""",DRG,Attackers,Elimination
+3Lotus,34,"""16-18""",TEC,Defenders,Defuse

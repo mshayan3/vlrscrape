@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+t3xture,GEN,All_Maps,All,Jett,1.38,257,38,23,8,+15,83%,160,30%,7,6,+1
+Karon,GEN,All_Maps,All,Omen,1.29,225,34,23,23,+11,88%,138,33%,2,3,-1
+Meteor,GEN,All_Maps,All,Killjoy,1.25,227,35,20,6,+15,80%,156,30%,3,6,-3
+Munchkin,GEN,All_Maps,All,"Viper, Kayo",0.99,204,27,28,21,-1,83%,132,23%,5,2,+3
+Lakia,GEN,All_Maps,All,"Skye, Sova",0.75,141,21,25,6,-4,73%,100,23%,4,3,+1
+Sacy,SEN,All_Maps,All,Sova,1.35,248,34,27,17,+7,78%,163,23%,4,1,+3
+TenZ,SEN,All_Maps,All,Omen,0.86,182,25,32,14,-7,73%,118,23%,5,7,-2
+Zellsis,SEN,All_Maps,All,"Breach, Cypher",0.84,142,21,30,15,-9,63%,89,26%,6,4,+2
+johnqt,SEN,All_Maps,All,"Cypher, Deadlock",0.74,129,19,30,7,-11,61%,85,32%,2,0,+2
+zekken,SEN,All_Maps,All,Jett,0.49,146,19,36,7,-17,54%,96,12%,3,9,-6
+t3xture,GEN,All_Maps,Attack,Jett,1.27,256,18,12,5,+6,86%,158,31%,4,3,+1
+Karon,GEN,All_Maps,Attack,Omen,1.40,212,18,9,13,+9,86%,124,36%,1,2,-1
+Meteor,GEN,All_Maps,Attack,Killjoy,1.19,236,19,11,3,+8,81%,155,28%,3,3,0
+Munchkin,GEN,All_Maps,Attack,"Viper, Kayo",1.15,219,15,13,12,+2,86%,142,24%,3,0,+3
+Lakia,GEN,All_Maps,Attack,"Skye, Sova",0.68,124,10,11,5,-1,71%,89,17%,1,1,0
+Sacy,SEN,All_Maps,Attack,Sova,1.31,236,17,14,10,+3,90%,138,24%,3,0,+3
+TenZ,SEN,All_Maps,Attack,Omen,1.06,201,14,14,10,0,85%,134,29%,1,3,-2
+Zellsis,SEN,All_Maps,Attack,"Breach, Cypher",0.68,141,9,16,6,-7,65%,90,22%,4,1,+3
+johnqt,SEN,All_Maps,Attack,"Cypher, Deadlock",1.06,187,15,14,3,+1,70%,116,34%,2,0,+2
+zekken,SEN,All_Maps,Attack,Jett,0.30,124,7,18,5,-11,60%,88,23%,1,5,-4
+t3xture,GEN,All_Maps,Defend,Jett,1.50,260,20,11,3,+9,80%,161,28%,3,3,0
+Karon,GEN,All_Maps,Defend,Omen,1.17,237,16,14,10,+2,90%,154,30%,1,1,0
+Meteor,GEN,All_Maps,Defend,Killjoy,1.32,218,16,9,3,+7,80%,157,32%,0,3,-3
+Munchkin,GEN,All_Maps,Defend,"Viper, Kayo",0.83,185,12,15,9,-3,80%,120,22%,2,2,0
+Lakia,GEN,All_Maps,Defend,"Skye, Sova",0.83,160,11,14,1,-3,75%,111,29%,3,2,+1
+Sacy,SEN,All_Maps,Defend,Sova,1.39,260,17,13,7,+4,67%,186,22%,1,1,0
+TenZ,SEN,All_Maps,Defend,Omen,0.68,167,11,18,4,-7,62%,104,18%,4,4,0
+Zellsis,SEN,All_Maps,Defend,"Breach, Cypher",1.00,143,12,14,9,-2,62%,88,30%,2,3,-1
+johnqt,SEN,All_Maps,Defend,"Cypher, Deadlock",0.44,74,4,16,4,-12,52%,54,27%,0,0,0
+zekken,SEN,All_Maps,Defend,Jett,0.68,165,12,18,2,-6,48%,103,6%,2,4,-2

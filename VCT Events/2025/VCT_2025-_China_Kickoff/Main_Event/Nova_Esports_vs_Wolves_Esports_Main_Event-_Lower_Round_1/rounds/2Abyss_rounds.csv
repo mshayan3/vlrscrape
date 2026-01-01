@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+2Abyss,1,"""0-1""",NOVA,Defenders,Elimination
+2Abyss,2,"""0-2""",NOVA,Defenders,Elimination
+2Abyss,3,"""1-2""",WOL,Attackers,Elimination
+2Abyss,4,"""2-2""",WOL,Attackers,Elimination
+2Abyss,5,"""2-3""",NOVA,Defenders,Defuse
+2Abyss,6,"""3-3""",WOL,Attackers,Elimination
+2Abyss,7,"""4-3""",WOL,Attackers,Elimination
+2Abyss,8,"""4-4""",NOVA,Defenders,Defuse
+2Abyss,9,"""4-5""",NOVA,Defenders,Elimination
+2Abyss,10,"""4-6""",NOVA,Defenders,Defuse
+2Abyss,11,"""5-6""",WOL,Attackers,Elimination
+2Abyss,12,"""5-7""",NOVA,Defenders,Elimination
+2Abyss,13,"""5-8""",WOL,Attackers,Elimination
+2Abyss,14,"""5-9""",WOL,Attackers,Elimination
+2Abyss,15,"""6-9""",NOVA,Defenders,Defuse
+2Abyss,16,"""6-10""",WOL,Attackers,Elimination
+2Abyss,17,"""6-11""",WOL,Attackers,Spike Detonation
+2Abyss,18,"""6-12""",WOL,Attackers,Elimination
+2Abyss,19,"""7-12""",NOVA,Defenders,Elimination
+2Abyss,20,"""8-12""",NOVA,Defenders,Defuse
+2Abyss,21,"""8-13""",WOL,Attackers,Elimination
+2Abyss,22,"""""",,,
+2Abyss,23,"""""",,,
+2Abyss,24,"""""",,,

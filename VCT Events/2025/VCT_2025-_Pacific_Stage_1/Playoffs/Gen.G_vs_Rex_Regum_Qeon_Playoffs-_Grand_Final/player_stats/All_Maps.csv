@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Munchkin,GEN,All_Maps,All,"Viper, Kayo",1.05,209,65,70,36,-5,69%,125,20%,13,12,+1
+Karon,GEN,All_Maps,All,"Omen, Viper",1.05,207,69,68,27,+1,70%,133,32%,5,3,+2
+t3xture,GEN,All_Maps,All,"Neon, Jett, Raze, Yoru",0.90,203,62,70,16,-8,66%,137,27%,14,16,-2
+Foxy9,GEN,All_Maps,All,"Killjoy, Vyse",0.89,195,64,66,14,-2,69%,133,29%,4,11,-7
+Ash,GEN,All_Maps,All,"Tejo, Sova, Fade",0.71,143,45,65,20,-20,67%,100,31%,5,7,-2
+Jemkin,RRQ,All_Maps,All,"Iso, Yoru, Jett",1.26,268,89,64,14,+25,80%,174,44%,26,12,+14
+Monyet,RRQ,All_Maps,All,"Yoru, Omen, Viper",1.13,214,68,59,31,+9,78%,138,36%,7,12,-5
+Kushy,RRQ,All_Maps,All,"Sova, Tejo, Kayo",1.06,203,64,61,34,+3,78%,139,38%,8,5,+3
+xffero,RRQ,All_Maps,All,"Cypher, Viper, Killjoy",0.95,193,63,63,22,0,69%,131,25%,4,8,-4
+crazyguy,RRQ,All_Maps,All,"Omen, Tejo, Breach",0.94,167,55,59,30,-4,71%,108,19%,5,5,0
+Munchkin,GEN,All_Maps,Attack,"Viper, Kayo",0.89,168,24,33,21,-9,65%,98,12%,4,5,-1
+Karon,GEN,All_Maps,Attack,"Omen, Viper",0.92,193,31,33,13,-2,65%,127,32%,1,3,-2
+t3xture,GEN,All_Maps,Attack,"Neon, Jett, Raze, Yoru",0.85,208,30,34,4,-4,58%,142,24%,5,11,-6
+Foxy9,GEN,All_Maps,Attack,"Killjoy, Vyse",0.92,206,30,32,7,-2,72%,136,30%,2,6,-4
+Ash,GEN,All_Maps,Attack,"Tejo, Sova, Fade",0.80,154,25,32,9,-7,72%,106,41%,0,6,-6
+Jemkin,RRQ,All_Maps,Attack,"Iso, Yoru, Jett",1.05,258,43,38,8,+5,77%,170,47%,10,9,+1
+Monyet,RRQ,All_Maps,Attack,"Yoru, Omen, Viper",0.98,191,31,33,17,-2,79%,126,38%,1,8,-7
+Kushy,RRQ,All_Maps,Attack,"Sova, Tejo, Kayo",1.09,210,36,33,15,+3,77%,144,36%,5,5,0
+xffero,RRQ,All_Maps,Attack,"Cypher, Viper, Killjoy",0.86,192,32,33,12,-1,73%,131,22%,1,5,-4
+crazyguy,RRQ,All_Maps,Attack,"Omen, Tejo, Breach",1.13,180,34,28,12,+6,73%,110,22%,2,2,0
+Munchkin,GEN,All_Maps,Defend,"Viper, Kayo",1.19,244,41,37,15,+4,73%,150,26%,9,7,+2
+Karon,GEN,All_Maps,Defend,"Omen, Viper",1.16,218,38,35,14,+3,75%,138,32%,4,0,+4
+t3xture,GEN,All_Maps,Defend,"Neon, Jett, Raze, Yoru",0.94,202,32,36,12,-4,73%,132,31%,9,5,+4
+Foxy9,GEN,All_Maps,Defend,"Killjoy, Vyse",0.86,184,34,34,7,0,67%,130,29%,2,5,-3
+Ash,GEN,All_Maps,Defend,"Tejo, Sova, Fade",0.64,135,20,33,11,-13,63%,95,23%,5,1,+4
+Jemkin,RRQ,All_Maps,Defend,"Iso, Yoru, Jett",1.50,282,46,26,6,+20,84%,179,41%,16,3,+13
+Monyet,RRQ,All_Maps,Defend,"Yoru, Omen, Viper",1.31,245,37,26,14,+11,77%,151,33%,6,4,+2
+Kushy,RRQ,All_Maps,Defend,"Sova, Tejo, Kayo",1.03,194,28,28,19,0,79%,133,40%,3,0,+3
+xffero,RRQ,All_Maps,Defend,"Cypher, Viper, Killjoy",1.05,196,31,30,10,+1,65%,131,30%,3,3,0
+crazyguy,RRQ,All_Maps,Defend,"Omen, Tejo, Breach",0.74,155,21,31,18,-10,70%,106,17%,3,3,0

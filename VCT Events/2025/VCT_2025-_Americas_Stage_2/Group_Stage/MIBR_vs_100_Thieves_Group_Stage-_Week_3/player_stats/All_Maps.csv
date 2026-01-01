@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+cortezia,MIBR,All_Maps,All,"Killjoy, Viper",1.45,271,50,29,7,+21,71%,178,38%,4,6,-2
+aspas,MIBR,All_Maps,All,"Jett, Raze",1.25,250,43,31,10,+12,78%,158,25%,8,5,+3
+Verno,MIBR,All_Maps,All,"Sova, Skye",0.95,181,27,33,16,-6,71%,119,37%,3,4,-1
+xenom,MIBR,All_Maps,All,"Viper, Brimstone",0.85,155,28,32,11,-4,67%,101,45%,1,2,-1
+artzin,MIBR,All_Maps,All,"Harbor, Yoru",0.54,151,25,40,15,-15,71%,95,16%,3,13,-10
+Cryocells,100T,All_Maps,All,"Jett, Yoru",1.22,233,47,32,3,+15,80%,143,30%,5,6,-1
+Asuna,100T,All_Maps,All,"Omen, Raze",1.00,231,36,36,14,0,73%,163,21%,10,3,+7
+eeiu,100T,All_Maps,All,"Sova, Fade",0.93,180,31,32,13,-1,78%,122,26%,1,2,-1
+zander,100T,All_Maps,All,Viper,0.73,172,27,36,9,-9,71%,108,20%,7,2,+5
+Kess,100T,All_Maps,All,"Killjoy, Brimstone",0.68,151,24,37,15,-13,67%,105,30%,7,6,+1
+cortezia,MIBR,All_Maps,Attack,"Killjoy, Viper",1.60,282,29,11,1,+18,76%,181,44%,4,4,0
+aspas,MIBR,All_Maps,Attack,"Jett, Raze",1.67,317,29,13,6,+16,92%,201,24%,4,1,+3
+Verno,MIBR,All_Maps,Attack,"Sova, Skye",1.09,194,16,14,12,+2,92%,121,32%,3,0,+3
+xenom,MIBR,All_Maps,Attack,"Viper, Brimstone",0.93,177,15,15,8,0,72%,120,56%,1,0,+1
+artzin,MIBR,All_Maps,Attack,"Harbor, Yoru",0.57,189,17,21,6,-4,76%,119,16%,2,6,-4
+Cryocells,100T,All_Maps,Attack,"Jett, Yoru",1.13,219,23,16,2,+7,92%,141,24%,3,1,+2
+Asuna,100T,All_Maps,Attack,"Omen, Raze",1.27,252,20,13,9,+7,88%,163,26%,6,1,+5
+eeiu,100T,All_Maps,Attack,"Sova, Fade",1.30,195,19,10,6,+9,92%,135,22%,1,1,0
+zander,100T,All_Maps,Attack,Viper,0.86,195,15,14,6,+1,96%,126,30%,6,0,+6
+Kess,100T,All_Maps,Attack,"Killjoy, Brimstone",0.86,162,14,14,7,0,83%,119,30%,3,2,+1
+cortezia,MIBR,All_Maps,Defend,"Killjoy, Viper",1.29,261,21,18,6,+3,67%,176,32%,0,2,-2
+aspas,MIBR,All_Maps,Defend,"Jett, Raze",0.81,176,14,18,4,-4,63%,112,26%,4,4,0
+Verno,MIBR,All_Maps,Defend,"Sova, Skye",0.81,170,11,19,4,-8,50%,116,42%,0,4,-4
+xenom,MIBR,All_Maps,Defend,"Viper, Brimstone",0.77,133,13,17,3,-4,63%,82,33%,0,2,-2
+artzin,MIBR,All_Maps,Defend,"Harbor, Yoru",0.50,106,8,19,9,-11,67%,70,17%,1,7,-6
+Cryocells,100T,All_Maps,Defend,"Jett, Yoru",1.30,249,24,16,1,+8,68%,145,39%,2,5,-3
+Asuna,100T,All_Maps,Defend,"Omen, Raze",0.75,217,16,23,5,-7,60%,163,17%,4,2,+2
+eeiu,100T,All_Maps,Defend,"Sova, Fade",0.57,166,12,22,7,-10,64%,110,30%,0,1,-1
+zander,100T,All_Maps,Defend,Viper,0.61,150,12,22,3,-10,48%,92,12%,1,2,-1
+Kess,100T,All_Maps,Defend,"Killjoy, Brimstone",0.50,140,10,23,8,-13,52%,91,31%,4,4,0

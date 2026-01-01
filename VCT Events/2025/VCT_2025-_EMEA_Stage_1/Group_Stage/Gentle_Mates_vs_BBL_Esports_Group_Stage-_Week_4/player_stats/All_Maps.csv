@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Kada,M8,All_Maps,All,Omen,1.20,225,35,31,12,+4,78%,156,37%,4,3,+1
+kamyk,M8,All_Maps,All,Breach,0.99,178,28,29,9,-1,73%,132,38%,1,2,-1
+Minny,M8,All_Maps,All,"Viper, Cypher",0.92,180,24,29,12,-5,63%,110,36%,4,7,-3
+Click,M8,All_Maps,All,"Yoru, Jett",0.86,189,27,31,4,-4,66%,120,45%,5,3,+2
+Zyppan,M8,All_Maps,All,"Tejo, Sova",0.29,84,10,36,6,-26,56%,64,24%,3,9,-6
+sociablEE,BBL,All_Maps,All,"Tejo, Sova",1.55,295,42,21,13,+21,83%,175,29%,3,1,+2
+Jamppi,BBL,All_Maps,All,Breach,1.34,197,31,19,20,+12,83%,123,19%,1,1,0
+LewN,BBL,All_Maps,All,Jett,1.15,248,35,29,8,+6,68%,159,29%,11,10,+1
+MAGNUM,BBL,All_Maps,All,Cypher,0.87,182,23,27,13,-4,71%,109,19%,4,2,+2
+PROFEK,BBL,All_Maps,All,Omen,0.86,185,25,28,20,-3,83%,118,15%,5,3,+2
+Kada,M8,All_Maps,Attack,Omen,0.98,189,17,19,8,-2,68%,125,41%,0,2,-2
+kamyk,M8,All_Maps,Attack,Breach,0.90,183,16,19,7,-3,72%,120,42%,0,1,-1
+Minny,M8,All_Maps,Attack,"Viper, Cypher",1.16,214,19,17,4,+2,64%,131,40%,3,6,-3
+Click,M8,All_Maps,Attack,"Yoru, Jett",0.98,221,19,20,2,-1,60%,137,45%,3,1,+2
+Zyppan,M8,All_Maps,Attack,"Tejo, Sova",0.17,77,4,23,5,-19,60%,58,13%,1,8,-7
+sociablEE,BBL,All_Maps,Attack,"Tejo, Sova",1.42,246,15,10,6,+5,88%,162,34%,1,1,0
+Jamppi,BBL,All_Maps,Attack,Breach,1.14,180,10,9,9,+1,88%,119,15%,0,0,0
+LewN,BBL,All_Maps,Attack,Jett,1.35,296,16,11,2,+5,75%,181,20%,4,6,-2
+MAGNUM,BBL,All_Maps,Attack,Cypher,0.80,129,7,10,6,-3,75%,79,15%,1,1,0
+PROFEK,BBL,All_Maps,Attack,Omen,0.99,170,10,9,7,+1,81%,111,14%,0,2,-2
+Kada,M8,All_Maps,Defend,Omen,1.54,325,18,12,4,+6,94%,204,33%,4,1,+3
+kamyk,M8,All_Maps,Defend,Breach,1.13,213,12,10,2,+2,75%,152,33%,1,1,0
+Minny,M8,All_Maps,Defend,"Viper, Cypher",0.54,120,5,12,8,-7,63%,78,29%,1,1,0
+Click,M8,All_Maps,Defend,"Yoru, Jett",0.70,150,8,11,2,-3,75%,92,44%,2,2,0
+Zyppan,M8,All_Maps,Defend,"Tejo, Sova",0.48,102,6,13,1,-7,50%,73,46%,2,1,+1
+sociablEE,BBL,All_Maps,Defend,"Tejo, Sova",1.64,272,27,11,7,+16,80%,183,27%,2,0,+2
+Jamppi,BBL,All_Maps,Defend,Breach,1.46,216,21,10,11,+11,80%,127,22%,1,1,0
+LewN,BBL,All_Maps,Defend,Jett,1.01,230,19,18,6,+1,64%,146,39%,7,4,+3
+MAGNUM,BBL,All_Maps,Defend,Cypher,0.92,191,16,17,7,-1,68%,127,21%,3,1,+2
+PROFEK,BBL,All_Maps,Defend,Omen,0.78,189,15,19,13,-4,84%,122,16%,5,1,+4

@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Less,VIT,All_Maps,All,Viper,1.25,244,59,45,15,+14,76%,152,35%,7,8,-1
+Derke,VIT,All_Maps,All,"Raze, Jett",1.17,218,53,48,9,+5,66%,151,22%,5,7,-2
+KovaQ,VIT,All_Maps,All,"Vyse, Killjoy, Skye",0.81,176,44,50,9,-6,64%,114,35%,10,12,-2
+Kicks,VIT,All_Maps,All,"Omen, Harbor, Brimstone",0.71,163,35,56,29,-21,66%,105,26%,5,4,+1
+UNFAKE,VIT,All_Maps,All,"Fade, Sova, Gekko",0.58,137,29,53,13,-24,61%,99,38%,2,7,-5
+LewN,BBL,All_Maps,All,"Raze, Jett, Yoru",1.23,281,67,48,9,+19,75%,177,29%,16,7,+9
+MAGNUM,BBL,All_Maps,All,"Deadlock, Killjoy, Fade",1.17,208,53,39,14,+14,75%,129,30%,4,6,-2
+PROFEK,BBL,All_Maps,All,"Omen, Viper",1.14,213,52,41,12,+11,72%,141,29%,5,4,+1
+sociablEE,BBL,All_Maps,All,"Chamber, Omen",0.96,189,45,48,19,-3,75%,137,30%,9,8,+1
+Jamppi,BBL,All_Maps,All,"Fade, Sova, Gekko",0.84,154,35,44,21,-9,76%,104,29%,4,4,0
+Less,VIT,All_Maps,Attack,Viper,1.07,230,30,28,10,+2,69%,145,39%,4,6,-2
+Derke,VIT,All_Maps,Attack,"Raze, Jett",1.28,240,32,25,5,+7,78%,165,25%,1,3,-2
+KovaQ,VIT,All_Maps,Attack,"Vyse, Killjoy, Skye",1.13,257,34,28,4,+6,75%,159,37%,9,6,+3
+Kicks,VIT,All_Maps,Attack,"Omen, Harbor, Brimstone",0.70,157,18,30,19,-12,69%,105,33%,2,2,0
+UNFAKE,VIT,All_Maps,Attack,"Fade, Sova, Gekko",0.51,136,15,28,5,-13,58%,103,36%,0,3,-3
+LewN,BBL,All_Maps,Attack,"Raze, Jett, Yoru",1.18,271,31,22,4,+9,68%,171,24%,8,4,+4
+MAGNUM,BBL,All_Maps,Attack,"Deadlock, Killjoy, Fade",1.09,166,21,15,5,+6,74%,107,30%,0,3,-3
+PROFEK,BBL,All_Maps,Attack,"Omen, Viper",1.22,211,25,17,2,+8,71%,141,41%,2,2,0
+sociablEE,BBL,All_Maps,Attack,"Chamber, Omen",1.10,231,25,21,7,+4,81%,162,32%,5,3,+2
+Jamppi,BBL,All_Maps,Attack,"Fade, Sova, Gekko",0.82,108,11,16,9,-5,68%,77,26%,3,1,+2
+Less,VIT,All_Maps,Defend,Viper,1.46,252,29,17,5,+12,84%,160,33%,3,2,+1
+Derke,VIT,All_Maps,Defend,"Raze, Jett",1.07,203,21,23,4,-2,52%,135,18%,4,4,0
+KovaQ,VIT,All_Maps,Defend,"Vyse, Killjoy, Skye",0.45,94,10,22,5,-12,52%,63,29%,1,6,-5
+Kicks,VIT,All_Maps,Defend,"Omen, Harbor, Brimstone",0.72,175,17,26,10,-9,61%,105,20%,3,2,+1
+UNFAKE,VIT,All_Maps,Defend,"Fade, Sova, Gekko",0.66,141,14,25,8,-11,65%,94,41%,2,4,-2
+LewN,BBL,All_Maps,Defend,"Raze, Jett, Yoru",1.26,286,36,26,5,+10,81%,181,35%,8,3,+5
+MAGNUM,BBL,All_Maps,Defend,"Deadlock, Killjoy, Fade",1.24,242,32,24,9,+8,75%,149,31%,4,3,+1
+PROFEK,BBL,All_Maps,Defend,"Omen, Viper",1.06,212,27,24,10,+3,72%,140,23%,3,2,+1
+sociablEE,BBL,All_Maps,Defend,"Chamber, Omen",0.85,154,20,27,12,-7,69%,116,27%,4,5,-1
+Jamppi,BBL,All_Maps,Defend,"Fade, Sova, Gekko",0.85,192,24,28,12,-4,83%,126,31%,1,3,-2

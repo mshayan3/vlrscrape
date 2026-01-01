@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Scales,TYL,All_Maps,All,"Iso, Viper",1.47,274,37,21,10,+16,84%,174,45%,7,3,+4
+sword9,TYL,All_Maps,All,"Omen, Fade",1.38,218,33,16,11,+17,87%,140,33%,2,0,+2
+Ninebody,TYL,All_Maps,All,"Cypher, Vyse",1.30,235,31,20,9,+11,84%,136,33%,5,0,+5
+Yoyo,TYL,All_Maps,All,"Sova, Raze",1.05,228,30,23,9,+7,79%,148,22%,5,5,0
+slowly,TYL,All_Maps,All,"Yoru, Omen",0.90,185,23,26,22,-3,87%,113,16%,6,5,+1
+lucas,TEC,All_Maps,All,"Sova, Fade",1.30,218,30,27,9,+3,68%,146,34%,4,2,+2
+Coco,TEC,All_Maps,All,"Breach, Viper",0.74,164,23,31,11,-8,53%,101,41%,1,3,-2
+Haodong,TEC,All_Maps,All,Omen,0.65,141,18,32,9,-14,58%,89,27%,3,6,-3
+Abo,TEC,All_Maps,All,"Cypher, Vyse",0.64,148,20,31,7,-11,50%,105,51%,2,7,-5
+TvirusLuke,TEC,All_Maps,All,"Jett, Raze",0.56,114,15,33,9,-18,50%,96,16%,3,7,-4
+Scales,TYL,All_Maps,Attack,"Iso, Viper",2.04,353,18,7,5,+11,86%,221,46%,3,1,+2
+sword9,TYL,All_Maps,Attack,"Omen, Fade",1.26,230,13,8,3,+5,86%,138,27%,0,0,0
+Ninebody,TYL,All_Maps,Attack,"Cypher, Vyse",0.65,117,6,9,2,-3,64%,77,31%,0,0,0
+Yoyo,TYL,All_Maps,Attack,"Sova, Raze",1.06,258,13,10,5,+3,86%,169,21%,4,3,+1
+slowly,TYL,All_Maps,Attack,"Yoru, Omen",0.72,135,7,11,6,-4,86%,110,38%,1,2,-1
+lucas,TEC,All_Maps,Attack,"Sova, Fade",1.18,191,16,16,4,0,63%,123,36%,1,2,-1
+Coco,TEC,All_Maps,Attack,"Breach, Viper",0.68,142,13,20,7,-7,50%,83,28%,0,2,-2
+Haodong,TEC,All_Maps,Attack,Omen,0.59,138,10,20,6,-10,58%,86,24%,2,2,0
+Abo,TEC,All_Maps,Attack,"Cypher, Vyse",0.74,165,14,20,4,-6,50%,117,46%,1,5,-4
+TvirusLuke,TEC,All_Maps,Attack,"Jett, Raze",0.46,118,8,21,6,-13,46%,76,26%,3,6,-3
+Scales,TYL,All_Maps,Defend,"Iso, Viper",1.13,222,19,14,5,+5,83%,147,46%,4,2,+2
+sword9,TYL,All_Maps,Defend,"Omen, Fade",1.45,218,20,8,8,+12,88%,141,30%,2,0,+2
+Ninebody,TYL,All_Maps,Defend,"Cypher, Vyse",1.68,295,25,11,7,+14,96%,170,31%,5,0,+5
+Yoyo,TYL,All_Maps,Defend,"Sova, Raze",1.05,195,17,13,4,+4,75%,136,20%,1,2,-1
+slowly,TYL,All_Maps,Defend,"Yoru, Omen",1.00,200,16,15,16,+1,88%,116,10%,5,3,+2
+lucas,TEC,All_Maps,Defend,"Sova, Fade",1.50,292,14,11,5,+3,79%,187,33%,3,0,+3
+Coco,TEC,All_Maps,Defend,"Breach, Viper",0.85,205,10,11,4,-1,57%,133,57%,1,1,0
+Haodong,TEC,All_Maps,Defend,Omen,0.81,151,8,12,3,-4,57%,94,33%,1,4,-3
+Abo,TEC,All_Maps,Defend,"Cypher, Vyse",0.54,119,6,11,3,-5,50%,86,44%,1,2,-1
+TvirusLuke,TEC,All_Maps,Defend,"Jett, Raze",0.74,158,7,12,3,-5,57%,130,29%,0,1,-1

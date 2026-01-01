@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+CyvOph,VIT,All_Maps,All,Omen,1.56,305,41,20,18,+21,84%,179,41%,3,4,-1
+Sayf,VIT,All_Maps,All,Tejo,1.22,192,27,19,9,+8,89%,143,26%,3,1,+2
+Less,VIT,All_Maps,All,"Cypher, Viper",1.06,198,27,20,8,+7,76%,123,33%,4,1,+3
+Derke,VIT,All_Maps,All,Yoru,1.03,234,28,27,10,+1,70%,147,33%,13,5,+8
+Kicks,VIT,All_Maps,All,Breach,1.01,160,21,20,13,+1,78%,100,19%,2,1,+1
+westside,GX,All_Maps,All,"Cypher, Viper",1.20,215,30,27,5,+3,68%,136,46%,2,4,-2
+Cloud,GX,All_Maps,All,"Tejo, Fade",1.00,181,24,27,8,-3,62%,136,25%,2,4,-2
+runneR,GX,All_Maps,All,"Breach, Vyse",0.87,176,22,29,15,-7,70%,124,27%,1,5,-4
+purp0,GX,All_Maps,All,"Yoru, Raze",0.73,187,21,30,5,-9,57%,121,20%,5,9,-4
+tomaszy,GX,All_Maps,All,Omen,0.41,94,9,31,17,-22,65%,60,27%,2,3,-1
+CyvOph,VIT,All_Maps,Attack,Omen,1.55,294,27,12,11,+15,88%,188,40%,2,2,0
+Sayf,VIT,All_Maps,Attack,Tejo,1.28,188,18,10,6,+8,100%,131,25%,1,1,0
+Less,VIT,All_Maps,Attack,"Cypher, Viper",0.97,186,18,12,6,+6,83%,110,26%,3,0,+3
+Derke,VIT,All_Maps,Attack,Yoru,1.36,276,23,14,7,+9,83%,176,36%,11,3,+8
+Kicks,VIT,All_Maps,Attack,Breach,0.97,162,14,12,7,+2,75%,101,23%,1,0,+1
+westside,GX,All_Maps,Attack,"Cypher, Viper",1.53,299,15,8,1,+7,77%,176,52%,2,2,0
+Cloud,GX,All_Maps,Attack,"Tejo, Fade",1.01,193,10,8,3,+2,69%,140,26%,0,1,-1
+runneR,GX,All_Maps,Attack,"Breach, Vyse",1.03,194,9,8,6,+1,85%,126,26%,1,0,+1
+purp0,GX,All_Maps,Attack,"Yoru, Raze",0.63,173,8,10,2,-2,62%,107,15%,2,4,-2
+tomaszy,GX,All_Maps,Attack,Omen,0.58,131,4,10,9,-6,85%,82,32%,1,0,+1
+CyvOph,VIT,All_Maps,Defend,Omen,1.57,282,14,8,7,+6,77%,162,44%,1,2,-1
+Sayf,VIT,All_Maps,Defend,Tejo,1.11,243,9,9,3,0,69%,166,27%,2,0,+2
+Less,VIT,All_Maps,Defend,"Cypher, Viper",1.21,203,9,8,2,+1,62%,147,48%,1,1,0
+Derke,VIT,All_Maps,Defend,Yoru,0.42,117,5,13,3,-8,46%,93,26%,2,2,0
+Kicks,VIT,All_Maps,Defend,Breach,1.07,153,7,8,6,-1,85%,97,14%,1,1,0
+westside,GX,All_Maps,Defend,"Cypher, Viper",1.02,186,15,19,4,-4,63%,114,42%,0,2,-2
+Cloud,GX,All_Maps,Defend,"Tejo, Fade",1.00,185,14,19,5,-5,58%,133,25%,2,3,-1
+runneR,GX,All_Maps,Defend,"Breach, Vyse",0.78,177,13,21,9,-8,63%,122,27%,0,5,-5
+purp0,GX,All_Maps,Defend,"Yoru, Raze",0.78,184,13,20,3,-7,54%,129,23%,3,5,-2
+tomaszy,GX,All_Maps,Defend,Omen,0.32,75,5,21,8,-16,54%,48,24%,1,3,-2

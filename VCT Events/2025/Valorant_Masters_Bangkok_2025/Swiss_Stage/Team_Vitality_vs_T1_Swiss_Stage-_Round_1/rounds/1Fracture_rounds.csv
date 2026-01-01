@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+1Fracture,1,"""1-0""",T1,Attackers,Elimination
+1Fracture,2,"""2-0""",T1,Attackers,Elimination
+1Fracture,3,"""2-1""",VIT,Defenders,Elimination
+1Fracture,4,"""2-2""",VIT,Defenders,Time Expired
+1Fracture,5,"""2-3""",VIT,Defenders,Elimination
+1Fracture,6,"""3-3""",T1,Attackers,Elimination
+1Fracture,7,"""3-4""",VIT,Defenders,Time Expired
+1Fracture,8,"""4-4""",T1,Attackers,Elimination
+1Fracture,9,"""5-4""",T1,Attackers,Elimination
+1Fracture,10,"""5-5""",VIT,Defenders,Time Expired
+1Fracture,11,"""5-6""",VIT,Defenders,Elimination
+1Fracture,12,"""5-7""",VIT,Defenders,Elimination
+1Fracture,13,"""5-8""",T1,Attackers,Elimination
+1Fracture,14,"""5-9""",T1,Attackers,Elimination
+1Fracture,15,"""6-9""",VIT,Defenders,Elimination
+1Fracture,16,"""7-9""",VIT,Defenders,Elimination
+1Fracture,17,"""7-10""",T1,Attackers,Elimination
+1Fracture,18,"""8-10""",VIT,Defenders,Elimination
+1Fracture,19,"""9-10""",VIT,Defenders,Defuse
+1Fracture,20,"""10-10""",VIT,Defenders,Defuse
+1Fracture,21,"""11-10""",VIT,Defenders,Time Expired
+1Fracture,22,"""12-10""",VIT,Defenders,Elimination
+1Fracture,23,"""13-10""",VIT,Defenders,Defuse
+1Fracture,24,"""""",,,

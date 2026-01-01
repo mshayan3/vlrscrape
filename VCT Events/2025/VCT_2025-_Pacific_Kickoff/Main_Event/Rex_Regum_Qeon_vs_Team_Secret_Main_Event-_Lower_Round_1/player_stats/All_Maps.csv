@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Monyet,RRQ,All_Maps,All,"Omen, Phoenix",1.27,239,49,31,16,+18,73%,151,33%,4,6,-2
+Estrella,RRQ,All_Maps,All,"Viper, Astra, Breach",1.25,211,43,28,26,+15,75%,128,29%,1,4,-3
+Kushy,RRQ,All_Maps,All,"Fade, Sova",1.16,237,43,38,20,+5,75%,157,39%,6,3,+3
+xffero,RRQ,All_Maps,All,"Vyse, Killjoy",0.96,186,37,33,12,+4,79%,122,33%,7,6,+1
+Jemkin,RRQ,All_Maps,All,"Raze, Jett",0.87,196,41,42,5,-1,66%,122,31%,11,8,+3
+JessieVash,TS,All_Maps,All,"Fade, Sova",1.21,239,48,41,10,+7,70%,169,33%,6,1,+5
+invy,TS,All_Maps,All,"Vyse, Kayo, Breach",0.96,184,35,45,27,-10,77%,133,38%,4,3,+1
+2GE,TS,All_Maps,All,"Omen, Astra",0.78,153,30,41,18,-11,70%,99,19%,5,9,-4
+Wild0reoo,TS,All_Maps,All,"Viper, Killjoy",0.75,157,27,41,4,-14,59%,105,33%,7,5,+2
+Jremy,TS,All_Maps,All,"Raze, Jett",0.63,159,31,45,5,-14,59%,100,26%,5,11,-6
+Monyet,RRQ,All_Maps,Attack,"Omen, Phoenix",1.40,280,33,18,12,+15,79%,165,31%,4,4,0
+Estrella,RRQ,All_Maps,Attack,"Viper, Astra, Breach",1.39,216,29,15,14,+14,76%,132,33%,1,3,-2
+Kushy,RRQ,All_Maps,Attack,"Fade, Sova",1.08,209,23,22,17,+1,82%,146,31%,4,1,+3
+xffero,RRQ,All_Maps,Attack,"Vyse, Killjoy",1.01,194,25,19,6,+6,82%,127,32%,4,1,+3
+Jemkin,RRQ,All_Maps,Attack,"Raze, Jett",0.81,181,23,24,4,-1,65%,116,27%,7,5,+2
+JessieVash,TS,All_Maps,Attack,"Fade, Sova",1.21,256,21,17,2,+4,73%,162,29%,5,0,+5
+invy,TS,All_Maps,Attack,"Vyse, Kayo, Breach",1.00,196,15,16,10,-1,86%,121,39%,1,0,+1
+2GE,TS,All_Maps,Attack,"Omen, Astra",0.96,184,15,15,7,0,64%,116,36%,2,2,0
+Wild0reoo,TS,All_Maps,Attack,"Viper, Killjoy",0.56,86,6,15,2,-9,45%,64,22%,2,2,0
+Jremy,TS,All_Maps,Attack,"Raze, Jett",0.90,216,16,17,4,-1,82%,145,33%,3,5,-2
+Monyet,RRQ,All_Maps,Defend,"Omen, Phoenix",1.07,182,16,13,4,+3,64%,130,39%,0,2,-2
+Estrella,RRQ,All_Maps,Defend,"Viper, Astra, Breach",1.04,188,14,13,12,+1,73%,121,22%,0,1,-1
+Kushy,RRQ,All_Maps,Defend,"Fade, Sova",1.29,266,20,16,3,+4,64%,173,50%,2,2,0
+xffero,RRQ,All_Maps,Defend,"Vyse, Killjoy",0.89,166,12,14,6,-2,73%,114,34%,3,5,-2
+Jemkin,RRQ,All_Maps,Defend,"Raze, Jett",0.97,230,18,18,1,0,68%,133,41%,4,3,+1
+JessieVash,TS,All_Maps,Defend,"Fade, Sova",1.22,235,27,24,8,+3,68%,174,35%,1,1,0
+invy,TS,All_Maps,Defend,"Vyse, Kayo, Breach",0.93,194,20,29,17,-9,71%,140,37%,3,3,0
+2GE,TS,All_Maps,Defend,"Omen, Astra",0.66,143,15,26,11,-11,74%,89,10%,3,7,-4
+Wild0reoo,TS,All_Maps,Defend,"Viper, Killjoy",0.91,198,21,26,2,-5,68%,132,38%,5,3,+2
+Jremy,TS,All_Maps,Defend,"Raze, Jett",0.45,121,15,28,1,-13,44%,72,19%,2,6,-4

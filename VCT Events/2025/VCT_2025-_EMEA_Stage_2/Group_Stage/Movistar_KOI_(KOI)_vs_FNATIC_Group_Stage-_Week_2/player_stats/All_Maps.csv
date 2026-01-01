@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+nataNk,MKOI,All_Maps,All,"Sova, Iso",1.02,219,33,33,11,0,57%,140,27%,2,9,-7
+baddyG,MKOI,All_Maps,All,Omen,0.92,191,29,36,14,-7,75%,118,25%,2,3,-1
+Filu,MKOI,All_Maps,All,"Waylay, Yoru",0.87,199,28,34,14,-6,68%,129,36%,5,6,-1
+flyuh,MKOI,All_Maps,All,"Kayo, Sova",0.83,155,24,33,11,-9,55%,113,30%,1,6,-5
+MONSTEERR,MKOI,All_Maps,All,"Killjoy, Cypher",0.59,138,24,36,3,-12,55%,90,27%,5,5,0
+crashies,FNC,All_Maps,All,Sova,1.27,238,36,26,11,+10,80%,177,37%,3,3,0
+Alfajer,FNC,All_Maps,All,"Chamber, Iso",1.26,296,48,31,5,+17,73%,190,47%,15,5,+10
+Boaster,FNC,All_Maps,All,Omen,1.23,202,33,24,19,+9,77%,129,38%,2,1,+1
+kaajak,FNC,All_Maps,All,Yoru,1.09,191,33,28,7,+5,73%,135,42%,5,3,+2
+Chronicle,FNC,All_Maps,All,"Vyse, Cypher",0.82,151,22,29,13,-7,77%,111,32%,4,3,+1
+nataNk,MKOI,All_Maps,Attack,"Sova, Iso",0.72,174,11,16,4,-5,50%,104,16%,2,8,-6
+baddyG,MKOI,All_Maps,Attack,Omen,0.82,160,10,17,8,-7,70%,98,29%,0,0,0
+Filu,MKOI,All_Maps,Attack,"Waylay, Yoru",0.67,172,12,17,3,-5,55%,105,38%,0,3,-3
+flyuh,MKOI,All_Maps,Attack,"Kayo, Sova",1.02,177,12,14,5,-2,55%,136,21%,0,2,-2
+MONSTEERR,MKOI,All_Maps,Attack,"Killjoy, Cypher",0.54,118,10,17,1,-7,50%,68,26%,2,3,-1
+crashies,FNC,All_Maps,Attack,Sova,1.13,201,17,15,6,+2,75%,141,39%,1,2,-1
+Alfajer,FNC,All_Maps,Attack,"Chamber, Iso",1.11,290,26,19,3,+7,58%,191,45%,7,5,+2
+Boaster,FNC,All_Maps,Attack,Omen,1.40,234,20,14,13,+6,75%,150,38%,0,1,-1
+kaajak,FNC,All_Maps,Attack,Yoru,1.13,201,18,17,7,+1,71%,142,44%,2,1,+1
+Chronicle,FNC,All_Maps,Attack,"Vyse, Cypher",0.56,121,10,18,3,-8,67%,88,54%,3,2,+1
+nataNk,MKOI,All_Maps,Defend,"Sova, Iso",1.27,253,22,17,7,+5,63%,169,35%,0,1,-1
+baddyG,MKOI,All_Maps,Defend,Omen,0.99,220,19,19,6,0,79%,135,23%,2,3,-1
+Filu,MKOI,All_Maps,Defend,"Waylay, Yoru",1.03,218,16,17,11,-1,79%,149,36%,5,3,+2
+flyuh,MKOI,All_Maps,Defend,"Kayo, Sova",0.67,143,12,19,6,-7,54%,94,41%,1,4,-3
+MONSTEERR,MKOI,All_Maps,Defend,"Killjoy, Cypher",0.63,157,14,19,2,-5,58%,108,27%,3,2,+1
+crashies,FNC,All_Maps,Defend,Sova,1.45,277,19,11,5,+8,85%,221,35%,2,1,+1
+Alfajer,FNC,All_Maps,Defend,"Chamber, Iso",1.44,301,22,12,2,+10,90%,188,49%,8,0,+8
+Boaster,FNC,All_Maps,Defend,Omen,1.02,163,13,10,6,+3,80%,103,39%,2,0,+2
+kaajak,FNC,All_Maps,Defend,Yoru,1.03,177,15,11,0,+4,75%,127,39%,3,2,+1
+Chronicle,FNC,All_Maps,Defend,"Vyse, Cypher",1.13,187,12,11,10,+1,90%,140,21%,1,1,0

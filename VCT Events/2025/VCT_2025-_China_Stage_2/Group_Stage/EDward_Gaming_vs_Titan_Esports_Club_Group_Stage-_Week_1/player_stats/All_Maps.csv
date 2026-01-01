@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+nobody,EDG,All_Maps,All,"Fade, Gekko",1.52,254,39,20,13,+19,78%,156,32%,6,3,+3
+Smoggy,EDG,All_Maps,All,Omen,1.19,196,27,23,20,+4,80%,136,33%,3,2,+1
+ZmjjKK,EDG,All_Maps,All,Neon,1.16,258,37,29,12,+8,78%,157,26%,6,8,-2
+CHICHOO,EDG,All_Maps,All,Cypher,1.03,196,29,26,13,+3,78%,125,26%,2,3,-1
+zjc,EDG,All_Maps,All,"Breach, Kayo",0.98,182,26,28,19,-2,68%,115,40%,3,3,0
+Haodong,TEC,All_Maps,All,Omen,1.08,208,30,29,12,+1,76%,140,43%,3,1,+2
+Abo,TEC,All_Maps,All,"Deadlock, Astra",1.04,208,32,31,9,+1,66%,141,43%,4,2,+2
+lucas,TEC,All_Maps,All,Fade,0.77,160,23,31,7,-8,63%,101,25%,4,7,-3
+Coco,TEC,All_Maps,All,"Breach, Gekko",0.74,152,19,32,11,-13,68%,106,28%,3,2,+1
+TvirusLuke,TEC,All_Maps,All,Neon,0.56,163,22,35,7,-13,61%,105,29%,5,10,-5
+nobody,EDG,All_Maps,Attack,"Fade, Gekko",1.28,196,15,12,6,+3,68%,131,31%,0,2,-2
+Smoggy,EDG,All_Maps,Attack,Omen,1.16,186,15,14,6,+1,68%,139,41%,2,2,0
+ZmjjKK,EDG,All_Maps,Attack,Neon,0.81,188,14,18,6,-4,68%,122,32%,3,6,-3
+CHICHOO,EDG,All_Maps,Attack,Cypher,0.98,217,17,17,5,0,64%,131,26%,2,2,0
+zjc,EDG,All_Maps,Attack,"Breach, Kayo",0.87,153,11,17,13,-6,59%,94,40%,1,2,-1
+Haodong,TEC,All_Maps,Attack,Omen,1.04,199,13,16,3,-3,68%,132,42%,1,0,+1
+Abo,TEC,All_Maps,Attack,"Deadlock, Astra",0.95,210,14,18,2,-4,58%,130,57%,2,1,+1
+lucas,TEC,All_Maps,Attack,Fade,0.32,100,6,17,3,-11,53%,61,21%,0,4,-4
+Coco,TEC,All_Maps,Attack,"Breach, Gekko",0.61,153,9,17,2,-8,53%,97,45%,0,1,-1
+TvirusLuke,TEC,All_Maps,Attack,Neon,0.28,110,6,18,4,-12,53%,74,19%,2,8,-6
+nobody,EDG,All_Maps,Defend,"Fade, Gekko",1.80,327,24,8,7,+16,89%,185,32%,6,1,+5
+Smoggy,EDG,All_Maps,Defend,Omen,1.23,202,12,9,14,+3,95%,134,26%,1,0,+1
+ZmjjKK,EDG,All_Maps,Defend,Neon,1.56,327,23,11,6,+12,89%,197,19%,3,2,+1
+CHICHOO,EDG,All_Maps,Defend,Cypher,1.09,170,12,9,8,+3,95%,117,25%,0,1,-1
+zjc,EDG,All_Maps,Defend,"Breach, Kayo",1.10,212,15,11,6,+4,79%,140,43%,2,1,+1
+Haodong,TEC,All_Maps,Defend,Omen,1.12,212,17,13,9,+4,82%,146,38%,2,1,+1
+Abo,TEC,All_Maps,Defend,"Deadlock, Astra",1.12,213,18,13,7,+5,73%,151,37%,2,1,+1
+lucas,TEC,All_Maps,Defend,Fade,1.15,211,17,14,4,+3,73%,137,27%,4,3,+1
+Coco,TEC,All_Maps,Defend,"Breach, Gekko",0.85,148,10,15,9,-5,82%,115,19%,3,1,+2
+TvirusLuke,TEC,All_Maps,Defend,Neon,0.82,211,16,17,3,-1,68%,132,35%,3,2,+1

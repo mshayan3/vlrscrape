@@ -1,0 +1,33 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+3Abyss,1,"""1-0""",KC,Attackers,Elimination
+3Abyss,2,"""2-0""",KC,Attackers,Elimination
+3Abyss,3,"""3-0""",KC,Attackers,Spike Detonation
+3Abyss,4,"""4-0""",KC,Attackers,Spike Detonation
+3Abyss,5,"""5-0""",KC,Attackers,Elimination
+3Abyss,6,"""5-1""",VIT,Defenders,Time Expired
+3Abyss,7,"""5-2""",VIT,Defenders,Defuse
+3Abyss,8,"""5-3""",VIT,Defenders,Defuse
+3Abyss,9,"""6-3""",KC,Attackers,Elimination
+3Abyss,10,"""7-3""",KC,Attackers,Elimination
+3Abyss,11,"""7-4""",VIT,Defenders,Time Expired
+3Abyss,12,"""7-5""",VIT,Defenders,Defuse
+3Abyss,13,"""8-5""",VIT,Defenders,Defuse
+3Abyss,14,"""9-5""",VIT,Defenders,Elimination
+3Abyss,15,"""9-6""",KC,Attackers,Elimination
+3Abyss,16,"""9-7""",KC,Attackers,Spike Detonation
+3Abyss,17,"""10-7""",VIT,Defenders,Elimination
+3Abyss,18,"""10-8""",KC,Attackers,Spike Detonation
+3Abyss,19,"""10-9""",KC,Attackers,Spike Detonation
+3Abyss,20,"""10-10""",KC,Attackers,Elimination
+3Abyss,21,"""10-11""",KC,Attackers,Elimination
+3Abyss,22,"""10-12""",KC,Attackers,Elimination
+3Abyss,23,"""11-12""",VIT,Defenders,Defuse
+3Abyss,24,"""12-12""",VIT,Defenders,Elimination
+3Abyss,25,"""13-12""",KC,Attackers,Elimination
+3Abyss,26,"""13-13""",KC,Attackers,Elimination
+3Abyss,27,"""14-13""",KC,Attackers,Elimination
+3Abyss,28,"""14-14""",KC,Attackers,Elimination
+3Abyss,29,"""15-14""",KC,Attackers,Elimination
+3Abyss,30,"""15-15""",KC,Attackers,Elimination
+3Abyss,31,"""16-15""",KC,Attackers,Elimination
+3Abyss,32,"""17-15""",VIT,Defenders,Elimination

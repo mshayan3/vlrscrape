@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Shr1mp,AG,All_Maps,All,Sova,1.24,221,49,35,13,+14,79%,144,24%,3,4,-1
+Spitfires,AG,All_Maps,All,"Neon, Jett",1.09,241,53,40,11,+13,76%,162,32%,13,7,+6
+K1ra,AG,All_Maps,All,"Omen, Viper",0.99,178,36,36,21,0,71%,113,47%,2,4,-2
+HanChe,AG,All_Maps,All,"Viper, Killjoy",0.96,186,37,38,12,-1,72%,132,31%,6,6,0
+deLb,AG,All_Maps,All,"Deadlock, Omen",0.64,148,31,41,17,-10,83%,89,39%,8,5,+3
+Life,FPX,All_Maps,All,"Jett, Neon",1.08,221,46,43,10,+3,72%,137,35%,8,17,-9
+BerLIN,FPX,All_Maps,All,Omen,1.04,187,37,41,16,-4,69%,117,31%,2,3,-1
+Autumn,FPX,All_Maps,All,"Yoru, Killjoy",1.02,208,43,40,8,+3,69%,136,29%,5,8,-3
+yosemite,FPX,All_Maps,All,"Cypher, Viper",0.94,175,32,42,19,-10,78%,115,32%,6,2,+4
+AAAAY,FPX,All_Maps,All,Sova,0.86,150,32,40,8,-8,74%,105,34%,5,2,+3
+Shr1mp,AG,All_Maps,Attack,Sova,1.51,235,21,12,8,+9,87%,155,28%,0,0,0
+Spitfires,AG,All_Maps,Attack,"Neon, Jett",1.07,299,25,18,5,+7,74%,180,24%,5,3,+2
+K1ra,AG,All_Maps,Attack,"Omen, Viper",0.86,143,12,13,11,-1,74%,90,35%,0,3,-3
+HanChe,AG,All_Maps,Attack,"Viper, Killjoy",1.13,225,18,14,6,+4,78%,142,42%,3,4,-1
+deLb,AG,All_Maps,Attack,"Deadlock, Omen",0.85,155,12,14,10,-2,91%,87,50%,2,3,-1
+Life,FPX,All_Maps,Attack,"Jett, Neon",0.88,180,23,26,8,-3,69%,116,45%,4,15,-11
+BerLIN,FPX,All_Maps,Attack,Omen,1.20,219,26,24,13,+2,74%,132,32%,1,3,-2
+Autumn,FPX,All_Maps,Attack,"Yoru, Killjoy",1.21,244,31,22,5,+9,74%,153,31%,2,2,0
+yosemite,FPX,All_Maps,Attack,"Cypher, Viper",1.10,171,21,22,13,-1,86%,110,33%,3,0,+3
+AAAAY,FPX,All_Maps,Attack,Sova,0.88,145,18,24,7,-6,77%,103,33%,3,2,+1
+Shr1mp,AG,All_Maps,Defend,Sova,1.06,215,28,23,5,+5,74%,137,18%,3,4,-1
+Spitfires,AG,All_Maps,Defend,"Neon, Jett",1.11,224,28,22,6,+6,77%,151,25%,8,4,+4
+K1ra,AG,All_Maps,Defend,"Omen, Viper",1.08,195,24,23,10,+1,69%,128,47%,2,1,+1
+HanChe,AG,All_Maps,Defend,"Viper, Killjoy",0.84,165,19,24,6,-5,69%,126,25%,3,2,+1
+deLb,AG,All_Maps,Defend,"Deadlock, Omen",0.51,145,19,27,7,-8,77%,91,35%,6,2,+4
+Life,FPX,All_Maps,Defend,"Jett, Neon",1.39,274,23,17,2,+6,78%,170,24%,4,2,+2
+BerLIN,FPX,All_Maps,Defend,Omen,0.79,137,11,17,3,-6,61%,94,27%,1,0,+1
+Autumn,FPX,All_Maps,Defend,"Yoru, Killjoy",0.73,156,12,18,3,-6,61%,109,26%,3,6,-3
+yosemite,FPX,All_Maps,Defend,"Cypher, Viper",0.69,169,11,20,6,-9,65%,123,28%,3,2,+1
+AAAAY,FPX,All_Maps,Defend,Sova,0.85,156,14,16,1,-2,70%,108,37%,2,0,+2

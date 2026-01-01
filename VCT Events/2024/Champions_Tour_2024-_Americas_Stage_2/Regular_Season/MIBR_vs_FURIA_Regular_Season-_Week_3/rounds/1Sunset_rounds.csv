@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+1Sunset,1,"""0-1""",MIBR,Defenders,Defuse
+1Sunset,2,"""0-2""",MIBR,Defenders,Elimination
+1Sunset,3,"""0-3""",MIBR,Defenders,Defuse
+1Sunset,4,"""0-4""",MIBR,Defenders,Elimination
+1Sunset,5,"""1-4""",FUR,Attackers,Elimination
+1Sunset,6,"""2-4""",FUR,Attackers,Elimination
+1Sunset,7,"""2-5""",MIBR,Defenders,Defuse
+1Sunset,8,"""3-5""",FUR,Attackers,Elimination
+1Sunset,9,"""3-6""",MIBR,Defenders,Defuse
+1Sunset,10,"""4-6""",FUR,Attackers,Elimination
+1Sunset,11,"""5-6""",FUR,Attackers,Elimination
+1Sunset,12,"""6-6""",FUR,Attackers,Elimination
+1Sunset,13,"""7-6""",MIBR,Defenders,Elimination
+1Sunset,14,"""8-6""",MIBR,Defenders,Elimination
+1Sunset,15,"""8-7""",FUR,Attackers,Elimination
+1Sunset,16,"""9-7""",MIBR,Defenders,Defuse
+1Sunset,17,"""9-8""",FUR,Attackers,Elimination
+1Sunset,18,"""9-9""",FUR,Attackers,Elimination
+1Sunset,19,"""9-10""",FUR,Attackers,Elimination
+1Sunset,20,"""10-10""",MIBR,Defenders,Time Expired
+1Sunset,21,"""10-11""",FUR,Attackers,Spike Detonation
+1Sunset,22,"""10-12""",FUR,Attackers,Elimination
+1Sunset,23,"""10-13""",FUR,Attackers,Elimination
+1Sunset,24,"""""",,,

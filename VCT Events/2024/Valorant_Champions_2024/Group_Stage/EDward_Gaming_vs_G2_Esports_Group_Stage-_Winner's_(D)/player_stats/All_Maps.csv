@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+S1Mon,EDG,All_Maps,All,"Kayo, Breach, Fade",1.23,229,58,43,24,+15,64%,143,28%,3,6,-3
+Smoggy,EDG,All_Maps,All,"Viper, Omen, Brimstone",1.05,197,49,43,22,+6,70%,120,23%,7,4,+3
+CHICHOO,EDG,All_Maps,All,"Killjoy, Cypher, Viper",1.02,203,50,43,11,+7,74%,126,30%,12,4,+8
+ZmjjKK,EDG,All_Maps,All,"Jett, Neon, Raze",0.98,224,53,49,11,+4,61%,149,20%,12,10,+2
+nobody,EDG,All_Maps,All,"Sova, Gekko",0.74,131,29,45,14,-16,65%,95,35%,5,6,-1
+valyn,G2,All_Maps,All,"Harbor, Omen, Brimstone",1.17,215,54,43,17,+11,72%,130,24%,5,3,+2
+icy,G2,All_Maps,All,"Gekko, Yoru, Raze",1.14,220,52,47,12,+5,65%,145,26%,6,11,-5
+trent,G2,All_Maps,All,"Sova, Gekko",0.90,174,44,48,15,-4,67%,119,38%,5,9,-4
+leaf,G2,All_Maps,All,"Killjoy, Viper",0.87,186,40,52,13,-12,65%,130,19%,12,7,+5
+JonahP,G2,All_Maps,All,"Viper, Skye",0.77,150,33,49,26,-16,65%,102,17%,2,9,-7
+S1Mon,EDG,All_Maps,Attack,"Kayo, Breach, Fade",1.18,222,31,19,10,+12,69%,136,24%,2,4,-2
+Smoggy,EDG,All_Maps,Attack,"Viper, Omen, Brimstone",1.25,224,30,17,10,+13,81%,132,28%,4,1,+3
+CHICHOO,EDG,All_Maps,Attack,"Killjoy, Cypher, Viper",1.03,193,25,19,5,+6,78%,121,28%,6,0,+6
+ZmjjKK,EDG,All_Maps,Attack,"Jett, Neon, Raze",1.05,247,31,23,4,+8,64%,157,19%,8,5,+3
+nobody,EDG,All_Maps,Attack,"Sova, Gekko",0.72,124,15,21,6,-6,64%,81,33%,2,4,-2
+valyn,G2,All_Maps,Attack,"Harbor, Omen, Brimstone",1.36,254,32,18,10,+14,82%,151,24%,2,2,0
+icy,G2,All_Maps,Attack,"Gekko, Yoru, Raze",1.34,263,32,21,5,+11,73%,173,26%,2,5,-3
+trent,G2,All_Maps,Attack,"Sova, Gekko",0.93,206,25,23,9,+2,82%,142,37%,4,4,0
+leaf,G2,All_Maps,Attack,"Killjoy, Viper",0.70,157,16,24,7,-8,73%,110,20%,6,4,+2
+JonahP,G2,All_Maps,Attack,"Viper, Skye",0.84,160,19,21,9,-2,67%,104,24%,2,2,0
+S1Mon,EDG,All_Maps,Defend,"Kayo, Breach, Fade",1.29,234,27,24,14,+3,58%,150,35%,1,2,-1
+Smoggy,EDG,All_Maps,Defend,"Viper, Omen, Brimstone",0.84,166,19,26,12,-7,58%,107,18%,3,3,0
+CHICHOO,EDG,All_Maps,Defend,"Killjoy, Cypher, Viper",1.01,208,25,24,6,+1,70%,132,32%,6,4,+2
+ZmjjKK,EDG,All_Maps,Defend,"Jett, Neon, Raze",0.90,200,22,26,7,-4,58%,140,22%,4,5,-1
+nobody,EDG,All_Maps,Defend,"Sova, Gekko",0.76,144,14,24,8,-10,67%,110,38%,3,2,+1
+valyn,G2,All_Maps,Defend,"Harbor, Omen, Brimstone",0.99,179,22,25,7,-3,64%,111,25%,3,1,+2
+icy,G2,All_Maps,Defend,"Gekko, Yoru, Raze",0.96,179,20,26,7,-6,58%,120,26%,4,6,-2
+trent,G2,All_Maps,Defend,"Sova, Gekko",0.89,150,19,25,6,-6,53%,99,39%,1,5,-4
+leaf,G2,All_Maps,Defend,"Killjoy, Viper",1.02,217,24,28,6,-4,58%,149,19%,6,3,+3
+JonahP,G2,All_Maps,Defend,"Viper, Skye",0.71,139,14,28,17,-14,64%,99,12%,0,7,-7

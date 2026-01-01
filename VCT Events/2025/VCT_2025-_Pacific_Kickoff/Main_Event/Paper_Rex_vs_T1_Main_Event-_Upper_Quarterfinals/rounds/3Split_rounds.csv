@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+3Split,1,"""1-0""",T1,Attackers,Elimination
+3Split,2,"""2-0""",T1,Attackers,Elimination
+3Split,3,"""2-1""",PRX,Defenders,Elimination
+3Split,4,"""2-2""",PRX,Defenders,Elimination
+3Split,5,"""2-3""",PRX,Defenders,Elimination
+3Split,6,"""2-4""",PRX,Defenders,Defuse
+3Split,7,"""2-5""",PRX,Defenders,Elimination
+3Split,8,"""3-5""",T1,Attackers,Elimination
+3Split,9,"""4-5""",T1,Attackers,Elimination
+3Split,10,"""4-6""",PRX,Defenders,Elimination
+3Split,11,"""4-7""",PRX,Defenders,Defuse
+3Split,12,"""5-7""",T1,Attackers,Elimination
+3Split,13,"""5-8""",T1,Attackers,Elimination
+3Split,14,"""5-9""",T1,Attackers,Elimination
+3Split,15,"""6-9""",PRX,Defenders,Defuse
+3Split,16,"""7-9""",PRX,Defenders,Elimination
+3Split,17,"""8-9""",PRX,Defenders,Defuse
+3Split,18,"""8-10""",T1,Attackers,Elimination
+3Split,19,"""8-11""",T1,Attackers,Elimination
+3Split,20,"""9-11""",PRX,Defenders,Elimination
+3Split,21,"""10-11""",PRX,Defenders,Elimination
+3Split,22,"""11-11""",PRX,Defenders,Elimination
+3Split,23,"""11-12""",T1,Attackers,Elimination
+3Split,24,"""11-13""",T1,Attackers,Elimination

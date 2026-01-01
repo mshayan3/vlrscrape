@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Kai,TE,All_Maps,All,"Killjoy, Jett, Cypher",,255,104,79,10,+25,,162,27%,19,10,+9
+FengF,TE,All_Maps,All,"Raze, Killjoy",,191,73,85,13,-12,,129,20%,14,15,-1
+LuoK1ng,TE,All_Maps,All,"Omen, Brimstone",,171,66,72,43,-6,,107,29%,3,7,-4
+heybay,TE,All_Maps,All,"Viper, Kayo, Deadlock, Breach",,165,60,73,47,-13,,105,20%,9,11,-2
+Biank,TE,All_Maps,All,"Fade, Sova, Kayo, Skye",,163,63,83,27,-20,,107,21%,8,13,-5
+Lysoar,FPX,All_Maps,All,"Omen, Cypher, Brimstone",,226,88,71,38,+17,,149,32%,9,4,+5
+Life,FPX,All_Maps,All,"Raze, Jett, Yoru",,217,83,80,18,+3,,141,36%,23,21,+2
+AAAAY,FPX,All_Maps,All,"Gekko, Sova, Fade, Breach",,207,82,69,32,+13,,143,45%,3,5,-2
+Autumn,FPX,All_Maps,All,"Viper, Kayo, Cypher",,184,68,74,26,-6,,119,33%,9,6,+3
+BerLIN,FPX,All_Maps,All,"Astra, Omen, Sova, Kayo",,179,71,72,40,-1,,113,28%,12,17,-5
+Kai,TE,All_Maps,Attack,"Killjoy, Jett, Cypher",,,,,,,
+FengF,TE,All_Maps,Attack,"Raze, Killjoy",,,,,,,
+LuoK1ng,TE,All_Maps,Attack,"Omen, Brimstone",,,,,,,
+heybay,TE,All_Maps,Attack,"Viper, Kayo, Deadlock, Breach",,,,,,,
+Biank,TE,All_Maps,Attack,"Fade, Sova, Kayo, Skye",,,,,,,
+Lysoar,FPX,All_Maps,Attack,"Omen, Cypher, Brimstone",,,,,,,
+Life,FPX,All_Maps,Attack,"Raze, Jett, Yoru",,,,,,,
+AAAAY,FPX,All_Maps,Attack,"Gekko, Sova, Fade, Breach",,,,,,,
+Autumn,FPX,All_Maps,Attack,"Viper, Kayo, Cypher",,,,,,,
+BerLIN,FPX,All_Maps,Attack,"Astra, Omen, Sova, Kayo",,,,,,,
+Kai,TE,All_Maps,Defend,"Killjoy, Jett, Cypher",,,,,,,
+FengF,TE,All_Maps,Defend,"Raze, Killjoy",,,,,,,
+LuoK1ng,TE,All_Maps,Defend,"Omen, Brimstone",,,,,,,
+heybay,TE,All_Maps,Defend,"Viper, Kayo, Deadlock, Breach",,,,,,,
+Biank,TE,All_Maps,Defend,"Fade, Sova, Kayo, Skye",,,,,,,
+Lysoar,FPX,All_Maps,Defend,"Omen, Cypher, Brimstone",,,,,,,
+Life,FPX,All_Maps,Defend,"Raze, Jett, Yoru",,,,,,,
+AAAAY,FPX,All_Maps,Defend,"Gekko, Sova, Fade, Breach",,,,,,,
+Autumn,FPX,All_Maps,Defend,"Viper, Kayo, Cypher",,,,,,,
+BerLIN,FPX,All_Maps,Defend,"Astra, Omen, Sova, Kayo",,,,,,,

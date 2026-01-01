@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+2Icebox,1,"""0-1""",KRÜ,Defenders,Defuse
+2Icebox,2,"""0-2""",KRÜ,Defenders,Elimination
+2Icebox,3,"""1-2""",100T,Attackers,Spike Detonation
+2Icebox,4,"""2-2""",100T,Attackers,Elimination
+2Icebox,5,"""2-3""",KRÜ,Defenders,Defuse
+2Icebox,6,"""3-3""",100T,Attackers,Spike Detonation
+2Icebox,7,"""4-3""",100T,Attackers,Elimination
+2Icebox,8,"""5-3""",100T,Attackers,Elimination
+2Icebox,9,"""5-4""",KRÜ,Defenders,Time Expired
+2Icebox,10,"""6-4""",100T,Attackers,Spike Detonation
+2Icebox,11,"""6-5""",KRÜ,Defenders,Defuse
+2Icebox,12,"""6-6""",KRÜ,Defenders,Elimination
+2Icebox,13,"""7-6""",KRÜ,Defenders,Elimination
+2Icebox,14,"""7-7""",100T,Attackers,Elimination
+2Icebox,15,"""8-7""",KRÜ,Defenders,Defuse
+2Icebox,16,"""9-7""",KRÜ,Defenders,Elimination
+2Icebox,17,"""9-8""",100T,Attackers,Elimination
+2Icebox,18,"""9-9""",100T,Attackers,Elimination
+2Icebox,19,"""10-9""",KRÜ,Defenders,Defuse
+2Icebox,20,"""11-9""",KRÜ,Defenders,Defuse
+2Icebox,21,"""12-9""",KRÜ,Defenders,Defuse
+2Icebox,22,"""13-9""",KRÜ,Defenders,Defuse
+2Icebox,23,"""""",,,
+2Icebox,24,"""""",,,

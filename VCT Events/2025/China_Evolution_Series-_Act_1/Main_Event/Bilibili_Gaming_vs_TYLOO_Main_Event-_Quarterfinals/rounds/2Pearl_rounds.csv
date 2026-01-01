@@ -1,0 +1,37 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+2Pearl,1,"""0-1""",TYL,Attackers,Elimination
+2Pearl,2,"""0-2""",TYL,Attackers,Elimination
+2Pearl,3,"""0-3""",TYL,Attackers,Elimination
+2Pearl,4,"""0-4""",TYL,Attackers,Elimination
+2Pearl,5,"""1-4""",BLG,Defenders,Defuse
+2Pearl,6,"""1-5""",TYL,Attackers,Elimination
+2Pearl,7,"""2-5""",BLG,Defenders,Time Expired
+2Pearl,8,"""2-6""",TYL,Attackers,Elimination
+2Pearl,9,"""2-7""",TYL,Attackers,Elimination
+2Pearl,10,"""3-7""",BLG,Defenders,Defuse
+2Pearl,11,"""4-7""",BLG,Defenders,Defuse
+2Pearl,12,"""5-7""",BLG,Defenders,Defuse
+2Pearl,13,"""6-7""",TYL,Attackers,Elimination
+2Pearl,14,"""7-7""",TYL,Attackers,Spike Detonation
+2Pearl,15,"""8-7""",TYL,Attackers,Elimination
+2Pearl,16,"""8-8""",BLG,Defenders,Elimination
+2Pearl,17,"""8-9""",BLG,Defenders,Defuse
+2Pearl,18,"""8-10""",BLG,Defenders,Elimination
+2Pearl,19,"""8-11""",BLG,Defenders,Defuse
+2Pearl,20,"""9-11""",TYL,Attackers,Spike Detonation
+2Pearl,21,"""10-11""",TYL,Attackers,Elimination
+2Pearl,22,"""11-11""",TYL,Attackers,Elimination
+2Pearl,23,"""11-12""",BLG,Defenders,Defuse
+2Pearl,24,"""12-12""",TYL,Attackers,Elimination
+2Pearl,25,"""13-12""",BLG,Defenders,Elimination
+2Pearl,26,"""13-13""",BLG,Defenders,Elimination
+2Pearl,27,"""13-14""",TYL,Attackers,Elimination
+2Pearl,28,"""14-14""",TYL,Attackers,Elimination
+2Pearl,29,"""15-14""",BLG,Defenders,Defuse
+2Pearl,30,"""15-15""",BLG,Defenders,Elimination
+2Pearl,31,"""16-15""",BLG,Defenders,Elimination
+2Pearl,32,"""16-16""",BLG,Defenders,Elimination
+2Pearl,33,"""16-17""",TYL,Attackers,Elimination
+2Pearl,34,"""17-17""",TYL,Attackers,Elimination
+2Pearl,35,"""18-17""",BLG,Defenders,Time Expired
+2Pearl,36,"""19-17""",TYL,Attackers,Elimination

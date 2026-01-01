@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Kess,100T,All_Maps,All,"Brimstone, Cypher",1.31,225,33,22,13,+11,83%,139,29%,5,1,+4
+eeiu,100T,All_Maps,All,"Fade, Sova",1.27,225,35,21,9,+14,78%,135,31%,5,4,+1
+zander,100T,All_Maps,All,"Viper, Omen",1.20,205,32,21,8,+11,80%,125,27%,4,1,+3
+Asuna,100T,All_Maps,All,"Raze, Neon",1.14,222,27,25,18,+2,83%,146,19%,4,9,-5
+Cryocells,100T,All_Maps,All,Yoru,1.12,213,31,25,9,+6,80%,136,28%,5,2,+3
+skuba,NRG,All_Maps,All,Viper,1.00,164,24,26,9,-2,63%,117,16%,0,0,0
+Ethan,NRG,All_Maps,All,"Kayo, Omen",0.90,184,24,34,20,-10,73%,125,21%,3,4,-1
+brawk,NRG,All_Maps,All,"Fade, Sova",0.86,201,27,34,15,-7,70%,132,15%,3,2,+1
+s0m,NRG,All_Maps,All,"Brimstone, Deadlock",0.69,143,19,31,20,-12,70%,104,24%,2,7,-5
+mada,NRG,All_Maps,All,"Raze, Neon",0.58,166,20,33,3,-13,53%,109,29%,9,10,-1
+Kess,100T,All_Maps,Attack,"Brimstone, Cypher",1.21,214,14,12,3,+2,63%,110,32%,3,1,+2
+eeiu,100T,All_Maps,Attack,"Fade, Sova",0.79,147,8,12,4,-4,81%,103,43%,1,1,0
+zander,100T,All_Maps,Attack,"Viper, Omen",0.87,182,11,12,2,-1,63%,114,30%,1,1,0
+Asuna,100T,All_Maps,Attack,"Raze, Neon",0.64,178,8,14,5,-6,75%,122,24%,3,4,-1
+Cryocells,100T,All_Maps,Attack,Yoru,0.83,191,10,13,3,-3,75%,126,22%,1,0,+1
+skuba,NRG,All_Maps,Attack,Viper,0.53,119,8,20,2,-12,38%,87,12%,0,0,0
+Ethan,NRG,All_Maps,Attack,"Kayo, Omen",0.62,152,12,23,4,-11,63%,110,21%,1,2,-1
+brawk,NRG,All_Maps,Attack,"Fade, Sova",0.79,198,14,22,7,-8,63%,143,13%,3,1,+2
+s0m,NRG,All_Maps,Attack,"Brimstone, Deadlock",0.40,105,7,21,14,-14,58%,62,21%,0,5,-5
+mada,NRG,All_Maps,Attack,"Raze, Neon",0.53,153,10,21,2,-11,46%,110,30%,6,6,0
+Kess,100T,All_Maps,Defend,"Brimstone, Cypher",1.38,232,19,10,10,+9,96%,157,27%,2,0,+2
+eeiu,100T,All_Maps,Defend,"Fade, Sova",1.59,264,27,9,5,+18,75%,157,24%,4,3,+1
+zander,100T,All_Maps,Defend,"Viper, Omen",1.41,213,21,9,6,+12,92%,133,26%,3,0,+3
+Asuna,100T,All_Maps,Defend,"Raze, Neon",1.47,244,19,11,13,+8,88%,161,17%,1,5,-4
+Cryocells,100T,All_Maps,Defend,Yoru,1.31,226,21,12,6,+9,83%,143,32%,4,2,+2
+skuba,NRG,All_Maps,Defend,Viper,1.70,245,16,6,7,+10,100%,161,20%,0,0,0
+Ethan,NRG,All_Maps,Defend,"Kayo, Omen",1.32,248,12,11,16,+1,88%,148,22%,2,2,0
+brawk,NRG,All_Maps,Defend,"Fade, Sova",0.95,194,13,12,8,+1,81%,116,17%,0,1,-1
+s0m,NRG,All_Maps,Defend,"Brimstone, Deadlock",1.13,224,12,10,6,+2,88%,167,26%,2,2,0
+mada,NRG,All_Maps,Defend,"Raze, Neon",0.67,186,10,12,1,-2,63%,109,27%,3,4,-1

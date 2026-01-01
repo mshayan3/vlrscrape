@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+aspas,MIBR,All_Maps,All,"Raze, Jett",1.86,347,82,36,7,+46,88%,218,26%,14,4,+10
+cortezia,MIBR,All_Maps,All,"Viper, Cypher",0.96,202,45,42,15,+3,77%,132,35%,7,5,+2
+xenom,MIBR,All_Maps,All,"Brimstone, Astra",0.87,156,36,43,32,-7,77%,96,33%,4,5,-1
+nzr,MIBR,All_Maps,All,"Skye, Sova",0.85,141,32,42,27,-10,70%,95,23%,0,2,-2
+artzin,MIBR,All_Maps,All,"Yoru, Kayo, Raze",0.74,187,43,52,18,-9,71%,120,21%,12,13,-1
+Shyy,KRÜ,All_Maps,All,"Vyse, Viper, Cypher",1.40,257,57,40,17,+17,80%,171,25%,4,2,+2
+Melser,KRÜ,All_Maps,All,"Brimstone, Astra, Omen",0.97,185,42,47,32,-5,76%,109,32%,5,6,-1
+adverso,KRÜ,All_Maps,All,"Viper, Sova",0.87,182,41,50,20,-9,68%,122,19%,3,10,-7
+keznit,KRÜ,All_Maps,All,"Raze, Jett",0.80,182,41,51,7,-10,68%,118,15%,12,10,+2
+Mazino,KRÜ,All_Maps,All,"Skye, Kayo",0.75,146,34,50,33,-16,68%,92,25%,5,9,-4
+aspas,MIBR,All_Maps,Attack,"Raze, Jett",1.74,342,37,19,2,+18,83%,224,33%,6,1,+5
+cortezia,MIBR,All_Maps,Attack,"Viper, Cypher",0.84,205,21,22,6,-1,73%,134,40%,4,2,+2
+xenom,MIBR,All_Maps,Attack,"Brimstone, Astra",1.00,175,18,20,15,-2,83%,110,30%,2,0,+2
+nzr,MIBR,All_Maps,Attack,"Skye, Sova",0.88,132,15,18,10,-3,67%,80,38%,0,1,-1
+artzin,MIBR,All_Maps,Attack,"Yoru, Kayo, Raze",0.63,185,19,25,8,-6,67%,117,26%,7,7,0
+Shyy,KRÜ,All_Maps,Attack,"Vyse, Viper, Cypher",1.36,238,28,21,8,+7,86%,167,29%,1,1,0
+Melser,KRÜ,All_Maps,Attack,"Brimstone, Astra, Omen",0.89,165,22,26,16,-4,81%,93,29%,2,0,+2
+adverso,KRÜ,All_Maps,Attack,"Viper, Sova",0.59,141,18,28,4,-10,67%,95,19%,1,7,-6
+keznit,KRÜ,All_Maps,Attack,"Raze, Jett",0.88,210,25,28,5,-3,69%,130,15%,11,6,+5
+Mazino,KRÜ,All_Maps,Attack,"Skye, Kayo",0.88,148,18,25,26,-7,72%,88,20%,3,4,-1
+aspas,MIBR,All_Maps,Defend,"Raze, Jett",1.96,351,45,17,5,+28,92%,213,21%,8,3,+5
+cortezia,MIBR,All_Maps,Defend,"Viper, Cypher",1.06,195,24,20,9,+4,81%,130,31%,3,3,0
+xenom,MIBR,All_Maps,Defend,"Brimstone, Astra",0.76,142,18,23,17,-5,72%,84,36%,2,5,-3
+nzr,MIBR,All_Maps,Defend,"Skye, Sova",0.84,152,17,24,17,-7,72%,107,17%,0,1,-1
+artzin,MIBR,All_Maps,Defend,"Yoru, Kayo, Raze",0.83,189,24,27,10,-3,75%,122,16%,5,6,-1
+Shyy,KRÜ,All_Maps,Defend,"Vyse, Viper, Cypher",1.45,274,29,19,9,+10,73%,176,21%,3,1,+2
+Melser,KRÜ,All_Maps,Defend,"Brimstone, Astra, Omen",1.08,206,20,21,16,-1,70%,129,35%,3,6,-3
+adverso,KRÜ,All_Maps,Defend,"Viper, Sova",1.21,235,23,22,16,+1,70%,155,19%,2,3,-1
+keznit,KRÜ,All_Maps,Defend,"Raze, Jett",0.71,153,16,23,2,-7,67%,103,15%,1,4,-3
+Mazino,KRÜ,All_Maps,Defend,"Skye, Kayo",0.59,143,16,25,7,-9,63%,95,31%,2,5,-3

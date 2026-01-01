@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Karon,GEN,All_Maps,All,"Omen, Astra",1.28,221,32,21,16,+11,76%,135,34%,5,2,+3
+Foxy9,GEN,All_Maps,All,Killjoy,1.23,220,30,20,3,+10,82%,143,34%,7,2,+5
+Ash,GEN,All_Maps,All,Tejo,1.22,196,26,21,10,+5,76%,128,32%,2,1,+1
+Munchkin,GEN,All_Maps,All,"Viper, Kayo",1.04,191,25,26,22,-1,76%,126,19%,6,3,+3
+t3xture,GEN,All_Maps,All,Neon,0.95,200,29,27,6,+2,76%,134,31%,4,6,-2
+Kr1stal,GE,All_Maps,All,Sova,1.14,195,28,25,5,+3,74%,123,23%,1,2,-1
+UdoTan,GE,All_Maps,All,"Iso, Killjoy",1.03,228,28,28,7,0,71%,157,32%,6,11,-5
+kellyS,GE,All_Maps,All,"Cypher, Vyse",0.77,145,18,26,11,-8,66%,99,17%,1,4,-3
+Papi,GE,All_Maps,All,"Omen, Astra",0.70,156,21,29,10,-8,76%,101,19%,1,1,0
+Deryeon,GE,All_Maps,All,Jett,0.61,171,20,34,8,-14,68%,117,29%,5,6,-1
+Karon,GEN,All_Maps,Attack,"Omen, Astra",1.45,265,15,8,7,+7,71%,162,29%,1,1,0
+Foxy9,GEN,All_Maps,Attack,Killjoy,1.41,202,12,6,0,+6,71%,125,33%,1,0,+1
+Ash,GEN,All_Maps,Attack,Tejo,0.86,165,7,10,6,-3,79%,113,37%,1,1,0
+Munchkin,GEN,All_Maps,Attack,"Viper, Kayo",1.21,198,9,9,11,0,79%,114,12%,2,1,+1
+t3xture,GEN,All_Maps,Attack,Neon,1.02,270,14,12,2,+2,71%,172,32%,3,3,0
+Kr1stal,GE,All_Maps,Attack,Sova,1.20,206,18,15,3,+3,71%,140,31%,0,0,0
+UdoTan,GE,All_Maps,Attack,"Iso, Killjoy",1.18,242,20,16,3,+4,79%,168,36%,5,9,-4
+kellyS,GE,All_Maps,Attack,"Cypher, Vyse",0.71,111,9,15,6,-6,63%,72,14%,0,2,-2
+Papi,GE,All_Maps,Attack,"Omen, Astra",0.63,140,11,18,6,-7,75%,101,14%,0,0,0
+Deryeon,GE,All_Maps,Attack,Jett,0.66,178,12,21,5,-9,67%,122,35%,3,5,-2
+Karon,GEN,All_Maps,Defend,"Omen, Astra",1.18,196,17,13,9,+4,79%,120,38%,4,1,+3
+Foxy9,GEN,All_Maps,Defend,Killjoy,1.13,233,18,14,3,+4,88%,153,34%,6,2,+4
+Ash,GEN,All_Maps,Defend,Tejo,1.43,211,19,11,4,+8,75%,137,30%,1,0,+1
+Munchkin,GEN,All_Maps,Defend,"Viper, Kayo",0.94,185,16,17,11,-1,75%,134,25%,4,2,+2
+t3xture,GEN,All_Maps,Defend,Neon,0.91,161,15,15,4,0,79%,112,31%,1,3,-2
+Kr1stal,GE,All_Maps,Defend,Sova,1.05,180,10,10,2,0,79%,95,9%,1,2,-1
+UdoTan,GE,All_Maps,Defend,"Iso, Killjoy",0.78,200,8,12,4,-4,57%,138,26%,1,2,-1
+kellyS,GE,All_Maps,Defend,"Cypher, Vyse",0.88,203,9,11,5,-2,71%,146,22%,1,2,-1
+Papi,GE,All_Maps,Defend,"Omen, Astra",0.83,185,10,11,4,-1,79%,102,27%,1,1,0
+Deryeon,GE,All_Maps,Defend,Jett,0.51,166,8,13,3,-5,71%,107,18%,2,1,+1

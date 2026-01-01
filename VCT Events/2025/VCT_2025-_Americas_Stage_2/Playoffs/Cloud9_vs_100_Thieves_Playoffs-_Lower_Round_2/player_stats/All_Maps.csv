@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+OXY,C9,All_Maps,All,"Jett, Raze",1.30,261,46,32,4,+14,83%,164,27%,8,5,+3
+v1c,C9,All_Maps,All,"Omen, Iso",1.05,210,36,33,16,+3,75%,142,25%,6,8,-2
+mitch,C9,All_Maps,All,"Skye, Sova",0.95,190,31,33,16,-2,77%,128,22%,1,3,-2
+neT,C9,All_Maps,All,Viper,0.86,180,29,36,15,-7,77%,122,30%,4,6,-2
+Xeppaa,C9,All_Maps,All,Killjoy,0.84,193,29,37,11,-8,71%,138,20%,3,4,-1
+Cryocells,100T,All_Maps,All,"Yoru, Jett",1.33,280,49,34,11,+15,85%,187,39%,9,6,+3
+eeiu,100T,All_Maps,All,Sova,1.15,226,35,33,20,+2,65%,156,42%,2,0,+2
+zander,100T,All_Maps,All,"Omen, Viper",0.94,207,35,36,12,-1,65%,131,28%,7,6,+1
+Asuna,100T,All_Maps,All,"Neon, Sage",0.93,156,27,30,12,-3,71%,101,27%,5,5,0
+Kess,100T,All_Maps,All,"Cypher, Killjoy",0.68,146,24,38,11,-14,56%,108,22%,3,5,-2
+OXY,C9,All_Maps,Attack,"Jett, Raze",1.46,308,29,17,2,+12,84%,183,31%,3,3,0
+v1c,C9,All_Maps,Attack,"Omen, Iso",0.81,176,14,18,10,-4,72%,122,16%,3,6,-3
+mitch,C9,All_Maps,Attack,"Skye, Sova",0.95,183,17,16,9,+1,80%,116,17%,1,2,-1
+neT,C9,All_Maps,Attack,Viper,0.70,159,11,19,8,-8,76%,98,24%,0,3,-3
+Xeppaa,C9,All_Maps,Attack,Killjoy,0.71,173,13,20,4,-7,72%,132,22%,2,2,0
+Cryocells,100T,All_Maps,Attack,"Yoru, Jett",1.16,245,22,17,4,+5,78%,153,38%,2,4,-2
+eeiu,100T,All_Maps,Attack,Sova,1.13,236,20,17,8,+3,70%,151,39%,1,0,+1
+zander,100T,All_Maps,Attack,"Omen, Viper",0.81,172,13,18,8,-5,65%,106,25%,4,4,0
+Asuna,100T,All_Maps,Attack,"Neon, Sage",0.73,117,10,16,1,-6,61%,86,26%,1,3,-2
+Kess,100T,All_Maps,Attack,"Cypher, Killjoy",0.77,180,15,20,6,-5,61%,129,24%,2,2,0
+OXY,C9,All_Maps,Defend,"Jett, Raze",1.13,217,17,15,2,+2,83%,144,22%,5,2,+3
+v1c,C9,All_Maps,Defend,"Omen, Iso",1.31,250,22,15,6,+7,78%,165,34%,3,2,+1
+mitch,C9,All_Maps,Defend,"Skye, Sova",0.95,192,14,17,7,-3,74%,141,29%,0,1,-1
+neT,C9,All_Maps,Defend,Viper,1.03,216,18,17,7,+1,78%,148,36%,4,3,+1
+Xeppaa,C9,All_Maps,Defend,Killjoy,0.98,207,16,17,7,-1,70%,145,18%,1,2,-1
+Cryocells,100T,All_Maps,Defend,"Yoru, Jett",1.49,326,27,17,7,+10,92%,218,40%,7,2,+5
+eeiu,100T,All_Maps,Defend,Sova,1.17,211,15,16,12,-1,60%,161,44%,1,0,+1
+zander,100T,All_Maps,Defend,"Omen, Viper",1.06,239,22,18,4,+4,64%,153,31%,3,2,+1
+Asuna,100T,All_Maps,Defend,"Neon, Sage",1.11,190,17,14,11,+3,80%,116,28%,4,2,+2
+Kess,100T,All_Maps,Defend,"Cypher, Killjoy",0.59,119,9,18,5,-9,52%,90,20%,1,3,-2

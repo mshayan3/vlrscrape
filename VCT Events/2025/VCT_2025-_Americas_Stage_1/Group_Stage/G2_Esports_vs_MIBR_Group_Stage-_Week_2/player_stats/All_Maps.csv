@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+leaf,G2,All_Maps,All,Vyse,1.25,248,58,49,25,+9,82%,171,24%,6,5,+1
+jawgemo,G2,All_Maps,All,"Yoru, Waylay",1.15,230,64,51,11,+13,59%,142,26%,11,17,-6
+trent,G2,All_Maps,All,Tejo,1.04,200,46,49,30,-3,76%,138,18%,4,3,+1
+valyn,G2,All_Maps,All,"Astra, Omen",0.95,178,44,50,31,-6,82%,114,23%,5,9,-4
+JonahP,G2,All_Maps,All,"Fade, Breach, Kayo",0.92,156,35,47,39,-12,79%,101,22%,7,4,+3
+Verno,MIBR,All_Maps,All,"Tejo, Sova",1.14,225,54,44,23,+10,77%,143,23%,6,3,+3
+aspas,MIBR,All_Maps,All,"Waylay, Jett",1.03,223,57,49,7,+8,76%,141,26%,13,12,+1
+cortezia,MIBR,All_Maps,All,"Vyse, Cypher",1.01,207,54,51,14,+3,69%,130,42%,5,7,-2
+xenom,MIBR,All_Maps,All,"Astra, Omen",0.94,163,43,46,27,-3,75%,100,31%,2,1,+1
+artzin,MIBR,All_Maps,All,"Kayo, Breach",0.73,174,38,57,28,-19,69%,118,18%,12,10,+2
+leaf,G2,All_Maps,Attack,Vyse,1.43,286,36,25,10,+11,86%,199,24%,3,3,0
+jawgemo,G2,All_Maps,Attack,"Yoru, Waylay",1.35,243,36,24,7,+12,62%,150,33%,4,11,-7
+trent,G2,All_Maps,Attack,Tejo,1.05,190,21,23,19,-2,84%,132,15%,2,2,0
+valyn,G2,All_Maps,Attack,"Astra, Omen",0.68,156,19,30,16,-11,86%,101,21%,3,4,-1
+JonahP,G2,All_Maps,Attack,"Fade, Breach, Kayo",0.78,151,18,27,23,-9,78%,95,20%,2,3,-1
+Verno,MIBR,All_Maps,Attack,"Tejo, Sova",1.25,215,25,19,10,+6,76%,137,25%,2,1,+1
+aspas,MIBR,All_Maps,Attack,"Waylay, Jett",0.85,220,27,26,2,+1,76%,136,34%,8,6,+2
+cortezia,MIBR,All_Maps,Attack,"Vyse, Cypher",0.96,214,26,24,6,+2,71%,128,51%,2,4,-2
+xenom,MIBR,All_Maps,Attack,"Astra, Omen",1.09,193,24,21,16,+3,76%,113,35%,1,0,+1
+artzin,MIBR,All_Maps,Attack,"Kayo, Breach",0.62,143,15,27,13,-12,68%,102,15%,2,8,-6
+leaf,G2,All_Maps,Defend,Vyse,1.07,200,22,24,15,-2,76%,142,24%,3,2,+1
+jawgemo,G2,All_Maps,Defend,"Yoru, Waylay",0.94,209,28,27,4,+1,56%,133,18%,7,6,+1
+trent,G2,All_Maps,Defend,Tejo,1.02,211,25,26,11,-1,68%,145,21%,2,1,+1
+valyn,G2,All_Maps,Defend,"Astra, Omen",1.24,211,25,20,15,+5,76%,129,25%,2,5,-3
+JonahP,G2,All_Maps,Defend,"Fade, Breach, Kayo",1.07,158,17,20,16,-3,79%,108,24%,5,1,+4
+Verno,MIBR,All_Maps,Defend,"Tejo, Sova",1.05,230,29,25,13,+4,78%,149,23%,4,2,+2
+aspas,MIBR,All_Maps,Defend,"Waylay, Jett",1.20,227,30,23,5,+7,76%,146,19%,5,6,-1
+cortezia,MIBR,All_Maps,Defend,"Vyse, Cypher",1.06,202,28,27,8,+1,68%,132,37%,3,3,0
+xenom,MIBR,All_Maps,Defend,"Astra, Omen",0.80,136,19,25,11,-6,73%,89,28%,1,1,0
+artzin,MIBR,All_Maps,Defend,"Kayo, Breach",0.84,209,23,30,15,-7,70%,132,21%,10,2,+8

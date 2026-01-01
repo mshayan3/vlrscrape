@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+2Haven,1,"""0-1""",LOUD,Defenders,Defuse
+2Haven,2,"""0-2""",LOUD,Defenders,Elimination
+2Haven,3,"""1-2""",KRÜ,Attackers,Elimination
+2Haven,4,"""1-3""",LOUD,Defenders,Defuse
+2Haven,5,"""1-4""",LOUD,Defenders,Elimination
+2Haven,6,"""1-5""",LOUD,Defenders,Defuse
+2Haven,7,"""1-6""",LOUD,Defenders,Elimination
+2Haven,8,"""2-6""",KRÜ,Attackers,Elimination
+2Haven,9,"""3-6""",KRÜ,Attackers,Elimination
+2Haven,10,"""3-7""",LOUD,Defenders,Defuse
+2Haven,11,"""3-8""",LOUD,Defenders,Defuse
+2Haven,12,"""3-9""",LOUD,Defenders,Defuse
+2Haven,13,"""4-9""",LOUD,Defenders,Defuse
+2Haven,14,"""5-9""",LOUD,Defenders,Elimination
+2Haven,15,"""6-9""",LOUD,Defenders,Elimination
+2Haven,16,"""7-9""",LOUD,Defenders,Defuse
+2Haven,17,"""7-10""",KRÜ,Attackers,Elimination
+2Haven,18,"""8-10""",LOUD,Defenders,Time Expired
+2Haven,19,"""9-10""",LOUD,Defenders,Defuse
+2Haven,20,"""9-11""",KRÜ,Attackers,Spike Detonation
+2Haven,21,"""10-11""",LOUD,Defenders,Elimination
+2Haven,22,"""11-11""",LOUD,Defenders,Elimination
+2Haven,23,"""11-12""",KRÜ,Attackers,Elimination
+2Haven,24,"""11-13""",KRÜ,Attackers,Elimination

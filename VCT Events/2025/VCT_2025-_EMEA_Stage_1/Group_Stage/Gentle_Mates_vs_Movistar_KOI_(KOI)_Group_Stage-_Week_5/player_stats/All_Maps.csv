@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Minny,M8,All_Maps,All,"Viper, Killjoy, Cypher",1.08,203,48,46,12,+2,72%,136,30%,4,3,+1
+kamyk,M8,All_Maps,All,"Breach, Kayo",1.01,193,44,50,18,-6,74%,136,38%,4,4,0
+Zyppan,M8,All_Maps,All,Tejo,0.76,148,35,44,8,-9,68%,107,27%,2,7,-5
+Click,M8,All_Maps,All,"Yoru, Waylay",0.75,190,43,52,8,-9,62%,120,30%,10,15,-5
+Kada,M8,All_Maps,All,"Omen, Viper, Brimstone",0.70,165,35,53,17,-18,57%,104,41%,5,11,-6
+soulcas,MKOI,All_Maps,All,Tejo,1.29,238,60,40,12,+20,80%,152,39%,10,2,+8
+grubinho,MKOI,All_Maps,All,"Omen, Viper, Brimstone",1.14,200,47,40,18,+7,69%,136,32%,12,3,+9
+Filu,MKOI,All_Maps,All,"Yoru, Jett, Raze",1.10,224,50,44,17,+6,74%,144,22%,8,12,-4
+flyuh,MKOI,All_Maps,All,"Viper, Sova, Cypher",1.09,222,49,46,22,+3,83%,142,28%,10,6,+4
+sheydos,MKOI,All_Maps,All,"Breach, Killjoy",0.92,146,39,35,9,+4,74%,101,28%,0,2,-2
+Minny,M8,All_Maps,Attack,"Viper, Killjoy, Cypher",1.14,211,26,25,5,+1,65%,144,25%,1,2,-1
+kamyk,M8,All_Maps,Attack,"Breach, Kayo",0.88,170,19,27,7,-8,65%,119,35%,1,4,-3
+Zyppan,M8,All_Maps,Attack,Tejo,0.79,147,17,24,6,-7,68%,109,28%,0,4,-4
+Click,M8,All_Maps,Attack,"Yoru, Waylay",0.52,151,18,29,4,-11,59%,93,34%,4,12,-8
+Kada,M8,All_Maps,Attack,"Omen, Viper, Brimstone",0.73,165,18,28,9,-10,53%,107,41%,2,4,-2
+soulcas,MKOI,All_Maps,Attack,Tejo,1.33,251,29,22,6,+7,84%,161,40%,5,1,+4
+grubinho,MKOI,All_Maps,Attack,"Omen, Viper, Brimstone",1.26,200,21,18,12,+3,71%,142,40%,2,2,0
+Filu,MKOI,All_Maps,Attack,"Yoru, Jett, Raze",0.65,154,17,24,7,-7,65%,101,26%,2,10,-8
+flyuh,MKOI,All_Maps,Attack,"Viper, Sova, Cypher",1.04,242,24,25,12,-1,81%,148,20%,5,2,+3
+sheydos,MKOI,All_Maps,Attack,"Breach, Killjoy",1.03,164,21,18,4,+3,77%,101,25%,0,2,-2
+Minny,M8,All_Maps,Defend,"Viper, Killjoy, Cypher",1.02,202,22,21,7,+1,81%,127,35%,3,1,+2
+kamyk,M8,All_Maps,Defend,"Breach, Kayo",1.15,224,25,23,11,+2,84%,154,40%,3,0,+3
+Zyppan,M8,All_Maps,Defend,Tejo,0.73,153,18,20,2,-2,68%,104,26%,2,3,-1
+Click,M8,All_Maps,Defend,"Yoru, Waylay",1.00,231,25,23,4,+2,65%,149,27%,6,3,+3
+Kada,M8,All_Maps,Defend,"Omen, Viper, Brimstone",0.67,163,17,25,8,-8,61%,101,42%,3,7,-4
+soulcas,MKOI,All_Maps,Defend,Tejo,1.25,223,31,18,6,+13,76%,143,38%,5,1,+4
+grubinho,MKOI,All_Maps,Defend,"Omen, Viper, Brimstone",1.02,199,26,22,6,+4,68%,131,25%,10,1,+9
+Filu,MKOI,All_Maps,Defend,"Yoru, Jett, Raze",1.51,284,33,20,10,+13,82%,183,20%,6,2,+4
+flyuh,MKOI,All_Maps,Defend,"Viper, Sova, Cypher",1.13,211,25,21,10,+4,85%,137,38%,5,4,+1
+sheydos,MKOI,All_Maps,Defend,"Breach, Killjoy",0.82,125,18,17,5,+1,71%,101,31%,0,0,0

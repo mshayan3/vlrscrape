@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+1Bind,1,"""0-1""",TLN,Attackers,Elimination
+1Bind,2,"""0-2""",TLN,Attackers,Elimination
+1Bind,3,"""0-3""",TLN,Attackers,Spike Detonation
+1Bind,4,"""0-4""",TLN,Attackers,Elimination
+1Bind,5,"""1-4""",DRX,Defenders,Elimination
+1Bind,6,"""2-4""",DRX,Defenders,Time Expired
+1Bind,7,"""3-4""",DRX,Defenders,Elimination
+1Bind,8,"""4-4""",DRX,Defenders,Defuse
+1Bind,9,"""5-4""",DRX,Defenders,Defuse
+1Bind,10,"""6-4""",DRX,Defenders,Elimination
+1Bind,11,"""7-4""",DRX,Defenders,Elimination
+1Bind,12,"""8-4""",DRX,Defenders,Elimination
+1Bind,13,"""8-5""",DRX,Defenders,Defuse
+1Bind,14,"""9-5""",TLN,Attackers,Elimination
+1Bind,15,"""10-5""",TLN,Attackers,Elimination
+1Bind,16,"""10-6""",DRX,Defenders,Elimination
+1Bind,17,"""10-7""",DRX,Defenders,Elimination
+1Bind,18,"""10-8""",DRX,Defenders,Defuse
+1Bind,19,"""11-8""",TLN,Attackers,Spike Detonation
+1Bind,20,"""11-9""",DRX,Defenders,Time Expired
+1Bind,21,"""11-10""",DRX,Defenders,Defuse
+1Bind,22,"""12-10""",TLN,Attackers,Elimination
+1Bind,23,"""12-11""",DRX,Defenders,Elimination
+1Bind,24,"""13-11""",TLN,Attackers,Elimination

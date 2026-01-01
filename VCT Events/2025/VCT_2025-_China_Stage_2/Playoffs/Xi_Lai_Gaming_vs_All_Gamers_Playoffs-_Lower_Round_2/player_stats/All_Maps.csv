@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+NoMan,XLG,All_Maps,All,"Chamber, Killjoy, Deadlock",1.20,207,44,31,9,+13,77%,145,32%,6,5,+1
+happywei,XLG,All_Maps,All,"Vyse, Sage, Cypher",1.18,230,49,33,9,+16,74%,144,32%,7,5,+2
+Viva,XLG,All_Maps,All,"Sova, Fade",1.18,191,42,32,16,+10,82%,137,36%,2,2,0
+Rarga,XLG,All_Maps,All,"Yoru, Jett, Sage",1.11,261,47,39,16,+8,72%,142,36%,10,5,+5
+coconut,XLG,All_Maps,All,"Omen, Viper",0.83,177,35,43,29,-8,74%,117,26%,6,9,-3
+K1ra,AG,All_Maps,All,"Omen, Viper, Raze",1.15,236,45,41,13,+4,70%,147,23%,12,6,+6
+Shr1mp,AG,All_Maps,All,"Sova, Fade",0.85,147,29,42,17,-13,60%,103,15%,0,6,-6
+HanChe,AG,All_Maps,All,"Cypher, Killjoy, Viper",0.84,173,33,43,10,-10,58%,124,23%,4,4,0
+Spitfires,AG,All_Maps,All,"Yoru, Jett",0.84,216,40,49,9,-9,61%,140,23%,6,10,-4
+deLb,AG,All_Maps,All,"Deadlock, Omen",0.78,140,31,42,9,-11,63%,97,41%,4,5,-1
+NoMan,XLG,All_Maps,Attack,"Chamber, Killjoy, Deadlock",1.13,191,25,19,6,+6,75%,128,32%,4,3,+1
+happywei,XLG,All_Maps,Attack,"Vyse, Sage, Cypher",1.15,233,32,22,7,+10,72%,155,32%,6,3,+3
+Viva,XLG,All_Maps,Attack,"Sova, Fade",1.01,185,23,22,13,+1,78%,132,35%,1,2,-1
+Rarga,XLG,All_Maps,Attack,"Yoru, Jett, Sage",1.26,269,34,24,13,+10,78%,153,38%,7,2,+5
+coconut,XLG,All_Maps,Attack,"Omen, Viper",0.92,189,25,27,16,-2,72%,127,28%,2,6,-4
+K1ra,AG,All_Maps,Attack,"Omen, Viper, Raze",1.19,226,15,13,6,+2,71%,150,37%,3,4,-1
+Shr1mp,AG,All_Maps,Attack,"Sova, Fade",0.69,94,7,14,3,-7,52%,62,18%,0,1,-1
+HanChe,AG,All_Maps,Attack,"Cypher, Killjoy, Viper",0.91,196,14,16,2,-2,48%,138,33%,2,3,-1
+Spitfires,AG,All_Maps,Attack,"Yoru, Jett",0.84,252,18,19,3,-1,62%,159,30%,3,3,0
+deLb,AG,All_Maps,Attack,"Deadlock, Omen",0.76,150,10,16,7,-6,71%,105,41%,2,0,+2
+NoMan,XLG,All_Maps,Defend,"Chamber, Killjoy, Deadlock",1.31,258,19,12,3,+7,81%,174,34%,2,2,0
+happywei,XLG,All_Maps,Defend,"Vyse, Sage, Cypher",1.25,207,17,11,2,+6,76%,125,31%,1,2,-1
+Viva,XLG,All_Maps,Defend,"Sova, Fade",1.46,220,19,10,3,+9,90%,147,33%,1,0,+1
+Rarga,XLG,All_Maps,Defend,"Yoru, Jett, Sage",0.85,176,13,15,3,-2,62%,124,31%,3,3,0
+coconut,XLG,All_Maps,Defend,"Omen, Viper",0.67,158,10,16,13,-6,76%,102,23%,4,3,+1
+K1ra,AG,All_Maps,Defend,"Omen, Viper, Raze",1.12,250,30,28,7,+2,69%,146,19%,9,2,+7
+Shr1mp,AG,All_Maps,Defend,"Sova, Fade",0.95,188,22,28,14,-6,64%,127,16%,0,5,-5
+HanChe,AG,All_Maps,Defend,"Cypher, Killjoy, Viper",0.80,167,19,27,8,-8,64%,116,19%,2,1,+1
+Spitfires,AG,All_Maps,Defend,"Yoru, Jett",0.84,205,22,30,6,-8,61%,130,19%,3,7,-4
+deLb,AG,All_Maps,Defend,"Deadlock, Omen",0.79,145,21,26,2,-5,58%,92,37%,2,5,-3

@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Shyy,KRÜ,All_Maps,All,"Vyse, Killjoy",1.19,228,44,34,12,+10,84%,148,21%,6,1,+5
+keznit,KRÜ,All_Maps,All,"Neon, Jett",1.18,240,42,36,13,+6,72%,156,19%,9,8,+1
+Mazino,KRÜ,All_Maps,All,"Breach, Harbor",1.01,212,37,38,23,-1,80%,135,28%,4,9,-5
+Melser,KRÜ,All_Maps,All,"Omen, Viper",0.88,163,30,37,21,-7,90%,113,21%,1,4,-3
+adverso,KRÜ,All_Maps,All,"Tejo, Sova",0.86,177,29,35,15,-6,76%,120,23%,3,5,-2
+icy,EG,All_Maps,All,"Raze, Killjoy",1.17,255,44,36,8,+8,64%,176,29%,10,5,+5
+yay,EG,All_Maps,All,"Clove, Jett",1.09,232,41,38,9,+3,74%,146,27%,13,11,+2
+Derrek,EG,All_Maps,All,"Tejo, Sova",1.06,189,33,33,17,0,76%,141,43%,0,2,-2
+NaturE,EG,All_Maps,All,"Fade, Kayo",0.95,195,36,39,22,-3,78%,119,24%,3,2,+1
+supamen,EG,All_Maps,All,Viper,0.69,155,26,37,8,-11,66%,110,40%,1,3,-2
+Shyy,KRÜ,All_Maps,Attack,"Vyse, Killjoy",1.25,255,24,17,9,+7,84%,160,17%,6,1,+5
+keznit,KRÜ,All_Maps,Attack,"Neon, Jett",1.08,213,19,16,8,+3,80%,147,20%,3,4,-1
+Mazino,KRÜ,All_Maps,Attack,"Breach, Harbor",1.32,238,22,15,13,+7,76%,143,30%,3,4,-1
+Melser,KRÜ,All_Maps,Attack,"Omen, Viper",0.86,154,14,18,12,-4,88%,104,16%,0,1,-1
+adverso,KRÜ,All_Maps,Attack,"Tejo, Sova",1.26,212,20,12,4,+8,80%,137,24%,2,1,+1
+icy,EG,All_Maps,Attack,"Raze, Killjoy",1.20,270,25,18,3,+7,68%,180,30%,5,2,+3
+yay,EG,All_Maps,Attack,"Clove, Jett",1.30,286,26,18,4,+8,84%,169,23%,8,5,+3
+Derrek,EG,All_Maps,Attack,"Tejo, Sova",1.21,182,16,13,13,+3,92%,140,37%,0,0,0
+NaturE,EG,All_Maps,Attack,"Fade, Kayo",1.14,218,21,18,14,+3,88%,124,21%,3,1,+2
+supamen,EG,All_Maps,Attack,Viper,0.71,164,14,16,2,-2,76%,116,40%,0,1,-1
+Shyy,KRÜ,All_Maps,Defend,"Vyse, Killjoy",1.12,203,20,17,3,+3,84%,137,26%,0,0,0
+keznit,KRÜ,All_Maps,Defend,"Neon, Jett",1.28,269,23,20,5,+3,64%,166,18%,6,4,+2
+Mazino,KRÜ,All_Maps,Defend,"Breach, Harbor",0.70,182,15,23,10,-8,84%,126,27%,1,5,-4
+Melser,KRÜ,All_Maps,Defend,"Omen, Viper",0.91,173,16,19,9,-3,92%,121,26%,1,3,-2
+adverso,KRÜ,All_Maps,Defend,"Tejo, Sova",0.47,141,9,23,11,-14,72%,104,22%,1,4,-3
+icy,EG,All_Maps,Defend,"Raze, Killjoy",1.15,242,19,18,5,+1,60%,173,27%,5,3,+2
+yay,EG,All_Maps,Defend,"Clove, Jett",0.89,178,15,20,5,-5,64%,123,34%,5,6,-1
+Derrek,EG,All_Maps,Defend,"Tejo, Sova",0.91,198,17,20,4,-3,60%,142,50%,0,2,-2
+NaturE,EG,All_Maps,Defend,"Fade, Kayo",0.77,174,15,21,8,-6,68%,114,28%,0,1,-1
+supamen,EG,All_Maps,Defend,Viper,0.67,144,12,21,6,-9,56%,104,39%,1,2,-1

@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+2Haven,1,"""1-0""",FPX,Defenders,Defuse
+2Haven,2,"""1-1""",TEC,Attackers,Elimination
+2Haven,3,"""1-2""",TEC,Attackers,Elimination
+2Haven,4,"""2-2""",FPX,Defenders,Defuse
+2Haven,5,"""3-2""",FPX,Defenders,Defuse
+2Haven,6,"""4-2""",FPX,Defenders,Elimination
+2Haven,7,"""4-3""",TEC,Attackers,Elimination
+2Haven,8,"""4-4""",TEC,Attackers,Elimination
+2Haven,9,"""5-4""",FPX,Defenders,Elimination
+2Haven,10,"""5-5""",TEC,Attackers,Elimination
+2Haven,11,"""6-5""",FPX,Defenders,Elimination
+2Haven,12,"""7-5""",FPX,Defenders,Defuse
+2Haven,13,"""8-5""",TEC,Attackers,Elimination
+2Haven,14,"""9-5""",TEC,Attackers,Elimination
+2Haven,15,"""10-5""",TEC,Attackers,Elimination
+2Haven,16,"""11-5""",TEC,Attackers,Elimination
+2Haven,17,"""11-6""",FPX,Defenders,Defuse
+2Haven,18,"""12-6""",TEC,Attackers,Elimination
+2Haven,19,"""13-6""",TEC,Attackers,Elimination
+2Haven,20,"""""",,,
+2Haven,21,"""""",,,
+2Haven,22,"""""",,,
+2Haven,23,"""""",,,
+2Haven,24,"""""",,,

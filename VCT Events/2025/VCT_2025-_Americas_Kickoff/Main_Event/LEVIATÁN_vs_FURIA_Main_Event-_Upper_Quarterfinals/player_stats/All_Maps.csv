@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+kiNgg,LEV,All_Maps,All,Omen,1.43,250,37,23,15,+14,83%,147,41%,5,4,+1
+C0M,LEV,All_Maps,All,"Sova, Viper",1.34,276,41,27,9,+14,80%,193,26%,3,3,0
+nataNk,LEV,All_Maps,All,"Breach, Skye",1.28,203,27,20,22,+7,80%,127,27%,4,4,0
+tex,LEV,All_Maps,All,Cypher,0.86,162,24,25,4,-1,70%,104,31%,4,4,0
+Demon1,LEV,All_Maps,All,"Jett, Raze",0.80,163,22,26,5,-4,68%,112,22%,5,4,+1
+Khalil,FUR,All_Maps,All,Omen,0.98,188,28,29,9,-1,78%,121,43%,3,3,0
+havoc,FUR,All_Maps,All,"Jett, Raze",0.97,237,29,33,11,-4,78%,159,26%,9,5,+4
+mwzera,FUR,All_Maps,All,"Sova, Skye",0.92,188,25,28,10,-3,68%,119,12%,4,3,+1
+raafa,FUR,All_Maps,All,"Breach, Sage",0.66,123,17,29,9,-12,58%,90,16%,0,2,-2
+heat,FUR,All_Maps,All,"Cypher, Viper",0.63,156,22,32,2,-10,50%,106,37%,3,8,-5
+kiNgg,LEV,All_Maps,Attack,Omen,1.63,277,25,12,11,+13,88%,172,42%,2,2,0
+C0M,LEV,All_Maps,Attack,"Sova, Viper",1.36,281,26,15,5,+11,83%,193,29%,2,1,+1
+nataNk,LEV,All_Maps,Attack,"Breach, Skye",1.19,189,15,12,12,+3,79%,129,27%,1,3,-2
+tex,LEV,All_Maps,Attack,Cypher,0.93,179,16,15,3,+1,75%,119,33%,4,3,+1
+Demon1,LEV,All_Maps,Attack,"Jett, Raze",0.75,164,14,16,1,-2,63%,106,21%,4,2,+2
+Khalil,FUR,All_Maps,Attack,Omen,1.04,205,12,11,4,+1,81%,121,33%,2,0,+2
+havoc,FUR,All_Maps,Attack,"Jett, Raze",0.65,169,8,13,4,-5,63%,128,23%,4,3,+1
+mwzera,FUR,All_Maps,Attack,"Sova, Skye",0.83,168,10,10,5,0,69%,104,15%,1,2,-1
+raafa,FUR,All_Maps,Attack,"Breach, Sage",0.91,137,8,9,5,-1,81%,84,16%,0,1,-1
+heat,FUR,All_Maps,Attack,"Cypher, Viper",0.95,226,13,12,0,+1,50%,144,46%,1,2,-1
+kiNgg,LEV,All_Maps,Defend,Omen,1.13,207,12,11,4,+1,75%,109,38%,3,2,+1
+C0M,LEV,All_Maps,Defend,"Sova, Viper",1.30,277,15,12,4,+3,75%,193,22%,1,2,-1
+nataNk,LEV,All_Maps,Defend,"Breach, Skye",1.41,223,12,8,10,+4,81%,124,27%,3,1,+2
+tex,LEV,All_Maps,Defend,Cypher,0.74,137,8,10,1,-2,63%,81,26%,0,1,-1
+Demon1,LEV,All_Maps,Defend,"Jett, Raze",0.88,163,8,10,4,-2,75%,121,22%,1,2,-1
+Khalil,FUR,All_Maps,Defend,Omen,0.93,179,16,18,5,-2,75%,121,53%,1,3,-2
+havoc,FUR,All_Maps,Defend,"Jett, Raze",1.18,280,21,20,7,+1,88%,180,29%,5,2,+3
+mwzera,FUR,All_Maps,Defend,"Sova, Skye",0.98,204,15,18,5,-3,67%,129,11%,3,1,+2
+raafa,FUR,All_Maps,Defend,"Breach, Sage",0.50,116,9,20,4,-11,42%,94,16%,0,1,-1
+heat,FUR,All_Maps,Defend,"Cypher, Viper",0.41,110,9,20,2,-11,50%,82,29%,2,6,-4

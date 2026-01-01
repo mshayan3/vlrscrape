@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+N4RRATE,SEN,All_Maps,All,"Breach, Tejo, Sova",1.60,277,62,35,35,+27,86%,182,28%,9,3,+6
+johnqt,SEN,All_Maps,All,"Tejo, Breach",1.30,199,50,33,31,+17,78%,132,29%,3,5,-2
+bang,SEN,All_Maps,All,Omen,0.91,172,39,42,22,-3,80%,108,33%,7,4,+3
+zekken,SEN,All_Maps,All,"Yoru, Neon",0.90,184,45,47,19,-2,72%,117,23%,4,11,-7
+Zellsis,SEN,All_Maps,All,"Viper, Cypher",0.89,194,39,45,19,-6,60%,126,25%,10,9,+1
+lukxo,LOUD,All_Maps,All,"Viper, Vyse, Cypher",1.21,273,61,49,16,+12,66%,181,27%,12,6,+6
+dgzin,LOUD,All_Maps,All,"Jett, Neon",1.07,226,53,50,11,+3,71%,148,37%,14,8,+6
+tuyz,LOUD,All_Maps,All,Breach,0.80,124,28,42,28,-14,71%,84,37%,1,5,-4
+pANcada,LOUD,All_Maps,All,Omen,0.78,165,36,49,18,-13,65%,113,32%,5,6,-1
+cauanzin,LOUD,All_Maps,All,Tejo,0.65,111,24,45,11,-21,58%,78,18%,0,8,-8
+N4RRATE,SEN,All_Maps,Attack,"Breach, Tejo, Sova",1.69,279,36,18,17,+18,86%,192,24%,4,2,+2
+johnqt,SEN,All_Maps,Attack,"Tejo, Breach",1.20,185,28,17,11,+11,75%,117,33%,1,4,-3
+bang,SEN,All_Maps,Attack,Omen,0.84,152,18,23,12,-5,83%,95,35%,3,2,+1
+zekken,SEN,All_Maps,Attack,"Yoru, Neon",0.95,213,28,26,12,+2,75%,137,32%,4,6,-2
+Zellsis,SEN,All_Maps,Attack,"Viper, Cypher",1.01,207,24,24,13,0,72%,138,28%,5,5,0
+lukxo,LOUD,All_Maps,Attack,"Viper, Vyse, Cypher",0.93,224,24,22,3,+2,66%,149,26%,3,3,0
+dgzin,LOUD,All_Maps,Attack,"Jett, Neon",1.12,258,26,22,5,+4,79%,163,36%,7,5,+2
+tuyz,LOUD,All_Maps,Attack,Breach,1.07,167,18,17,11,+1,79%,113,43%,0,0,0
+pANcada,LOUD,All_Maps,Attack,Omen,0.78,167,17,21,7,-4,69%,106,25%,3,2,+1
+cauanzin,LOUD,All_Maps,Attack,Tejo,0.59,100,9,19,4,-10,59%,68,31%,0,6,-6
+N4RRATE,SEN,All_Maps,Defend,"Breach, Tejo, Sova",1.49,270,26,17,18,+9,86%,170,36%,5,1,+4
+johnqt,SEN,All_Maps,Defend,"Tejo, Breach",1.42,219,22,16,20,+6,83%,150,26%,2,1,+1
+bang,SEN,All_Maps,Defend,Omen,1.00,206,21,19,10,+2,76%,124,31%,4,2,+2
+zekken,SEN,All_Maps,Defend,"Yoru, Neon",0.83,151,17,21,7,-4,69%,92,11%,0,5,-5
+Zellsis,SEN,All_Maps,Defend,"Viper, Cypher",0.73,156,15,21,6,-6,45%,110,20%,5,4,+1
+lukxo,LOUD,All_Maps,Defend,"Viper, Vyse, Cypher",1.43,309,37,27,13,+10,67%,207,27%,9,3,+6
+dgzin,LOUD,All_Maps,Defend,"Jett, Neon",1.02,214,27,28,6,-1,64%,135,38%,7,3,+4
+tuyz,LOUD,All_Maps,Defend,Breach,0.57,93,10,25,17,-15,64%,61,31%,1,5,-4
+pANcada,LOUD,All_Maps,Defend,Omen,0.78,165,19,28,11,-9,61%,118,39%,2,4,-2
+cauanzin,LOUD,All_Maps,Defend,Tejo,0.71,126,15,26,7,-11,58%,86,10%,0,2,-2

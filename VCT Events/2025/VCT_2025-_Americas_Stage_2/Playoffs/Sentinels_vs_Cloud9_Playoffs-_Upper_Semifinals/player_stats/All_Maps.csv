@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Zellsis,SEN,All_Maps,All,"Vyse, Killjoy",1.18,228,53,44,26,+9,82%,148,21%,6,6,0
+zekken,SEN,All_Maps,All,"Neon, Jett, Raze",1.12,218,55,45,6,+10,65%,142,26%,14,13,+1
+johnqt,SEN,All_Maps,All,"Viper, Sage",1.11,188,42,41,28,+1,81%,127,32%,5,1,+4
+N4RRATE,SEN,All_Maps,All,"Fade, Sova",1.03,179,46,42,18,+4,71%,111,23%,7,3,+4
+bang,SEN,All_Maps,All,"Omen, Viper",0.81,159,33,50,32,-17,76%,102,28%,5,8,-3
+Xeppaa,C9,All_Maps,All,"Vyse, Killjoy",1.04,198,46,44,21,+2,75%,136,22%,4,5,-1
+v1c,C9,All_Maps,All,"Omen, Iso",1.02,192,46,46,30,0,75%,124,30%,5,4,+1
+mitch,C9,All_Maps,All,"Skye, Sova, Fade",1.00,190,44,44,21,0,75%,122,17%,4,5,-1
+neT,C9,All_Maps,All,Viper,0.97,165,43,41,24,+2,78%,103,24%,7,8,-1
+OXY,C9,All_Maps,All,Raze,0.82,198,43,54,13,-11,68%,139,23%,11,15,-4
+Zellsis,SEN,All_Maps,Attack,"Vyse, Killjoy",1.13,194,25,20,14,+5,83%,127,22%,1,3,-2
+zekken,SEN,All_Maps,Attack,"Neon, Jett, Raze",1.25,252,32,23,2,+9,64%,163,31%,11,8,+3
+johnqt,SEN,All_Maps,Attack,"Viper, Sage",1.13,190,23,19,11,+4,78%,130,32%,1,0,+1
+N4RRATE,SEN,All_Maps,Attack,"Fade, Sova",0.88,151,22,22,6,0,69%,91,27%,3,2,+1
+bang,SEN,All_Maps,Attack,"Omen, Viper",0.76,134,15,24,11,-9,81%,83,24%,2,5,-3
+Xeppaa,C9,All_Maps,Attack,"Vyse, Killjoy",1.25,227,26,21,12,+5,75%,153,23%,1,1,0
+v1c,C9,All_Maps,Attack,"Omen, Iso",1.16,225,25,20,15,+5,81%,145,34%,4,3,+1
+mitch,C9,All_Maps,Attack,"Skye, Sova, Fade",0.92,195,21,22,15,-1,81%,119,11%,2,4,-2
+neT,C9,All_Maps,Attack,Viper,0.93,164,20,20,14,0,78%,103,26%,3,4,-1
+OXY,C9,All_Maps,Attack,Raze,0.69,192,22,29,2,-7,63%,129,27%,3,7,-4
+Zellsis,SEN,All_Maps,Defend,"Vyse, Killjoy",1.25,266,28,24,12,+4,81%,173,20%,5,3,+2
+zekken,SEN,All_Maps,Defend,"Neon, Jett, Raze",0.96,183,23,22,4,+1,66%,119,20%,3,5,-2
+johnqt,SEN,All_Maps,Defend,"Viper, Sage",1.09,187,19,22,17,-3,84%,124,32%,4,1,+3
+N4RRATE,SEN,All_Maps,Defend,"Fade, Sova",1.20,213,24,20,12,+4,72%,133,21%,4,1,+3
+bang,SEN,All_Maps,Defend,"Omen, Viper",0.87,187,18,26,21,-8,72%,123,33%,3,3,0
+Xeppaa,C9,All_Maps,Defend,"Vyse, Killjoy",0.85,173,20,23,9,-3,75%,121,22%,3,4,-1
+v1c,C9,All_Maps,Defend,"Omen, Iso",0.89,165,21,26,15,-5,69%,105,25%,1,1,0
+mitch,C9,All_Maps,Defend,"Skye, Sova, Fade",1.08,186,23,22,6,+1,69%,125,26%,2,1,+1
+neT,C9,All_Maps,Defend,Viper,1.01,166,23,21,10,+2,78%,103,23%,4,4,0
+OXY,C9,All_Maps,Defend,Raze,0.99,205,21,25,11,-4,72%,147,20%,8,8,0

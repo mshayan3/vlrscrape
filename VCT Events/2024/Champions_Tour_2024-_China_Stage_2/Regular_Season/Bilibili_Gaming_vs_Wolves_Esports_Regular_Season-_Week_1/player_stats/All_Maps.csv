@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Flex1n,BLG,All_Maps,All,"Omen, Brimstone",,267,38,20,27,+18,,155,25%,6,2,+4
+yosemite,BLG,All_Maps,All,"Raze, Viper",,240,33,23,10,+10,,165,26%,4,4,0
+nephh,BLG,All_Maps,All,"Gekko, Skye",,220,29,24,17,+5,,151,28%,5,0,+5
+Knight,BLG,All_Maps,All,"Sage, Cypher",,192,28,28,9,0,,136,33%,2,3,-1
+whzy,BLG,All_Maps,All,"Chamber, Raze",,178,25,28,7,-3,,123,21%,8,4,+4
+Yuicaw,WOL,All_Maps,All,"Gekko, Brimstone",,244,34,31,8,+3,,153,38%,4,4,0
+Spring,WOL,All_Maps,All,Raze,,217,25,34,12,-9,,145,23%,5,15,-10
+pl1xx,WOL,All_Maps,All,"Sage, Fade",,178,23,33,7,-10,,117,45%,2,2,0
+balua,WOL,All_Maps,All,"Omen, Viper",,167,20,29,9,-9,,110,27%,2,3,-1
+SiuFatBB,WOL,All_Maps,All,"Breach, Gekko",,139,20,26,11,-6,,96,31%,0,1,-1
+Flex1n,BLG,All_Maps,Attack,"Omen, Brimstone",,,,,,,
+yosemite,BLG,All_Maps,Attack,"Raze, Viper",,,,,,,
+nephh,BLG,All_Maps,Attack,"Gekko, Skye",,,,,,,
+Knight,BLG,All_Maps,Attack,"Sage, Cypher",,,,,,,
+whzy,BLG,All_Maps,Attack,"Chamber, Raze",,,,,,,
+Yuicaw,WOL,All_Maps,Attack,"Gekko, Brimstone",,,,,,,
+Spring,WOL,All_Maps,Attack,Raze,,,,,,,
+pl1xx,WOL,All_Maps,Attack,"Sage, Fade",,,,,,,
+balua,WOL,All_Maps,Attack,"Omen, Viper",,,,,,,
+SiuFatBB,WOL,All_Maps,Attack,"Breach, Gekko",,,,,,,
+Flex1n,BLG,All_Maps,Defend,"Omen, Brimstone",,,,,,,
+yosemite,BLG,All_Maps,Defend,"Raze, Viper",,,,,,,
+nephh,BLG,All_Maps,Defend,"Gekko, Skye",,,,,,,
+Knight,BLG,All_Maps,Defend,"Sage, Cypher",,,,,,,
+whzy,BLG,All_Maps,Defend,"Chamber, Raze",,,,,,,
+Yuicaw,WOL,All_Maps,Defend,"Gekko, Brimstone",,,,,,,
+Spring,WOL,All_Maps,Defend,Raze,,,,,,,
+pl1xx,WOL,All_Maps,Defend,"Sage, Fade",,,,,,,
+balua,WOL,All_Maps,Defend,"Omen, Viper",,,,,,,
+SiuFatBB,WOL,All_Maps,Defend,"Breach, Gekko",,,,,,,

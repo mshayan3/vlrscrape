@@ -1,0 +1,25 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+2Lotus,1,"""0-1""",GX,Attackers,Elimination
+2Lotus,2,"""0-2""",GX,Attackers,Elimination
+2Lotus,3,"""1-2""",TL,Defenders,Elimination
+2Lotus,4,"""2-2""",TL,Defenders,Elimination
+2Lotus,5,"""3-2""",TL,Defenders,Defuse
+2Lotus,6,"""4-2""",TL,Defenders,Defuse
+2Lotus,7,"""5-2""",TL,Defenders,Elimination
+2Lotus,8,"""5-3""",GX,Attackers,Elimination
+2Lotus,9,"""5-4""",GX,Attackers,Elimination
+2Lotus,10,"""5-5""",GX,Attackers,Elimination
+2Lotus,11,"""5-6""",GX,Attackers,Elimination
+2Lotus,12,"""5-7""",GX,Attackers,Elimination
+2Lotus,13,"""6-7""",GX,Attackers,Elimination
+2Lotus,14,"""7-7""",GX,Attackers,Spike Detonation
+2Lotus,15,"""8-7""",GX,Attackers,Elimination
+2Lotus,16,"""9-7""",GX,Attackers,Elimination
+2Lotus,17,"""10-7""",GX,Attackers,Elimination
+2Lotus,18,"""11-7""",GX,Attackers,Elimination
+2Lotus,19,"""11-8""",TL,Defenders,Defuse
+2Lotus,20,"""11-9""",TL,Defenders,Defuse
+2Lotus,21,"""12-9""",GX,Attackers,Elimination
+2Lotus,22,"""13-9""",GX,Attackers,Elimination
+2Lotus,23,"""""",,,
+2Lotus,24,"""""",,,
