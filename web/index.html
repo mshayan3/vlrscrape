@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VALORANT Champions 2025 - AI Analytics</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;600;700&family=Roboto+Mono:wght@400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="background-pattern"></div>
+    
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="logo">
+                <div class="logo-icon">V</div>
+                <div class="logo-text">
+                    <h1>VALORANT CHAMPIONS 2025</h1>
+                    <p>AI-Powered Analytics</p>
+                </div>
+            </div>
+            <div class="status-indicator">
+                <span class="status-dot" id="statusDot"></span>
+                <span id="statusText">Connecting...</span>
+            </div>
+        </header>
+
+        <!-- Main Chat Area -->
+        <main class="chat-container">
+            <div class="chat-header">
+                <h2>TACTICAL QUERY INTERFACE</h2>
+                <p>Ask questions about player stats, matches, and tournament data</p>
+            </div>
+
+            <div class="messages" id="messages">
+                <!-- Welcome Message -->
+                <div class="message bot-message">
+                    <div class="message-avatar bot-avatar">AI</div>
+                    <div class="message-content">
+                        <div class="message-text">
+                            <p><strong>Welcome, Agent.</strong></p>
+                            <p>I'm your tactical analyst for VALORANT Champions 2025. Ask me anything about:</p>
+                            <ul>
+                                <li>Player statistics and performance</li>
+                                <li>Team matchups and results</li>
+                                <li>Agent picks and meta analysis</li>
+                                <li>Map statistics and economy data</li>
+                            </ul>
+                            <p class="example-queries">Try: <em>"Who are the top 5 players by ACS?"</em></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="input-container">
+                <div class="input-wrapper">
+                    <input 
+                        type="text" 
+                        id="userInput" 
+                        placeholder="Enter your tactical query..."
+                        autocomplete="off"
+                    >
+                    <button id="sendButton" class="send-button">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
+                            <path d="M22 2L11 13M22 2L15 22L11 13M22 2L2 8L11 13" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                    </button>
+                </div>
+                <div class="input-hint">
+                    <span class="hint-icon">💡</span>
+                    <span id="hintText">Press Enter to send</span>
+                </div>
+            </div>
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>Powered by AI • Data from VLR.gg • VALORANT Champions 2025</p>
+        </footer>
+    </div>
+
+    <!-- Loading Overlay -->
+    <div class="loading-overlay" id="loadingOverlay">
+        <div class="loading-spinner"></div>
+        <p>Processing query...</p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

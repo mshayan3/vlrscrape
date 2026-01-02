@@ -132,6 +132,67 @@ VLR.gg → main_scrape.py → CSV files → ingest_*.py → SQLite DB
 
 - **Active Database**: `valorant_champions_2025.db`
 
+## AI Chatbot
+
+Query the database using natural language with the RAG-based AI chatbot!
+
+### Quick Start
+
+```bash
+# 1. Install dependencies
+pip install -r requirements.txt
+
+# 2. Set up API key
+cp .env.template .env
+# Edit .env and add your OpenAI or Anthropic API key
+
+# 3. Run the chatbot
+python chatbot.py
+```
+
+### Example Questions
+
+- "Who are the top 10 players by ACS?"
+- "Show me all matches for Team Heretics"
+- "What agents does aspas play most?"
+- "Which team won the most rounds on Ascent?"
+
+See [CHATBOT_SETUP.md](CHATBOT_SETUP.md) for detailed setup instructions and more examples.
+
+## Web Frontend
+
+Interactive Valorant-themed web interface for the chatbot!
+
+### Quick Start
+
+```bash
+# 1. Install Flask dependencies
+pip install flask flask-cors
+
+# 2. Start the API server
+python api.py
+
+# 3. Open the web interface
+open web/index.html
+```
+
+### Features
+
+- 🎮 **Valorant Theme** - Authentic red/black color scheme with glowing effects
+- 💬 **Real-time Chat** - Interactive interface with typing indicators
+- 📊 **Table Results** - Beautiful formatted tables for query results
+- 📱 **Responsive** - Works on desktop and mobile
+- 🚀 **Deployable** - Ready for GitHub Pages + backend deployment
+
+### GitHub Pages Deployment
+
+1. Push to GitHub
+2. Enable Pages in repo settings → `/web` folder
+3. Deploy backend to Render/Railway (or run locally)
+4. Update API_URL in `web/script.js`
+
+See [WEB_SETUP.md](WEB_SETUP.md) for complete deployment guide.
+
 ---
 
 ## Future Enhancements
