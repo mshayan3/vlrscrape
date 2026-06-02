@@ -1,0 +1,17 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+1Sunset,1,"""0-1""",EDG,Defenders,Defuse
+1Sunset,2,"""0-2""",EDG,Defenders,Defuse
+1Sunset,3,"""0-3""",EDG,Defenders,Elimination
+1Sunset,4,"""0-4""",EDG,Defenders,Elimination
+1Sunset,5,"""0-5""",EDG,Defenders,Elimination
+1Sunset,6,"""0-6""",EDG,Defenders,Elimination
+1Sunset,7,"""0-7""",EDG,Defenders,Time Expired
+1Sunset,8,"""0-8""",EDG,Defenders,Elimination
+1Sunset,9,"""0-9""",EDG,Defenders,Elimination
+1Sunset,10,"""0-10""",EDG,Defenders,Elimination
+1Sunset,11,"""1-10""",TL,Attackers,Elimination
+1Sunset,12,"""1-11""",EDG,Defenders,Defuse
+1Sunset,13,"""1-12""",EDG,Attackers,Elimination
+1Sunset,14,"""2-12""",TL,Defenders,Defuse
+1Sunset,15,"""3-12""",TL,Defenders,Elimination
+1Sunset,16,"""3-13""",EDG,Attackers,Elimination

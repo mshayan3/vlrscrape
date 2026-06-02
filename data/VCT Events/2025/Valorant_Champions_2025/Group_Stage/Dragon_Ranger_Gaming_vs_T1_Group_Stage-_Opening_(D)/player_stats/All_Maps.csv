@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+SpiritZ1,DRG,All_Maps,All,Yoru,1.31,275,53,44,24,+9,86%,179,31%,13,4,+9
+Nicc,DRG,All_Maps,All,"Breach, Fade",1.18,227,49,37,15,+12,83%,142,34%,2,1,+1
+Demon1,DRG,All_Maps,All,"Vyse, Cypher",1.01,176,39,37,7,+2,69%,118,35%,2,2,0
+Akeman,DRG,All_Maps,All,"Waylay, Neon",0.75,182,37,46,13,-9,60%,118,21%,8,11,-3
+Flex1n,DRG,All_Maps,All,Omen,0.74,159,32,43,23,-11,72%,108,26%,5,10,-5
+DH,T1,All_Maps,All,Omen,1.16,222,44,42,23,+2,74%,137,28%,6,4,+2
+Meteor,T1,All_Maps,All,"Vyse, Cypher",1.10,224,45,43,9,+2,69%,148,40%,4,5,-1
+BuZz,T1,All_Maps,All,Neon,1.05,231,48,43,14,+5,72%,154,22%,4,11,-7
+iZu,T1,All_Maps,All,Yoru,0.92,185,38,41,13,-3,71%,109,26%,11,5,+6
+stax,T1,All_Maps,All,"Fade, Sova",0.82,171,32,41,22,-9,72%,109,42%,3,5,-2
+SpiritZ1,DRG,All_Maps,Attack,Yoru,0.94,188,20,20,8,0,90%,121,35%,5,3,+2
+Nicc,DRG,All_Maps,Attack,"Breach, Fade",1.34,274,30,19,9,+11,93%,163,35%,2,0,+2
+Demon1,DRG,All_Maps,Attack,"Vyse, Cypher",1.18,197,21,18,3,+3,69%,138,38%,1,0,+1
+Akeman,DRG,All_Maps,Attack,"Waylay, Neon",0.69,190,18,25,6,-7,62%,122,23%,5,6,-1
+Flex1n,DRG,All_Maps,Attack,Omen,0.77,163,17,21,12,-4,76%,100,25%,2,5,-3
+DH,T1,All_Maps,Attack,Omen,1.17,217,20,20,11,0,76%,148,25%,3,1,+2
+Meteor,T1,All_Maps,Attack,"Vyse, Cypher",1.41,271,27,20,4,+7,72%,172,45%,2,2,0
+BuZz,T1,All_Maps,Attack,Neon,0.98,229,24,22,6,+2,76%,146,25%,3,6,-3
+iZu,T1,All_Maps,Attack,Yoru,0.74,166,16,22,8,-6,72%,104,22%,5,2,+3
+stax,T1,All_Maps,Attack,"Fade, Sova",0.79,163,17,20,11,-3,69%,101,43%,1,4,-3
+SpiritZ1,DRG,All_Maps,Defend,Yoru,1.67,360,33,24,16,+9,83%,237,29%,8,1,+7
+Nicc,DRG,All_Maps,Defend,"Breach, Fade",1.01,179,19,18,6,+1,72%,122,32%,0,1,-1
+Demon1,DRG,All_Maps,Defend,"Vyse, Cypher",0.84,154,18,19,4,-1,69%,98,31%,1,2,-1
+Akeman,DRG,All_Maps,Defend,"Waylay, Neon",0.81,175,19,21,7,-2,59%,113,18%,3,5,-2
+Flex1n,DRG,All_Maps,Defend,Omen,0.71,158,15,22,11,-7,69%,116,28%,3,5,-2
+DH,T1,All_Maps,Defend,Omen,1.15,224,24,22,12,+2,72%,125,32%,3,3,0
+Meteor,T1,All_Maps,Defend,"Vyse, Cypher",0.78,181,18,23,5,-5,66%,124,35%,2,3,-1
+BuZz,T1,All_Maps,Defend,Neon,1.11,236,24,21,8,+3,69%,162,20%,1,5,-4
+iZu,T1,All_Maps,Defend,Yoru,1.11,202,22,19,5,+3,69%,114,31%,6,3,+3
+stax,T1,All_Maps,Defend,"Fade, Sova",0.85,180,15,21,11,-6,76%,117,40%,2,1,+1

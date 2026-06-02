@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+jawgemo,G2,All_Maps,All,Yoru,1.32,278,39,27,15,+12,78%,176,35%,9,9,0
+leaf,G2,All_Maps,All,"Viper, Deadlock",1.20,229,35,27,9,+8,75%,154,22%,3,2,+1
+JonahP,G2,All_Maps,All,"Fade, Sova",1.14,200,29,26,15,+3,78%,130,21%,4,3,+1
+trent,G2,All_Maps,All,Tejo,1.09,174,26,22,15,+4,75%,128,28%,1,5,-4
+valyn,G2,All_Maps,All,"Omen, Astra",0.91,159,22,25,13,-3,78%,105,29%,1,3,-2
+Demon1,DRG,All_Maps,All,"Vyse, Cypher",0.99,174,25,26,9,-1,80%,115,45%,2,2,0
+Flex1n,DRG,All_Maps,All,Omen,0.98,211,29,29,16,0,80%,135,33%,5,2,+3
+Akeman,DRG,All_Maps,All,Waylay,0.97,212,31,31,3,0,65%,134,30%,7,2,+5
+SpiritZ1,DRG,All_Maps,All,Yoru,0.74,200,27,34,8,-7,68%,122,27%,8,7,+1
+Nicc,DRG,All_Maps,All,"Breach, Sova",0.53,120,15,31,12,-16,68%,92,33%,0,5,-5
+jawgemo,G2,All_Maps,Attack,Yoru,1.03,243,17,15,6,+2,70%,155,30%,3,6,-3
+leaf,G2,All_Maps,Attack,"Viper, Deadlock",1.14,188,14,13,5,+1,75%,141,21%,0,1,-1
+JonahP,G2,All_Maps,Attack,"Fade, Sova",1.46,270,21,13,6,+8,80%,175,31%,3,2,+1
+trent,G2,All_Maps,Attack,Tejo,1.41,238,17,11,9,+6,80%,177,31%,1,2,-1
+valyn,G2,All_Maps,Attack,"Omen, Astra",0.61,110,6,14,7,-8,70%,74,25%,0,2,-2
+Demon1,DRG,All_Maps,Attack,"Vyse, Cypher",1.34,220,16,12,4,+4,80%,143,50%,2,2,0
+Flex1n,DRG,All_Maps,Attack,Omen,1.12,238,16,15,9,+1,85%,160,36%,3,2,+1
+Akeman,DRG,All_Maps,Attack,Waylay,0.78,156,12,16,0,-4,65%,111,21%,2,1,+1
+SpiritZ1,DRG,All_Maps,Attack,Yoru,0.57,142,10,16,2,-6,60%,95,25%,2,3,-1
+Nicc,DRG,All_Maps,Attack,"Breach, Sova",0.40,100,7,17,2,-10,65%,66,41%,0,3,-3
+jawgemo,G2,All_Maps,Defend,Yoru,1.62,313,22,12,9,+10,85%,197,40%,6,3,+3
+leaf,G2,All_Maps,Defend,"Viper, Deadlock",1.25,271,21,14,4,+7,75%,166,23%,3,1,+2
+JonahP,G2,All_Maps,Defend,"Fade, Sova",0.82,131,8,13,9,-5,75%,86,8%,1,1,0
+trent,G2,All_Maps,Defend,Tejo,0.76,110,9,11,6,-2,70%,80,23%,0,3,-3
+valyn,G2,All_Maps,Defend,"Omen, Astra",1.20,210,16,11,6,+5,85%,137,32%,1,1,0
+Demon1,DRG,All_Maps,Defend,"Vyse, Cypher",0.63,128,9,14,5,-5,80%,87,38%,0,0,0
+Flex1n,DRG,All_Maps,Defend,Omen,0.84,184,13,14,7,-1,75%,109,30%,2,0,+2
+Akeman,DRG,All_Maps,Defend,Waylay,1.16,269,19,15,3,+4,65%,157,39%,5,1,+4
+SpiritZ1,DRG,All_Maps,Defend,Yoru,0.91,258,17,18,6,-1,75%,149,29%,6,4,+2
+Nicc,DRG,All_Maps,Defend,"Breach, Sova",0.67,141,8,14,10,-6,70%,118,30%,0,2,-2

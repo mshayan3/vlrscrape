@@ -1,0 +1,167 @@
+erDiagram
+    events {
+        TEXT event_id PK
+        TEXT event_name
+        INTEGER season_year
+        TEXT region
+    }
+    teams {
+        TEXT team_id PK
+        TEXT team_name
+        TEXT region
+    }
+    team_aliases {
+        TEXT alias PK
+        TEXT team_id FK
+    }
+    players {
+        TEXT player_id PK
+        TEXT player_name
+        TEXT current_team_id FK
+    }
+    agents {
+        TEXT agent_id PK
+        TEXT agent_name
+    }
+    matches {
+        TEXT match_id PK
+        TEXT event_id FK
+        TEXT vlr_match_id
+        TEXT match_name
+        TEXT stage
+        TEXT match_date
+        TEXT patch
+        TEXT team_a_id FK
+        TEXT team_b_id FK
+        TEXT winner_team_id FK
+    }
+    maps {
+        TEXT map_id PK
+        TEXT match_id FK
+        TEXT vlr_game_id
+        INTEGER map_number
+        TEXT map_name
+        INTEGER team_a_score
+        INTEGER team_b_score
+        TEXT winner_team_id FK
+    }
+    rounds {
+        TEXT round_id PK
+        TEXT map_id FK
+        INTEGER round_number
+        TEXT score_after
+        TEXT winning_team_id FK
+        TEXT winning_side
+        TEXT win_method
+    }
+    map_veto {
+        TEXT veto_id PK
+        TEXT match_id FK
+        INTEGER order_no
+        TEXT team_id FK
+        TEXT action_type
+        TEXT map_name
+    }
+    player_map_stats {
+        TEXT pms_id PK
+        TEXT map_id FK
+        TEXT player_id FK
+        TEXT team_id FK
+        TEXT side
+        REAL rating
+        REAL acs
+        INTEGER kills
+        INTEGER deaths
+        INTEGER assists
+        INTEGER kd_diff
+        REAL kast
+        REAL adr
+        REAL hs_pct
+        INTEGER fk
+        INTEGER fd
+    }
+    player_map_agents {
+        TEXT map_id FK
+        TEXT player_id FK
+        TEXT agent_id FK
+    }
+    player_map_advanced {
+        TEXT pma_id PK
+        TEXT map_id FK
+        TEXT player_id FK
+        TEXT team_id FK
+        INTEGER multikill_2
+        INTEGER multikill_3
+        INTEGER multikill_4
+        INTEGER multikill_5
+        INTEGER clutch_1v1
+        INTEGER clutch_1v2
+        INTEGER clutch_1v3
+        INTEGER clutch_1v4
+        INTEGER clutch_1v5
+        INTEGER econ_rating
+        INTEGER plant_success
+        INTEGER defuse_success
+    }
+    player_vs_player_kills {
+        TEXT pvpk_id PK
+        TEXT map_id FK
+        TEXT killer_player_id FK
+        TEXT victim_player_id FK
+        TEXT killer_team_id FK
+        TEXT victim_team_id FK
+        TEXT kill_type
+        INTEGER kills_count
+    }
+    map_economy_summary {
+        TEXT mes_id PK
+        TEXT map_id FK
+        TEXT team_id FK
+        TEXT buy_type
+        INTEGER rounds_played
+        INTEGER rounds_won
+    }
+    round_economy {
+        TEXT econ_id PK
+        TEXT map_id FK
+        INTEGER round_number
+        TEXT team_id FK
+        TEXT side
+        INTEGER bank_start
+        INTEGER loadout_value
+        TEXT buy_tier
+    }
+    raw_files {
+        TEXT file_id PK
+        TEXT event_id
+        TEXT match_id
+        INTEGER map_number
+        TEXT filename
+        TEXT ingested_at
+        INTEGER row_count
+    }
+
+    events        ||--o{ matches             : "hosts"
+    teams         ||--o{ team_aliases        : "aliased by"
+    teams         ||--o{ players             : "has"
+    teams         ||--o{ matches             : "plays in (a/b/winner)"
+    teams         ||--o{ map_veto            : "acts in"
+    teams         ||--o{ player_map_stats    : "in"
+    teams         ||--o{ player_map_advanced : "in"
+    teams         ||--o{ map_economy_summary : "in"
+    teams         ||--o{ round_economy       : "in"
+    teams         ||--o{ player_vs_player_kills : "killer / victim"
+    players       ||--o{ player_map_stats    : "has stats"
+    players       ||--o{ player_map_agents   : "picks agent"
+    players       ||--o{ player_map_advanced : "has adv stats"
+    players       ||--o{ player_vs_player_kills : "kills / dies"
+    agents        ||--o{ player_map_agents   : "used as"
+    matches       ||--o{ maps                : "contains"
+    matches       ||--o{ map_veto            : "has veto"
+    maps          ||--o{ rounds              : "has"
+    maps          ||--o{ player_map_stats    : "has"
+    maps          ||--o{ player_map_agents   : "has"
+    maps          ||--o{ player_map_advanced : "has"
+    maps          ||--o{ player_vs_player_kills : "has"
+    maps          ||--o{ map_economy_summary : "has"
+    maps          ||--o{ round_economy       : "has"

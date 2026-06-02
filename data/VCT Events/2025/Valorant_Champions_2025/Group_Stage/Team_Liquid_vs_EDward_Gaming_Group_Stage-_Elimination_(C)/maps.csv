@@ -1,0 +1,4 @@
+map_number,vlr_game_id,map_name,team_a_score,team_b_score,pick_team,duration_seconds
+1,233436,Sunset,3,13,team_a,2444
+2,233437,Abyss,13,6,team_b,2356
+3,233438,Bind,15,13,,3945

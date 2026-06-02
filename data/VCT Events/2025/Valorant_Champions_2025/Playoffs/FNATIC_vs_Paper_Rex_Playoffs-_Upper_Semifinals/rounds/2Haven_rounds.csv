@@ -1,0 +1,18 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+2Haven,1,"""0-1""",PRX,Defenders,Defuse
+2Haven,2,"""1-1""",FNC,Attackers,Elimination
+2Haven,3,"""2-1""",FNC,Attackers,Spike Detonation
+2Haven,4,"""2-2""",PRX,Defenders,Elimination
+2Haven,5,"""2-3""",PRX,Defenders,Time Expired
+2Haven,6,"""3-3""",FNC,Attackers,Spike Detonation
+2Haven,7,"""4-3""",FNC,Attackers,Elimination
+2Haven,8,"""5-3""",FNC,Attackers,Elimination
+2Haven,9,"""6-3""",FNC,Attackers,Spike Detonation
+2Haven,10,"""6-4""",PRX,Defenders,Defuse
+2Haven,11,"""7-4""",FNC,Attackers,Elimination
+2Haven,12,"""8-4""",FNC,Attackers,Elimination
+2Haven,13,"""9-4""",FNC,Defenders,Elimination
+2Haven,14,"""10-4""",FNC,Defenders,Elimination
+2Haven,15,"""11-4""",FNC,Defenders,Elimination
+2Haven,16,"""12-4""",FNC,Defenders,Defuse
+2Haven,17,"""13-4""",FNC,Defenders,Elimination

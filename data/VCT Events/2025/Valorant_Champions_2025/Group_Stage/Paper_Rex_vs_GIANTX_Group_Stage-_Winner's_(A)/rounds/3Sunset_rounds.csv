@@ -1,0 +1,20 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+3Sunset,1,"""1-0""",PRX,Attackers,Elimination
+3Sunset,2,"""2-0""",PRX,Attackers,Elimination
+3Sunset,3,"""2-1""",GX,Defenders,Time Expired
+3Sunset,4,"""3-1""",PRX,Attackers,Elimination
+3Sunset,5,"""4-1""",PRX,Attackers,Elimination
+3Sunset,6,"""4-2""",GX,Defenders,Defuse
+3Sunset,7,"""5-2""",PRX,Attackers,Elimination
+3Sunset,8,"""6-2""",PRX,Attackers,Spike Detonation
+3Sunset,9,"""6-3""",GX,Defenders,Time Expired
+3Sunset,10,"""6-4""",GX,Defenders,Elimination
+3Sunset,11,"""7-4""",PRX,Attackers,Elimination
+3Sunset,12,"""7-5""",GX,Defenders,Elimination
+3Sunset,13,"""8-5""",PRX,Defenders,Defuse
+3Sunset,14,"""9-5""",PRX,Defenders,Elimination
+3Sunset,15,"""10-5""",PRX,Defenders,Elimination
+3Sunset,16,"""11-5""",PRX,Defenders,Elimination
+3Sunset,17,"""12-5""",PRX,Defenders,Elimination
+3Sunset,18,"""12-6""",GX,Attackers,Elimination
+3Sunset,19,"""13-6""",PRX,Defenders,Defuse

@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+Knight,BLG,All_Maps,All,"Sova, Fade",1.14,189,41,38,16,+3,69%,130,26%,3,6,-3
+Levius,BLG,All_Maps,All,"Cypher, Vyse",1.03,223,48,42,11,+6,66%,141,34%,8,5,+3
+nephh,BLG,All_Maps,All,"Breach, Omen",1.02,179,35,36,20,-1,66%,110,21%,4,6,-2
+rushia,BLG,All_Maps,All,"Omen, Viper, Harbor",0.80,153,27,42,18,-15,67%,106,25%,6,5,+1
+whzy,BLG,All_Maps,All,"Neon, Raze, Yoru",0.71,160,31,47,16,-16,71%,109,29%,5,10,-5
+Monyet,RRQ,All_Maps,All,"Omen, Raze",1.20,223,46,36,26,+10,74%,142,26%,6,4,+2
+Jemkin,RRQ,All_Maps,All,"Waylay, Yoru, Jett",1.15,246,51,37,7,+14,72%,150,39%,11,3,+8
+xffero,RRQ,All_Maps,All,"Cypher, Viper",1.04,189,39,34,17,+5,71%,118,25%,7,7,0
+crazyguy,RRQ,All_Maps,All,"Breach, Omen, Sova",1.03,165,34,34,23,0,69%,122,26%,4,5,-1
+Kushy,RRQ,All_Maps,All,"Fade, Kayo",0.89,169,35,41,23,-6,71%,109,32%,4,7,-3
+Knight,BLG,All_Maps,Attack,"Sova, Fade",1.06,181,19,21,5,-2,66%,126,27%,1,4,-3
+Levius,BLG,All_Maps,Attack,"Cypher, Vyse",0.79,197,20,23,2,-3,55%,123,26%,4,3,+1
+nephh,BLG,All_Maps,Attack,"Breach, Omen",1.05,205,19,23,11,-4,62%,132,21%,2,3,-1
+rushia,BLG,All_Maps,Attack,"Omen, Viper, Harbor",0.57,111,10,22,8,-12,66%,76,21%,2,1,+1
+whzy,BLG,All_Maps,Attack,"Neon, Raze, Yoru",0.66,188,17,27,7,-10,69%,126,26%,3,6,-3
+Monyet,RRQ,All_Maps,Attack,"Omen, Raze",1.01,193,20,19,8,+1,66%,128,31%,0,2,-2
+Jemkin,RRQ,All_Maps,Attack,"Waylay, Yoru, Jett",1.01,210,21,20,3,+1,69%,142,41%,6,1,+5
+xffero,RRQ,All_Maps,Attack,"Cypher, Viper",1.03,206,21,19,6,+2,59%,135,26%,5,5,0
+crazyguy,RRQ,All_Maps,Attack,"Breach, Omen, Sova",0.70,121,13,19,7,-6,59%,92,19%,2,4,-2
+Kushy,RRQ,All_Maps,Attack,"Fade, Kayo",0.94,155,14,20,17,-6,69%,100,40%,2,2,0
+Knight,BLG,All_Maps,Defend,"Sova, Fade",1.22,201,22,17,11,+5,72%,133,25%,2,2,0
+Levius,BLG,All_Maps,Defend,"Cypher, Vyse",1.28,256,28,19,9,+9,76%,160,41%,4,2,+2
+nephh,BLG,All_Maps,Defend,"Breach, Omen",1.00,157,16,13,9,+3,69%,89,21%,2,3,-1
+rushia,BLG,All_Maps,Defend,"Omen, Viper, Harbor",1.03,195,17,20,10,-3,69%,137,29%,4,4,0
+whzy,BLG,All_Maps,Defend,"Neon, Raze, Yoru",0.75,140,14,20,9,-6,72%,93,33%,2,4,-2
+Monyet,RRQ,All_Maps,Defend,"Omen, Raze",1.39,258,26,17,18,+9,83%,156,23%,6,2,+4
+Jemkin,RRQ,All_Maps,Defend,"Waylay, Yoru, Jett",1.30,261,30,17,4,+13,76%,158,38%,5,2,+3
+xffero,RRQ,All_Maps,Defend,"Cypher, Viper",1.04,173,18,15,11,+3,83%,100,24%,2,2,0
+crazyguy,RRQ,All_Maps,Defend,"Breach, Omen, Sova",1.36,215,21,15,16,+6,79%,152,31%,2,1,+1
+Kushy,RRQ,All_Maps,Defend,"Fade, Kayo",0.84,184,21,21,6,0,72%,117,27%,2,5,-3

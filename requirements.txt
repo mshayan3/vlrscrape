@@ -1,0 +1,13 @@
+# Scraper (scraper/)
+requests>=2.31
+pandas>=2.0
+beautifulsoup4>=4.12
+lxml>=4.9
+
+# Text-to-SQL app (app.py)
+flask>=3.0
+openai>=1.0
+python-dotenv>=1.0
+
+# Ingestion + DB (pipeline/) use only the standard library
+# (sqlite3, csv, uuid, argparse, logging, pathlib, datetime)

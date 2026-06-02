@@ -1,0 +1,31 @@
+Player,Team,Map,Side,Agents,R2.0,ACS,K,D,A,K/D,KAST,ADR,HS%,FK,FD,FK/FD
+aspas,MIBR,All_Maps,All,"Raze, Jett, Neon",1.09,245,54,43,7,+11,75%,159,22%,13,6,+7
+Verno,MIBR,All_Maps,All,"Fade, Sova",0.92,190,37,40,21,-3,77%,115,25%,3,4,-1
+artzin,MIBR,All_Maps,All,"Yoru, Kayo, Viper",0.91,193,39,40,18,-1,66%,120,27%,5,12,-7
+xenom,MIBR,All_Maps,All,"Brimstone, Astra, Omen",0.90,163,35,41,25,-6,74%,102,22%,5,3,+2
+cortezia,MIBR,All_Maps,All,"Viper, Cypher, Killjoy",0.81,163,37,40,8,-3,70%,105,34%,3,6,-3
+crashies,FNC,All_Maps,All,"Fade, Sova",1.09,216,43,41,21,+2,72%,144,33%,5,4,+1
+kaajak,FNC,All_Maps,All,"Yoru, Waylay",1.08,202,47,41,9,+6,62%,130,34%,11,4,+7
+Alfajer,FNC,All_Maps,All,"Tejo, Cypher, Killjoy",1.04,210,47,42,7,+5,72%,141,36%,7,7,0
+Chronicle,FNC,All_Maps,All,"Viper, Breach",0.95,171,35,40,18,-5,77%,123,27%,5,3,+2
+Boaster,FNC,All_Maps,All,"Astra, Omen",0.85,134,26,38,25,-12,66%,97,23%,3,11,-8
+aspas,MIBR,All_Maps,Attack,"Raze, Jett, Neon",1.10,252,32,26,5,+6,75%,172,24%,8,3,+5
+Verno,MIBR,All_Maps,Attack,"Fade, Sova",1.03,223,28,25,12,+3,75%,127,24%,2,2,0
+artzin,MIBR,All_Maps,Attack,"Yoru, Kayo, Viper",0.81,175,21,25,9,-4,61%,107,25%,3,8,-5
+xenom,MIBR,All_Maps,Attack,"Brimstone, Astra, Omen",0.87,145,18,23,16,-5,75%,84,18%,2,2,0
+cortezia,MIBR,All_Maps,Attack,"Viper, Cypher, Killjoy",0.67,164,21,27,6,-6,64%,102,35%,3,3,0
+crashies,FNC,All_Maps,Attack,"Fade, Sova",0.97,152,13,15,7,-2,68%,114,39%,1,1,0
+kaajak,FNC,All_Maps,Attack,"Yoru, Waylay",0.89,226,20,21,4,-1,56%,129,42%,7,2,+5
+Alfajer,FNC,All_Maps,Attack,"Tejo, Cypher, Killjoy",0.88,178,16,16,2,0,68%,122,36%,3,3,0
+Chronicle,FNC,All_Maps,Attack,"Viper, Breach",0.68,130,10,17,4,-7,68%,99,22%,1,1,0
+Boaster,FNC,All_Maps,Attack,"Astra, Omen",1.04,152,13,13,7,0,76%,105,29%,1,4,-3
+aspas,MIBR,All_Maps,Defend,"Raze, Jett, Neon",1.08,225,22,17,2,+5,76%,140,18%,5,3,+2
+Verno,MIBR,All_Maps,Defend,"Fade, Sova",0.77,135,9,15,9,-6,80%,98,28%,1,2,-1
+artzin,MIBR,All_Maps,Defend,"Yoru, Kayo, Viper",1.04,221,18,15,9,+3,72%,140,28%,2,4,-2
+xenom,MIBR,All_Maps,Defend,"Brimstone, Astra, Omen",0.94,196,17,18,9,-1,72%,128,28%,3,1,+2
+cortezia,MIBR,All_Maps,Defend,"Viper, Cypher, Killjoy",1.01,150,16,13,2,+3,80%,108,32%,0,3,-3
+crashies,FNC,All_Maps,Defend,"Fade, Sova",1.17,260,30,26,14,+4,75%,164,30%,4,3,+1
+kaajak,FNC,All_Maps,Defend,"Yoru, Waylay",1.21,190,27,20,5,+7,67%,131,29%,4,2,+2
+Alfajer,FNC,All_Maps,Defend,"Tejo, Cypher, Killjoy",1.16,231,31,26,5,+5,75%,154,35%,4,4,0
+Chronicle,FNC,All_Maps,Defend,"Viper, Breach",1.15,200,25,23,14,+2,83%,140,30%,4,2,+2
+Boaster,FNC,All_Maps,Defend,"Astra, Omen",0.72,125,13,25,18,-12,58%,91,20%,2,7,-5

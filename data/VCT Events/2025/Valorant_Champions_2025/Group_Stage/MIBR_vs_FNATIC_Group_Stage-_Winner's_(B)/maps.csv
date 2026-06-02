@@ -1,0 +1,4 @@
+map_number,vlr_game_id,map_name,team_a_score,team_b_score,pick_team,duration_seconds
+1,233418,Bind,13,5,team_b,2855
+2,233419,Abyss,7,13,team_a,2701
+3,233420,Haven,10,13,,3145

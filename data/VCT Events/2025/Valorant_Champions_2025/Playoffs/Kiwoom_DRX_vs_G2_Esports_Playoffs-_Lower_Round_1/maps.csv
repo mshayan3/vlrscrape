@@ -1,0 +1,4 @@
+map_number,vlr_game_id,map_name,team_a_score,team_b_score,pick_team,duration_seconds
+1,233483,Lotus,7,13,team_b,2680
+2,233484,Abyss,13,10,team_a,3415
+3,233485,Bind,13,7,,2720

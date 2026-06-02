@@ -1,0 +1,4 @@
+map_number,vlr_game_id,map_name,team_a_score,team_b_score,pick_team,duration_seconds
+1,233460,Lotus,13,11,team_a,3099
+2,233461,Corrode,13,15,team_b,3835
+3,233462,Ascent,13,11,,3423

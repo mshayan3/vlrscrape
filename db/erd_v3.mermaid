@@ -1,0 +1,183 @@
+erDiagram
+    events ||--o{ matches : "has"
+    teams ||--o{ team_aliases : "aka"
+    teams ||--o{ players : "current_team"
+
+    matches ||--o{ maps : "has"
+    matches ||--o{ map_veto : "draft"
+    maps ||--o{ rounds : "has"
+    maps ||--o{ map_economy_summary : "buys"
+    maps ||--o{ round_economy : "per_round"
+    maps ||--o{ player_map_stats : "stats"
+    maps ||--o{ player_map_agents : "picks"
+    maps ||--o{ player_map_advanced : "advanced"
+    maps ||--o{ player_vs_player_kills : "kill_matrix"
+
+    players ||--o{ player_map_stats : "plays"
+    players ||--o{ player_map_agents : "as"
+    players ||--o{ player_map_advanced : "perf"
+    agents  ||--o{ player_map_agents : "used_in"
+
+    teams ||--o{ matches : "team_a"
+    teams ||--o{ maps : "pick_team"
+    teams ||--o{ rounds : "won_by"
+    teams ||--o{ map_veto : "acts"
+    teams ||--o{ map_economy_summary : "of"
+    teams ||--o{ round_economy : "of"
+    teams ||--o{ player_map_stats : "for"
+
+    events {
+        TEXT event_id PK
+        TEXT event_name
+        INTEGER season_year
+        TEXT region
+        TEXT source
+    }
+    teams {
+        TEXT team_id PK
+        TEXT team_name
+        TEXT region
+    }
+    team_aliases {
+        TEXT alias PK
+        TEXT team_id FK
+    }
+    players {
+        TEXT player_id PK
+        TEXT player_name
+        TEXT vlr_player_id
+        TEXT current_team_id FK
+    }
+    agents {
+        TEXT agent_id PK
+        TEXT agent_name
+    }
+    matches {
+        TEXT match_id PK
+        TEXT event_id FK
+        TEXT vlr_match_id
+        TEXT match_name
+        TEXT stage
+        TEXT match_date
+        TEXT patch
+        TEXT team_a_id FK
+        TEXT team_b_id FK
+        INTEGER team_a_map_score "v3"
+        INTEGER team_b_map_score "v3"
+        TEXT winner_team_id FK
+        INTEGER best_of "v3"
+        TEXT source_url
+    }
+    maps {
+        TEXT map_id PK
+        TEXT match_id FK
+        TEXT vlr_game_id
+        INTEGER map_number
+        TEXT map_name
+        INTEGER team_a_score
+        INTEGER team_b_score
+        TEXT winner_team_id FK
+        TEXT pick_team_id FK "v3"
+        INTEGER duration_seconds "v3"
+    }
+    rounds {
+        TEXT round_id PK
+        TEXT map_id FK
+        INTEGER round_number
+        TEXT score_after
+        TEXT winning_team_id FK
+        TEXT winning_side "attack|defend"
+        TEXT win_method "elim|deton|defuse|time"
+        INTEGER is_overtime "v3"
+    }
+    map_veto {
+        TEXT veto_id PK
+        TEXT match_id FK
+        INTEGER order_no
+        TEXT team_id FK
+        TEXT action_type "pick|ban|decider"
+        TEXT map_name
+    }
+    map_economy_summary {
+        TEXT mes_id PK
+        TEXT map_id FK
+        TEXT team_id FK
+        TEXT buy_type
+        INTEGER rounds_played
+        INTEGER rounds_won
+    }
+    round_economy {
+        TEXT econ_id PK
+        TEXT map_id FK
+        INTEGER round_number
+        TEXT team_id FK
+        TEXT side "attack|defend"
+        INTEGER bank_start
+        INTEGER loadout_value
+        TEXT buy_tier
+    }
+    player_map_stats {
+        TEXT pms_id PK
+        TEXT map_id FK
+        TEXT player_id FK
+        TEXT team_id FK
+        TEXT side "all|attack|defend"
+        REAL rating
+        REAL acs
+        INTEGER kills
+        INTEGER deaths
+        INTEGER assists
+        INTEGER kd_diff
+        REAL kd_ratio "v3 generated"
+        REAL kast
+        REAL adr
+        REAL hs_pct
+        INTEGER fk
+        INTEGER fd
+        INTEGER fk_fd_diff
+    }
+    player_map_agents {
+        TEXT map_id PK,FK
+        TEXT player_id PK,FK
+        TEXT agent_id PK,FK
+    }
+    player_map_advanced {
+        TEXT pma_id PK
+        TEXT map_id FK
+        TEXT player_id FK
+        TEXT team_id FK
+        INTEGER multikill_2
+        INTEGER multikill_3
+        INTEGER multikill_4
+        INTEGER multikill_5
+        INTEGER clutch_1v1
+        INTEGER clutch_1v2
+        INTEGER clutch_1v3
+        INTEGER clutch_1v4
+        INTEGER clutch_1v5
+        INTEGER econ_rating
+        INTEGER plant_success
+        INTEGER defuse_success
+    }
+    player_vs_player_kills {
+        TEXT pvpk_id PK
+        TEXT map_id FK
+        TEXT killer_player_id FK
+        TEXT victim_player_id FK
+        TEXT killer_team_id FK
+        TEXT victim_team_id FK
+        TEXT kill_type "all|fk|op"
+        INTEGER kills_count
+    }
+    raw_files {
+        TEXT file_id PK
+        TEXT event_id
+        TEXT match_id
+        INTEGER map_number
+        TEXT map_name
+        TEXT folder
+        TEXT filename
+        TEXT ingested_at
+        INTEGER row_count
+        TEXT notes
+    }

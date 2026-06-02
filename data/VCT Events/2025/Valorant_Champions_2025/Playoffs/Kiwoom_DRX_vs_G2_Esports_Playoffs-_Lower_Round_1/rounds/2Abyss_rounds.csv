@@ -1,0 +1,24 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+2Abyss,1,"""1-0""",KRX,Attackers,Elimination
+2Abyss,2,"""2-0""",KRX,Attackers,Elimination
+2Abyss,3,"""2-1""",G2,Defenders,Defuse
+2Abyss,4,"""3-1""",KRX,Attackers,Elimination
+2Abyss,5,"""4-1""",KRX,Attackers,Elimination
+2Abyss,6,"""5-1""",KRX,Attackers,Elimination
+2Abyss,7,"""6-1""",KRX,Attackers,Elimination
+2Abyss,8,"""7-1""",KRX,Attackers,Spike Detonation
+2Abyss,9,"""8-1""",KRX,Attackers,Elimination
+2Abyss,10,"""8-2""",G2,Defenders,Defuse
+2Abyss,11,"""8-3""",G2,Defenders,Time Expired
+2Abyss,12,"""8-4""",G2,Defenders,Elimination
+2Abyss,13,"""8-5""",G2,Attackers,Elimination
+2Abyss,14,"""8-6""",G2,Attackers,Elimination
+2Abyss,15,"""8-7""",G2,Attackers,Spike Detonation
+2Abyss,16,"""8-8""",G2,Attackers,Spike Detonation
+2Abyss,17,"""8-9""",G2,Attackers,Elimination
+2Abyss,18,"""8-10""",G2,Attackers,Spike Detonation
+2Abyss,19,"""9-10""",KRX,Defenders,Elimination
+2Abyss,20,"""10-10""",KRX,Defenders,Elimination
+2Abyss,21,"""11-10""",KRX,Defenders,Defuse
+2Abyss,22,"""12-10""",KRX,Defenders,Elimination
+2Abyss,23,"""13-10""",KRX,Defenders,Defuse

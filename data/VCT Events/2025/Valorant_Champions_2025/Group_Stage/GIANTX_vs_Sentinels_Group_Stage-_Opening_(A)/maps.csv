@@ -1,0 +1,4 @@
+map_number,vlr_game_id,map_name,team_a_score,team_b_score,pick_team,duration_seconds
+1,233400,Corrode,6,13,team_b,2477
+2,233401,Sunset,13,4,team_a,2295
+3,233402,Haven,13,9,,3094

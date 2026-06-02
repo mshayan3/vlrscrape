@@ -1,0 +1,22 @@
+Map,Round Number,Score,Winning Team,Winning Side,Win Method
+1Sunset,1,"""0-1""",KRX,Defenders,Elimination
+1Sunset,2,"""0-2""",KRX,Defenders,Elimination
+1Sunset,3,"""1-2""",FNC,Attackers,Elimination
+1Sunset,4,"""1-3""",KRX,Defenders,Elimination
+1Sunset,5,"""1-4""",KRX,Defenders,Elimination
+1Sunset,6,"""2-4""",FNC,Attackers,Elimination
+1Sunset,7,"""2-5""",KRX,Defenders,Defuse
+1Sunset,8,"""3-5""",FNC,Attackers,Spike Detonation
+1Sunset,9,"""3-6""",KRX,Defenders,Elimination
+1Sunset,10,"""3-7""",KRX,Defenders,Defuse
+1Sunset,11,"""3-8""",KRX,Defenders,Elimination
+1Sunset,12,"""4-8""",FNC,Attackers,Elimination
+1Sunset,13,"""5-8""",FNC,Defenders,Elimination
+1Sunset,14,"""6-8""",FNC,Defenders,Elimination
+1Sunset,15,"""6-9""",KRX,Attackers,Spike Detonation
+1Sunset,16,"""7-9""",FNC,Defenders,Defuse
+1Sunset,17,"""7-10""",KRX,Attackers,Spike Detonation
+1Sunset,18,"""7-11""",KRX,Attackers,Elimination
+1Sunset,19,"""8-11""",FNC,Defenders,Defuse
+1Sunset,20,"""8-12""",KRX,Attackers,Elimination
+1Sunset,21,"""8-13""",KRX,Attackers,Elimination
