@@ -9,6 +9,15 @@ from urllib.parse import urlparse, parse_qs
 from utils import fetch_url
 
 
+# Scoreboard columns in the order the player_stats CSV writes them. The names
+# are VLR's data-col attributes; note 'kd-diff' is the +/- column (the CSV
+# header calls it K/D) and 'fk-diff' is the FK/FD column.
+OVW_STAT_COLS = [
+    "rating2", "acs", "kills", "deaths", "assists", "kd-diff",
+    "kast", "adr", "hsp", "fb", "fd", "fk-diff",
+]
+
+
 def create_folder_structure(match_url, base_path=None):
     """Creates a clean folder structure based on match details from URL."""
     # First, get the match title
@@ -321,26 +330,57 @@ def fetch_player_stats(match_url, output_folder):
             map_label = f"Map_{idx}_{map_name}" if idx else "All_Maps"
             maps[game_id] = map_label
 
-    # Define side classes and labels
+    # VLR.gg moved the scoreboard off <table> and onto a div grid:
+    #   div.ovw-table > div.ovw-row > div.ovw-cell[data-col]
+    # with each figure split into span.side.mod-both / mod-t / mod-ct. The old
+    # 'tbody tr' and '.mod-stat .side' selectors now match nothing at all — a
+    # current match page contains zero <table> elements, so this silently wrote
+    # no player_stats CSVs. OVW_STAT_COLS is in the CSV's column order, so the
+    # output contract is unchanged.
     side_classes = {
-        "All": ".mod-stat .side.mod-both",
-        "Attack": ".mod-stat .side.mod-t",
-        "Defend": ".mod-stat .side.mod-ct"
+        "All": "mod-both",
+        "Attack": "mod-t",
+        "Defend": "mod-ct",
     }
 
     for map_id, map_name in maps.items():
         output_file = os.path.join(output_folder, 'player_stats', f"{map_name}.csv")
 
         rows = []
-        for side_label, side_class in side_classes.items():
-            for row in soup.select(f'.vm-stats-game[data-game-id="{map_id}"] tbody tr'):
-                player_name = row.select_one('.text-of').text.strip() if row.select_one('.text-of') else "Unknown"
-                team_name = row.select_one('.ge-text-light').text.strip() if row.select_one(
-                    '.ge-text-light') else "Unknown"
-                agents = ', '.join(img['title'] for img in row.select('.mod-agent img') if 'title' in img.attrs)
-                stats = [span.text.strip() for span in row.select(side_class)]
+        for side_label, side_mod in side_classes.items():
+            for row in soup.select(f'.vm-stats-game[data-game-id="{map_id}"] div.ovw-table div.ovw-row'):
+                if 'mod-head' in (row.get('class') or []):
+                    continue
 
-                if not stats:
+                name_el = row.select_one('div.ovw-player-name')
+                if name_el is None:
+                    continue
+                player_name = name_el.get_text(strip=True) or "Unknown"
+
+                tag_el = row.select_one('div.ovw-player-tag')
+                team_name = tag_el.get_text(strip=True) if tag_el else "Unknown"
+
+                agents = ', '.join(img['title'] for img in row.select('div.ovw-agents img')
+                                   if 'title' in img.attrs)
+
+                # Map data-col -> the element holding that column's side spans.
+                # K, D and A live one level deeper, in span.ovw-kda-stat[data-col].
+                holders = {}
+                for cell in row.select('div.ovw-cell'):
+                    classes = cell.get('class') or []
+                    if 'mod-kda' in classes:
+                        for sub in cell.select('span.ovw-kda-stat[data-col]'):
+                            holders[sub['data-col']] = sub
+                    elif cell.get('data-col'):
+                        holders[cell['data-col']] = cell
+
+                stats = []
+                for col in OVW_STAT_COLS:
+                    holder = holders.get(col)
+                    span = holder.select_one(f'span.side.{side_mod}') if holder else None
+                    stats.append(span.get_text(strip=True) if span else "")
+
+                if not any(stats):
                     continue
 
                 row_data = [player_name, team_name, map_name, side_label, agents] + stats
