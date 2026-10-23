@@ -1345,6 +1345,38 @@ def ingest_event(conn, norm, event_dir: Path):
 # Reconciliation: derive map scores + econ sides from rounds
 # ============================================================
 
+def reconcile_pistol_counts(conn):
+    """Derive pistol rounds_played from the round source-of-truth.
+
+    VLR's economy summary has a 'Pistol Won' column holding WINS, with no
+    played count — unlike every other column, which is 'played (won)'. The
+    parser had to put the same number in both, so every pistol row came out at
+    a 100% win rate and disagreed with round_economy, which correctly holds one
+    row per pistol round per team.
+
+    Recount from round_economy, but only where that map/team actually has
+    pistol rows, so a map whose round chart failed to scrape keeps whatever the
+    summary gave rather than being zeroed. Idempotent.
+    """
+    cur = conn.cursor()
+    cur.execute("""
+        UPDATE map_economy_summary
+           SET rounds_played = (
+                 SELECT COUNT(*) FROM round_economy r
+                  WHERE r.map_id   = map_economy_summary.map_id
+                    AND r.team_id  = map_economy_summary.team_id
+                    AND r.buy_tier = 'pistol')
+         WHERE buy_type = 'pistol'
+           AND EXISTS (
+                 SELECT 1 FROM round_economy r
+                  WHERE r.map_id   = map_economy_summary.map_id
+                    AND r.team_id  = map_economy_summary.team_id
+                    AND r.buy_tier = 'pistol')
+    """)
+    conn.commit()
+    log.info(f"reconcile_pistol_counts: {cur.rowcount} summary rows recounted")
+
+
 def reconcile_map_scores(conn):
     """Make map scores reproducible from the round source-of-truth.
 
@@ -1454,6 +1486,7 @@ def main():
                 ingest_event(conn, norm, event_dir)
 
     reconcile_map_scores(conn)
+    reconcile_pistol_counts(conn)
     conn.close()
     log.info("\nDone.")
 
