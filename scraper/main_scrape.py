@@ -9,6 +9,34 @@ from urllib.parse import urlparse, parse_qs
 from utils import fetch_url
 
 
+# Scoreboard columns in the order the player_stats CSV writes them. The names
+# are VLR's data-col attributes; note 'kd-diff' is the +/- column (the CSV
+# header calls it K/D) and 'fk-diff' is the FK/FD column.
+OVW_STAT_COLS = [
+    "rating2", "acs", "kills", "deaths", "assists", "kd-diff",
+    "kast", "adr", "hsp", "fb", "fd", "fk-diff",
+]
+
+
+def _map_tab_ids(soup):
+    """{'All_Maps': 'all', '1Sunset': '244102', ...} from the map tab strip.
+
+    The tabs are <a> elements, so find_all("div", ...) matches nothing and the
+    callers fell back to the data-game-id="all" aggregate, losing every per-map
+    breakdown. Spaces are normalised to underscores so the aggregate tab lands
+    on the same 'All_Maps' key as that fallback — otherwise the tab ('All Maps')
+    and the fallback ('All_Maps') both resolve to "all" and every file is
+    written twice under two spellings.
+    """
+    map_ids = {}
+    for tab in soup.select(".vm-stats-gamesnav-item.js-map-switch"):
+        label = clean_filename(tab.get_text(strip=True)).replace(" ", "_")
+        if label:
+            map_ids[label] = tab.get("data-game-id", "all")
+    map_ids.setdefault("All_Maps", "all")
+    return map_ids
+
+
 def create_folder_structure(match_url, base_path=None):
     """Creates a clean folder structure based on match details from URL."""
     # First, get the match title
@@ -321,26 +349,57 @@ def fetch_player_stats(match_url, output_folder):
             map_label = f"Map_{idx}_{map_name}" if idx else "All_Maps"
             maps[game_id] = map_label
 
-    # Define side classes and labels
+    # VLR.gg moved the scoreboard off <table> and onto a div grid:
+    #   div.ovw-table > div.ovw-row > div.ovw-cell[data-col]
+    # with each figure split into span.side.mod-both / mod-t / mod-ct. The old
+    # 'tbody tr' and '.mod-stat .side' selectors now match nothing at all — a
+    # current match page contains zero <table> elements, so this silently wrote
+    # no player_stats CSVs. OVW_STAT_COLS is in the CSV's column order, so the
+    # output contract is unchanged.
     side_classes = {
-        "All": ".mod-stat .side.mod-both",
-        "Attack": ".mod-stat .side.mod-t",
-        "Defend": ".mod-stat .side.mod-ct"
+        "All": "mod-both",
+        "Attack": "mod-t",
+        "Defend": "mod-ct",
     }
 
     for map_id, map_name in maps.items():
         output_file = os.path.join(output_folder, 'player_stats', f"{map_name}.csv")
 
         rows = []
-        for side_label, side_class in side_classes.items():
-            for row in soup.select(f'.vm-stats-game[data-game-id="{map_id}"] tbody tr'):
-                player_name = row.select_one('.text-of').text.strip() if row.select_one('.text-of') else "Unknown"
-                team_name = row.select_one('.ge-text-light').text.strip() if row.select_one(
-                    '.ge-text-light') else "Unknown"
-                agents = ', '.join(img['title'] for img in row.select('.mod-agent img') if 'title' in img.attrs)
-                stats = [span.text.strip() for span in row.select(side_class)]
+        for side_label, side_mod in side_classes.items():
+            for row in soup.select(f'.vm-stats-game[data-game-id="{map_id}"] div.ovw-table div.ovw-row'):
+                if 'mod-head' in (row.get('class') or []):
+                    continue
 
-                if not stats:
+                name_el = row.select_one('div.ovw-player-name')
+                if name_el is None:
+                    continue
+                player_name = name_el.get_text(strip=True) or "Unknown"
+
+                tag_el = row.select_one('div.ovw-player-tag')
+                team_name = tag_el.get_text(strip=True) if tag_el else "Unknown"
+
+                agents = ', '.join(img['title'] for img in row.select('div.ovw-agents img')
+                                   if 'title' in img.attrs)
+
+                # Map data-col -> the element holding that column's side spans.
+                # K, D and A live one level deeper, in span.ovw-kda-stat[data-col].
+                holders = {}
+                for cell in row.select('div.ovw-cell'):
+                    classes = cell.get('class') or []
+                    if 'mod-kda' in classes:
+                        for sub in cell.select('span.ovw-kda-stat[data-col]'):
+                            holders[sub['data-col']] = sub
+                    elif cell.get('data-col'):
+                        holders[cell['data-col']] = cell
+
+                stats = []
+                for col in OVW_STAT_COLS:
+                    holder = holders.get(col)
+                    span = holder.select_one(f'span.side.{side_mod}') if holder else None
+                    stats.append(span.get_text(strip=True) if span else "")
+
+                if not any(stats):
                     continue
 
                 row_data = [player_name, team_name, map_name, side_label, agents] + stats
@@ -441,46 +500,163 @@ def fetch_round_data(match_url, output_folder):
             print(f"Round data saved to {output_file}")
 
 
-def fetch_economy_data(match_url, output_folder):
-    """Scrapes economy data and saves to CSV with proper formatting."""
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36'
-    }
+# Buy-tier marker on each round's economy square. 'mod-bp' is the pistol round,
+# which carries no dollar symbol — matching the old output, where pistol rounds
+# had none either.
+ECON_TIERS = {"mod-bp": "", "mod-b1": "$", "mod-b2": "$$", "mod-b3": "$$$"}
 
+
+def _econ_round_cells(container):
+    """Yield (round_number, team1, team2) economy readings for one map.
+
+    Each team dict holds {'bank': '0.4k', 'tier': '$$', 'won': bool}. VLR pads
+    the round strip to a fixed width; padding columns carry no buy marker and
+    are skipped, so the number of readings equals the map score sum.
+    """
+    chart = container.select_one("div.ecs")
+    if chart is None:
+        return
+
+    round_number = 0
+    for col in chart.select("div.vlr-rounds-row-col"):
+        if "mod-teams" in (col.get("class") or []):
+            continue
+
+        squares = col.select("div.ecc-sq")
+        banks = col.select("div.ecr-bank")
+        if len(squares) != 2 or len(banks) < 2:
+            continue
+
+        tiers = []
+        for square in squares:
+            classes = square.get("class") or []
+            tiers.append(next((ECON_TIERS[c] for c in classes if c in ECON_TIERS), None))
+        if any(tier is None for tier in tiers):
+            continue  # padding column
+
+        round_number += 1
+        reading = []
+        for square, bank, tier in zip(squares, banks, tiers):
+            fig = bank.select_one("div.ecr-fig")
+            reading.append({
+                "bank": f"{fig.get_text(strip=True)}k" if fig else "",
+                "tier": tier,
+                "won": "mod-win" in (square.get("class") or []),
+            })
+        yield round_number, reading[0], reading[1]
+
+
+def _econ_team_tags(container):
+    tags = [t.get("title") or t.get_text(strip=True) for t in
+            container.select("div.ecs div.vlr-rounds-row-col.mod-teams span.vlr-rounds-tag")]
+    return (tags + ["T1", "T2"])[:2]
+
+
+def _write_round_economy(container, output_file):
+    """Rebuild {map}_rounds_economy.csv from the round chart.
+
+    parse_round_economy() keys off a '(BANK) T1 T2 (BANK)' first cell and then
+    reads '<round> <bank>k [$tiers] <bank>k' tokens, so that is what is emitted.
+    Both tier symbols are always written together — a pistol round is pistol for
+    both teams — which removes the single-symbol ambiguity the old table had.
+    """
+    team1, team2 = _econ_team_tags(container)
+    tokens = []
+    for round_number, a, b in _econ_round_cells(container):
+        parts = [str(round_number), a["bank"]]
+        if a["tier"] or b["tier"]:
+            parts += [a["tier"], b["tier"]]
+        parts.append(b["bank"])
+        tokens.append(" ".join(p for p in parts if p))
+
+    if not tokens:
+        return False
+
+    with open(output_file, 'w', newline='', encoding='utf-8') as file:
+        csv.writer(file).writerow([f"(BANK) {team1} {team2} (BANK)"] + tokens)
+    print(f"Round economy saved to {output_file}")
+    return True
+
+
+def _write_economy_summary(container, output_file):
+    """Rebuild {map}_economy.csv by aggregating the per-round readings.
+
+    VLR's new summary matrices use different categories (pistol / conversion /
+    bonus, then eco / half / full crossed with the opponent's buy), so the old
+    five-column layout is reconstructed from the round data instead. One
+    category is genuinely gone upstream: VLR no longer separates a full save
+    from a light force, so 'Eco (won)' is always 0 and those rounds land under
+    '$'. Note parse_economy_summary() maps '$' to semi_eco while
+    buy_tier_symbol() maps it to eco, so the same round is labelled differently
+    in map_economy_summary and round_economy — that predates this change.
+    """
+    team1, team2 = _econ_team_tags(container)
+    tally = {team: {tier: [0, 0] for tier in ("", "$", "$$", "$$$")}
+             for team in (team1, team2)}
+
+    for _, a, b in _econ_round_cells(container):
+        for team, reading in ((team1, a), (team2, b)):
+            bucket = tally[team][reading["tier"]]
+            bucket[0] += 1
+            bucket[1] += 1 if reading["won"] else 0
+
+    if not any(b[0] for t in tally.values() for b in t.values()):
+        return False
+
+    with open(output_file, 'w', newline='', encoding='utf-8') as file:
+        writer = csv.writer(file)
+        writer.writerow(["", "Pistol Won", "Eco (won)", "$ (won)", "$$ (won)", "$$$ (won)"])
+        for team in (team1, team2):
+            counts = tally[team]
+            writer.writerow([
+                team,
+                counts[""][1],                                  # pistol column is wins only
+                "0 (0)",                                        # no longer exposed by VLR
+                f"{counts['$'][0]} ({counts['$'][1]})",
+                f"{counts['$$'][0]} ({counts['$$'][1]})",
+                f"{counts['$$$'][0]} ({counts['$$$'][1]})",
+            ])
+    print(f"Economy summary saved to {output_file}")
+    return True
+
+
+def fetch_economy_data(match_url, output_folder):
+    """Scrapes economy data and saves to CSV with proper formatting.
+
+    The economy tab no longer serves <table class="wf-table-inset mod-econ">.
+    The round-by-round strip is a div chart (div.ecs) and the summary is a set
+    of div.ecm-groups matrices with different categories, so both CSVs are
+    derived from the chart. One ?game=all request carries every map's
+    container, so the old request-per-map loop is gone as well.
+
+    The aggregate container has no round chart, so no All_Maps economy CSV is
+    written any more. ingest_economy() skipped that file regardless — it only
+    accepts filenames starting with a map number.
+    """
     if not match_url.endswith('/'):
         match_url += '/'
 
-    soup = fetch_soup(match_url + "?game=all&tab=economy", headers)
+    soup = fetch_soup(match_url + "?game=all&tab=economy")
+    if soup is None:
+        print("Failed to fetch the economy tab.")
+        return
 
-    map_tabs = soup.find_all("div", class_="vm-stats-gamesnav-item js-map-switch")
-    map_ids = {clean_filename(tab.get_text(strip=True)): tab.get("data-game-id", "all") for tab in map_tabs}
-
-    if "All_Maps" not in map_ids:
-        map_ids["All_Maps"] = "all"
-
-    econ_table_class = "wf-table-inset mod-econ"
+    map_ids = _map_tab_ids(soup)
     os.makedirs(os.path.join(output_folder, 'economy'), exist_ok=True)
 
     for map_name, map_id in map_ids.items():
         print(f"Processing economy data for: {map_name}")
 
-        map_soup = fetch_soup(match_url + f"?game={map_id}&tab=economy", headers)
-        map_container = map_soup.find("div", class_="vm-stats-game", attrs={"data-game-id": map_id})
-        if not map_container:
+        container = soup.find("div", class_="vm-stats-game", attrs={"data-game-id": map_id})
+        if not container:
             print(f"No economy data found for {map_name}")
             continue
 
-        tables = map_container.find_all("table", class_=econ_table_class)
-
-        if len(tables) > 0:
-            output_file = os.path.join(output_folder, 'economy', f"{map_name}_economy.csv")
-            save_table_data(tables[0], output_file)
-
-        if len(tables) > 1:
-            output_file = os.path.join(output_folder, 'economy', f"{map_name}_rounds_economy.csv")
-            save_economy_round_table(tables[1], output_file)
-        else:
-            print(f"No round-by-round economy table found for {map_name}.")
+        _write_economy_summary(
+            container, os.path.join(output_folder, 'economy', f"{map_name}_economy.csv"))
+        if not _write_round_economy(
+                container, os.path.join(output_folder, 'economy', f"{map_name}_rounds_economy.csv")):
+            print(f"No round-by-round economy data found for {map_name}.")
 
     print("Economy data fetching complete!")
 
@@ -498,16 +674,7 @@ def fetch_performance_data(match_url, output_folder):
     response = fetch_url(url)
     soup = BeautifulSoup(response.text, "html.parser")
 
-    map_tabs = soup.find_all("div", class_="vm-stats-gamesnav-item js-map-switch")
-    map_ids = {}
-    for tab in map_tabs:
-        map_name = clean_filename(tab.get_text(strip=True))
-        game_id = tab.get("data-game-id", "all")
-        if map_name:  # Only add if map name is not empty after cleaning
-            map_ids[map_name] = game_id
-
-    if "All_Maps" not in map_ids:
-        map_ids["All_Maps"] = "all"
+    map_ids = _map_tab_ids(soup)
 
     interaction_categories = {
         "All_Kills": "wf-table-inset mod-matrix mod-normal",
