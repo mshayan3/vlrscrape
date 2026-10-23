@@ -10,6 +10,8 @@
 --   * rounds:  + is_overtime; ingest MUST skip padded/blank round rows
 --   * player_map_stats: + kd_ratio (GENERATED), clarified units
 --   * data quality: explicit CHECK constraints on enumerations
+--   * economy: buy_type and buy_tier share one CHECKed vocabulary
+--     (pistol | eco | semi | full_buy); 'semi_eco' and 'semi_buy' are gone
 --   * everything else carried over unchanged from v2
 --
 -- Units (unchanged from v2, restated for clarity):
@@ -147,7 +149,15 @@ CREATE TABLE IF NOT EXISTS map_economy_summary (
   mes_id          TEXT PRIMARY KEY,
   map_id          TEXT NOT NULL,
   team_id         TEXT NOT NULL,
-  buy_type        TEXT NOT NULL,   -- pistol | eco | semi | semi_buy | full_buy
+  -- Buy types share one vocabulary with round_economy.buy_tier:
+  --   pistol    pistol round
+  --   eco       sub-10k buy  (VLR's "eco <10k")
+  --   semi      half buy,    10-18k
+  --   full_buy  full buy,    18k+
+  -- VLR used to split sub-10k spending into a full save and a light force;
+  -- it now reports one bucket, so both fold into 'eco'.
+  buy_type        TEXT NOT NULL
+                    CHECK (buy_type IN ('pistol','eco','semi','full_buy')),
   rounds_played   INTEGER NOT NULL DEFAULT 0,
   rounds_won      INTEGER NOT NULL DEFAULT 0,
   UNIQUE (map_id, team_id, buy_type),
@@ -163,7 +173,7 @@ CREATE TABLE IF NOT EXISTS round_economy (
   side            TEXT CHECK (side IN ('attack','defend')),
   bank_start      INTEGER,
   loadout_value   INTEGER,
-  buy_tier        TEXT,
+  buy_tier        TEXT CHECK (buy_tier IN ('pistol','eco','semi','full_buy')),
   UNIQUE (map_id, round_number, team_id),
   FOREIGN KEY (map_id)    REFERENCES maps(map_id),
   FOREIGN KEY (team_id)   REFERENCES teams(team_id)

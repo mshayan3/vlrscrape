@@ -89,7 +89,9 @@ TABLES (use exactly these column names):
                           -- For player first kill TOTALS use player_map_stats.fk, not this table
 
   map_economy_summary: mes_id PK, map_id FK, team_id FK,
-                       buy_type ('pistol'|'eco'|'semi_eco'|'semi'|'full_buy'),
+                       buy_type ('pistol'|'eco'|'semi'|'full_buy'),
+                       -- same vocabulary as round_economy.buy_tier
+                       -- 'eco' is any sub-10k buy; 'semi' is a 10-18k half buy
                        rounds_played INT, rounds_won INT
                        -- one row per map per team per buy_type
                        -- multiple rows for the same map_name is EXPECTED (different matches)

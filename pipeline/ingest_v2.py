@@ -101,10 +101,21 @@ def parse_side(raw: str) -> str:
     return raw
 
 
-def buy_tier_symbol(sym: str) -> str:
-    """'$$$' → 'full_buy', '$$' → 'semi', '$' → 'eco', '' → 'pistol'"""
-    c = sym.count("$") if sym else 0
-    return {0: "pistol", 1: "eco", 2: "semi", 3: "full_buy"}.get(c, sym)
+# The one buy-type vocabulary, by number of '$' markers. Both
+# map_economy_summary.buy_type and round_economy.buy_tier CHECK against it.
+BUY_TYPES = ("pistol", "eco", "semi", "full_buy")
+
+
+def buy_tier_symbol(sym: str) -> str | None:
+    """'' → 'pistol', '$' → 'eco', '$$' → 'semi', '$$$' → 'full_buy'.
+
+    Returns None for a marker that is not a run of '$', rather than passing it
+    through — the schema now CHECKs this column, so an unrecognised marker has
+    to become NULL instead of a value the insert would reject.
+    """
+    if sym and set(sym) != {"$"}:
+        return None
+    return BUY_TYPES[min(sym.count("$") if sym else 0, 3)]
 
 
 def parse_player_team_col(col: str):
@@ -479,14 +490,19 @@ def parse_economy_summary(csv_path: Path):
     # Cell values are tab-polluted: "3\t\t\t(1)" or "3 (1)"
     # Keys must be matched EXACTLY (not as substrings) to avoid
     # "$ (won)" matching inside "$$ (won)" and "$$$ (won)".
+    # Same vocabulary as buy_tier_symbol(), so a round is labelled identically
+    # whether it is read from map_economy_summary or round_economy. VLR used to
+    # split sub-10k spending into a full save ("Eco") and a light force ("$")
+    # and now reports a single "eco <10k" bucket, so both headers fold into
+    # 'eco' and their counts are summed. That also makes the older scrapes in
+    # data/ comparable with anything scraped now.
     BUY_TYPE_MAP = {
         "pistol won":     "pistol",
-        "eco (won)":      "eco",       # pure eco / full save
-        "$ (won)":        "semi_eco",  # force / partial buy  (~$1k)
-        "$$ (won)":       "semi",      # semi-buy              (~$2k)
-        "$$$ (won)":      "full_buy",  # full buy              (~$4k+)
+        "eco (won)":      "eco",       # legacy column: full save,   < 10k
+        "$ (won)":        "eco",       # legacy column: light force, < 10k
+        "$$ (won)":       "semi",      # half buy, 10-18k
+        "$$$ (won)":      "full_buy",  # full buy, 18k+
         "semi (won)":     "semi",
-        "semi buy (won)": "semi_buy",
     }
 
     def clean_cell(raw: str):
@@ -525,17 +541,30 @@ def parse_economy_summary(csv_path: Path):
             if not row or not row[0]:
                 continue
             team_name = row[0]
+
+            # Two headers can fold into the same buy_type, so totals are summed
+            # before yielding. map_economy_summary is UNIQUE on
+            # (map_id, team_id, buy_type) and ingest_economy() uses
+            # INSERT OR REPLACE, which would otherwise keep only the last
+            # column seen and silently drop the other one's rounds.
+            totals: dict[str, list[int]] = {}
             for col_idx, buy_type in buy_cols.items():
                 if col_idx >= len(row):
                     continue
                 played, won = clean_cell(row[col_idx])
-                if played is not None:
-                    yield dict(
-                        team_name    = team_name,
-                        buy_type     = buy_type,
-                        rounds_played = played,
-                        rounds_won    = won if won is not None else played,  # pistol = both same
-                    )
+                if played is None:
+                    continue
+                bucket = totals.setdefault(buy_type, [0, 0])
+                bucket[0] += played
+                bucket[1] += won if won is not None else played  # pistol = both same
+
+            for buy_type, (played, won) in totals.items():
+                yield dict(
+                    team_name     = team_name,
+                    buy_type      = buy_type,
+                    rounds_played = played,
+                    rounds_won    = won,
+                )
     except Exception as e:
         log.warning(f"  parse_economy_summary failed for {csv_path.name}: {e}")
 
@@ -1316,6 +1345,38 @@ def ingest_event(conn, norm, event_dir: Path):
 # Reconciliation: derive map scores + econ sides from rounds
 # ============================================================
 
+def reconcile_pistol_counts(conn):
+    """Derive pistol rounds_played from the round source-of-truth.
+
+    VLR's economy summary has a 'Pistol Won' column holding WINS, with no
+    played count — unlike every other column, which is 'played (won)'. The
+    parser had to put the same number in both, so every pistol row came out at
+    a 100% win rate and disagreed with round_economy, which correctly holds one
+    row per pistol round per team.
+
+    Recount from round_economy, but only where that map/team actually has
+    pistol rows, so a map whose round chart failed to scrape keeps whatever the
+    summary gave rather than being zeroed. Idempotent.
+    """
+    cur = conn.cursor()
+    cur.execute("""
+        UPDATE map_economy_summary
+           SET rounds_played = (
+                 SELECT COUNT(*) FROM round_economy r
+                  WHERE r.map_id   = map_economy_summary.map_id
+                    AND r.team_id  = map_economy_summary.team_id
+                    AND r.buy_tier = 'pistol')
+         WHERE buy_type = 'pistol'
+           AND EXISTS (
+                 SELECT 1 FROM round_economy r
+                  WHERE r.map_id   = map_economy_summary.map_id
+                    AND r.team_id  = map_economy_summary.team_id
+                    AND r.buy_tier = 'pistol')
+    """)
+    conn.commit()
+    log.info(f"reconcile_pistol_counts: {cur.rowcount} summary rows recounted")
+
+
 def reconcile_map_scores(conn):
     """Make map scores reproducible from the round source-of-truth.
 
@@ -1425,6 +1486,7 @@ def main():
                 ingest_event(conn, norm, event_dir)
 
     reconcile_map_scores(conn)
+    reconcile_pistol_counts(conn)
     conn.close()
     log.info("\nDone.")
 
