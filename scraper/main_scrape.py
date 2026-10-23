@@ -18,6 +18,25 @@ OVW_STAT_COLS = [
 ]
 
 
+def _map_tab_ids(soup):
+    """{'All_Maps': 'all', '1Sunset': '244102', ...} from the map tab strip.
+
+    The tabs are <a> elements, so find_all("div", ...) matches nothing and the
+    callers fell back to the data-game-id="all" aggregate, losing every per-map
+    breakdown. Spaces are normalised to underscores so the aggregate tab lands
+    on the same 'All_Maps' key as that fallback — otherwise the tab ('All Maps')
+    and the fallback ('All_Maps') both resolve to "all" and every file is
+    written twice under two spellings.
+    """
+    map_ids = {}
+    for tab in soup.select(".vm-stats-gamesnav-item.js-map-switch"):
+        label = clean_filename(tab.get_text(strip=True)).replace(" ", "_")
+        if label:
+            map_ids[label] = tab.get("data-game-id", "all")
+    map_ids.setdefault("All_Maps", "all")
+    return map_ids
+
+
 def create_folder_structure(match_url, base_path=None):
     """Creates a clean folder structure based on match details from URL."""
     # First, get the match title
@@ -538,16 +557,7 @@ def fetch_performance_data(match_url, output_folder):
     response = fetch_url(url)
     soup = BeautifulSoup(response.text, "html.parser")
 
-    map_tabs = soup.find_all("div", class_="vm-stats-gamesnav-item js-map-switch")
-    map_ids = {}
-    for tab in map_tabs:
-        map_name = clean_filename(tab.get_text(strip=True))
-        game_id = tab.get("data-game-id", "all")
-        if map_name:  # Only add if map name is not empty after cleaning
-            map_ids[map_name] = game_id
-
-    if "All_Maps" not in map_ids:
-        map_ids["All_Maps"] = "all"
+    map_ids = _map_tab_ids(soup)
 
     interaction_categories = {
         "All_Kills": "wf-table-inset mod-matrix mod-normal",
