@@ -500,46 +500,163 @@ def fetch_round_data(match_url, output_folder):
             print(f"Round data saved to {output_file}")
 
 
-def fetch_economy_data(match_url, output_folder):
-    """Scrapes economy data and saves to CSV with proper formatting."""
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36'
-    }
+# Buy-tier marker on each round's economy square. 'mod-bp' is the pistol round,
+# which carries no dollar symbol — matching the old output, where pistol rounds
+# had none either.
+ECON_TIERS = {"mod-bp": "", "mod-b1": "$", "mod-b2": "$$", "mod-b3": "$$$"}
 
+
+def _econ_round_cells(container):
+    """Yield (round_number, team1, team2) economy readings for one map.
+
+    Each team dict holds {'bank': '0.4k', 'tier': '$$', 'won': bool}. VLR pads
+    the round strip to a fixed width; padding columns carry no buy marker and
+    are skipped, so the number of readings equals the map score sum.
+    """
+    chart = container.select_one("div.ecs")
+    if chart is None:
+        return
+
+    round_number = 0
+    for col in chart.select("div.vlr-rounds-row-col"):
+        if "mod-teams" in (col.get("class") or []):
+            continue
+
+        squares = col.select("div.ecc-sq")
+        banks = col.select("div.ecr-bank")
+        if len(squares) != 2 or len(banks) < 2:
+            continue
+
+        tiers = []
+        for square in squares:
+            classes = square.get("class") or []
+            tiers.append(next((ECON_TIERS[c] for c in classes if c in ECON_TIERS), None))
+        if any(tier is None for tier in tiers):
+            continue  # padding column
+
+        round_number += 1
+        reading = []
+        for square, bank, tier in zip(squares, banks, tiers):
+            fig = bank.select_one("div.ecr-fig")
+            reading.append({
+                "bank": f"{fig.get_text(strip=True)}k" if fig else "",
+                "tier": tier,
+                "won": "mod-win" in (square.get("class") or []),
+            })
+        yield round_number, reading[0], reading[1]
+
+
+def _econ_team_tags(container):
+    tags = [t.get("title") or t.get_text(strip=True) for t in
+            container.select("div.ecs div.vlr-rounds-row-col.mod-teams span.vlr-rounds-tag")]
+    return (tags + ["T1", "T2"])[:2]
+
+
+def _write_round_economy(container, output_file):
+    """Rebuild {map}_rounds_economy.csv from the round chart.
+
+    parse_round_economy() keys off a '(BANK) T1 T2 (BANK)' first cell and then
+    reads '<round> <bank>k [$tiers] <bank>k' tokens, so that is what is emitted.
+    Both tier symbols are always written together — a pistol round is pistol for
+    both teams — which removes the single-symbol ambiguity the old table had.
+    """
+    team1, team2 = _econ_team_tags(container)
+    tokens = []
+    for round_number, a, b in _econ_round_cells(container):
+        parts = [str(round_number), a["bank"]]
+        if a["tier"] or b["tier"]:
+            parts += [a["tier"], b["tier"]]
+        parts.append(b["bank"])
+        tokens.append(" ".join(p for p in parts if p))
+
+    if not tokens:
+        return False
+
+    with open(output_file, 'w', newline='', encoding='utf-8') as file:
+        csv.writer(file).writerow([f"(BANK) {team1} {team2} (BANK)"] + tokens)
+    print(f"Round economy saved to {output_file}")
+    return True
+
+
+def _write_economy_summary(container, output_file):
+    """Rebuild {map}_economy.csv by aggregating the per-round readings.
+
+    VLR's new summary matrices use different categories (pistol / conversion /
+    bonus, then eco / half / full crossed with the opponent's buy), so the old
+    five-column layout is reconstructed from the round data instead. One
+    category is genuinely gone upstream: VLR no longer separates a full save
+    from a light force, so 'Eco (won)' is always 0 and those rounds land under
+    '$'. Note parse_economy_summary() maps '$' to semi_eco while
+    buy_tier_symbol() maps it to eco, so the same round is labelled differently
+    in map_economy_summary and round_economy — that predates this change.
+    """
+    team1, team2 = _econ_team_tags(container)
+    tally = {team: {tier: [0, 0] for tier in ("", "$", "$$", "$$$")}
+             for team in (team1, team2)}
+
+    for _, a, b in _econ_round_cells(container):
+        for team, reading in ((team1, a), (team2, b)):
+            bucket = tally[team][reading["tier"]]
+            bucket[0] += 1
+            bucket[1] += 1 if reading["won"] else 0
+
+    if not any(b[0] for t in tally.values() for b in t.values()):
+        return False
+
+    with open(output_file, 'w', newline='', encoding='utf-8') as file:
+        writer = csv.writer(file)
+        writer.writerow(["", "Pistol Won", "Eco (won)", "$ (won)", "$$ (won)", "$$$ (won)"])
+        for team in (team1, team2):
+            counts = tally[team]
+            writer.writerow([
+                team,
+                counts[""][1],                                  # pistol column is wins only
+                "0 (0)",                                        # no longer exposed by VLR
+                f"{counts['$'][0]} ({counts['$'][1]})",
+                f"{counts['$$'][0]} ({counts['$$'][1]})",
+                f"{counts['$$$'][0]} ({counts['$$$'][1]})",
+            ])
+    print(f"Economy summary saved to {output_file}")
+    return True
+
+
+def fetch_economy_data(match_url, output_folder):
+    """Scrapes economy data and saves to CSV with proper formatting.
+
+    The economy tab no longer serves <table class="wf-table-inset mod-econ">.
+    The round-by-round strip is a div chart (div.ecs) and the summary is a set
+    of div.ecm-groups matrices with different categories, so both CSVs are
+    derived from the chart. One ?game=all request carries every map's
+    container, so the old request-per-map loop is gone as well.
+
+    The aggregate container has no round chart, so no All_Maps economy CSV is
+    written any more. ingest_economy() skipped that file regardless — it only
+    accepts filenames starting with a map number.
+    """
     if not match_url.endswith('/'):
         match_url += '/'
 
-    soup = fetch_soup(match_url + "?game=all&tab=economy", headers)
+    soup = fetch_soup(match_url + "?game=all&tab=economy")
+    if soup is None:
+        print("Failed to fetch the economy tab.")
+        return
 
-    map_tabs = soup.find_all("div", class_="vm-stats-gamesnav-item js-map-switch")
-    map_ids = {clean_filename(tab.get_text(strip=True)): tab.get("data-game-id", "all") for tab in map_tabs}
-
-    if "All_Maps" not in map_ids:
-        map_ids["All_Maps"] = "all"
-
-    econ_table_class = "wf-table-inset mod-econ"
+    map_ids = _map_tab_ids(soup)
     os.makedirs(os.path.join(output_folder, 'economy'), exist_ok=True)
 
     for map_name, map_id in map_ids.items():
         print(f"Processing economy data for: {map_name}")
 
-        map_soup = fetch_soup(match_url + f"?game={map_id}&tab=economy", headers)
-        map_container = map_soup.find("div", class_="vm-stats-game", attrs={"data-game-id": map_id})
-        if not map_container:
+        container = soup.find("div", class_="vm-stats-game", attrs={"data-game-id": map_id})
+        if not container:
             print(f"No economy data found for {map_name}")
             continue
 
-        tables = map_container.find_all("table", class_=econ_table_class)
-
-        if len(tables) > 0:
-            output_file = os.path.join(output_folder, 'economy', f"{map_name}_economy.csv")
-            save_table_data(tables[0], output_file)
-
-        if len(tables) > 1:
-            output_file = os.path.join(output_folder, 'economy', f"{map_name}_rounds_economy.csv")
-            save_economy_round_table(tables[1], output_file)
-        else:
-            print(f"No round-by-round economy table found for {map_name}.")
+        _write_economy_summary(
+            container, os.path.join(output_folder, 'economy', f"{map_name}_economy.csv"))
+        if not _write_round_economy(
+                container, os.path.join(output_folder, 'economy', f"{map_name}_rounds_economy.csv")):
+            print(f"No round-by-round economy data found for {map_name}.")
 
     print("Economy data fetching complete!")
 
